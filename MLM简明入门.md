@@ -26,7 +26,9 @@
 
 ### 生产相对过剩与消费绝对不足
 
-### 
+### 印钞机的诅咒
+
+### 帝国主义的诞生
 
 ## 历史简论
 
@@ -50,5 +52,5 @@
 
 ### 医疗问题
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1Nzg4MTI3NCwtMTExNDkxMzM1OF19
+eyJoaXN0b3J5IjpbMTY0OTQ4NTI5MSwtMTExNDkxMzM1OF19
 -->

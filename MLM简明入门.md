@@ -66,7 +66,12 @@
 
 ## 共产主义之梦
 
-### 
+### 生产力之发达
+
+### 需要和欲望之分
+
+### 再论继续革命：什么体制
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM5NDAwNjU0LC0xMTE0OTEzMzU4XX0=
+eyJoaXN0b3J5IjpbLTEyMTk5NzgzNDIsLTExMTQ5MTMzNThdfQ
+==
 -->

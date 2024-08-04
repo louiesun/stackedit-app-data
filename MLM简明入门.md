@@ -38,9 +38,9 @@
 
 ### 为＂屠杀＂辩护
 
-### 文革特别篇
+### 文化大革命特别篇
 
-### 改开特别篇
+### 改革开放特别篇
 
 ### 世界大战特别篇
 
@@ -52,5 +52,6 @@
 
 ### 医疗问题
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0OTQ4NTI5MSwtMTExNDkxMzM1OF19
+eyJoaXN0b3J5IjpbLTEyNjE0NDE2MzQsLTExMTQ5MTMzNThdfQ
+==
 -->

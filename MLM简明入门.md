@@ -22,6 +22,12 @@
 
 ## 资本主义的危机
 
+### 生产力与生产关系
+
+### 生产相对过剩与消费绝对不足
+
+### 
+
 ## 历史简论
 
 ### 确立人民史观
@@ -44,6 +50,5 @@
 
 ### 医疗问题
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjgwOTk4NTQsLTExMTQ5MTMzNThdfQ
-==
+eyJoaXN0b3J5IjpbMTk1Nzg4MTI3NCwtMTExNDkxMzM1OF19
 -->

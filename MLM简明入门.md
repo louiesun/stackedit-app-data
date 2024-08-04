@@ -71,7 +71,9 @@
 ### 需要和欲望之分
 
 ### 再论继续革命：什么体制
+
+### 驳黑暗森林法则
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTk5NzgzNDIsLTExMTQ5MTMzNThdfQ
-==
+eyJoaXN0b3J5IjpbLTQzMzI5NTc1NSwtMTIxOTk3ODM0MiwtMT
+ExNDkxMzM1OF19
 -->

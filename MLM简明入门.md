@@ -40,7 +40,7 @@
 
 ### 文化大革命特别篇：马列毛主义
 
-### 改革开放特别篇：走资
+### 改革开放特别篇：走资狂飙
 
 ### 世界大战特别篇
 
@@ -94,7 +94,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODMzMjg5MDExLDkyMjYxNTEzNCwtMTkwMT
+eyJoaXN0b3J5IjpbODg4MTE2NDEyLDkyMjYxNTEzNCwtMTkwMT
 k2NTI5MiwtMTkxNzQwMzkzMCwtMzE0MjU2MjcxLC0xMjE5OTc4
 MzQyLC0xMTE0OTEzMzU4XX0=
 -->

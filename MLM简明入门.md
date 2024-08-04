@@ -52,11 +52,16 @@
 
 ### 医疗问题
 
-## 论战1450
+## 论战公知
 
 ### 论资产阶级民主——以美国为例
 
-### 民主与独裁：
+### 民主与独裁：小胡子的成功秘诀
+
+### 批判社民党
+
+### 论无产阶级专政
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjE3MDI2NywtMTExNDkxMzM1OF19
+eyJoaXN0b3J5IjpbLTEwMjA1MTA5OTcsLTExMTQ5MTMzNThdfQ
+==
 -->

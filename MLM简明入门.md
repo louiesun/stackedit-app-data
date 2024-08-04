@@ -77,7 +77,9 @@
 ## 哲学
 
 ### 驳社会达尔文主义
+
+### 社会科学的边界
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzQ3MzMwLC0xMjE5OTc4MzQyLC0xMT
-E0OTEzMzU4XX0=
+eyJoaXN0b3J5IjpbLTMxNDI1NjI3MSwtMTIxOTk3ODM0MiwtMT
+ExNDkxMzM1OF19
 -->

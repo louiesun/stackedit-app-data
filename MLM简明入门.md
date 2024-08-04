@@ -20,6 +20,8 @@
 
 ### 脑力劳动与知识产权
 
+## 资本主义的危机
+
 ## 历史简论
 
 ### 确立人民史观
@@ -42,5 +44,6 @@
 
 ### 医疗问题
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyMzkyOTEwMSwtMTExNDkxMzM1OF19
+eyJoaXN0b3J5IjpbLTE4MjgwOTk4NTQsLTExMTQ5MTMzNThdfQ
+==
 -->

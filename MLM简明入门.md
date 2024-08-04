@@ -51,6 +51,11 @@
 ### 教育问题
 
 ### 医疗问题
+
+## 论战1450
+
+### 论资产阶级民主——以美国为例
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjAwMzY5NzY3LC0xMTE0OTEzMzU4XX0=
+eyJoaXN0b3J5IjpbLTEyNjMyNjM1MTMsLTExMTQ5MTMzNThdfQ
+==
 -->

@@ -62,7 +62,11 @@
 
 ### 论无产阶级专政
 
+### 论塞里斯
+
 ## 共产主义之梦
+
+### 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3OTgzOTg5NywtMTExNDkxMzM1OF19
+eyJoaXN0b3J5IjpbNjM5NDAwNjU0LC0xMTE0OTEzMzU4XX0=
 -->

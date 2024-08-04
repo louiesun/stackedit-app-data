@@ -38,7 +38,7 @@
 
 ### 为＂屠杀＂辩护
 
-### 文化大革命特别篇
+### 文化大革命特别篇：名词马列毛主义的诞生
 
 ### 改革开放特别篇
 
@@ -52,6 +52,6 @@
 
 ### 医疗问题
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjE0NDE2MzQsLTExMTQ5MTMzNThdfQ
+eyJoaXN0b3J5IjpbLTE4NDkwNTUwODEsLTExMTQ5MTMzNThdfQ
 ==
 -->

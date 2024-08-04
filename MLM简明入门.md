@@ -73,7 +73,11 @@
 ### 再论继续革命：什么体制
 
 ### 驳黑暗森林法则
+
+## 哲学
+
+### 驳社会达尔文主义
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzMzI5NTc1NSwtMTIxOTk3ODM0MiwtMT
-ExNDkxMzM1OF19
+eyJoaXN0b3J5IjpbLTExNzQ3MzMwLC0xMjE5OTc4MzQyLC0xMT
+E0OTEzMzU4XX0=
 -->

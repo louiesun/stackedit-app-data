@@ -78,8 +78,10 @@
 
 ### 驳社会达尔文主义
 
-### 马克思主义哲学的边界
+### 马克思哲学的边界
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTc0MDM5MzAsLTMxNDI1NjI3MSwtMT
-IxOTk3ODM0MiwtMTExNDkxMzM1OF19
+eyJoaXN0b3J5IjpbLTE5MDE5NjUyOTIsLTE5MTc0MDM5MzAsLT
+MxNDI1NjI3MSwtMTIxOTk3ODM0MiwtMTExNDkxMzM1OF19
 -->

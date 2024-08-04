@@ -12,11 +12,13 @@
 
 ## 政治经济学极简论
 
-### 劳动的价值（工厂模型）
+### 工厂模型：劳动的价值
 
 ### 服务业模型
 
-### 
+### 学校模型
+
+### 脑力劳动与知识产权
 
 ## 历史简论
 
@@ -40,6 +42,5 @@
 
 ### 医疗问题
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzQ0NzIwNjIsLTExMTQ5MTMzNThdfQ
-==
+eyJoaXN0b3J5IjpbMTUyMzkyOTEwMSwtMTExNDkxMzM1OF19
 -->

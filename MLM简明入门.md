@@ -80,9 +80,9 @@
 
 ### 驳社会达尔文主义
 
-###
+### 唯物主义哲学
 
-### 唯物主义哲学的边界
+### 哲学的边界
 
 ## 信息技术选讲
 
@@ -106,8 +106,8 @@
 
 ## 后记：需高考的学生怎么办
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3MDQ0MDYxMiw1ODE1MTkyMDcsODIwNT
-U4OTE5LDg4ODExNjQxMiw5MjI2MTUxMzQsLTE5MDE5NjUyOTIs
-LTE5MTc0MDM5MzAsLTMxNDI1NjI3MSwtMTIxOTk3ODM0MiwtMT
-ExNDkxMzM1OF19
+eyJoaXN0b3J5IjpbOTU4MjkwMTc4LDU4MTUxOTIwNyw4MjA1NT
+g5MTksODg4MTE2NDEyLDkyMjYxNTEzNCwtMTkwMTk2NTI5Miwt
+MTkxNzQwMzkzMCwtMzE0MjU2MjcxLC0xMjE5OTc4MzQyLC0xMT
+E0OTEzMzU4XX0=
 -->

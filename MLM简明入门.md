@@ -55,7 +55,8 @@
 ## 论战1450
 
 ### 论资产阶级民主——以美国为例
+
+### 民主与独裁：
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjMyNjM1MTMsLTExMTQ5MTMzNThdfQ
-==
+eyJoaXN0b3J5IjpbLTE5NjE3MDI2NywtMTExNDkxMzM1OF19
 -->

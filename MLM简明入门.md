@@ -52,16 +52,17 @@
 
 ### 医疗问题
 
-## 论战公知
+## 论资产阶级民主
 
-### 论资产阶级民主——以美国为例
+### 论战公知——以美国为例
 
 ### 民主与独裁：小胡子的成功秘诀
 
-### 批判社民党
+### 批判社民党：为什么需要先锋队
 
 ### 论无产阶级专政
+
+## 共产主义之梦
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjA1MTA5OTcsLTExMTQ5MTMzNThdfQ
-==
+eyJoaXN0b3J5IjpbLTY3OTgzOTg5NywtMTExNDkxMzM1OF19
 -->

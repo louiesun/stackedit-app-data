@@ -36,11 +36,11 @@
 
 ### 关于史料
 
-### 为＂屠杀＂辩护
+### 为＂屠杀＂辩护：万能公式
 
 ### 文化大革命特别篇：名词马列毛主义的诞生
 
-### 改革开放特别篇
+### 改革开放特别篇：最速走资传说
 
 ### 世界大战特别篇
 
@@ -52,6 +52,5 @@
 
 ### 医疗问题
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDkwNTUwODEsLTExMTQ5MTMzNThdfQ
-==
+eyJoaXN0b3J5IjpbNjAwMzY5NzY3LC0xMTE0OTEzMzU4XX0=
 -->

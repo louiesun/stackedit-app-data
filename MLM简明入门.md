@@ -38,7 +38,7 @@
 
 ### 为＂屠杀＂辩护：万能公式
 
-### 文化大革命特别篇：名词马列毛主义的诞生
+### 文化大革命特别篇：马列毛主义
 
 ### 改革开放特别篇：最速走资传说
 
@@ -84,7 +84,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5ODg5MTA2MiwtMTkwMTk2NTI5MiwtMT
-kxNzQwMzkzMCwtMzE0MjU2MjcxLC0xMjE5OTc4MzQyLC0xMTE0
-OTEzMzU4XX0=
+eyJoaXN0b3J5IjpbLTE2ODU0NDI4NjcsLTE5MDE5NjUyOTIsLT
+E5MTc0MDM5MzAsLTMxNDI1NjI3MSwtMTIxOTk3ODM0MiwtMTEx
+NDkxMzM1OF19
 -->

@@ -12,7 +12,11 @@
 
 ## 政治经济学极简论
 
-###
+### 劳动的价值（工厂模型）
+
+### 服务业模型
+
+### 
 
 ## 历史简论
 
@@ -36,5 +40,6 @@
 
 ### 医疗问题
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTQ5MTMzNThdfQ==
+eyJoaXN0b3J5IjpbLTExMzQ0NzIwNjIsLTExMTQ5MTMzNThdfQ
+==
 -->

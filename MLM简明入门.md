@@ -1,6 +1,8 @@
 # MlM简明入门
+
 [toc]
-## 自序
+
+## 自序——到处是笑话
 
 ## 资本，国家与法治
 
@@ -58,11 +60,11 @@
 
 ### 民主与独裁：剖析小胡子
 
+### 特论塞里斯
+
 ### 批判社民党：为什么需要先锋队
 
 ### 论无产阶级专政
-
-### 特论塞里斯
 
 ## 共产主义之理想
 
@@ -102,7 +104,7 @@
 
 ## 后记：需高考的学生怎么办
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDM0OTAwNDY0LDgyMDU1ODkxOSw4ODgxMT
+eyJoaXN0b3J5IjpbNTgxNTE5MjA3LDgyMDU1ODkxOSw4ODgxMT
 Y0MTIsOTIyNjE1MTM0LC0xOTAxOTY1MjkyLC0xOTE3NDAzOTMw
 LC0zMTQyNTYyNzEsLTEyMTk5NzgzNDIsLTExMTQ5MTMzNThdfQ
 ==

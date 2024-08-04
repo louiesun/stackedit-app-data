@@ -40,7 +40,7 @@
 
 ### 文化大革命特别篇：马列毛主义
 
-### 改革开放特别篇：最速走资传说
+### 改革开放特别篇：走资
 
 ### 世界大战特别篇
 
@@ -56,7 +56,7 @@
 
 ### 论战公知——以美国为例
 
-### 民主与独裁：小胡子的成功秘诀
+### 民主与独裁：剖析小胡子
 
 ### 批判社民党：为什么需要先锋队
 
@@ -70,7 +70,7 @@
 
 ### 需要和欲望之分
 
-### 再论继续革命：什么体制
+### 再论继续革命：资产阶级法权
 
 ### 驳黑暗森林法则
 
@@ -88,13 +88,13 @@
 
 ### 安全寻找软件
 
-### 从互联网看马列毛主义
+### 从互联网看马克思主义
 
 ## 怎么办
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTIyNjE1MTM0LC0xOTAxOTY1MjkyLC0xOT
-E3NDAzOTMwLC0zMTQyNTYyNzEsLTEyMTk5NzgzNDIsLTExMTQ5
-MTMzNThdfQ==
+eyJoaXN0b3J5IjpbODMzMjg5MDExLDkyMjYxNTEzNCwtMTkwMT
+k2NTI5MiwtMTkxNzQwMzkzMCwtMzE0MjU2MjcxLC0xMjE5OTc4
+MzQyLC0xMTE0OTEzMzU4XX0=
 -->

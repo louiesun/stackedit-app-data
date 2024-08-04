@@ -64,7 +64,7 @@
 
 ### 论塞里斯
 
-## 共产主义之梦
+## 共产主义之理想
 
 ### 生产力之发达
 
@@ -94,7 +94,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg4MTE2NDEyLDkyMjYxNTEzNCwtMTkwMT
-k2NTI5MiwtMTkxNzQwMzkzMCwtMzE0MjU2MjcxLC0xMjE5OTc4
-MzQyLC0xMTE0OTEzMzU4XX0=
+eyJoaXN0b3J5IjpbODIwNTU4OTE5LDg4ODExNjQxMiw5MjI2MT
+UxMzQsLTE5MDE5NjUyOTIsLTE5MTc0MDM5MzAsLTMxNDI1NjI3
+MSwtMTIxOTk3ODM0MiwtMTExNDkxMzM1OF19
 -->

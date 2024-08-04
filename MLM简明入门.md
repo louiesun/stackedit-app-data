@@ -82,9 +82,14 @@
 
 ## 信息技术选讲
 
+### 越过GFW
+
+### 寻找书籍资料
+
+### 安全寻找软件
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODU0NDI4NjcsLTE5MDE5NjUyOTIsLT
-E5MTc0MDM5MzAsLTMxNDI1NjI3MSwtMTIxOTk3ODM0MiwtMTEx
-NDkxMzM1OF19
+eyJoaXN0b3J5IjpbLTI1ODAyODE0NywtMTkwMTk2NTI5MiwtMT
+kxNzQwMzkzMCwtMzE0MjU2MjcxLC0xMjE5OTc4MzQyLC0xMTE0
+OTEzMzU4XX0=
 -->

@@ -88,8 +88,13 @@
 
 ### 安全寻找软件
 
+### 从互联网看马列毛主义
+
+## 怎么办
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1ODAyODE0NywtMTkwMTk2NTI5MiwtMT
-kxNzQwMzkzMCwtMzE0MjU2MjcxLC0xMjE5OTc4MzQyLC0xMTE0
-OTEzMzU4XX0=
+eyJoaXN0b3J5IjpbOTIyNjE1MTM0LC0xOTAxOTY1MjkyLC0xOT
+E3NDAzOTMwLC0zMTQyNTYyNzEsLTEyMTk5NzgzNDIsLTExMTQ5
+MTMzNThdfQ==
 -->

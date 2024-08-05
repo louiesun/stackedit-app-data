@@ -195,18 +195,19 @@
 我们的驳黑暗森林法则好理解吗？下面我们整章介绍哲学。
 
 ### 驳社会达尔文主义
-其实刘慈欣的所谓黑暗森林法则就是把奢护
-
-我们只需要弄清达尔文主义：
+其实刘慈欣的所谓黑暗森林法则就是把社会达尔文主义搬到的宇宙中。我们来拆他的地基。
+很简单，我们只需要捋顺达尔文主义：
 达尔文说的是：物竞天择，适者生存。但是从来没说谁是适者。我们其实判断生物界适者的方法很简单，灭绝的就是不适者。我们是从结果判断的。
 试问，在法国大革命前，你觉得是巴黎市民是适者还是路易十六是适者？肯定是路易十六啊！但是事实是什么呢？在资产阶级的带领下，法国人民把路易十六送上了断头台，那谁又是适者！
-所以说，只要革命，然后对资产阶级实施无情的专政，我们这些乡巴佬，就是适者！
+所以说，只要革命，然后对资产阶级实施无情的专政，我们这些**工人农民，就是适者**！
 
 ### 唯物主义哲学
 
 ### 哲学的边界
 
 ## 信息技术选讲
+
+上一章我们都开始想象未来的科学了，dan
 
 ### 越过GFW
 
@@ -228,11 +229,11 @@
 
 ## 后记：需高考的学生怎么办
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjQ4MzIyMDEsLTEwMzU3ODgxMCwxMT
-I4NzQ4MjYxLC0xMDY3NDM0ODgxLC02MzM4MDU0NzMsLTE4MDg2
-NDAzMTgsMTAyMDI1MzU4NCwtMTAyNzQzNDMxNCwzNzQyNTQ4ND
-gsLTEyMjU4MjQzMzIsLTE5Njg3MzQzMTUsLTIxMjk0NTc3MTks
-NDY2NDgyNDU2LC0xMzc4MDQzNzc0LDk1ODI5MDE3OCw1ODE1MT
-kyMDcsODIwNTU4OTE5LDg4ODExNjQxMiw5MjI2MTUxMzQsLTE5
-MDE5NjUyOTJdfQ==
+eyJoaXN0b3J5IjpbMTk0NDQ5MDE3MSwtMTAzNTc4ODEwLDExMj
+g3NDgyNjEsLTEwNjc0MzQ4ODEsLTYzMzgwNTQ3MywtMTgwODY0
+MDMxOCwxMDIwMjUzNTg0LC0xMDI3NDM0MzE0LDM3NDI1NDg0OC
+wtMTIyNTgyNDMzMiwtMTk2ODczNDMxNSwtMjEyOTQ1NzcxOSw0
+NjY0ODI0NTYsLTEzNzgwNDM3NzQsOTU4MjkwMTc4LDU4MTUxOT
+IwNyw4MjA1NTg5MTksODg4MTE2NDEyLDkyMjYxNTEzNCwtMTkw
+MTk2NTI5Ml19
 -->

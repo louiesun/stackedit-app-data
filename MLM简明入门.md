@@ -134,7 +134,7 @@
 	事实是，张献忠死后四十年，四川男丁仍然仅有一万八千，你觉得为什么？（你觉得是农民起义军杀农民厉害，还是清军和兵痞杀农民厉害？扬州十日，嘉定三屠？）
 	大清洗也有的，有人把开除除党的算成枪毙了的……（毛泽东曾经说过：开除党籍，下乡劳动改造，但**不整死，发现错了平反即可**；说到下乡，我提一句，某些知识分子觉得劳动苦，农民不苦吗？）
 2. 杀的也不是好人
-3. 
+  就算杀了人，杀得是谁呢？可能确实杀了几个地主，军官。法国大革命不是也把路易十六一家tuishang
 4. 这不是共产党
   先提波尔波特，红色高棉干了快10年，柬埔寨人民还不知道这是个共产党，没读过共产党宣言啊？（共产者从不屑于隐藏自己的意图）。毛泽东确实接见过波波，但不意味着认可他，他还接见过尼克松嘞。
   还有就是六四这类的，中修干的关共产党什么事，干脆说德国国家社会主义工人党（纳粹）也是共产党得了，“社会主义”吗（这个“社会主义”后面会提）。
@@ -218,7 +218,7 @@
 
 ## 后记：需高考的学生怎么办
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwNjIwNzM1MywxMTI4NzQ4MjYxLC0xMD
+eyJoaXN0b3J5IjpbMTAwNjU3MTUwNSwxMTI4NzQ4MjYxLC0xMD
 Y3NDM0ODgxLC02MzM4MDU0NzMsLTE4MDg2NDAzMTgsMTAyMDI1
 MzU4NCwtMTAyNzQzNDMxNCwzNzQyNTQ4NDgsLTEyMjU4MjQzMz
 IsLTE5Njg3MzQzMTUsLTIxMjk0NTc3MTksNDY2NDgyNDU2LC0x

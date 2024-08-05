@@ -4,7 +4,7 @@
 
 我打算开始写这本册子，心理自然和大部分朋友一样，心理都是有怨气的。什么怨气呢？——笑话（将要）发生在自己身上了。
 作为一个中学生，笑话无非就是应试教育下的笑话。
-+ 
++ 为了保护小草，学校不允许踩踏草坪，但老师和国际部的小朋友可以随便踩。我们去踩了草坪中间的水泥板都能受到警告。buzhh
 
 
 ## 资本，国家与法治
@@ -109,7 +109,7 @@
 
 ## 后记：需高考的学生怎么办
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczMTMzMzk5OCwtMTM3ODA0Mzc3NCw5NT
+eyJoaXN0b3J5IjpbMTg1MTA3NTM1OSwtMTM3ODA0Mzc3NCw5NT
 gyOTAxNzgsNTgxNTE5MjA3LDgyMDU1ODkxOSw4ODgxMTY0MTIs
 OTIyNjE1MTM0LC0xOTAxOTY1MjkyLC0xOTE3NDAzOTMwLC0zMT
 QyNTYyNzEsLTEyMTk5NzgzNDIsLTExMTQ5MTMzNThdfQ==

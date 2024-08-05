@@ -94,6 +94,8 @@
 > 代代出伟人。谁来买单？
 > 一大堆史实。一大堆疑问。
 
+我们确实要承认某些伟人（当然包括马列毛）确实做出了一些重要的贡献。但是，他们都是顺着当时人民群众的潮流，他们只是人民群众的代表，真正出力的还是群众。
+
 ### 关于史料
 
 ### 为＂屠杀＂辩护：万能公式
@@ -164,9 +166,9 @@
 
 ## 后记：需高考的学生怎么办
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjIyMzMzOTE3LC0xOTY4NzM0MzE1LC0yMT
-I5NDU3NzE5LDQ2NjQ4MjQ1NiwtMTM3ODA0Mzc3NCw5NTgyOTAx
-NzgsNTgxNTE5MjA3LDgyMDU1ODkxOSw4ODgxMTY0MTIsOTIyNj
-E1MTM0LC0xOTAxOTY1MjkyLC0xOTE3NDAzOTMwLC0zMTQyNTYy
-NzEsLTEyMTk5NzgzNDIsLTExMTQ5MTMzNThdfQ==
+eyJoaXN0b3J5IjpbLTQ3Mjk4NDM5OSwtMTk2ODczNDMxNSwtMj
+EyOTQ1NzcxOSw0NjY0ODI0NTYsLTEzNzgwNDM3NzQsOTU4Mjkw
+MTc4LDU4MTUxOTIwNyw4MjA1NTg5MTksODg4MTE2NDEyLDkyMj
+YxNTEzNCwtMTkwMTk2NTI5MiwtMTkxNzQwMzkzMCwtMzE0MjU2
+MjcxLC0xMjE5OTc4MzQyLC0xMTE0OTEzMzU4XX0=
 -->

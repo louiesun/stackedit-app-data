@@ -32,7 +32,7 @@
 
 ### Country, State, Homeland
 
-如果你还记得小时候政治课上讲的
+如果您还记得小时候政治课上讲的以马克思列宁主义为指导思想，那么您或许需要知道zhej
 
 ### 为谁服务
 
@@ -132,9 +132,9 @@
 
 ## 后记：需高考的学生怎么办
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4NDc2NzI2NiwtMTk2ODczNDMxNSwtMj
-EyOTQ1NzcxOSw0NjY0ODI0NTYsLTEzNzgwNDM3NzQsOTU4Mjkw
-MTc4LDU4MTUxOTIwNyw4MjA1NTg5MTksODg4MTE2NDEyLDkyMj
-YxNTEzNCwtMTkwMTk2NTI5MiwtMTkxNzQwMzkzMCwtMzE0MjU2
-MjcxLC0xMjE5OTc4MzQyLC0xMTE0OTEzMzU4XX0=
+eyJoaXN0b3J5IjpbOTQ0ODk2ODg1LC0xOTY4NzM0MzE1LC0yMT
+I5NDU3NzE5LDQ2NjQ4MjQ1NiwtMTM3ODA0Mzc3NCw5NTgyOTAx
+NzgsNTgxNTE5MjA3LDgyMDU1ODkxOSw4ODgxMTY0MTIsOTIyNj
+E1MTM0LC0xOTAxOTY1MjkyLC0xOTE3NDAzOTMwLC0zMTQyNTYy
+NzEsLTEyMTk5NzgzNDIsLTExMTQ5MTMzNThdfQ==
 -->

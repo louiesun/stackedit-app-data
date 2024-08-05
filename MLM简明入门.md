@@ -9,7 +9,9 @@
 
 如果上面还是些无关痛痒的小笑话，我们自然还有大笑话。
 + 八小时工作制？我们的学生都是新时代的劳动者[^1]，高中起先早上七点上学晚上九点半放学。
-+ 双减？不说了，我们同学暑假do
++ 双减？不说了，我们同学暑假都有报了四门课的。
+
+[^1]: 关于这里的建设者
 
 
 ## 资本，国家与法治
@@ -114,8 +116,8 @@
 
 ## 后记：需高考的学生怎么办
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDc4ODA0NzUsLTEzNzgwNDM3NzQsOT
-U4MjkwMTc4LDU4MTUxOTIwNyw4MjA1NTg5MTksODg4MTE2NDEy
-LDkyMjYxNTEzNCwtMTkwMTk2NTI5MiwtMTkxNzQwMzkzMCwtMz
-E0MjU2MjcxLC0xMjE5OTc4MzQyLC0xMTE0OTEzMzU4XX0=
+eyJoaXN0b3J5IjpbNDY2NDgyNDU2LC0xMzc4MDQzNzc0LDk1OD
+I5MDE3OCw1ODE1MTkyMDcsODIwNTU4OTE5LDg4ODExNjQxMiw5
+MjI2MTUxMzQsLTE5MDE5NjUyOTIsLTE5MTc0MDM5MzAsLTMxND
+I1NjI3MSwtMTIxOTk3ODM0MiwtMTExNDkxMzM1OF19
 -->

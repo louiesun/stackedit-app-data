@@ -56,7 +56,7 @@
 这就是为什么学校有军事化管理的倾向，因为资本家只有让学生变得好管理，让学生听话，将其物化，才最便于加工学生，赚取利润。
 这也是为什么教师也会有自杀现象。在学校模型内，教师和学生都是被压迫的对象，只不过教师也是一个压迫物化加工的角色。
 
-对于校领导来说，学生成绩好自己就能升官或者得到更多拨款，以及吸引更多优质原材料。在中小学的学区房制度下，学校往往还会和房地产商勾搭在一起，因为好成绩能涨房价。
+对于校领导来说，学生成绩好自己就能升官或者得到更多拨款，以及吸引更多优质原材料。在中小学的学区房制度下，学校往往还会和房地产商勾搭在一起，因为好成绩带来的学区房竞争能涨房价。
 
 ### 脑力劳动与知识产权
 
@@ -93,7 +93,7 @@
 > 页页有胜利。谁来准备庆功宴？
 > 代代出伟人。谁来买单？
 > 一大堆史实。一大堆疑问。
-。
+
 我们确实要承认某些伟人（当然包括马列毛）确实做出了一些重要的贡献。但是，他们都是顺着当时人民群众即时代的潮流，他们只是人民群众的代表。哪怕他们小时候死于车祸，因为这是时代的潮流，还是会有另一个人做这件事。
 特色宣传的某些造火箭的，是他一个人在攻关技术，还是整个产业链上所有的科学家，工人在一起努力呢？
 去同情靖康之难亡国皇室的受凌辱，谁来关心战死的宋金将士的家庭，还是他们已经死于兵荒马乱？
@@ -101,9 +101,12 @@
 
 ### 关于史料
 
-尽管我再《序》里头讲这本小册子里不会提到太多的史料，但是其实我本人是很喜欢事实论据的。
+尽管我再《序》里头讲这本小册子里不会提到太多的史料，但是其实我本人是很喜欢事实论据的。只不过由于序中的篇幅所限，以及精力所限，我没有将精力过多放在整理证据是
+
 
 ### 为＂屠杀＂辩护：万能公式
+
+
 
 ### 文化大革命特别篇：马列毛主义
 
@@ -171,11 +174,11 @@
 
 ## 后记：需高考的学生怎么办
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDg2NDAzMTgsMTAyMDI1MzU4NCwtMT
-AyNzQzNDMxNCwzNzQyNTQ4NDgsLTEyMjU4MjQzMzIsLTE5Njg3
-MzQzMTUsLTIxMjk0NTc3MTksNDY2NDgyNDU2LC0xMzc4MDQzNz
-c0LDk1ODI5MDE3OCw1ODE1MTkyMDcsODIwNTU4OTE5LDg4ODEx
-NjQxMiw5MjI2MTUxMzQsLTE5MDE5NjUyOTIsLTE5MTc0MDM5Mz
-AsLTMxNDI1NjI3MSwtMTIxOTk3ODM0MiwtMTExNDkxMzM1OF19
-
+eyJoaXN0b3J5IjpbLTgzODg3MDY0MSwtMTgwODY0MDMxOCwxMD
+IwMjUzNTg0LC0xMDI3NDM0MzE0LDM3NDI1NDg0OCwtMTIyNTgy
+NDMzMiwtMTk2ODczNDMxNSwtMjEyOTQ1NzcxOSw0NjY0ODI0NT
+YsLTEzNzgwNDM3NzQsOTU4MjkwMTc4LDU4MTUxOTIwNyw4MjA1
+NTg5MTksODg4MTE2NDEyLDkyMjYxNTEzNCwtMTkwMTk2NTI5Mi
+wtMTkxNzQwMzkzMCwtMzE0MjU2MjcxLC0xMjE5OTc4MzQyLC0x
+MTE0OTEzMzU4XX0=
 -->

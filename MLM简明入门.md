@@ -209,7 +209,7 @@
 
 上一章我们都开始想象未来的科技了，这里我来介绍一些现在的科技。
 
-其实这章我本来打算和其他一大堆东西单开一本《互联网基础》的，但是那种手册现在写了真心意义不大，工人同志根本没时间看没机会用。这种册子也许要等到打败资产阶级政权之后（轮不到我）完成吧。
+其实这章我本来打算和其他一大堆东西单开一本《互联网基础》的，但是那种手册现在写了真心意义不大，工人同志根本没时间看没机会用。这种册子也许要等到打败资产阶级政权之后（轮不到我）完成吧，毕竟到时候很多东西需要重写。
 
 ### 越过GFW
 
@@ -231,11 +231,11 @@
 
 ## 后记：需高考的学生怎么办
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxMDk3NDE1NywtMjAzMzc2NDQ2OCwtMT
-AzNTc4ODEwLDExMjg3NDgyNjEsLTEwNjc0MzQ4ODEsLTYzMzgw
-NTQ3MywtMTgwODY0MDMxOCwxMDIwMjUzNTg0LC0xMDI3NDM0Mz
-E0LDM3NDI1NDg0OCwtMTIyNTgyNDMzMiwtMTk2ODczNDMxNSwt
-MjEyOTQ1NzcxOSw0NjY0ODI0NTYsLTEzNzgwNDM3NzQsOTU4Mj
-kwMTc4LDU4MTUxOTIwNyw4MjA1NTg5MTksODg4MTE2NDEyLDky
-MjYxNTEzNF19
+eyJoaXN0b3J5IjpbLTE2Mjc5MjcwNTQsLTIwMzM3NjQ0NjgsLT
+EwMzU3ODgxMCwxMTI4NzQ4MjYxLC0xMDY3NDM0ODgxLC02MzM4
+MDU0NzMsLTE4MDg2NDAzMTgsMTAyMDI1MzU4NCwtMTAyNzQzND
+MxNCwzNzQyNTQ4NDgsLTEyMjU4MjQzMzIsLTE5Njg3MzQzMTUs
+LTIxMjk0NTc3MTksNDY2NDgyNDU2LC0xMzc4MDQzNzc0LDk1OD
+I5MDE3OCw1ODE1MTkyMDcsODIwNTU4OTE5LDg4ODExNjQxMiw5
+MjI2MTUxMzRdfQ==
 -->

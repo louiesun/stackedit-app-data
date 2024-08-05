@@ -13,6 +13,8 @@
 
 当然，其实这本册子本身**也是个笑话**。
 + 学生，工人朋友都很忙，很累。往往仅剩的剩余时间能用来娱乐就差不多了，压根没空看这种破书。所以写来也许没啥用。
++ > 多一个公式，少一半读者。
++ 而我在后文中写了一个公式（你找到了吗？），读者因此在上一条的基础上又少了一半。
 
 我不打算让我的一些尝试就这样报废，所以也就只能尝试把这本册子写成一个笑话，**博得各位笑笑罢**。
 
@@ -124,7 +126,7 @@
 
 ## 后记：需高考的学生怎么办
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTIzNjcyOTMsLTIxMjk0NTc3MTksND
+eyJoaXN0b3J5IjpbLTE5Njg3MzQzMTUsLTIxMjk0NTc3MTksND
 Y2NDgyNDU2LC0xMzc4MDQzNzc0LDk1ODI5MDE3OCw1ODE1MTky
 MDcsODIwNTU4OTE5LDg4ODExNjQxMiw5MjI2MTUxMzQsLTE5MD
 E5NjUyOTIsLTE5MTc0MDM5MzAsLTMxNDI1NjI3MSwtMTIxOTk3

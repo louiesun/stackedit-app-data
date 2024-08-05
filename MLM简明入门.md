@@ -129,7 +129,8 @@
 但其实对于这种言论我们左左对这种都有公式了。
 
 1. 你怎么统计的
-	当年有人说张献忠杀了六万万人人，
+	当年有人说张献忠（明末）杀了六万万人人，真是厉害（抗战的时候有句四万万同胞哦）。
+	事实是，张献忠死后四十年，四川男丁仍然仅有一万八千，你觉得为什么？（）
 2. 这不是共产党
   先提波尔波特，红色高棉干了快10年，柬埔寨人民还不知道这是个共产党，没读过共产党宣言啊？（共产者从不屑于隐藏自己的意图）。毛泽东确实接见过波波，但不意味着认可他，他还接见过尼克松嘞。
   还有就是六四这类的，中修干的关共产党什么事，干脆说德国国家社会主义工人党（纳粹）也是共产党得了，“社会主义”吗（这个“社会主义”后面会提）。
@@ -207,11 +208,11 @@
 
 ## 后记：需高考的学生怎么办
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4MzM3NDI0MCwxMTI4NzQ4MjYxLC0xMD
-Y3NDM0ODgxLC02MzM4MDU0NzMsLTE4MDg2NDAzMTgsMTAyMDI1
-MzU4NCwtMTAyNzQzNDMxNCwzNzQyNTQ4NDgsLTEyMjU4MjQzMz
-IsLTE5Njg3MzQzMTUsLTIxMjk0NTc3MTksNDY2NDgyNDU2LC0x
-Mzc4MDQzNzc0LDk1ODI5MDE3OCw1ODE1MTkyMDcsODIwNTU4OT
-E5LDg4ODExNjQxMiw5MjI2MTUxMzQsLTE5MDE5NjUyOTIsLTE5
-MTc0MDM5MzBdfQ==
+eyJoaXN0b3J5IjpbODk5NzA3MTA1LDExMjg3NDgyNjEsLTEwNj
+c0MzQ4ODEsLTYzMzgwNTQ3MywtMTgwODY0MDMxOCwxMDIwMjUz
+NTg0LC0xMDI3NDM0MzE0LDM3NDI1NDg0OCwtMTIyNTgyNDMzMi
+wtMTk2ODczNDMxNSwtMjEyOTQ1NzcxOSw0NjY0ODI0NTYsLTEz
+NzgwNDM3NzQsOTU4MjkwMTc4LDU4MTUxOTIwNyw4MjA1NTg5MT
+ksODg4MTE2NDEyLDkyMjYxNTEzNCwtMTkwMTk2NTI5MiwtMTkx
+NzQwMzkzMF19
 -->

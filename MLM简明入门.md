@@ -2,7 +2,9 @@
 
 ## 自序——到处是笑话
 
-我打算开始写这本册子，心理自然和大部分朋友一样，心理都是有怨气的。什么怨气呢？——笑话发生在自己身上了。
+我打算开始写这本册子，心理自然和大部分朋友一样，心理都是有怨气的。什么怨气呢？——笑话（要）发生在自己身上了。
+那么作为一个高中生，笑话无非就是应试教育下的笑话。
++ 
 
 
 ## 资本，国家与法治
@@ -107,7 +109,7 @@
 
 ## 后记：需高考的学生怎么办
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0OTAyNjgxMCwtMTM3ODA0Mzc3NCw5NT
+eyJoaXN0b3J5IjpbLTE0MzM1ODMwNSwtMTM3ODA0Mzc3NCw5NT
 gyOTAxNzgsNTgxNTE5MjA3LDgyMDU1ODkxOSw4ODgxMTY0MTIs
 OTIyNjE1MTM0LC0xOTAxOTY1MjkyLC0xOTE3NDAzOTMwLC0zMT
 QyNTYyNzEsLTEyMTk5NzgzNDIsLTExMTQ5MTMzNThdfQ==

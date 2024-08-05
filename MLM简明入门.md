@@ -78,7 +78,7 @@
 
 在开始讨论历史问题之前，有一个正确的史观是很重要的。
 
-我希望借用德国诗人Bertolt Brecht的诗：《一个工人读史的疑惑》，对，shi。
+我希望借用德国诗人Bertolt Brecht的诗：《一个工人读史的疑惑》，对，shǐ。
 > 七个城门的底比斯是谁建造的？书本上列了一些国王的名字。石头和砖块是国王搬的吗？
 > 还有巴比伦，一再被摧毁是谁又一再将她重建？
 > 金光闪闪的利马的建筑工人，他们住的房子在什么地方？
@@ -164,9 +164,9 @@
 
 ## 后记：需高考的学生怎么办
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5MTI0Mzc2NiwtMTk2ODczNDMxNSwtMj
-EyOTQ1NzcxOSw0NjY0ODI0NTYsLTEzNzgwNDM3NzQsOTU4Mjkw
-MTc4LDU4MTUxOTIwNyw4MjA1NTg5MTksODg4MTE2NDEyLDkyMj
-YxNTEzNCwtMTkwMTk2NTI5MiwtMTkxNzQwMzkzMCwtMzE0MjU2
-MjcxLC0xMjE5OTc4MzQyLC0xMTE0OTEzMzU4XX0=
+eyJoaXN0b3J5IjpbMjIyMzMzOTE3LC0xOTY4NzM0MzE1LC0yMT
+I5NDU3NzE5LDQ2NjQ4MjQ1NiwtMTM3ODA0Mzc3NCw5NTgyOTAx
+NzgsNTgxNTE5MjA3LDgyMDU1ODkxOSw4ODgxMTY0MTIsOTIyNj
+E1MTM0LC0xOTAxOTY1MjkyLC0xOTE3NDAzOTMwLC0zMTQyNTYy
+NzEsLTEyMTk5NzgzNDIsLTExMTQ5MTMzNThdfQ==
 -->

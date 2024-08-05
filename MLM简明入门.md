@@ -111,7 +111,7 @@
 那么就完全没有办法了吗？我想说：
 > 一切历史都是当代史。
 
-我们研究历史，无非是给现在的路指明方向。你看古生物学，往往也是根据残破的化石和对现代生物的理解确立的一个假说，
+我们研究历史，无非是给现在的路指明方向。你看古生物学，往往也是根据残破的化石和**对现代生物的理解**确立的一个假说。
 
 ### 为＂屠杀＂辩护：万能公式
 
@@ -183,7 +183,7 @@
 
 ## 后记：需高考的学生怎么办
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwMjU4NDkxNywtMTgwODY0MDMxOCwxMD
+eyJoaXN0b3J5IjpbLTYzMzgwNTQ3MywtMTgwODY0MDMxOCwxMD
 IwMjUzNTg0LC0xMDI3NDM0MzE0LDM3NDI1NDg0OCwtMTIyNTgy
 NDMzMiwtMTk2ODczNDMxNSwtMjEyOTQ1NzcxOSw0NjY0ODI0NT
 YsLTEzNzgwNDM3NzQsOTU4MjkwMTc4LDU4MTUxOTIwNyw4MjA1

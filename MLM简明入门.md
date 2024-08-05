@@ -101,8 +101,9 @@
 
 ### 关于史料
 
-尽管我再《序》里头讲这本小册子里不会提到太多的史料，但是其实我本人是很喜欢事实论据的。只不过由于序中的篇幅所限，以及精力所限，我没有将精力过多放在整理证据是
+尽管我再《序》里头讲这本小册子里不会提到太多的史料，但是其实我本人是很喜欢事实论据的。只不过由于序中的篇幅所限，以及精力所限，我没有将精力过多放在整理证据上。
 
+我们了解历朝历代的历史，往往都先看后朝所修正史。但是，问题是，即使你认为历史不是任人打扮的小姑娘，正史绝对是任人打扮的小姑娘。加入n
 
 ### 为＂屠杀＂辩护：万能公式
 
@@ -174,7 +175,7 @@
 
 ## 后记：需高考的学生怎么办
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzODg3MDY0MSwtMTgwODY0MDMxOCwxMD
+eyJoaXN0b3J5IjpbLTkzNTgzMDY2NSwtMTgwODY0MDMxOCwxMD
 IwMjUzNTg0LC0xMDI3NDM0MzE0LDM3NDI1NDg0OCwtMTIyNTgy
 NDMzMiwtMTk2ODczNDMxNSwtMjEyOTQ1NzcxOSw0NjY0ODI0NT
 YsLTEzNzgwNDM3NzQsOTU4MjkwMTc4LDU4MTUxOTIwNyw4MjA1

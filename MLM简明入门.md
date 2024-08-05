@@ -105,7 +105,8 @@
 
 我们了解历朝历代的历史，往往都先看后朝所修正史。但是，问题是，即使你认为历史不是任人打扮的小姑娘，正史绝对是任人打扮的小姑娘。假如你是一个史官，哪怕不适为了你的一官半职，你也不想波及家人对吧。而且，正如上一部分所说，历史是由人民创造的，但正史多写帝王将相。
 
-现在的问题是，即使是口口相传，往往也免不了受官府正史的影响，毕竟小孩从小就受到这样的宣传。
+现在的问题是，即使是口口相传，往往也免不了受官府正史的影响，毕竟小孩从小就受到这样的宣传，几代下来，本来可能一个村都知道的故事，就几个老人知道了。
+或许去全国问一问，或者挖开几座坟，能找到一些内容。但是
 
 ### 为＂屠杀＂辩护：万能公式
 
@@ -177,7 +178,7 @@
 
 ## 后记：需高考的学生怎么办
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxMzcxNDQ4NSwtMTgwODY0MDMxOCwxMD
+eyJoaXN0b3J5IjpbLTIzNDY4Mzk3NywtMTgwODY0MDMxOCwxMD
 IwMjUzNTg0LC0xMDI3NDM0MzE0LDM3NDI1NDg0OCwtMTIyNTgy
 NDMzMiwtMTk2ODczNDMxNSwtMjEyOTQ1NzcxOSw0NjY0ODI0NT
 YsLTEzNzgwNDM3NzQsOTU4MjkwMTc4LDU4MTUxOTIwNyw4MjA1

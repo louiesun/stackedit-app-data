@@ -56,7 +56,7 @@
 这就是为什么学校有军事化管理的倾向，因为资本家只有让学生变得好管理，让学生听话，将其物化，才最便于加工学生，赚取利润。
 这也是为什么教师也会有自杀现象。在学校模型内，教师和学生都是被压迫的对象，只不过教师也是一个压迫物化加工的角色。
 
-对于校领导来说，学生成绩好自己就能升官或者得到更多拨款。在中小学的学区房制度下，学校往往还会和房地产商勾搭在一起，因为好成绩能涨房价。
+对于校领导来说，学生成绩好自己就能升官或者得到更多拨款，以及吸引更多优质原材料。在中小学的学区房制度下，学校往往还会和房地产商勾搭在一起，因为好成绩能涨房价。
 
 ### 脑力劳动与知识产权
 
@@ -171,11 +171,11 @@
 
 ## 后记：需高考的学生怎么办
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzkxNDYxMjQ2LDEwMjAyNTM1ODQsLTEwMj
-c0MzQzMTQsMzc0MjU0ODQ4LC0xMjI1ODI0MzMyLC0xOTY4NzM0
-MzE1LC0yMTI5NDU3NzE5LDQ2NjQ4MjQ1NiwtMTM3ODA0Mzc3NC
-w5NTgyOTAxNzgsNTgxNTE5MjA3LDgyMDU1ODkxOSw4ODgxMTY0
-MTIsOTIyNjE1MTM0LC0xOTAxOTY1MjkyLC0xOTE3NDAzOTMwLC
-0zMTQyNTYyNzEsLTEyMTk5NzgzNDIsLTExMTQ5MTMzNThdfQ==
+eyJoaXN0b3J5IjpbLTE4MDg2NDAzMTgsMTAyMDI1MzU4NCwtMT
+AyNzQzNDMxNCwzNzQyNTQ4NDgsLTEyMjU4MjQzMzIsLTE5Njg3
+MzQzMTUsLTIxMjk0NTc3MTksNDY2NDgyNDU2LC0xMzc4MDQzNz
+c0LDk1ODI5MDE3OCw1ODE1MTkyMDcsODIwNTU4OTE5LDg4ODEx
+NjQxMiw5MjI2MTUxMzQsLTE5MDE5NjUyOTIsLTE5MTc0MDM5Mz
+AsLTMxNDI1NjI3MSwtMTIxOTk3ODM0MiwtMTExNDkxMzM1OF19
 
 -->

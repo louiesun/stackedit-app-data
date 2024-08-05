@@ -95,6 +95,7 @@
 > 一大堆史实。一大堆疑问。
 
 我们确实要承认某些伟人（当然包括马列毛）确实做出了一些重要的贡献。但是，他们都是顺着当时人民群众即时代的潮流，他们只是人民群众的代表。
+去同情亡国皇室的受凌辱，谁来关心战死的将士的家庭，还是他们已经死于i？
 至于上面的那些“伟大者”了，人民应该感谢还是憎恨他们呢？
 
 中修宣传的某些造火箭的，是他一个人在攻关技术，还是整个产业链上所有的科学家，工人在一起努力呢？
@@ -169,7 +170,7 @@
 
 ## 后记：需高考的学生怎么办
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTg1Mzk3MzYsLTEyMjU4MjQzMzIsLT
+eyJoaXN0b3J5IjpbLTIwNzc1OTkxOTcsLTEyMjU4MjQzMzIsLT
 E5Njg3MzQzMTUsLTIxMjk0NTc3MTksNDY2NDgyNDU2LC0xMzc4
 MDQzNzc0LDk1ODI5MDE3OCw1ODE1MTkyMDcsODIwNTU4OTE5LD
 g4ODExNjQxMiw5MjI2MTUxMzQsLTE5MDE5NjUyOTIsLTE5MTc0

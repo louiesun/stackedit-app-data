@@ -11,7 +11,10 @@
 + 八小时工作制？我们的学生都是新时代的劳动者[^1]，高中起先早上七点上学晚上九点半放学。
 + 双减？不说了，我们同学暑假都有报了四门课的。
 
-[^1]: 我们的“社会主义”“建设者”和“社会主义”劳动者之间的矛盾是内部矛盾，也就是建设者不劳动，劳动者不建设。
+当然，其实这本册子本身**也是个笑话**。
++ 学生，工人朋友都很忙，很累
+
+[^1]: 之前中华总工会有一篇文章讲我们的“社会主义”“建设者”和“社会主义”劳动者之间的矛盾是内部矛盾，也就是建设者不劳动，劳动者不建设。
 
 
 ## 资本，国家与法治
@@ -116,9 +119,9 @@
 
 ## 后记：需高考的学生怎么办
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzM5NTUxODQsNDY2NDgyNDU2LC0xMz
-c4MDQzNzc0LDk1ODI5MDE3OCw1ODE1MTkyMDcsODIwNTU4OTE5
-LDg4ODExNjQxMiw5MjI2MTUxMzQsLTE5MDE5NjUyOTIsLTE5MT
-c0MDM5MzAsLTMxNDI1NjI3MSwtMTIxOTk3ODM0MiwtMTExNDkx
-MzM1OF19
+eyJoaXN0b3J5IjpbMTUxMDUzNTI0OSw0NjY0ODI0NTYsLTEzNz
+gwNDM3NzQsOTU4MjkwMTc4LDU4MTUxOTIwNyw4MjA1NTg5MTks
+ODg4MTE2NDEyLDkyMjYxNTEzNCwtMTkwMTk2NTI5MiwtMTkxNz
+QwMzkzMCwtMzE0MjU2MjcxLC0xMjE5OTc4MzQyLC0xMTE0OTEz
+MzU4XX0=
 -->

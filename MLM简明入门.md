@@ -195,7 +195,7 @@
 ### 驳社会达尔文主义
 
 我们只需要弄清达尔文主义：
-达尔文只需要说
+达尔文说的是：物竞天择，适者生存。但是从来没说谁是适者。你以
 
 ### 唯物主义哲学
 
@@ -223,7 +223,7 @@
 
 ## 后记：需高考的学生怎么办
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyMDQ1NjEzNCwtMTAzNTc4ODEwLDExMj
+eyJoaXN0b3J5IjpbMTI4Nzk1ODk3NiwtMTAzNTc4ODEwLDExMj
 g3NDgyNjEsLTEwNjc0MzQ4ODEsLTYzMzgwNTQ3MywtMTgwODY0
 MDMxOCwxMDIwMjUzNTg0LC0xMDI3NDM0MzE0LDM3NDI1NDg0OC
 wtMTIyNTgyNDMzMiwtMTk2ODczNDMxNSwtMjEyOTQ1NzcxOSw0

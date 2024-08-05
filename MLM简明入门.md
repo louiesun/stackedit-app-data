@@ -128,13 +128,14 @@
 
 但其实对于这种言论我们左左对这种都有公式了。
 
-1. 这不是共产党
+1. 你怎么统计的
+	当年有人说张献忠杀了六万万人人，
+2. 这不是共产党
   先提波尔波特，红色高棉干了快10年，柬埔寨人民还不知道这是个共产党，没读过共产党宣言啊？（共产者从不屑于隐藏自己的意图）。毛泽东确实接见过波波，但不意味着认可他，他还接见过尼克松嘞。
   还有就是六四这类的，中修干的关共产党什么事，干脆说德国国家社会主义工人党（纳粹）也是共产党得了，“社会主义”吗（这个“社会主义”后面会提）。
-
-2. 有坏人
+3. 有坏人
 	既然不是一个党叫共产党就是共产党，也不是共产党里全部是共产主义者，不然也就没有苏修中修的事情了。
-3. 还有其他原因
+4. 还有其他原因
  比如说大跃进，确实是有天灾的因素（当然主要是人祸）。
  中国古代一次饥荒就有灾民无数，你怎么不提？
 
@@ -206,11 +207,11 @@
 
 ## 后记：需高考的学生怎么办
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQzNzMyMTcxLDExMjg3NDgyNjEsLTEwNj
-c0MzQ4ODEsLTYzMzgwNTQ3MywtMTgwODY0MDMxOCwxMDIwMjUz
-NTg0LC0xMDI3NDM0MzE0LDM3NDI1NDg0OCwtMTIyNTgyNDMzMi
-wtMTk2ODczNDMxNSwtMjEyOTQ1NzcxOSw0NjY0ODI0NTYsLTEz
-NzgwNDM3NzQsOTU4MjkwMTc4LDU4MTUxOTIwNyw4MjA1NTg5MT
-ksODg4MTE2NDEyLDkyMjYxNTEzNCwtMTkwMTk2NTI5MiwtMTkx
-NzQwMzkzMF19
+eyJoaXN0b3J5IjpbLTQ4MzM3NDI0MCwxMTI4NzQ4MjYxLC0xMD
+Y3NDM0ODgxLC02MzM4MDU0NzMsLTE4MDg2NDAzMTgsMTAyMDI1
+MzU4NCwtMTAyNzQzNDMxNCwzNzQyNTQ4NDgsLTEyMjU4MjQzMz
+IsLTE5Njg3MzQzMTUsLTIxMjk0NTc3MTksNDY2NDgyNDU2LC0x
+Mzc4MDQzNzc0LDk1ODI5MDE3OCw1ODE1MTkyMDcsODIwNTU4OT
+E5LDg4ODExNjQxMiw5MjI2MTUxMzQsLTE5MDE5NjUyOTIsLTE5
+MTc0MDM5MzBdfQ==
 -->

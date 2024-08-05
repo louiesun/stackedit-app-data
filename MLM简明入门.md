@@ -4,8 +4,9 @@
 
 我打算开始写这本册子，心理自然和大部分朋友一样，心理都是有怨气的。什么怨气呢？——笑话（将要）发生在自己身上了。
 作为一个中学生，笑话无非就是应试教育下的笑话。
-+ 为了保护小草，学校不允许踩踏草坪，但老师和国际部的小朋友可以随便踩。我们去踩了草坪中间的水泥板都能受到警告。不知道是不是同学们不满太多了，装修后学校干脆吧草坪填上了塑胶。
-+ 为了避免影响宿友，宿舍不允许食用pao
++ 为了**保护小草**，学校不允许踩踏草坪，但老师和国际部的小朋友可以随便踩。我们去踩了草坪中间的水泥板都能受到警告。不知道是不是同学们不满太多了，装修后学校干脆把草坪填成了塑胶。
++ 为了**避免影响宿友**，宿舍不允许食用泡面。所以当有同学食用时，宿舍同学都**帮他打掩护**。
+
 
 
 ## 资本，国家与法治
@@ -110,7 +111,7 @@
 
 ## 后记：需高考的学生怎么办
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyMDM5ODgyMiwtMTM3ODA0Mzc3NCw5NT
+eyJoaXN0b3J5IjpbMTE2ODU1NDE3MSwtMTM3ODA0Mzc3NCw5NT
 gyOTAxNzgsNTgxNTE5MjA3LDgyMDU1ODkxOSw4ODgxMTY0MTIs
 OTIyNjE1MTM0LC0xOTAxOTY1MjkyLC0xOTE3NDAzOTMwLC0zMT
 QyNTYyNzEsLTEyMTk5NzgzNDIsLTExMTQ5MTMzNThdfQ==

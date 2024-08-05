@@ -209,7 +209,7 @@
 
 上一章我们都开始想象未来的科技了，这里我来介绍一些现在的科技。
 
-其实这章我本来打算和其他一大堆东西单开一本《互联网基础》的，但是那种
+其实这章我本来打算和其他一大堆东西单开一本《互联网基础》的，但是那种手册现在写了真心意义不大，工人同志根本没时间看没机会用。这种册子也许要等到
 
 ### 越过GFW
 
@@ -231,7 +231,7 @@
 
 ## 后记：需高考的学生怎么办
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4MTg5MTgwMSwtMjAzMzc2NDQ2OCwtMT
+eyJoaXN0b3J5IjpbLTY2OTAzNjk2MCwtMjAzMzc2NDQ2OCwtMT
 AzNTc4ODEwLDExMjg3NDgyNjEsLTEwNjc0MzQ4ODEsLTYzMzgw
 NTQ3MywtMTgwODY0MDMxOCwxMDIwMjUzNTg0LC0xMDI3NDM0Mz
 E0LDM3NDI1NDg0OCwtMTIyNTgyNDMzMiwtMTk2ODczNDMxNSwt

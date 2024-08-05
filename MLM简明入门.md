@@ -129,7 +129,8 @@
 但其实对于这种言论我们左左对这种都有公式了。
 
 1. 这不是共产党
-先提波尔波特，红色高棉干了快10年，柬埔寨人民还不知道这是个共产党，没读过共产党宣言啊？（共产者从不）
+先提波尔波特，红色高棉干了快10年，柬埔寨人民还不知道这是个共产党，没读过共产党宣言啊？（共产者从不屑于隐藏自己的意图）。毛泽东确实接见过波波，但不意味着认可他，他还接见过尼克松嘞。
+还有就是六四这类的，中修干的关gongchan
 
 
 ### 文化大革命特别篇：马列毛主义
@@ -198,11 +199,11 @@
 
 ## 后记：需高考的学生怎么办
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzEwNDY3MzgsMTEyODc0ODI2MSwtMT
-A2NzQzNDg4MSwtNjMzODA1NDczLC0xODA4NjQwMzE4LDEwMjAy
-NTM1ODQsLTEwMjc0MzQzMTQsMzc0MjU0ODQ4LC0xMjI1ODI0Mz
-MyLC0xOTY4NzM0MzE1LC0yMTI5NDU3NzE5LDQ2NjQ4MjQ1Niwt
-MTM3ODA0Mzc3NCw5NTgyOTAxNzgsNTgxNTE5MjA3LDgyMDU1OD
-kxOSw4ODgxMTY0MTIsOTIyNjE1MTM0LC0xOTAxOTY1MjkyLC0x
-OTE3NDAzOTMwXX0=
+eyJoaXN0b3J5IjpbMzYwODUyMzcsMTEyODc0ODI2MSwtMTA2Nz
+QzNDg4MSwtNjMzODA1NDczLC0xODA4NjQwMzE4LDEwMjAyNTM1
+ODQsLTEwMjc0MzQzMTQsMzc0MjU0ODQ4LC0xMjI1ODI0MzMyLC
+0xOTY4NzM0MzE1LC0yMTI5NDU3NzE5LDQ2NjQ4MjQ1NiwtMTM3
+ODA0Mzc3NCw5NTgyOTAxNzgsNTgxNTE5MjA3LDgyMDU1ODkxOS
+w4ODgxMTY0MTIsOTIyNjE1MTM0LC0xOTAxOTY1MjkyLC0xOTE3
+NDAzOTMwXX0=
 -->

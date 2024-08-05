@@ -124,7 +124,7 @@
 + 卡廷惨案
 + 文革
 + 红色高棉
-+ 张献忠（农民起义也算进步势力了，自然为共产党称道）
++ 张献忠（农民起义绝对算进步势力了，自然为共产党称道）
 + 六四事件
 
 但其实对于这种言论我们左左对这种都有公式了。
@@ -207,7 +207,7 @@
 
 ## 信息技术选讲
 
-上一章我们都开始想象未来的科学了，dan
+上一章我们都开始想象未来的科技了，这里我来介绍一些现在的科技。
 
 ### 越过GFW
 
@@ -229,11 +229,11 @@
 
 ## 后记：需高考的学生怎么办
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0NDQ5MDE3MSwtMTAzNTc4ODEwLDExMj
-g3NDgyNjEsLTEwNjc0MzQ4ODEsLTYzMzgwNTQ3MywtMTgwODY0
-MDMxOCwxMDIwMjUzNTg0LC0xMDI3NDM0MzE0LDM3NDI1NDg0OC
-wtMTIyNTgyNDMzMiwtMTk2ODczNDMxNSwtMjEyOTQ1NzcxOSw0
-NjY0ODI0NTYsLTEzNzgwNDM3NzQsOTU4MjkwMTc4LDU4MTUxOT
-IwNyw4MjA1NTg5MTksODg4MTE2NDEyLDkyMjYxNTEzNCwtMTkw
-MTk2NTI5Ml19
+eyJoaXN0b3J5IjpbLTIwMzM3NjQ0NjgsLTEwMzU3ODgxMCwxMT
+I4NzQ4MjYxLC0xMDY3NDM0ODgxLC02MzM4MDU0NzMsLTE4MDg2
+NDAzMTgsMTAyMDI1MzU4NCwtMTAyNzQzNDMxNCwzNzQyNTQ4ND
+gsLTEyMjU4MjQzMzIsLTE5Njg3MzQzMTUsLTIxMjk0NTc3MTks
+NDY2NDgyNDU2LC0xMzc4MDQzNzc0LDk1ODI5MDE3OCw1ODE1MT
+kyMDcsODIwNTU4OTE5LDg4ODExNjQxMiw5MjI2MTUxMzQsLTE5
+MDE5NjUyOTJdfQ==
 -->

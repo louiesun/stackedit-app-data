@@ -32,7 +32,8 @@
 
 ### Country, State, Homeland
 
-如果您还记得小时候政治课上讲的以马克思列宁主义为指导思想，那么您或许需要知道zhej
+如果您还记得小时候政治课上讲的以马克思列宁主义为指导思想，那么您或许需要知道这句：
+> 国家是**阶级矛盾不可调和**的产物，是一个阶级压迫另一个阶级的**暴力机器**。——列宁《国家与革命》
 
 ### 为谁服务
 
@@ -45,6 +46,9 @@
 ### 服务业模型
 
 ### 学校模型
+
+在学校模型中，发生了如下变化：
+1. 
 
 ### 脑力劳动与知识产权
 
@@ -132,9 +136,9 @@
 
 ## 后记：需高考的学生怎么办
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ0ODk2ODg1LC0xOTY4NzM0MzE1LC0yMT
-I5NDU3NzE5LDQ2NjQ4MjQ1NiwtMTM3ODA0Mzc3NCw5NTgyOTAx
-NzgsNTgxNTE5MjA3LDgyMDU1ODkxOSw4ODgxMTY0MTIsOTIyNj
-E1MTM0LC0xOTAxOTY1MjkyLC0xOTE3NDAzOTMwLC0zMTQyNTYy
-NzEsLTEyMTk5NzgzNDIsLTExMTQ5MTMzNThdfQ==
+eyJoaXN0b3J5IjpbLTE3ODYxNDg1NDksLTE5Njg3MzQzMTUsLT
+IxMjk0NTc3MTksNDY2NDgyNDU2LC0xMzc4MDQzNzc0LDk1ODI5
+MDE3OCw1ODE1MTkyMDcsODIwNTU4OTE5LDg4ODExNjQxMiw5Mj
+I2MTUxMzQsLTE5MDE5NjUyOTIsLTE5MTc0MDM5MzAsLTMxNDI1
+NjI3MSwtMTIxOTk3ODM0MiwtMTExNDkxMzM1OF19
 -->

@@ -28,9 +28,9 @@
 
 ### 生产相对过剩与消费绝对不足
 
-### 印钞机的诅咒
+### 印钞机？
 
-### 帝国主义的诞生
+### 帝国主义的来头
 
 ## 历史简论
 
@@ -106,8 +106,8 @@
 
 ## 后记：需高考的学生怎么办
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU4MjkwMTc4LDU4MTUxOTIwNyw4MjA1NT
-g5MTksODg4MTE2NDEyLDkyMjYxNTEzNCwtMTkwMTk2NTI5Miwt
-MTkxNzQwMzkzMCwtMzE0MjU2MjcxLC0xMjE5OTc4MzQyLC0xMT
-E0OTEzMzU4XX0=
+eyJoaXN0b3J5IjpbLTEzNzgwNDM3NzQsOTU4MjkwMTc4LDU4MT
+UxOTIwNyw4MjA1NTg5MTksODg4MTE2NDEyLDkyMjYxNTEzNCwt
+MTkwMTk2NTI5MiwtMTkxNzQwMzkzMCwtMzE0MjU2MjcxLC0xMj
+E5OTc4MzQyLC0xMTE0OTEzMzU4XX0=
 -->

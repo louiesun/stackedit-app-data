@@ -87,7 +87,7 @@
 > 大名鼎鼎的拜占庭，它的居民都住在宫殿吗？
 > 传说中的亚特兰提斯，大海先淹没奴隶，然后那些主子才漂浮在黑夜的汪洋中哀嚎。
 > 年轻的亚历山大征服了印度。就凭他一人吗？
-> 西泽打败了高卢人，他该不会连个煮饭的都没带吧？
+> 凯撒打败了高卢人，他该不会连个煮饭的都没带吧？
 > 无敌舰队沉没的时候，西班牙的腓力哭了。没有别的人哭吗？
 > 腓特烈大帝在七年战争中获胜。除了他还有谁获胜？
 > 页页有胜利。谁来准备庆功宴？
@@ -169,10 +169,10 @@
 
 ## 后记：需高考的学生怎么办
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5OTkxNzMzMSwtMTIyNTgyNDMzMiwtMT
-k2ODczNDMxNSwtMjEyOTQ1NzcxOSw0NjY0ODI0NTYsLTEzNzgw
-NDM3NzQsOTU4MjkwMTc4LDU4MTUxOTIwNyw4MjA1NTg5MTksOD
-g4MTE2NDEyLDkyMjYxNTEzNCwtMTkwMTk2NTI5MiwtMTkxNzQw
-MzkzMCwtMzE0MjU2MjcxLC0xMjE5OTc4MzQyLC0xMTE0OTEzMz
-U4XX0=
+eyJoaXN0b3J5IjpbLTEyMTg1Mzk3MzYsLTEyMjU4MjQzMzIsLT
+E5Njg3MzQzMTUsLTIxMjk0NTc3MTksNDY2NDgyNDU2LC0xMzc4
+MDQzNzc0LDk1ODI5MDE3OCw1ODE1MTkyMDcsODIwNTU4OTE5LD
+g4ODExNjQxMiw5MjI2MTUxMzQsLTE5MDE5NjUyOTIsLTE5MTc0
+MDM5MzAsLTMxNDI1NjI3MSwtMTIxOTk3ODM0MiwtMTExNDkxMz
+M1OF19
 -->

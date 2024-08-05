@@ -19,7 +19,8 @@
 好了，该收回之前的引子了：
 > 之前中华总工会有一篇文章讲我们的“社会主义”“建设者”和“社会主义”劳动者之间的矛盾是内部矛盾，也就是**建设者不劳动，劳动者不建设**。
 
-您笑出来了吗？如果笑出来了
+您笑出来了吗？如果笑出来了，那或许我得请出最擅长博您笑颜的小丑：
+
 
 ## 资本，国家与法治
 
@@ -123,9 +124,9 @@
 
 ## 后记：需高考的学生怎么办
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxNTQ0OTM0MCwtMjEyOTQ1NzcxOSw0Nj
-Y0ODI0NTYsLTEzNzgwNDM3NzQsOTU4MjkwMTc4LDU4MTUxOTIw
-Nyw4MjA1NTg5MTksODg4MTE2NDEyLDkyMjYxNTEzNCwtMTkwMT
-k2NTI5MiwtMTkxNzQwMzkzMCwtMzE0MjU2MjcxLC0xMjE5OTc4
-MzQyLC0xMTE0OTEzMzU4XX0=
+eyJoaXN0b3J5IjpbLTEzNTIzNjcyOTMsLTIxMjk0NTc3MTksND
+Y2NDgyNDU2LC0xMzc4MDQzNzc0LDk1ODI5MDE3OCw1ODE1MTky
+MDcsODIwNTU4OTE5LDg4ODExNjQxMiw5MjI2MTUxMzQsLTE5MD
+E5NjUyOTIsLTE5MTc0MDM5MzAsLTMxNDI1NjI3MSwtMTIxOTk3
+ODM0MiwtMTExNDkxMzM1OF19
 -->

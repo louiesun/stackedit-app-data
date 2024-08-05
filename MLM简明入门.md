@@ -22,7 +22,8 @@
 > 之前中华总工会有一篇文章讲我们的“社会主义”“建设者”和“社会主义”劳动者之间的矛盾是内部矛盾，也就是**建设者不劳动，劳动者不建设**。
 
 您笑出来了吗？如果笑出来了，那或许我得请出最擅长博您笑颜的小丑：
-+ 百名军警特警进入shanq
++ 百名军警特警进入山区苗寨**抢骨灰**，不敌苗民**被缴械灰溜溜回到县城**。
++ 中国租借缅甸皎漂特区深水港
 
 ## 资本，国家与法治
 
@@ -126,9 +127,9 @@
 
 ## 后记：需高考的学生怎么办
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQzNDk5NTQ4LC0xOTY4NzM0MzE1LC0yMT
-I5NDU3NzE5LDQ2NjQ4MjQ1NiwtMTM3ODA0Mzc3NCw5NTgyOTAx
-NzgsNTgxNTE5MjA3LDgyMDU1ODkxOSw4ODgxMTY0MTIsOTIyNj
-E1MTM0LC0xOTAxOTY1MjkyLC0xOTE3NDAzOTMwLC0zMTQyNTYy
-NzEsLTEyMTk5NzgzNDIsLTExMTQ5MTMzNThdfQ==
+eyJoaXN0b3J5IjpbLTU4Nzg0NzMyMywtMTk2ODczNDMxNSwtMj
+EyOTQ1NzcxOSw0NjY0ODI0NTYsLTEzNzgwNDM3NzQsOTU4Mjkw
+MTc4LDU4MTUxOTIwNyw4MjA1NTg5MTksODg4MTE2NDEyLDkyMj
+YxNTEzNCwtMTkwMTk2NTI5MiwtMTkxNzQwMzkzMCwtMzE0MjU2
+MjcxLC0xMjE5OTc4MzQyLC0xMTE0OTEzMzU4XX0=
 -->

@@ -195,7 +195,7 @@
 ### 驳社会达尔文主义
 
 我们只需要弄清达尔文主义：
-达尔文说的是：物竞天择，适者生存。但是从来没说谁是适者。你以
+达尔文说的是：物竞天择，适者生存。但是从来没说谁是适者。我们其实判断生物界适者的方法很简单，灭绝的就是不适者。我们是从结果判断的。试问，在法国大革命前，你觉得是巴黎市民是shizhe
 
 ### 唯物主义哲学
 
@@ -223,11 +223,11 @@
 
 ## 后记：需高考的学生怎么办
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4Nzk1ODk3NiwtMTAzNTc4ODEwLDExMj
-g3NDgyNjEsLTEwNjc0MzQ4ODEsLTYzMzgwNTQ3MywtMTgwODY0
-MDMxOCwxMDIwMjUzNTg0LC0xMDI3NDM0MzE0LDM3NDI1NDg0OC
-wtMTIyNTgyNDMzMiwtMTk2ODczNDMxNSwtMjEyOTQ1NzcxOSw0
-NjY0ODI0NTYsLTEzNzgwNDM3NzQsOTU4MjkwMTc4LDU4MTUxOT
-IwNyw4MjA1NTg5MTksODg4MTE2NDEyLDkyMjYxNTEzNCwtMTkw
-MTk2NTI5Ml19
+eyJoaXN0b3J5IjpbOTY5NTg4NjA4LC0xMDM1Nzg4MTAsMTEyOD
+c0ODI2MSwtMTA2NzQzNDg4MSwtNjMzODA1NDczLC0xODA4NjQw
+MzE4LDEwMjAyNTM1ODQsLTEwMjc0MzQzMTQsMzc0MjU0ODQ4LC
+0xMjI1ODI0MzMyLC0xOTY4NzM0MzE1LC0yMTI5NDU3NzE5LDQ2
+NjQ4MjQ1NiwtMTM3ODA0Mzc3NCw5NTgyOTAxNzgsNTgxNTE5Mj
+A3LDgyMDU1ODkxOSw4ODgxMTY0MTIsOTIyNjE1MTM0LC0xOTAx
+OTY1MjkyXX0=
 -->

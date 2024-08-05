@@ -12,9 +12,10 @@
 + 双减？不说了，我们同学暑假都有报了四门课的。
 
 当然，其实这本册子本身**也是个笑话**。
-+ 学生，工人朋友都很忙，很累。往往仅剩的剩余时间能用来娱乐就差不多了，压根没空看这种破书。
++ 学生，工人朋友都很忙，很累。往往仅剩的剩余时间能用来娱乐就差不多了，压根没空看这种破书。所以
 
-之前中华总工会有一篇文章讲我们的“社会主义”“建设者”和“社会主义”劳动者之间的矛盾是内部矛盾，也就是建设者不劳动，劳动者不建设。
+好了，该收回之前的引子了：
+> 之前中华总工会有一篇文章讲我们的“社会主义”“建设者”和“社会主义”劳动者之间的矛盾是内部矛盾，也就是**建设者不劳动，劳动者不建设**。
 
 
 ## 资本，国家与法治
@@ -119,7 +120,7 @@
 
 ## 后记：需高考的学生怎么办
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwNDgwNTkyOCw0NjY0ODI0NTYsLTEzNz
+eyJoaXN0b3J5IjpbMTkwOTkyMzQ4OCw0NjY0ODI0NTYsLTEzNz
 gwNDM3NzQsOTU4MjkwMTc4LDU4MTUxOTIwNyw4MjA1NTg5MTks
 ODg4MTE2NDEyLDkyMjYxNTEzNCwtMTkwMTk2NTI5MiwtMTkxNz
 QwMzkzMCwtMzE0MjU2MjcxLC0xMjE5OTc4MzQyLC0xMTE0OTEz

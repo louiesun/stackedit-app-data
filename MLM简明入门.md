@@ -53,7 +53,8 @@
 3. 原材料：学生
 4. 商品：学生的成绩
 
-这就是为什么学校有juns
+这就是为什么学校有军事化管理的倾向，因为只有让学生变得好管理，让学生听话，将其物化，才最便于加工学生，赚取利润。
+这也是为什么教师也会有zis
 
 ### 脑力劳动与知识产权
 
@@ -141,7 +142,7 @@
 
 ## 后记：需高考的学生怎么办
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzMzgwNTUzNywtMTk2ODczNDMxNSwtMj
+eyJoaXN0b3J5IjpbLTE5NjA3OTIxNCwtMTk2ODczNDMxNSwtMj
 EyOTQ1NzcxOSw0NjY0ODI0NTYsLTEzNzgwNDM3NzQsOTU4Mjkw
 MTc4LDU4MTUxOTIwNyw4MjA1NTg5MTksODg4MTE2NDEyLDkyMj
 YxNTEzNCwtMTkwMTk2NTI5MiwtMTkxNzQwMzkzMCwtMzE0MjU2

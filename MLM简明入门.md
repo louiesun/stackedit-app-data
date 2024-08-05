@@ -97,7 +97,7 @@
 我们确实要承认某些伟人（当然包括马列毛）确实做出了一些重要的贡献。但是，他们都是顺着当时人民群众即时代的潮流，他们只是人民群众的代表。
 至于上面的那些“伟大者”了，人民应该感谢还是憎恨他们呢？
 
-
+中修宣传的某些造火箭的，是他一个人在攻关技术，还是整个产业链上所有的科学家，工人在一起努力呢？
 
 ### 关于史料
 
@@ -169,7 +169,7 @@
 
 ## 后记：需高考的学生怎么办
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2MjY1ODQ0OCwtMTIyNTgyNDMzMiwtMT
+eyJoaXN0b3J5IjpbLTU5OTkxNzMzMSwtMTIyNTgyNDMzMiwtMT
 k2ODczNDMxNSwtMjEyOTQ1NzcxOSw0NjY0ODI0NTYsLTEzNzgw
 NDM3NzQsOTU4MjkwMTc4LDU4MTUxOTIwNyw4MjA1NTg5MTksOD
 g4MTE2NDEyLDkyMjYxNTEzNCwtMTkwMTk2NTI5MiwtMTkxNzQw

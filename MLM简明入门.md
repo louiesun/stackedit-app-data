@@ -117,7 +117,15 @@
 
 ### 为＂屠杀＂辩护：万能公式
 
-生命权自然重要，所以经常有人说gongchan
+生命权自然重要，所以经常有人说共产党杀了很多人。
+包括但不限于：
++ 大清洗
++ 大跃进
++ 文革
++ 红色高棉
+
+但其实对于这种言论我们左左对这种都有公式了。
+
 
 
 ### 文化大革命特别篇：马列毛主义
@@ -186,7 +194,7 @@
 
 ## 后记：需高考的学生怎么办
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyOTk0ODM3MCwxMTI4NzQ4MjYxLC0xMD
+eyJoaXN0b3J5IjpbLTU3ODYzMzQ4NCwxMTI4NzQ4MjYxLC0xMD
 Y3NDM0ODgxLC02MzM4MDU0NzMsLTE4MDg2NDAzMTgsMTAyMDI1
 MzU4NCwtMTAyNzQzNDMxNCwzNzQyNTQ4NDgsLTEyMjU4MjQzMz
 IsLTE5Njg3MzQzMTUsLTIxMjk0NTc3MTksNDY2NDgyNDU2LC0x

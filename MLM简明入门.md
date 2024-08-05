@@ -135,7 +135,7 @@
 	大清洗也有的，有人把开除除党的算成枪毙了的……（毛泽东曾经说过：开除党籍，下乡劳动改造，但**不整死，发现错了平反即可**；说到下乡，我提一句，某些知识分子觉得劳动苦，农民不苦吗？）
 2. 杀的也不是好人
   就算杀了人，杀得是谁呢？可能确实杀了几个地主，军官。法国大革命不是也把路易十六一家推上了断头台？干得好啊！
-  如果你说这样太残忍？那你说前年来的奴隶社会，封建社会，资本主义社会，有迫害死了多少的奴隶，贫农，工人与革命者？照你这么说，资本主义早该完蛋了！
+  如果你说这样太残忍？那你说前年来的奴隶社会，封建社会，资本主义社会，有迫害死了多少的奴隶，贫农，工人与革命者？**照你这么说，资本主义早该完蛋了！**
   当然，我承认有些工人可能确实太激进了，但是正如上述所说，剥削阶级随手残害了多少人。尽管如此，我还是认为如果真心改正，我们应该接受，毕竟背叛阶级的个人是存在的（最著名的：恩格斯）。但是如果屡教不改，屠了也不错，免得夜长梦多？我们也没空在他们身上花太多时间，还有大量的乡村需要教育资源！（后面会讲）。
 4. 这不是共产党
   先提波尔波特，红色高棉干了快10年，柬埔寨人民还不知道这是个共产党，没读过共产党宣言啊？（共产者从不屑于隐藏自己的意图）。毛泽东确实接见过波波，但不意味着认可他，他还接见过尼克松嘞。
@@ -144,10 +144,10 @@
 	既然不是一个党叫共产党就是共产党，也不是共产党里全部是共产主义者，不然也就没有苏修中修的事情了。
 	后面会提到的文革的经验是，走资派在党内。中央文革说要处理他们，你觉得他们会坐以待毙吗？事实上，他们会转移矛盾。
 	比如说湖人队吧。逼死老舍的联动西纠，都是保守派红卫兵（就是哪些大官的子女拉起来的）。可笑的是，上述组织改开后都被平反了。广西手下吃两脚羊的韦国清，就是保守派。
-	在比如说大跃进，当时主管这两事的就是刘少奇邓小平，毛泽东早就退居二线了。还严厉批评了这种浮夸风。
+	在比如说大跃进，当时**主管这两事的就是刘少奇邓小平**，毛泽东早就退居二线了。还严厉批评了这种浮夸风。
 6. 革命者不成熟
    当然走资派捣乱也是利用群众的未受教育。群众被人利用，轻的跳跳忠字舞，严重的就可能把知识分子或者其他之类的迫害致死。
-   这里其实也有中央文革软弱的问题，然后毛泽东则是半截身子进土里了。
+   这里其实也有**中央文革有点软弱**的问题，然后毛泽东则是半截身子进土里了。
 7. 还有其他原因
  比如说大跃进，确实是有天灾的因素（当然主要是人祸）。
  中国古代一次饥荒就有灾民无数，你怎么不提？
@@ -220,11 +220,11 @@
 
 ## 后记：需高考的学生怎么办
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTc1NDUyMjUsMTEyODc0ODI2MSwtMT
-A2NzQzNDg4MSwtNjMzODA1NDczLC0xODA4NjQwMzE4LDEwMjAy
-NTM1ODQsLTEwMjc0MzQzMTQsMzc0MjU0ODQ4LC0xMjI1ODI0Mz
-MyLC0xOTY4NzM0MzE1LC0yMTI5NDU3NzE5LDQ2NjQ4MjQ1Niwt
-MTM3ODA0Mzc3NCw5NTgyOTAxNzgsNTgxNTE5MjA3LDgyMDU1OD
-kxOSw4ODgxMTY0MTIsOTIyNjE1MTM0LC0xOTAxOTY1MjkyLC0x
-OTE3NDAzOTMwXX0=
+eyJoaXN0b3J5IjpbMTcxMjAzMDUwMywxMTI4NzQ4MjYxLC0xMD
+Y3NDM0ODgxLC02MzM4MDU0NzMsLTE4MDg2NDAzMTgsMTAyMDI1
+MzU4NCwtMTAyNzQzNDMxNCwzNzQyNTQ4NDgsLTEyMjU4MjQzMz
+IsLTE5Njg3MzQzMTUsLTIxMjk0NTc3MTksNDY2NDgyNDU2LC0x
+Mzc4MDQzNzc0LDk1ODI5MDE3OCw1ODE1MTkyMDcsODIwNTU4OT
+E5LDg4ODExNjQxMiw5MjI2MTUxMzQsLTE5MDE5NjUyOTIsLTE5
+MTc0MDM5MzBdfQ==
 -->

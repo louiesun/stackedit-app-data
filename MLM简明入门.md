@@ -113,10 +113,11 @@
 
 我们研究历史，无非是给现在的路指明方向。你看古生物学，往往也是根据残破的化石和**对现代生物的理解**确立的一个假说。虽然找找化石确实重要，但是没有进化论，你挖到化石也只是上帝的赠与。
 
-总而言之，我想表达的是，我希望能通过历史的一些“假说”
+总而言之，我想表达的是，我希望能通过历史的一些“假说”（也许吧），说明一下我们应该怎么办。
 
 ### 为＂屠杀＂辩护：万能公式
 
+人最重要的自然是生命权
 
 
 ### 文化大革命特别篇：马列毛主义
@@ -185,11 +186,11 @@
 
 ## 后记：需高考的学生怎么办
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjc0MzQ4ODEsLTYzMzgwNTQ3MywtMT
-gwODY0MDMxOCwxMDIwMjUzNTg0LC0xMDI3NDM0MzE0LDM3NDI1
-NDg0OCwtMTIyNTgyNDMzMiwtMTk2ODczNDMxNSwtMjEyOTQ1Nz
-cxOSw0NjY0ODI0NTYsLTEzNzgwNDM3NzQsOTU4MjkwMTc4LDU4
-MTUxOTIwNyw4MjA1NTg5MTksODg4MTE2NDEyLDkyMjYxNTEzNC
-wtMTkwMTk2NTI5MiwtMTkxNzQwMzkzMCwtMzE0MjU2MjcxLC0x
-MjE5OTc4MzQyXX0=
+eyJoaXN0b3J5IjpbLTg5ODc2NzM4NSwtMTA2NzQzNDg4MSwtNj
+MzODA1NDczLC0xODA4NjQwMzE4LDEwMjAyNTM1ODQsLTEwMjc0
+MzQzMTQsMzc0MjU0ODQ4LC0xMjI1ODI0MzMyLC0xOTY4NzM0Mz
+E1LC0yMTI5NDU3NzE5LDQ2NjQ4MjQ1NiwtMTM3ODA0Mzc3NCw5
+NTgyOTAxNzgsNTgxNTE5MjA3LDgyMDU1ODkxOSw4ODgxMTY0MT
+IsOTIyNjE1MTM0LC0xOTAxOTY1MjkyLC0xOTE3NDAzOTMwLC0z
+MTQyNTYyNzFdfQ==
 -->

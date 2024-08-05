@@ -14,11 +14,12 @@
 当然，其实这本册子本身**也是个笑话**。
 + 学生，工人朋友都很忙，很累。往往仅剩的剩余时间能用来娱乐就差不多了，压根没空看这种破书。所以写来也许没啥用。
 
-我不打算让我的打算就这样报废，所以也就只能尝试把这本册子写成一个笑话，**博得各位笑笑罢**。
+我不打算让我的一些尝试就这样报废，所以也就只能尝试把这本册子写成一个笑话，**博得各位笑笑罢**。
 
 好了，该收回之前的引子了：
 > 之前中华总工会有一篇文章讲我们的“社会主义”“建设者”和“社会主义”劳动者之间的矛盾是内部矛盾，也就是**建设者不劳动，劳动者不建设**。
 
+您笑出来了吗？如果笑出来了
 
 ## 资本，国家与法治
 
@@ -122,9 +123,9 @@
 
 ## 后记：需高考的学生怎么办
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjk0NTc3MTksNDY2NDgyNDU2LC0xMz
-c4MDQzNzc0LDk1ODI5MDE3OCw1ODE1MTkyMDcsODIwNTU4OTE5
-LDg4ODExNjQxMiw5MjI2MTUxMzQsLTE5MDE5NjUyOTIsLTE5MT
-c0MDM5MzAsLTMxNDI1NjI3MSwtMTIxOTk3ODM0MiwtMTExNDkx
-MzM1OF19
+eyJoaXN0b3J5IjpbMTAxNTQ0OTM0MCwtMjEyOTQ1NzcxOSw0Nj
+Y0ODI0NTYsLTEzNzgwNDM3NzQsOTU4MjkwMTc4LDU4MTUxOTIw
+Nyw4MjA1NTg5MTksODg4MTE2NDEyLDkyMjYxNTEzNCwtMTkwMT
+k2NTI5MiwtMTkxNzQwMzkzMCwtMzE0MjU2MjcxLC0xMjE5OTc4
+MzQyLC0xMTE0OTEzMzU4XX0=
 -->

@@ -94,7 +94,8 @@
 > 代代出伟人。谁来买单？
 > 一大堆史实。一大堆疑问。
 
-我们确实要承认某些伟人（当然包括马列毛）确实做出了一些重要的贡献。但是，他们都是顺着当时人民群众的潮流，他们只是人民群众的代表，真正出力的还是群众。
+我们确实要承认某些伟人（当然包括马列毛）确实做出了一些重要的贡献。但是，他们都是顺着当时人民群众即时代的潮流，他们只是人民群众的代表。
+至于上面的那些“伟大者”了，人民应该感谢还是憎恨他们呢？
 
 ### 关于史料
 
@@ -166,9 +167,9 @@
 
 ## 后记：需高考的学生怎么办
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3Mjk4NDM5OSwtMTk2ODczNDMxNSwtMj
-EyOTQ1NzcxOSw0NjY0ODI0NTYsLTEzNzgwNDM3NzQsOTU4Mjkw
-MTc4LDU4MTUxOTIwNyw4MjA1NTg5MTksODg4MTE2NDEyLDkyMj
-YxNTEzNCwtMTkwMTk2NTI5MiwtMTkxNzQwMzkzMCwtMzE0MjU2
-MjcxLC0xMjE5OTc4MzQyLC0xMTE0OTEzMzU4XX0=
+eyJoaXN0b3J5IjpbLTEyMjU4MjQzMzIsLTE5Njg3MzQzMTUsLT
+IxMjk0NTc3MTksNDY2NDgyNDU2LC0xMzc4MDQzNzc0LDk1ODI5
+MDE3OCw1ODE1MTkyMDcsODIwNTU4OTE5LDg4ODExNjQxMiw5Mj
+I2MTUxMzQsLTE5MDE5NjUyOTIsLTE5MTc0MDM5MzAsLTMxNDI1
+NjI3MSwtMTIxOTk3ODM0MiwtMTExNDkxMzM1OF19
 -->

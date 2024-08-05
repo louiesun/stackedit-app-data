@@ -117,7 +117,7 @@
 
 ### 为＂屠杀＂辩护：万能公式
 
-人最重要的自然是生命权
+生命权自然重要，所以经常有人说
 
 
 ### 文化大革命特别篇：马列毛主义
@@ -186,7 +186,7 @@
 
 ## 后记：需高考的学生怎么办
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5ODc2NzM4NSwtMTA2NzQzNDg4MSwtNj
+eyJoaXN0b3J5IjpbMTEyODc0ODI2MSwtMTA2NzQzNDg4MSwtNj
 MzODA1NDczLC0xODA4NjQwMzE4LDEwMjAyNTM1ODQsLTEwMjc0
 MzQzMTQsMzc0MjU0ODQ4LC0xMjI1ODI0MzMyLC0xOTY4NzM0Mz
 E1LC0yMTI5NDU3NzE5LDQ2NjQ4MjQ1NiwtMTM3ODA0Mzc3NCw5

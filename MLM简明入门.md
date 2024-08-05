@@ -48,7 +48,12 @@
 ### 学校模型
 
 在学校模型中，发生了如下变化：
-1. 
+1. 资本家：校领导
+2. 工人：底层教师
+3. 原材料：学生
+4. 商品：学生的成绩
+
+这就是为什么学校有juns
 
 ### 脑力劳动与知识产权
 
@@ -136,9 +141,9 @@
 
 ## 后记：需高考的学生怎么办
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODYxNDg1NDksLTE5Njg3MzQzMTUsLT
-IxMjk0NTc3MTksNDY2NDgyNDU2LC0xMzc4MDQzNzc0LDk1ODI5
-MDE3OCw1ODE1MTkyMDcsODIwNTU4OTE5LDg4ODExNjQxMiw5Mj
-I2MTUxMzQsLTE5MDE5NjUyOTIsLTE5MTc0MDM5MzAsLTMxNDI1
-NjI3MSwtMTIxOTk3ODM0MiwtMTExNDkxMzM1OF19
+eyJoaXN0b3J5IjpbMTQzMzgwNTUzNywtMTk2ODczNDMxNSwtMj
+EyOTQ1NzcxOSw0NjY0ODI0NTYsLTEzNzgwNDM3NzQsOTU4Mjkw
+MTc4LDU4MTUxOTIwNyw4MjA1NTg5MTksODg4MTE2NDEyLDkyMj
+YxNTEzNCwtMTkwMTk2NTI5MiwtMTkxNzQwMzkzMCwtMzE0MjU2
+MjcxLC0xMjE5OTc4MzQyLC0xMTE0OTEzMzU4XX0=
 -->

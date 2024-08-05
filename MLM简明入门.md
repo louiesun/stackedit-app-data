@@ -8,7 +8,8 @@
 + 为了**避免影响宿友**，宿舍不允许食用泡面。所以当有同学食用时，宿舍同学都**帮他打掩护**。
 
 如果上面还是些无关痛痒的小笑话，我们自然还有大笑话。
-+ 八小时工作制？我们的学生都是新时代的建设者，高中起先
++ 八小时工作制？我们的学生都是新时代的劳动者[^1]，高中起先早上七点上学晚上九点半放学。
++ 双减？不说了，我们同学暑假do
 
 
 ## 资本，国家与法治
@@ -113,8 +114,8 @@
 
 ## 后记：需高考的学生怎么办
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4MTAyOTY0NiwtMTM3ODA0Mzc3NCw5NT
-gyOTAxNzgsNTgxNTE5MjA3LDgyMDU1ODkxOSw4ODgxMTY0MTIs
-OTIyNjE1MTM0LC0xOTAxOTY1MjkyLC0xOTE3NDAzOTMwLC0zMT
-QyNTYyNzEsLTEyMTk5NzgzNDIsLTExMTQ5MTMzNThdfQ==
+eyJoaXN0b3J5IjpbLTEyNDc4ODA0NzUsLTEzNzgwNDM3NzQsOT
+U4MjkwMTc4LDU4MTUxOTIwNyw4MjA1NTg5MTksODg4MTE2NDEy
+LDkyMjYxNTEzNCwtMTkwMTk2NTI5MiwtMTkxNzQwMzkzMCwtMz
+E0MjU2MjcxLC0xMjE5OTc4MzQyLC0xMTE0OTEzMzU4XX0=
 -->

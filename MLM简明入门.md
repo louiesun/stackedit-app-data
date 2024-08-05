@@ -76,7 +76,7 @@
 
 ### 确立人民史观
 
-在开始讨论历史问题之前，有一个正确的史观是很重要的。
+在开始讨论历史问题之前，有一个正确的唯物主义史观是很重要的。
 
 我希望借用德国诗人Bertolt Brecht的诗：《一个工人读史的疑惑》，对，shǐ。
 > 七个城门的底比斯是谁建造的？书本上列了一些国王的名字。石头和砖块是国王搬的吗？
@@ -94,11 +94,10 @@
 > 代代出伟人。谁来买单？
 > 一大堆史实。一大堆疑问。
 
-我们确实要承认某些伟人（当然包括马列毛）确实做出了一些重要的贡献。但是，他们都是顺着当时人民群众即时代的潮流，他们只是人民群众的代表。
-去同情亡国皇室的受凌辱，谁来关心战死的将士的家庭，还是他们已经死于i？
+我们确实要承认某些伟人（当然包括马列毛）确实做出了一些重要的贡献。但是，他们都是顺着当时人民群众即时代的潮流，他们只是人民群众的代表。哪怕他们小时候死于车祸，因为这是时代的潮流，还是会有另一个人做这件事。
+特色宣传的某些造火箭的，是他一个人在攻关技术，还是整个产业链上所有的科学家，工人在一起努力呢？
+去同情亡国皇室的受凌辱，谁来关心战死的将士的家庭，还是他们已经死于兵荒马乱？
 至于上面的那些“伟大者”了，人民应该感谢还是憎恨他们呢？
-
-中修宣传的某些造火箭的，是他一个人在攻关技术，还是整个产业链上所有的科学家，工人在一起努力呢？
 
 ### 关于史料
 
@@ -170,10 +169,10 @@
 
 ## 后记：需高考的学生怎么办
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzc1OTkxOTcsLTEyMjU4MjQzMzIsLT
-E5Njg3MzQzMTUsLTIxMjk0NTc3MTksNDY2NDgyNDU2LC0xMzc4
-MDQzNzc0LDk1ODI5MDE3OCw1ODE1MTkyMDcsODIwNTU4OTE5LD
-g4ODExNjQxMiw5MjI2MTUxMzQsLTE5MDE5NjUyOTIsLTE5MTc0
-MDM5MzAsLTMxNDI1NjI3MSwtMTIxOTk3ODM0MiwtMTExNDkxMz
-M1OF19
+eyJoaXN0b3J5IjpbMzc0MjU0ODQ4LC0xMjI1ODI0MzMyLC0xOT
+Y4NzM0MzE1LC0yMTI5NDU3NzE5LDQ2NjQ4MjQ1NiwtMTM3ODA0
+Mzc3NCw5NTgyOTAxNzgsNTgxNTE5MjA3LDgyMDU1ODkxOSw4OD
+gxMTY0MTIsOTIyNjE1MTM0LC0xOTAxOTY1MjkyLC0xOTE3NDAz
+OTMwLC0zMTQyNTYyNzEsLTEyMTk5NzgzNDIsLTExMTQ5MTMzNT
+hdfQ==
 -->

@@ -22,7 +22,7 @@
 > 之前中华总工会有一篇文章讲我们的“社会主义”“建设者”和“社会主义”劳动者之间的矛盾是内部矛盾，也就是**建设者不劳动，劳动者不建设**。
 
 您笑出来了吗？如果笑出来了，那或许我得请出最擅长博您笑颜的小丑：
-
++ 百名军警特警进入shanq
 
 ## 资本，国家与法治
 
@@ -126,9 +126,9 @@
 
 ## 后记：需高考的学生怎么办
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Njg3MzQzMTUsLTIxMjk0NTc3MTksND
-Y2NDgyNDU2LC0xMzc4MDQzNzc0LDk1ODI5MDE3OCw1ODE1MTky
-MDcsODIwNTU4OTE5LDg4ODExNjQxMiw5MjI2MTUxMzQsLTE5MD
-E5NjUyOTIsLTE5MTc0MDM5MzAsLTMxNDI1NjI3MSwtMTIxOTk3
-ODM0MiwtMTExNDkxMzM1OF19
+eyJoaXN0b3J5IjpbOTQzNDk5NTQ4LC0xOTY4NzM0MzE1LC0yMT
+I5NDU3NzE5LDQ2NjQ4MjQ1NiwtMTM3ODA0Mzc3NCw5NTgyOTAx
+NzgsNTgxNTE5MjA3LDgyMDU1ODkxOSw4ODgxMTY0MTIsOTIyNj
+E1MTM0LC0xOTAxOTY1MjkyLC0xOTE3NDAzOTMwLC0zMTQyNTYy
+NzEsLTEyMTk5NzgzNDIsLTExMTQ5MTMzNThdfQ==
 -->

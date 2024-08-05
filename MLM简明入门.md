@@ -12,7 +12,7 @@
 + 双减？不说了，我们同学暑假都有报了四门课的。
 
 当然，其实这本册子本身**也是个笑话**。
-+ 学生，工人朋友都很忙，很累。往往仅剩的剩余时间能用来娱乐就差不多了，压根没空看这种破书。所以写来也许没啥用。
++ 学生，工人朋友都很忙，很累。往往仅剩的剩余时间能用来娱乐就差不多了，压根没空看这种破书。所以写来也许没啥用。所以我只能把册子写得**尽可能简短**， 但这样就必须抛弃很多详细论证，也许有些人就要说我污蔑了。我也只能yixiaoliz
 + > 多一个公式，少一半读者。
 + 而我在后文中写了一个公式（你找到了吗？），读者因此在上一条的基础上又少了一半。
 
@@ -148,9 +148,9 @@
 
 ## 后记：需高考的学生怎么办
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Mjk2MzY4NDMsLTE5Njg3MzQzMTUsLT
-IxMjk0NTc3MTksNDY2NDgyNDU2LC0xMzc4MDQzNzc0LDk1ODI5
-MDE3OCw1ODE1MTkyMDcsODIwNTU4OTE5LDg4ODExNjQxMiw5Mj
-I2MTUxMzQsLTE5MDE5NjUyOTIsLTE5MTc0MDM5MzAsLTMxNDI1
-NjI3MSwtMTIxOTk3ODM0MiwtMTExNDkxMzM1OF19
+eyJoaXN0b3J5IjpbMTkxNDY4MjU2MywtMTk2ODczNDMxNSwtMj
+EyOTQ1NzcxOSw0NjY0ODI0NTYsLTEzNzgwNDM3NzQsOTU4Mjkw
+MTc4LDU4MTUxOTIwNyw4MjA1NTg5MTksODg4MTE2NDEyLDkyMj
+YxNTEzNCwtMTkwMTk2NTI5MiwtMTkxNzQwMzkzMCwtMzE0MjU2
+MjcxLC0xMjE5OTc4MzQyLC0xMTE0OTEzMzU4XX0=
 -->

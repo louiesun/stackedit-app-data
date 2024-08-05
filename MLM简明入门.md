@@ -1,8 +1,8 @@
 # MlM简明入门
 
-[toc]
-
 ## 自序——到处是笑话
+
+我打算开始写这册书，心理自然
 
 ## 资本，国家与法治
 
@@ -106,8 +106,8 @@
 
 ## 后记：需高考的学生怎么办
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzgwNDM3NzQsOTU4MjkwMTc4LDU4MT
-UxOTIwNyw4MjA1NTg5MTksODg4MTE2NDEyLDkyMjYxNTEzNCwt
-MTkwMTk2NTI5MiwtMTkxNzQwMzkzMCwtMzE0MjU2MjcxLC0xMj
-E5OTc4MzQyLC0xMTE0OTEzMzU4XX0=
+eyJoaXN0b3J5IjpbMTc2NTQ4NjYyNywtMTM3ODA0Mzc3NCw5NT
+gyOTAxNzgsNTgxNTE5MjA3LDgyMDU1ODkxOSw4ODgxMTY0MTIs
+OTIyNjE1MTM0LC0xOTAxOTY1MjkyLC0xOTE3NDAzOTMwLC0zMT
+QyNTYyNzEsLTEyMTk5NzgzNDIsLTExMTQ5MTMzNThdfQ==
 -->

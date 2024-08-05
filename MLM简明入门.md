@@ -137,7 +137,8 @@
   还有就是六四这类的，中修干的关共产党什么事，干脆说德国国家社会主义工人党（纳粹）也是共产党得了，“社会主义”吗（这个“社会主义”后面会提）。
 3. 有坏人
 	既然不是一个党叫共产党就是共产党，也不是共产党里全部是共产主义者，不然也就没有苏修中修的事情了。
-	后面会提到的文革的经验是，走资派在党内。中央文革说要处理他们，
+	后面会提到的文革的经验是，走资派在党内。中央文革说要处理他们，你觉得他们会坐以待毙吗？事实上，他们会转移矛盾。
+	比如说湖人队吧。逼死老舍的联动西纠，都是保守派红卫兵（就是哪些大官的子女拉起来的）
 4. 还有其他原因
  比如说大跃进，确实是有天灾的因素（当然主要是人祸）。
  中国古代一次饥荒就有灾民无数，你怎么不提？
@@ -210,7 +211,7 @@
 
 ## 后记：需高考的学生怎么办
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3MjA5NzQ0MywxMTI4NzQ4MjYxLC0xMD
+eyJoaXN0b3J5IjpbLTg1MDExMDgxNSwxMTI4NzQ4MjYxLC0xMD
 Y3NDM0ODgxLC02MzM4MDU0NzMsLTE4MDg2NDAzMTgsMTAyMDI1
 MzU4NCwtMTAyNzQzNDMxNCwzNzQyNTQ4NDgsLTEyMjU4MjQzMz
 IsLTE5Njg3MzQzMTUsLTIxMjk0NTc3MTksNDY2NDgyNDU2LC0x

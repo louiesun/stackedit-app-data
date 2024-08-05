@@ -96,7 +96,7 @@
 。
 我们确实要承认某些伟人（当然包括马列毛）确实做出了一些重要的贡献。但是，他们都是顺着当时人民群众即时代的潮流，他们只是人民群众的代表。哪怕他们小时候死于车祸，因为这是时代的潮流，还是会有另一个人做这件事。
 特色宣传的某些造火箭的，是他一个人在攻关技术，还是整个产业链上所有的科学家，工人在一起努力呢？
-去同情亡国皇室的受凌辱，谁来关心战死的将士的家庭，还是他们已经死于兵荒马乱？
+去同情靖康之难亡国皇室的受凌辱，谁来关心战死的宋金将士的家庭，还是他们已经死于兵荒马乱？
 至于上面的那些“伟大者”了，人民应该感谢还是憎恨他们呢？
 
 ### 关于史料
@@ -169,10 +169,10 @@
 
 ## 后记：需高考的学生怎么办
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjc0MzQzMTQsMzc0MjU0ODQ4LC0xMj
-I1ODI0MzMyLC0xOTY4NzM0MzE1LC0yMTI5NDU3NzE5LDQ2NjQ4
-MjQ1NiwtMTM3ODA0Mzc3NCw5NTgyOTAxNzgsNTgxNTE5MjA3LD
-gyMDU1ODkxOSw4ODgxMTY0MTIsOTIyNjE1MTM0LC0xOTAxOTY1
-MjkyLC0xOTE3NDAzOTMwLC0zMTQyNTYyNzEsLTEyMTk5NzgzND
-IsLTExMTQ5MTMzNThdfQ==
+eyJoaXN0b3J5IjpbMTAyMDI1MzU4NCwtMTAyNzQzNDMxNCwzNz
+QyNTQ4NDgsLTEyMjU4MjQzMzIsLTE5Njg3MzQzMTUsLTIxMjk0
+NTc3MTksNDY2NDgyNDU2LC0xMzc4MDQzNzc0LDk1ODI5MDE3OC
+w1ODE1MTkyMDcsODIwNTU4OTE5LDg4ODExNjQxMiw5MjI2MTUx
+MzQsLTE5MDE5NjUyOTIsLTE5MTc0MDM5MzAsLTMxNDI1NjI3MS
+wtMTIxOTk3ODM0MiwtMTExNDkxMzM1OF19
 -->

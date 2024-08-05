@@ -8,11 +8,13 @@
 + 为了**避免影响宿友**，宿舍不允许食用泡面。所以当有同学食用时，宿舍同学都**帮他打掩护**。
 
 如果上面还是些无关痛痒的小笑话，我们自然还有大笑话。
-+ 八小时工作制？我们的学生都是新时代的劳动者（注意与“建设者”辨析，后面会提），高中起先早上七点上学晚上九点半放学。
++ 八小时工作制？我们的学生都是以后新时代的劳动者（注意与“建设者”辨析，后面会提），高中起先早上七点上学晚上九点半放学。
 + 双减？不说了，我们同学暑假都有报了四门课的。
 
 当然，其实这本册子本身**也是个笑话**。
-+ 学生，工人朋友都很忙，很累。往往仅剩的剩余时间能用来娱乐就差不多了，压根没空看这种破书。所以
++ 学生，工人朋友都很忙，很累。往往仅剩的剩余时间能用来娱乐就差不多了，压根没空看这种破书。所以写来也许没啥用。
+
+我不打算让我的打算就这样报废，所以也就只能尝试把这本册子写成一个笑话，**博得各位笑笑罢**。
 
 好了，该收回之前的引子了：
 > 之前中华总工会有一篇文章讲我们的“社会主义”“建设者”和“社会主义”劳动者之间的矛盾是内部矛盾，也就是**建设者不劳动，劳动者不建设**。
@@ -120,9 +122,9 @@
 
 ## 后记：需高考的学生怎么办
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwOTkyMzQ4OCw0NjY0ODI0NTYsLTEzNz
-gwNDM3NzQsOTU4MjkwMTc4LDU4MTUxOTIwNyw4MjA1NTg5MTks
-ODg4MTE2NDEyLDkyMjYxNTEzNCwtMTkwMTk2NTI5MiwtMTkxNz
-QwMzkzMCwtMzE0MjU2MjcxLC0xMjE5OTc4MzQyLC0xMTE0OTEz
-MzU4XX0=
+eyJoaXN0b3J5IjpbLTIxMjk0NTc3MTksNDY2NDgyNDU2LC0xMz
+c4MDQzNzc0LDk1ODI5MDE3OCw1ODE1MTkyMDcsODIwNTU4OTE5
+LDg4ODExNjQxMiw5MjI2MTUxMzQsLTE5MDE5NjUyOTIsLTE5MT
+c0MDM5MzAsLTMxNDI1NjI3MSwtMTIxOTk3ODM0MiwtMTExNDkx
+MzM1OF19
 -->

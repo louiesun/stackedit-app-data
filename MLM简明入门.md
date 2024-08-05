@@ -7,6 +7,8 @@
 + 为了**保护小草**，学校不允许踩踏草坪，但老师和国际部的小朋友可以随便踩。我们去踩了草坪中间的水泥板都能受到警告。不知道是不是同学们不满太多了，装修后学校干脆把草坪填成了塑胶。
 + 为了**避免影响宿友**，宿舍不允许食用泡面。所以当有同学食用时，宿舍同学都**帮他打掩护**。
 
+如果上面还是些无关痛痒的小笑话，我们自然还有大笑话。
++ 八小时工作制？我们的学生都是新时代的建设者，高中起先
 
 
 ## 资本，国家与法治
@@ -111,7 +113,7 @@
 
 ## 后记：需高考的学生怎么办
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2ODU1NDE3MSwtMTM3ODA0Mzc3NCw5NT
+eyJoaXN0b3J5IjpbMTY4MTAyOTY0NiwtMTM3ODA0Mzc3NCw5NT
 gyOTAxNzgsNTgxNTE5MjA3LDgyMDU1ODkxOSw4ODgxMTY0MTIs
 OTIyNjE1MTM0LC0xOTAxOTY1MjkyLC0xOTE3NDAzOTMwLC0zMT
 QyNTYyNzEsLTEyMTk5NzgzNDIsLTExMTQ5MTMzNThdfQ==

@@ -53,8 +53,8 @@
 3. 原材料：学生
 4. 商品：学生的成绩
 
-这就是为什么学校有军事化管理的倾向，因为只有让学生变得好管理，让学生听话，将其物化，才最便于加工学生，赚取利润。
-这也是为什么教师也会有zis
+这就是为什么学校有军事化管理的倾向，因为资本家只有让学生变得好管理，让学生听话，将其物化，才最便于加工学生，赚取利润。
+这也是为什么教师也会有自杀现象。在学校模型内，教师和学生都是被压迫的对象，只不过教师也是一个压迫物化加工的角色
 
 ### 脑力劳动与知识产权
 
@@ -142,9 +142,9 @@
 
 ## 后记：需高考的学生怎么办
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjA3OTIxNCwtMTk2ODczNDMxNSwtMj
-EyOTQ1NzcxOSw0NjY0ODI0NTYsLTEzNzgwNDM3NzQsOTU4Mjkw
-MTc4LDU4MTUxOTIwNyw4MjA1NTg5MTksODg4MTE2NDEyLDkyMj
-YxNTEzNCwtMTkwMTk2NTI5MiwtMTkxNzQwMzkzMCwtMzE0MjU2
-MjcxLC0xMjE5OTc4MzQyLC0xMTE0OTEzMzU4XX0=
+eyJoaXN0b3J5IjpbODAzODkwNjMzLC0xOTY4NzM0MzE1LC0yMT
+I5NDU3NzE5LDQ2NjQ4MjQ1NiwtMTM3ODA0Mzc3NCw5NTgyOTAx
+NzgsNTgxNTE5MjA3LDgyMDU1ODkxOSw4ODgxMTY0MTIsOTIyNj
+E1MTM0LC0xOTAxOTY1MjkyLC0xOTE3NDAzOTMwLC0zMTQyNTYy
+NzEsLTEyMTk5NzgzNDIsLTExMTQ5MTMzNThdfQ==
 -->

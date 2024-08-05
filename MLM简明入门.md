@@ -141,7 +141,8 @@
 	比如说湖人队吧。逼死老舍的联动西纠，都是保守派红卫兵（就是哪些大官的子女拉起来的）。可笑的是，上述组织改开后都被平反了。广西手下吃两脚羊的韦国清，就是保守派。
 	在比如说大跃进，当时主管这两事的就是刘少奇邓小平，毛泽东早就退居二线了。还严厉批评了这种浮夸风。
 4. 革命者不成熟
-   当然走资派捣乱也是利用
+   当然走资派捣乱也是利用群众的未受教育。群众被人利用，轻的跳跳忠字舞，严重的就可能把知识分子或者其他之类的迫害致死。
+   这里其实也有中央文革软弱的问题。
 6. 还有其他原因
  比如说大跃进，确实是有天灾的因素（当然主要是人祸）。
  中国古代一次饥荒就有灾民无数，你怎么不提？
@@ -214,7 +215,7 @@
 
 ## 后记：需高考的学生怎么办
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDA4MTIzNTMsMTEyODc0ODI2MSwtMT
+eyJoaXN0b3J5IjpbLTE3MzUwODUwMjMsMTEyODc0ODI2MSwtMT
 A2NzQzNDg4MSwtNjMzODA1NDczLC0xODA4NjQwMzE4LDEwMjAy
 NTM1ODQsLTEwMjc0MzQzMTQsMzc0MjU0ODQ4LC0xMjI1ODI0Mz
 MyLC0xOTY4NzM0MzE1LC0yMTI5NDU3NzE5LDQ2NjQ4MjQ1Niwt

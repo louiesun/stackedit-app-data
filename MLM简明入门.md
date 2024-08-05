@@ -123,9 +123,12 @@
 + 大跃进
 + 文革
 + 红色高棉
++ 张献忠（农民起义也算进步势力了，自然为共产党称道）
 
 但其实对于这种言论我们左左对这种都有公式了。
 
+1. 这不是共产党
+这里指波尔波特
 
 
 ### 文化大革命特别篇：马列毛主义
@@ -194,7 +197,7 @@
 
 ## 后记：需高考的学生怎么办
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3ODYzMzQ4NCwxMTI4NzQ4MjYxLC0xMD
+eyJoaXN0b3J5IjpbLTEzNjMyMjE4NSwxMTI4NzQ4MjYxLC0xMD
 Y3NDM0ODgxLC02MzM4MDU0NzMsLTE4MDg2NDAzMTgsMTAyMDI1
 MzU4NCwtMTAyNzQzNDMxNCwzNzQyNTQ4NDgsLTEyMjU4MjQzMz
 IsLTE5Njg3MzQzMTUsLTIxMjk0NTc3MTksNDY2NDgyNDU2LC0x

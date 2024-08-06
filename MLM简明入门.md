@@ -144,11 +144,11 @@
 4. 有坏人
 	既然不是一个党叫共产党就是共产党，也不是共产党里全部是共产主义者，不然也就没有苏修中修的事情了。
 	后面会提到的文革的经验是，走资派在党内。中央文革说要处理他们，你觉得他们会坐以待毙吗？事实上，他们会转移矛盾。
-	比如说湖人队吧。逼死老舍的联动西纠，都是保守派红卫兵（就是哪些大官的子女拉起来的）。可笑的是，上述组织改开后都被平反了。广西手下吃两脚羊的韦国清，就是保守派。
+	比如说湖人队吧。逼死老舍的联动西纠，都是保守派红卫兵（就是哪些大官的子女骗起来的群众）。可笑的是，上述组织改开后都被平反了。广西手下吃两脚羊的韦国清，就是保守派。
 	在比如说大跃进，当时**主管这两事的就是刘少奇邓小平**，毛泽东早就退居二线了。还严厉批评了这种浮夸风。
 5. 革命者不成熟
    当然走资派捣乱也是利用群众的未受教育（没错，又是教育，后面会提）。群众被人利用，轻的跳跳唐氏忠字舞，严重的就可能把知识分子或者其他之类的迫害致死。
-   这里其实也有**中央文革有点软弱**的问题，然后毛泽东则是半截身子进土里了，马上就要被做成腊肉了。
+   这里其实也有**中央文革有点软弱**的问题，然后毛泽东则是半截身子进土里了。
 6. 还有其他原因
  美国当时越战也波及了柬埔寨。
  再比如说大跃进，确实是有天灾的因素（当然主要是人祸）。
@@ -233,11 +233,11 @@
 
 ## 后记：需高考的学生怎么办
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Nzk3Mjc3ODUsMjA4MTA2MDU0NCwtMT
-YyNzkyNzA1NCwtMjAzMzc2NDQ2OCwtMTAzNTc4ODEwLDExMjg3
-NDgyNjEsLTEwNjc0MzQ4ODEsLTYzMzgwNTQ3MywtMTgwODY0MD
-MxOCwxMDIwMjUzNTg0LC0xMDI3NDM0MzE0LDM3NDI1NDg0OCwt
-MTIyNTgyNDMzMiwtMTk2ODczNDMxNSwtMjEyOTQ1NzcxOSw0Nj
-Y0ODI0NTYsLTEzNzgwNDM3NzQsOTU4MjkwMTc4LDU4MTUxOTIw
-Nyw4MjA1NTg5MTldfQ==
+eyJoaXN0b3J5IjpbLTk3MzE3MDQ2NCwyMDgxMDYwNTQ0LC0xNj
+I3OTI3MDU0LC0yMDMzNzY0NDY4LC0xMDM1Nzg4MTAsMTEyODc0
+ODI2MSwtMTA2NzQzNDg4MSwtNjMzODA1NDczLC0xODA4NjQwMz
+E4LDEwMjAyNTM1ODQsLTEwMjc0MzQzMTQsMzc0MjU0ODQ4LC0x
+MjI1ODI0MzMyLC0xOTY4NzM0MzE1LC0yMTI5NDU3NzE5LDQ2Nj
+Q4MjQ1NiwtMTM3ODA0Mzc3NCw5NTgyOTAxNzgsNTgxNTE5MjA3
+LDgyMDU1ODkxOV19
 -->

@@ -226,7 +226,7 @@
 先讲两个便于利用的漏洞：QUIC和域前置怎么利用。
 + 对于Windows（也就是电脑），可以下载我编写的Unofficial_Z_Access，根据里面的步骤，就可以访问很多的网站。
   + 蓝奏云：https://wwi.lanzouv.com/injaF26ouzbe，访问密码：2ji7，压缩包密码：UZA。
-
++ 对于Android，你需要先下载Unofficial_Z_Access，之后再根据里面的安卓配置指南操作。
 
 ### 寻找书籍知识
 
@@ -246,7 +246,7 @@
 
 ## 后记：需高考的学生怎么办
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODExNTA3NjEzLDE0MTcxNTc1LDkzNTQ3Nz
+eyJoaXN0b3J5IjpbMjA2NzA4NTk0LDE0MTcxNTc1LDkzNTQ3Nz
 A0NiwxMDc4MzYwMjIyLDIwODEwNjA1NDQsLTE2Mjc5MjcwNTQs
 LTIwMzM3NjQ0NjgsLTEwMzU3ODgxMCwxMTI4NzQ4MjYxLC0xMD
 Y3NDM0ODgxLC02MzM4MDU0NzMsLTE4MDg2NDAzMTgsMTAyMDI1

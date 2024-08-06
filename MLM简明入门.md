@@ -26,7 +26,10 @@
 + **中国租借**缅甸皎漂特区深水港**99年**。（https://liaoyuan1949.site/t/topic/25597）
 + ……
 
-最后，我要多一句。如果你觉得这本册子有些内容不对，无需在意，您
+最后，我要多一句。如果你觉得这本册子有些内容不对，无需在意，您仔细思辨各方文字，得到的结论往往才正确。
+> 真理是越辩越明的。
+
+可惜我并无本领和您隔空对话，您烦请脑中自辩吧。
 
 ## 资本，国家与法治
 
@@ -244,11 +247,11 @@
 
 ## 后记：需高考的学生怎么办
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTAzMzEwMiwtNTIyNjU5NTE0LC02Mj
-M4ODc5NDIsMjA2NzA4NTk0LDE0MTcxNTc1LDkzNTQ3NzA0Niwx
-MDc4MzYwMjIyLDIwODEwNjA1NDQsLTE2Mjc5MjcwNTQsLTIwMz
-M3NjQ0NjgsLTEwMzU3ODgxMCwxMTI4NzQ4MjYxLC0xMDY3NDM0
-ODgxLC02MzM4MDU0NzMsLTE4MDg2NDAzMTgsMTAyMDI1MzU4NC
-wtMTAyNzQzNDMxNCwzNzQyNTQ4NDgsLTEyMjU4MjQzMzIsLTE5
-Njg3MzQzMTVdfQ==
+eyJoaXN0b3J5IjpbODk4MDc1NTgwLC01MjI2NTk1MTQsLTYyMz
+g4Nzk0MiwyMDY3MDg1OTQsMTQxNzE1NzUsOTM1NDc3MDQ2LDEw
+NzgzNjAyMjIsMjA4MTA2MDU0NCwtMTYyNzkyNzA1NCwtMjAzMz
+c2NDQ2OCwtMTAzNTc4ODEwLDExMjg3NDgyNjEsLTEwNjc0MzQ4
+ODEsLTYzMzgwNTQ3MywtMTgwODY0MDMxOCwxMDIwMjUzNTg0LC
+0xMDI3NDM0MzE0LDM3NDI1NDg0OCwtMTIyNTgyNDMzMiwtMTk2
+ODczNDMxNV19
 -->

@@ -217,7 +217,7 @@
 
 ### 越过GFW
 
-特色
+如果你在网上看到过什么网站，比方说google, twitter却发现
 
 ### 寻找书籍知识
 
@@ -237,7 +237,7 @@
 
 ## 后记：需高考的学生怎么办
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2Nzg4MTMzMSw5MzU0NzcwNDYsMTA3OD
+eyJoaXN0b3J5IjpbLTQ0MjIzMTA3Nyw5MzU0NzcwNDYsMTA3OD
 M2MDIyMiwyMDgxMDYwNTQ0LC0xNjI3OTI3MDU0LC0yMDMzNzY0
 NDY4LC0xMDM1Nzg4MTAsMTEyODc0ODI2MSwtMTA2NzQzNDg4MS
 wtNjMzODA1NDczLC0xODA4NjQwMzE4LDEwMjAyNTM1ODQsLTEw

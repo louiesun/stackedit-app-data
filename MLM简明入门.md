@@ -148,11 +148,13 @@
 	在比如说大跃进，当时**主管这两事的就是刘少奇邓小平**，毛泽东早就退居二线了。还严厉批评了这种浮夸风。
 5. 革命者不成熟
    当然走资派捣乱也是利用群众的未受教育（没错，又是教育，后面会提）。群众被人利用，轻的跳跳唐氏忠字舞，严重的就可能把知识分子或者其他之类的迫害致死。
-   这里其实也有**中央文革有点软弱**的问题，然后毛泽东则是半截身子进土里了。
+   这里其实也有**中央文革有点软弱**的问题，然后毛泽东则是半截身子进土里了，马上就要被做成腊肉了。
 6. 还有其他原因
  美国当时越战也波及了柬埔寨。
  再比如说大跃进，确实是有天灾的因素（当然主要是人祸）。
  中国古代一次饥荒就有灾民无数，你怎么不提？
+
+总而言之，还是去数数**两次世界大战**死了多少人罢。
 
 ### 文化大革命特别篇：马列毛主义
 
@@ -231,11 +233,11 @@
 
 ## 后记：需高考的学生怎么办
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Mjc5MjcwNTQsLTIwMzM3NjQ0NjgsLT
-EwMzU3ODgxMCwxMTI4NzQ4MjYxLC0xMDY3NDM0ODgxLC02MzM4
-MDU0NzMsLTE4MDg2NDAzMTgsMTAyMDI1MzU4NCwtMTAyNzQzND
-MxNCwzNzQyNTQ4NDgsLTEyMjU4MjQzMzIsLTE5Njg3MzQzMTUs
-LTIxMjk0NTc3MTksNDY2NDgyNDU2LC0xMzc4MDQzNzc0LDk1OD
-I5MDE3OCw1ODE1MTkyMDcsODIwNTU4OTE5LDg4ODExNjQxMiw5
-MjI2MTUxMzRdfQ==
+eyJoaXN0b3J5IjpbMjA4MTA2MDU0NCwtMTYyNzkyNzA1NCwtMj
+AzMzc2NDQ2OCwtMTAzNTc4ODEwLDExMjg3NDgyNjEsLTEwNjc0
+MzQ4ODEsLTYzMzgwNTQ3MywtMTgwODY0MDMxOCwxMDIwMjUzNT
+g0LC0xMDI3NDM0MzE0LDM3NDI1NDg0OCwtMTIyNTgyNDMzMiwt
+MTk2ODczNDMxNSwtMjEyOTQ1NzcxOSw0NjY0ODI0NTYsLTEzNz
+gwNDM3NzQsOTU4MjkwMTc4LDU4MTUxOTIwNyw4MjA1NTg5MTks
+ODg4MTE2NDEyXX0=
 -->

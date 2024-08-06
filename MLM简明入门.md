@@ -115,6 +115,8 @@
 
 总而言之，我想表达的是，我希望能通过历史的一些“假说”（也许吧），说明一下我们应该怎么办。
 
+不过史料还是有的，我在后面会列举一些其他同志做的工作。
+
 ### 为＂屠杀＂辩护：万能公式
 
 生命权自然重要，所以经常有人说共产党杀了很多人。
@@ -233,7 +235,7 @@
 
 ## 后记：需高考的学生怎么办
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3MzE3MDQ2NCwyMDgxMDYwNTQ0LC0xNj
+eyJoaXN0b3J5IjpbMTA3ODM2MDIyMiwyMDgxMDYwNTQ0LC0xNj
 I3OTI3MDU0LC0yMDMzNzY0NDY4LC0xMDM1Nzg4MTAsMTEyODc0
 ODI2MSwtMTA2NzQzNDg4MSwtNjMzODA1NDczLC0xODA4NjQwMz
 E4LDEwMjAyNTM1ODQsLTEwMjc0MzQzMTQsMzc0MjU0ODQ4LC0x

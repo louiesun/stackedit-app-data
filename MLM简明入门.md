@@ -218,6 +218,8 @@
 
 其实这章我本来打算和其他一大堆东西单开一本《互联网基础》的，但是那种手册现在写了真心意义不大，工人同志根本没时间看没机会用。这种册子也许要等到打败资产阶级政权之后（轮不到我）完成吧，毕竟到时候很多东西需要重写。
 
+这章也不好写，一方面我要考虑自己的隐私问题。但是主要是计算机的东西，最好还得上计算机说，多，现在刊印在册子上，
+
 ### 越过GFW
 
 如果你在网上看到过什么网站，比方说google, twitter却发现上不去，那这就是GFW的功劳。（安分守己地刷抖音？有些资讯你在能正常访问的网站上是找不到的。）
@@ -247,11 +249,11 @@
 
 ## 后记：需高考的学生怎么办
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk4MDc1NTgwLC01MjI2NTk1MTQsLTYyMz
-g4Nzk0MiwyMDY3MDg1OTQsMTQxNzE1NzUsOTM1NDc3MDQ2LDEw
-NzgzNjAyMjIsMjA4MTA2MDU0NCwtMTYyNzkyNzA1NCwtMjAzMz
-c2NDQ2OCwtMTAzNTc4ODEwLDExMjg3NDgyNjEsLTEwNjc0MzQ4
-ODEsLTYzMzgwNTQ3MywtMTgwODY0MDMxOCwxMDIwMjUzNTg0LC
-0xMDI3NDM0MzE0LDM3NDI1NDg0OCwtMTIyNTgyNDMzMiwtMTk2
-ODczNDMxNV19
+eyJoaXN0b3J5IjpbLTM4ODA0MzM0NSwtNTIyNjU5NTE0LC02Mj
+M4ODc5NDIsMjA2NzA4NTk0LDE0MTcxNTc1LDkzNTQ3NzA0Niwx
+MDc4MzYwMjIyLDIwODEwNjA1NDQsLTE2Mjc5MjcwNTQsLTIwMz
+M3NjQ0NjgsLTEwMzU3ODgxMCwxMTI4NzQ4MjYxLC0xMDY3NDM0
+ODgxLC02MzM4MDU0NzMsLTE4MDg2NDAzMTgsMTAyMDI1MzU4NC
+wtMTAyNzQzNDMxNCwzNzQyNTQ4NDgsLTEyMjU4MjQzMzIsLTE5
+Njg3MzQzMTVdfQ==
 -->

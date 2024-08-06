@@ -154,7 +154,7 @@
  再比如说大跃进，确实是有天灾的因素（当然主要是人祸）。
  中国古代一次饥荒就有灾民无数，你怎么不提？
 
-总而言之，还是去数数**两次世界大战**死了多少人罢。
+总而言之，还是去数数**两次世界大战**和死了多少人罢。
 
 ### 文化大革命特别篇：马列毛主义
 
@@ -233,11 +233,11 @@
 
 ## 后记：需高考的学生怎么办
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4MTA2MDU0NCwtMTYyNzkyNzA1NCwtMj
-AzMzc2NDQ2OCwtMTAzNTc4ODEwLDExMjg3NDgyNjEsLTEwNjc0
-MzQ4ODEsLTYzMzgwNTQ3MywtMTgwODY0MDMxOCwxMDIwMjUzNT
-g0LC0xMDI3NDM0MzE0LDM3NDI1NDg0OCwtMTIyNTgyNDMzMiwt
-MTk2ODczNDMxNSwtMjEyOTQ1NzcxOSw0NjY0ODI0NTYsLTEzNz
-gwNDM3NzQsOTU4MjkwMTc4LDU4MTUxOTIwNyw4MjA1NTg5MTks
-ODg4MTE2NDEyXX0=
+eyJoaXN0b3J5IjpbLTE2NTgxMzYwOTgsMjA4MTA2MDU0NCwtMT
+YyNzkyNzA1NCwtMjAzMzc2NDQ2OCwtMTAzNTc4ODEwLDExMjg3
+NDgyNjEsLTEwNjc0MzQ4ODEsLTYzMzgwNTQ3MywtMTgwODY0MD
+MxOCwxMDIwMjUzNTg0LC0xMDI3NDM0MzE0LDM3NDI1NDg0OCwt
+MTIyNTgyNDMzMiwtMTk2ODczNDMxNSwtMjEyOTQ1NzcxOSw0Nj
+Y0ODI0NTYsLTEzNzgwNDM3NzQsOTU4MjkwMTc4LDU4MTUxOTIw
+Nyw4MjA1NTg5MTldfQ==
 -->

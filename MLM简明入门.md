@@ -219,7 +219,9 @@
 
 如果你在网上看到过什么网站，比方说google, twitter却发现上不去，那这就是GFW的功劳。（安分守己地刷抖音？有些资讯你在能正常访问的网站上是找不到的。）
 
-事实是，如果你不想自己说的每句话都被特色的
+事实是，如果你不想自己说的每句话都被特色的军警看着，想要稍微更自由的说话，那越过GFW是很必要的。
+
+首先要纠正一点，如果你把GFW想象成一堵密不透风的墙，把国内围起来，那就错了。事实上，墙上有dalina
 
 ### 寻找书籍知识
 
@@ -239,11 +241,11 @@
 
 ## 后记：需高考的学生怎么办
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTY4Nzg5MTgsOTM1NDc3MDQ2LDEwNz
-gzNjAyMjIsMjA4MTA2MDU0NCwtMTYyNzkyNzA1NCwtMjAzMzc2
-NDQ2OCwtMTAzNTc4ODEwLDExMjg3NDgyNjEsLTEwNjc0MzQ4OD
-EsLTYzMzgwNTQ3MywtMTgwODY0MDMxOCwxMDIwMjUzNTg0LC0x
-MDI3NDM0MzE0LDM3NDI1NDg0OCwtMTIyNTgyNDMzMiwtMTk2OD
-czNDMxNSwtMjEyOTQ1NzcxOSw0NjY0ODI0NTYsLTEzNzgwNDM3
-NzQsOTU4MjkwMTc4XX0=
+eyJoaXN0b3J5IjpbLTMyMTQ1MzYwMCw5MzU0NzcwNDYsMTA3OD
+M2MDIyMiwyMDgxMDYwNTQ0LC0xNjI3OTI3MDU0LC0yMDMzNzY0
+NDY4LC0xMDM1Nzg4MTAsMTEyODc0ODI2MSwtMTA2NzQzNDg4MS
+wtNjMzODA1NDczLC0xODA4NjQwMzE4LDEwMjAyNTM1ODQsLTEw
+Mjc0MzQzMTQsMzc0MjU0ODQ4LC0xMjI1ODI0MzMyLC0xOTY4Nz
+M0MzE1LC0yMTI5NDU3NzE5LDQ2NjQ4MjQ1NiwtMTM3ODA0Mzc3
+NCw5NTgyOTAxNzhdfQ==
 -->

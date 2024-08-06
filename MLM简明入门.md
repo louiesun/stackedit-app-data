@@ -218,7 +218,7 @@
 
 其实这章我本来打算和其他一大堆东西单开一本《互联网基础》的，但是那种手册现在写了真心意义不大，工人同志根本没时间看没机会用。这种册子也许要等到打败资产阶级政权之后（轮不到我）完成吧，毕竟到时候很多东西需要重写。
 
-这章也不好写，一方面我要考虑自己的隐私问题。但是主要是计算机的东西，最好还得上计算机说，多，现在刊印在册子上，
+这章也不好写，一方面我要考虑自己的隐私问题。但是主要是计算机的东西，最好还得上计算机说，我可能能写个交互式教程之类的，但是现在刊印在册子上，您可能要折腾的就比较多。
 
 ### 越过GFW
 
@@ -249,7 +249,7 @@
 
 ## 后记：需高考的学生怎么办
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4ODA0MzM0NSwtNTIyNjU5NTE0LC02Mj
+eyJoaXN0b3J5IjpbMjAxMTA2NjQ3NywtNTIyNjU5NTE0LC02Mj
 M4ODc5NDIsMjA2NzA4NTk0LDE0MTcxNTc1LDkzNTQ3NzA0Niwx
 MDc4MzYwMjIyLDIwODEwNjA1NDQsLTE2Mjc5MjcwNTQsLTIwMz
 M3NjQ0NjgsLTEwMzU3ODgxMCwxMTI4NzQ4MjYxLC0xMDY3NDM0

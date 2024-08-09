@@ -3,7 +3,7 @@
 
 打开之后下面很明显有个文本框（Enter a URL or a search query to access），键入 https://app.element.io/ （其他也行，但是我以这个matrix官方的为例）。接下来会跳转代理，尽可能刷一个51开头的，快。（如果不是，可以回退重新进，刷一个快的。）
 
-如果显示`Your `，找到`I understand the risk and continue`这个按钮（本来也就只有一个按钮）。
+如果显示`Your browser can't run Element`，找到`I understand the risk and continue`这个按钮（本来也就只有一个按钮）。
 
 接下来点`Create Account`。
 
@@ -15,8 +15,14 @@
 
 然后他应该会提示注册成功，让你你保存自己的Security Key（我忘了是哪个页面了，反正是上面两个页面之一），你会下载一个txt，务必保存好！！不要泄露！！！
 
-接下来你就可以登录了，直接打开 https://app.element.io 客户端，然后Login，输入账号密码，他会提示你提供Security Key，照提示做
+接下来你就可以登录了，直接打开 https://app.element.io 客户端，然后Login，输入账号密码，他会提示你提供Security Key，照提示做即可。
+
+务必注意保存好你的Security Key，不然你换个地方可能无法登录，且一定无法看加密消息！
+
+###### 借道Github
+
+首先你需要注册一个Github号，
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1NjY0ODQxNyw4MDg0NTc0OTcsMzQ4MD
+eyJoaXN0b3J5IjpbLTk4Nzk0MjU2Miw4MDg0NTc0OTcsMzQ4MD
 kwNzk4XX0=
 -->

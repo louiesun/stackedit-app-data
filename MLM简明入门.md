@@ -249,7 +249,9 @@ start "" "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --host-r
 
 或者到这里（https://louiesun-github-io.pages.dev/Unofficial_Z_Access/WebGenerator.html ）下载。
 
-如果你没有装Edge，可以到 https://cn.bing.com 搜索 `Microsoft Edge`  下载
+如果你没有装Edge，可以到 https://cn.bing.com 搜索 `Microsoft Edge`  下载。
+
+如果你担心适用Edge的隐私问题，我推荐Ungoogled_Chromium（https://ungoogled-software.github.io/ungoogled-chromium-binaries/ ）。然后传入命令行参数即可。（）
 
 ### 寻找书籍知识
 
@@ -269,7 +271,7 @@ start "" "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --host-r
 
 ## 后记：需高考的学生怎么办
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzI0Mzc4MjUsMjAxMTA2NjQ3NywtNT
+eyJoaXN0b3J5IjpbLTEyMDU3MTQ2NjgsMjAxMTA2NjQ3NywtNT
 IyNjU5NTE0LC02MjM4ODc5NDIsMjA2NzA4NTk0LDE0MTcxNTc1
 LDkzNTQ3NzA0NiwxMDc4MzYwMjIyLDIwODEwNjA1NDQsLTE2Mj
 c5MjcwNTQsLTIwMzM3NjQ0NjgsLTEwMzU3ODgxMCwxMTI4NzQ4

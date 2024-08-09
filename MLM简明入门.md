@@ -507,11 +507,11 @@ chrome://version/
 大群是我所知道唯一一个：
 + 马列毛主义的，真心革命的（造反）。
 + 有严密组织的（真心要发展成先锋队的），地下的。
-+ 有同志开始
++ 有同志开始以政治灌输为目的的有组织融工的。
 
 的组织，同时也是最成熟的（比较下）组织。
 
-当然我眼中大群也有不少需要改进的地方，不在这里讲了。
+当然我眼中大群**也有不少需要改进的地方**，不在这里讲了。
 
 ### 大学生怎么办
 
@@ -519,7 +519,7 @@ chrome://version/
 
 ## 后记：需高考的学生怎么办
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0NTYwNjY0LDEwMzQ0NDYyNDUsMjAxMT
+eyJoaXN0b3J5IjpbLTMzMzcxNTAyLDEwMzQ0NDYyNDUsMjAxMT
 A2NjQ3NywtNTIyNjU5NTE0LC02MjM4ODc5NDIsMjA2NzA4NTk0
 LDE0MTcxNTc1LDkzNTQ3NzA0NiwxMDc4MzYwMjIyLDIwODEwNj
 A1NDQsLTE2Mjc5MjcwNTQsLTIwMzM3NjQ0NjgsLTEwMzU3ODgx

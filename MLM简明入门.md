@@ -251,11 +251,15 @@ start "" "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --host-r
 
 如果你没有装Edge，可以到 https://cn.bing.com 搜索 `Microsoft Edge`  下载。
 
-如果你担心适用Edge的隐私问题，我推荐Ungoogled_Chromium（https://ungoogled-software.github.io/ungoogled-chromium-binaries/ ）。然后传入命令行参数即可。（如果你不用Edge，我不提供详细的说明，需要你自己的计算机计基础）。
+如果你担心适用Edge的隐私问题，我推荐Ungoogled_Chromium（https://ungoogled-software.github.io/ungoogled-chromium-binaries/ ）。彻底退出然后传入命令行参数即可。（如果你不用Edge，我不提供详细的说明，需要你自己的计算机计基础）。
 
 #### Mac或者GNU/Linux
 
-适用Chromium系浏览器传入对应命令行参数即可。
+彻底退出后使用Chromium系浏览器传入对应命令行参数即可。
+
+#### Android
+
+Android系统要比Windows麻烦一点，需要适用ADB，我这里提供一个教程。
 
 
 
@@ -277,11 +281,11 @@ start "" "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --host-r
 
 ## 后记：需高考的学生怎么办
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwNTc4MDIwMSwyMDExMDY2NDc3LC01Mj
-I2NTk1MTQsLTYyMzg4Nzk0MiwyMDY3MDg1OTQsMTQxNzE1NzUs
-OTM1NDc3MDQ2LDEwNzgzNjAyMjIsMjA4MTA2MDU0NCwtMTYyNz
-kyNzA1NCwtMjAzMzc2NDQ2OCwtMTAzNTc4ODEwLDExMjg3NDgy
-NjEsLTEwNjc0MzQ4ODEsLTYzMzgwNTQ3MywtMTgwODY0MDMxOC
-wxMDIwMjUzNTg0LC0xMDI3NDM0MzE0LDM3NDI1NDg0OCwtMTIy
-NTgyNDMzMl19
+eyJoaXN0b3J5IjpbNjY3MjY0OTg1LDIwMTEwNjY0NzcsLTUyMj
+Y1OTUxNCwtNjIzODg3OTQyLDIwNjcwODU5NCwxNDE3MTU3NSw5
+MzU0NzcwNDYsMTA3ODM2MDIyMiwyMDgxMDYwNTQ0LC0xNjI3OT
+I3MDU0LC0yMDMzNzY0NDY4LC0xMDM1Nzg4MTAsMTEyODc0ODI2
+MSwtMTA2NzQzNDg4MSwtNjMzODA1NDczLC0xODA4NjQwMzE4LD
+EwMjAyNTM1ODQsLTEwMjc0MzQzMTQsMzc0MjU0ODQ4LC0xMjI1
+ODI0MzMyXX0=
 -->

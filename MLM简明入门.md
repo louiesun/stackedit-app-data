@@ -431,7 +431,12 @@ chrome://version/
 
 我这里介绍matrix大群，Telegram大群自行看燎原月刊（https://liaoyuan.store 找）
 
-首先，你需要一个Matrix客户端（zhex），比方说：
+首先，你需要一个Matrix客户端（这些2024年都没被墙），比方说：
++ https://app.element.io
++ https://app.cinny.in
++ https://matrix.org/ecosystem/clients/ 中所有支持web的客户端。
+
+直接进去，可能要等一会儿
 
 
 ### 大学生怎么办
@@ -440,11 +445,11 @@ chrome://version/
 
 ## 后记：需高考的学生怎么办
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk0MjM0MTUwLDEwMzQ0NDYyNDUsMjAxMT
-A2NjQ3NywtNTIyNjU5NTE0LC02MjM4ODc5NDIsMjA2NzA4NTk0
-LDE0MTcxNTc1LDkzNTQ3NzA0NiwxMDc4MzYwMjIyLDIwODEwNj
-A1NDQsLTE2Mjc5MjcwNTQsLTIwMzM3NjQ0NjgsLTEwMzU3ODgx
-MCwxMTI4NzQ4MjYxLC0xMDY3NDM0ODgxLC02MzM4MDU0NzMsLT
-E4MDg2NDAzMTgsMTAyMDI1MzU4NCwtMTAyNzQzNDMxNCwzNzQy
-NTQ4NDhdfQ==
+eyJoaXN0b3J5IjpbLTM3NTQ3ODEyMywxMDM0NDQ2MjQ1LDIwMT
+EwNjY0NzcsLTUyMjY1OTUxNCwtNjIzODg3OTQyLDIwNjcwODU5
+NCwxNDE3MTU3NSw5MzU0NzcwNDYsMTA3ODM2MDIyMiwyMDgxMD
+YwNTQ0LC0xNjI3OTI3MDU0LC0yMDMzNzY0NDY4LC0xMDM1Nzg4
+MTAsMTEyODc0ODI2MSwtMTA2NzQzNDg4MSwtNjMzODA1NDczLC
+0xODA4NjQwMzE4LDEwMjAyNTM1ODQsLTEwMjc0MzQzMTQsMzc0
+MjU0ODQ4XX0=
 -->

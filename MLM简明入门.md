@@ -1,5 +1,7 @@
 # MlM简明入门
 
+[toc]
+
 ## 自序——到处是笑话
 
 我打算开始写这本册子，心理自然和大部分朋友一样，心理都是有怨气的。什么怨气呢？——笑话（将要）发生在自己身上了。
@@ -359,7 +361,7 @@ echo "$(<chrome-command-line)"
 会输出类似这样的内容：
 
 ```text
-_ --host-resolver-rules="MAP bu2021.xyz 172.64.145.17:443,MAP annas-archive.se 172.64.145.17:443" -origin-to-force-quic-on=bu2021.xyz:443,annas-archive.se:443 --host-rules="MAP libgen.rs 193.218.118.42,MAP zh.singlelogin.re 176.123.7.105,MAP singlelogin.re 176.123.7.105" --ignore-certificate-errors
+_ --host-resolver-rules=" ... 后面一堆东西
 ```
 
 OK，键入
@@ -401,9 +403,9 @@ chrome://version/
 
 ##### 第五部分：愉快上网
 
-使用KiWi浏览器，键入`https://`
+使用KiWi浏览器，键入`https://longlivemarxleninmaoism.online`
 
-## 安卓更新指南
+##### 附：更新指南
 
 1. 重新连接adb（如果你没有卸载Termux，不用`pair`，直接`connect`即可）。
 2. 设置command-line。
@@ -427,7 +429,7 @@ chrome://version/
 
 ## 后记：需高考的学生怎么办
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwMTgxMjQ1NCwyMDExMDY2NDc3LC01Mj
+eyJoaXN0b3J5IjpbMTMwNTExNTk0NSwyMDExMDY2NDc3LC01Mj
 I2NTk1MTQsLTYyMzg4Nzk0MiwyMDY3MDg1OTQsMTQxNzE1NzUs
 OTM1NDc3MDQ2LDEwNzgzNjAyMjIsMjA4MTA2MDU0NCwtMTYyNz
 kyNzA1NCwtMjAzMzc2NDQ2OCwtMTAzNTc4ODEwLDExMjg3NDgy

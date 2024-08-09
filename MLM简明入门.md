@@ -436,7 +436,9 @@ chrome://version/
 + https://app.cinny.in
 + https://matrix.org/ecosystem/clients/ 中所有支持web的客户端。
 
-直接进去，可能要等一会儿
+直接进去，可能要等一会儿。
+
+服务器直接用默认（matrix.org不用改，大群的github号是推荐oblak，但是oblak好像现在不开放注册了，而且上海很卡，根本加载不出，所以我们域前置用matrix）。(matrix虽然用了默认不支持的cloudfa)
 
 
 ### 大学生怎么办
@@ -445,7 +447,7 @@ chrome://version/
 
 ## 后记：需高考的学生怎么办
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3NTQ3ODEyMywxMDM0NDQ2MjQ1LDIwMT
+eyJoaXN0b3J5IjpbLTQxNjE2MDk4MiwxMDM0NDQ2MjQ1LDIwMT
 EwNjY0NzcsLTUyMjY1OTUxNCwtNjIzODg3OTQyLDIwNjcwODU5
 NCwxNDE3MTU3NSw5MzU0NzcwNDYsMTA3ODM2MDIyMiwyMDgxMD
 YwNTQ0LC0xNjI3OTI3MDU0LC0yMDMzNzY0NDY4LC0xMDM1Nzg4

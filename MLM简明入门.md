@@ -282,7 +282,7 @@ Android系统要比Windows麻烦一点，需要适用ADB，我这里提供一个
 echo "_ --host-resolver-rules=\"MAP longlivemarxleninmaoism.online 104.19.112.155:443,MAP annas-archive.se 104.19.112.155:443,MAP zh.annas-archive.se 104.19.112.155:443,MAP www.recaptcha.net 114.250.70.34:443,MAP odysee.com 104.19.112.156:443,MAP api.na-backend.odysee.com 104.19.112.156:443,MAP api.odysee.com 104.19.112.156:443,MAP z-library.rs 104.19.113.157:443,MAP zh.z-library.rs 104.19.113.157:443,MAP reader.z-library.rs 104.19.113.157:443,MAP dlz1.fcdn.sk 104.19.113.157:443,MAP cdn.croxy.network 104.19.113.157:443,MAP apkmirror.com 104.19.113.157:443,MAP www.apkmirror.com 104.19.113.157:443\" -origin-to-force-quic-on=longlivemarxleninmaoism.online:443,annas-archive.se:443,zh.annas-archive.se:443,odysee.com:443,api.na-backend.odysee.com:443,api.odysee.com:443,z-library.rs:443,zh.z-library.rs:443,reader.z-library.rs:443,dlz1.fcdn.sk:443,cdn.croxy.network:443,apkmirror.com:443,www.apkmirror.com:443 --host-rules=\"MAP www.matrix.org 104.20.76.252,MAP matrix.org 104.20.76.252,MAP matrix-client.matrix.org 104.20.76.252,MAP www.croxy.network 143.244.204.138,MAP libgen.rs 193.218.118.42,MAP zh.singlelogin.re 176.123.7.105,MAP singlelogin.re 176.123.7.105,MAP github.com 20.205.243.166\" --ignore-certificate-errors" > chrome-command-line
 ```
 
-你也可以去上面介绍的网站生成
+你也可以去上面介绍的网站生成。
 
 ##### 第二部分：开启ADB
 
@@ -292,7 +292,7 @@ echo "_ --host-resolver-rules=\"MAP longlivemarxleninmaoism.online 104.19.112.15
 
 进入Termux后，是一个命令行界面。
 
-你可以考虑换清华源，见镜像站官方帮助文档（(https://mirrors.tuna.tsinghua.edu.cn/help/termux/）
+你可以考虑换清华源，见镜像站官方帮助文档（https://mirrors.tuna.tsinghua.edu.cn/help/termux/ ）
 
 依次执行以下命令：（如果遇到提问，直接`Enter`走默认）
 
@@ -302,7 +302,7 @@ apt upgrade
 pkg install android-tools
 ```
 
-#### 连接ADB
+###### 连接ADB
 
 其他系统（UI）请自行搜索或探索办法。
 
@@ -335,7 +335,7 @@ pkg install android-tools
     
     应该返回`Connected Successfully`之类的，然后无线调试窗口的已配对设备会显示已连接，连接完成。`Termux`不要退出。
 
-#### 设置command-line
+###### 设置command-line
 
 上一步完成后，继续键入命令并`Enter`（比如说在`Termux`里）。
 
@@ -371,7 +371,7 @@ adb disconnect
 
 关闭无线调试，关闭开发者模式，关闭Termux。
 
-### 第三部分：打开ChromeFlag
+##### 第三部分：打开ChromeFlag
 
 还记得Kiwi吗。
 
@@ -387,7 +387,7 @@ chrome://flags/
 
 退出Kiwi，杀掉所有进程，**重启手机**。
 
-### 第四部分：确认设置成功
+##### 第四部分：确认设置成功
 
 重新打开Kiwi。
 
@@ -399,9 +399,9 @@ chrome://version/
 
 确认命令行栏有`_`打头，如果没有，再次杀掉所有进程，重启，不断重复知道出现`_`。
 
-### 第五部分：愉快上网
+##### 第五部分：愉快上网
 
-使用KiWi浏览器，键入`https://zh.singlelogin.re`
+使用KiWi浏览器，键入`https://`
 
 ## 安卓更新指南
 
@@ -427,7 +427,7 @@ chrome://version/
 
 ## 后记：需高考的学生怎么办
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzNzk3MzgzNiwyMDExMDY2NDc3LC01Mj
+eyJoaXN0b3J5IjpbMTAwMTgxMjQ1NCwyMDExMDY2NDc3LC01Mj
 I2NTk1MTQsLTYyMzg4Nzk0MiwyMDY3MDg1OTQsMTQxNzE1NzUs
 OTM1NDc3MDQ2LDEwNzgzNjAyMjIsMjA4MTA2MDU0NCwtMTYyNz
 kyNzA1NCwtMjAzMzc2NDQ2OCwtMTAzNTc4ODEwLDExMjg3NDgy

@@ -13,10 +13,10 @@
 
 接下来，去你的邮箱（不要关掉上一个页面），找matrix给你发的邮件（收件箱里找不到去垃圾邮件里找），复制那个链接打开（好像也可以直接打开）。注意这一步不需要那个网页代理。
 
-然后他应该会提示注册c你保存自己的Security Key（我忘了是哪个页面了，反正是上面两个页面之一），你会下载一个txt，务必保存好！！不要泄露！！！
+然后他应该会提示注册成功，让你你保存自己的Security Key（我忘了是哪个页面了，反正是上面两个页面之一），你会下载一个txt，务必保存好！！不要泄露！！！
 
-然后
+接下来你就可以登录了，直接打开 https://app.element.io 客户端，然后Login，输入账号密码，他会提示你提供Secu
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyNTcwNDM4MSw4MDg0NTc0OTcsMzQ4MD
+eyJoaXN0b3J5IjpbLTQ3MTc2OTA1Niw4MDg0NTc0OTcsMzQ4MD
 kwNzk4XX0=
 -->

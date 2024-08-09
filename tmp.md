@@ -11,8 +11,10 @@
 
 接下来你需要通过人机验证，等待recaptcha加载后~~开始找自行车和红绿灯~~，走流程，记得小心不要点错。（就是因为这玩意才需要网页代理）
 
-接下来，去你的邮箱，找matrix给你发的邮件
+接下来，去你的邮箱（），找matrix给你发的邮件（收件箱里找不到去垃圾邮件里找），复制那个链接打开（好像也可以直接打开）。注意这一步不需要那个网页代理。
+
+然后他应该
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4MDEyNDA4Miw4MDg0NTc0OTcsMzQ4MD
-kwNzk4XX0=
+eyJoaXN0b3J5IjpbLTE0NzgxMDM0MTAsODA4NDU3NDk3LDM0OD
+A5MDc5OF19
 -->

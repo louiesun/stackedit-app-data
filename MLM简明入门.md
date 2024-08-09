@@ -421,17 +421,23 @@ chrome://version/
 
 ### 布站与大群及为什么
 
+这个教程基于上面的`越过GFW章节`。
+#### 布站
+直接打`https://longlivemarxleninmaoism.online`。
+
+或者没翻进`https://liaoyuan.store`找，但是注意由于大群技术yuan
+
 ### 大学生怎么办
 
 ### 工人怎么办
 
 ## 后记：需高考的学生怎么办
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzNDQ0NjI0NSwyMDExMDY2NDc3LC01Mj
-I2NTk1MTQsLTYyMzg4Nzk0MiwyMDY3MDg1OTQsMTQxNzE1NzUs
-OTM1NDc3MDQ2LDEwNzgzNjAyMjIsMjA4MTA2MDU0NCwtMTYyNz
-kyNzA1NCwtMjAzMzc2NDQ2OCwtMTAzNTc4ODEwLDExMjg3NDgy
-NjEsLTEwNjc0MzQ4ODEsLTYzMzgwNTQ3MywtMTgwODY0MDMxOC
-wxMDIwMjUzNTg0LC0xMDI3NDM0MzE0LDM3NDI1NDg0OCwtMTIy
-NTgyNDMzMl19
+eyJoaXN0b3J5IjpbLTE2NDg5NzU2NSwxMDM0NDQ2MjQ1LDIwMT
+EwNjY0NzcsLTUyMjY1OTUxNCwtNjIzODg3OTQyLDIwNjcwODU5
+NCwxNDE3MTU3NSw5MzU0NzcwNDYsMTA3ODM2MDIyMiwyMDgxMD
+YwNTQ0LC0xNjI3OTI3MDU0LC0yMDMzNzY0NDY4LC0xMDM1Nzg4
+MTAsMTEyODc0ODI2MSwtMTA2NzQzNDg4MSwtNjMzODA1NDczLC
+0xODA4NjQwMzE4LDEwMjAyNTM1ODQsLTEwMjc0MzQzMTQsMzc0
+MjU0ODQ4XX0=
 -->

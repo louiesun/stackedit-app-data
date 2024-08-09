@@ -456,6 +456,32 @@ chrome://version/
 
 打开之后下面很明显有个文本框（Enter a URL or a search query to access），键入 https://app.element.io/ （其他也行，但是我以这个matrix官方的为例）。接下来会跳转代理，尽可能刷一个51开头的，快。（如果不是，可以回退重新进，刷一个快的。）
 
+如果显示`Your browser can't run Element`，找到`I understand the risk and continue`这个按钮（本来也就只有一个按钮）。
+
+接下来点`Create Account`。
+
+写一个合适的username（用户名），设置一个合适的Password（密码），填入你的邮箱。
+
+接下来你需要通过人机验证，等待recaptcha加载后~~开始找自行车和红绿灯~~，走流程，记得小心不要点错。（就是因为这玩意才需要网页代理）
+
+接下来，去你的邮箱（不要关掉上一个页面），找matrix给你发的邮件（收件箱里找不到去垃圾邮件里找），复制那个链接打开（好像也可以直接打开）。注意这一步不需要那个网页代理。
+
+然后他应该会提示注册成功，让你你保存自己的Security Key（我忘了是哪个页面了，反正是上面两个页面之一），你会下载一个txt，务必保存好！！不要泄露！！！
+
+接下来你就可以登录了，直接打开 https://app.element.io 客户端，然后Login，输入账号密码，他会提示你提供Security Key，照提示做即可。
+
+务必注意保存好你的Security Key，不然你换个地方可能无法登录，且一定无法看加密消息！
+
+###### 借道Github
+
+首先你需要注册一个Github号，参考教程：https://www.bilibili.com/video/BV1784y1d7df/ （注意github被墙间歇性封锁，有的时候可能上不去）
+
+然后你进 https://app.element.io 客户端，Create Account，然后找到Github图标，单击，走流程。
+
+同样，你需要保存Security Key。
+
+登录的时候点login，然后点github图标，然后走流程，提供Security Key。
+
 
 
 ### 大学生怎么办
@@ -464,11 +490,11 @@ chrome://version/
 
 ## 后记：需高考的学生怎么办
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzM5NDA2MDMsMTAzNDQ0NjI0NSwyMD
-ExMDY2NDc3LC01MjI2NTk1MTQsLTYyMzg4Nzk0MiwyMDY3MDg1
-OTQsMTQxNzE1NzUsOTM1NDc3MDQ2LDEwNzgzNjAyMjIsMjA4MT
-A2MDU0NCwtMTYyNzkyNzA1NCwtMjAzMzc2NDQ2OCwtMTAzNTc4
-ODEwLDExMjg3NDgyNjEsLTEwNjc0MzQ4ODEsLTYzMzgwNTQ3My
-wtMTgwODY0MDMxOCwxMDIwMjUzNTg0LC0xMDI3NDM0MzE0LDM3
-NDI1NDg0OF19
+eyJoaXN0b3J5IjpbOTA1MjQwMTQsMTAzNDQ0NjI0NSwyMDExMD
+Y2NDc3LC01MjI2NTk1MTQsLTYyMzg4Nzk0MiwyMDY3MDg1OTQs
+MTQxNzE1NzUsOTM1NDc3MDQ2LDEwNzgzNjAyMjIsMjA4MTA2MD
+U0NCwtMTYyNzkyNzA1NCwtMjAzMzc2NDQ2OCwtMTAzNTc4ODEw
+LDExMjg3NDgyNjEsLTEwNjc0MzQ4ODEsLTYzMzgwNTQ3MywtMT
+gwODY0MDMxOCwxMDIwMjUzNTg0LC0xMDI3NDM0MzE0LDM3NDI1
+NDg0OF19
 -->

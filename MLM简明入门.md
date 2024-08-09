@@ -238,7 +238,12 @@
 
 #### Windows端
 
-如果你对
+如果你想用Edge浏览器，那比较简单，因为Windowns10和Windows11都被捆绑了Edge。
+
+具体来说，你需要建立一个`.bat`文件，写入：
+```bash
+
+```
 
 
 ### 寻找书籍知识
@@ -259,7 +264,7 @@
 
 ## 后记：需高考的学生怎么办
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTM1MzA2ODIsMjAxMTA2NjQ3NywtNT
+eyJoaXN0b3J5IjpbLTEwMzM3NzQ3OTEsMjAxMTA2NjQ3NywtNT
 IyNjU5NTE0LC02MjM4ODc5NDIsMjA2NzA4NTk0LDE0MTcxNTc1
 LDkzNTQ3NzA0NiwxMDc4MzYwMjIyLDIwODEwNjA1NDQsLTE2Mj
 c5MjcwNTQsLTIwMzM3NjQ0NjgsLTEwMzU3ODgxMCwxMTI4NzQ4

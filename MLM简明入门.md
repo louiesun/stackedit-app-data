@@ -484,7 +484,11 @@ chrome://version/
 
 登录的时候点login，然后点github图标，然后走流程，提供Security Key。
 
-##### Veryu
+##### Verify Session
+
+让你Verify Session，一般Verify with Security Key。
+
+另外，如果你用网页代理注册的，推荐把网页代理的session取消注册。
 
 ##### 加群
 
@@ -496,7 +500,7 @@ chrome://version/
 
 ## 后记：需高考的学生怎么办
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA1ODM2OTI0LDEwMzQ0NDYyNDUsMjAxMT
+eyJoaXN0b3J5IjpbMjg2MTIzNTMwLDEwMzQ0NDYyNDUsMjAxMT
 A2NjQ3NywtNTIyNjU5NTE0LC02MjM4ODc5NDIsMjA2NzA4NTk0
 LDE0MTcxNTc1LDkzNTQ3NzA0NiwxMDc4MzYwMjIyLDIwODEwNj
 A1NDQsLTE2Mjc5MjcwNTQsLTIwMzM3NjQ0NjgsLTEwMzU3ODgx

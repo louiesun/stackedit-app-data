@@ -234,7 +234,7 @@
 > 2. 互联网经过几十年的发展，大部分流量都是加密的。GFW在数据包能获取的明文只有数据包收发的公网IP和访问的域名（比如说：`longlivemarxleninmaoism.online`）（当然，他可以事后人工主动探测）。
 > 3. 作为新兴帝国主义国家，中帝国无法与外界脱钩。因此GFW必须避免误伤正常流量。
 
-有两个便于利用的漏洞：QUIC和域前置。（当然还有梯子，可以去看燎原月刊 https:）
+有两个便于利用的漏洞：QUIC和域前置。（当然还有梯子，可以去看燎原月刊 https://liaoyuan.store ）
 
 #### Windows端
 
@@ -429,7 +429,10 @@ chrome://version/
 
 #### 大群
 
-我这里介绍matrix大群
+我这里介绍matrix大群，Telegram大群自行看燎原月刊（https://liaoyuan.store 找）
+
+首先，你需要一个Matrix客户端（zhex），比方说：
+
 
 ### 大学生怎么办
 
@@ -437,7 +440,7 @@ chrome://version/
 
 ## 后记：需高考的学生怎么办
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY1MDkwNDU3LDEwMzQ0NDYyNDUsMjAxMT
+eyJoaXN0b3J5IjpbMzk0MjM0MTUwLDEwMzQ0NDYyNDUsMjAxMT
 A2NjQ3NywtNTIyNjU5NTE0LC02MjM4ODc5NDIsMjA2NzA4NTk0
 LDE0MTcxNTc1LDkzNTQ3NzA0NiwxMDc4MzYwMjIyLDIwODEwNj
 A1NDQsLTE2Mjc5MjcwNTQsLTIwMzM3NjQ0NjgsLTEwMzU3ODgx

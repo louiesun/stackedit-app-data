@@ -444,7 +444,9 @@ chrome://version/
 
 ##### 注册
 
-注册是需要翻墙的，因为你要过人机验证。于是这里有了两条路。但是，首先你需要一个邮箱。这里推荐outlook或者yandex，zhuyib
+注册是需要翻墙的，因为你要过人机验证。于是这里有了两条路。但是，首先你需要一个邮箱。这里推荐outlook或者yandex，注意别绑手机号。
++ outlook官网：参考教程（其实你会英文跟着步骤就行）：https://blog.csdn.net/Pencil2038/article/details/129128205
++ yandex参考教程：
 
 ### 大学生怎么办
 
@@ -452,11 +454,11 @@ chrome://version/
 
 ## 后记：需高考的学生怎么办
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODEyNDgxMzM0LDEwMzQ0NDYyNDUsMjAxMT
-A2NjQ3NywtNTIyNjU5NTE0LC02MjM4ODc5NDIsMjA2NzA4NTk0
-LDE0MTcxNTc1LDkzNTQ3NzA0NiwxMDc4MzYwMjIyLDIwODEwNj
-A1NDQsLTE2Mjc5MjcwNTQsLTIwMzM3NjQ0NjgsLTEwMzU3ODgx
-MCwxMTI4NzQ4MjYxLC0xMDY3NDM0ODgxLC02MzM4MDU0NzMsLT
-E4MDg2NDAzMTgsMTAyMDI1MzU4NCwtMTAyNzQzNDMxNCwzNzQy
-NTQ4NDhdfQ==
+eyJoaXN0b3J5IjpbMjA5MzIyNDIyOSwxMDM0NDQ2MjQ1LDIwMT
+EwNjY0NzcsLTUyMjY1OTUxNCwtNjIzODg3OTQyLDIwNjcwODU5
+NCwxNDE3MTU3NSw5MzU0NzcwNDYsMTA3ODM2MDIyMiwyMDgxMD
+YwNTQ0LC0xNjI3OTI3MDU0LC0yMDMzNzY0NDY4LC0xMDM1Nzg4
+MTAsMTEyODc0ODI2MSwtMTA2NzQzNDg4MSwtNjMzODA1NDczLC
+0xODA4NjQwMzE4LDEwMjAyNTM1ODQsLTEwMjc0MzQzMTQsMzc0
+MjU0ODQ4XX0=
 -->

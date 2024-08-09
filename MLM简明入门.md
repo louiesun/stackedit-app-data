@@ -240,11 +240,14 @@
 
 如果你想用Edge浏览器，那比较简单，因为Windowns10和Windows11都被捆绑了Edge。
 
-具体来说，你需要建立一个`.bat`文件，写入：
+具体来说，你需要建立一个`msedgeladder.bat`文件，写入：
 ```bash
-
+@echo off
+taskkill /f /t /im msedge.exe
+start "" "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --host-resolver-rules="MAP longlivemarxleninmaoism.online 104.19.112.155:443,MAP annas-archive.se 104.19.112.155:443,MAP zh.annas-archive.se 104.19.112.155:443,MAP www.recaptcha.net 114.250.70.34:443,MAP odysee.com 104.19.112.156:443,MAP api.na-backend.odysee.com 104.19.112.156:443,MAP api.odysee.com 104.19.112.156:443,MAP z-library.rs 104.19.113.157:443,MAP zh.z-library.rs 104.19.113.157:443,MAP reader.z-library.rs 104.19.113.157:443,MAP dlz1.fcdn.sk 104.19.113.157:443,MAP cdn.croxy.network 104.19.113.157:443,MAP apkmirror.com 104.19.113.157:443,MAP www.apkmirror.com 104.19.113.157:443" -origin-to-force-quic-on=longlivemarxleninmaoism.online:443,annas-archive.se:443,zh.annas-archive.se:443,odysee.com:443,api.na-backend.odysee.com:443,api.odysee.com:443,z-library.rs:443,zh.z-library.rs:443,reader.z-library.rs:443,dlz1.fcdn.sk:443,cdn.croxy.network:443,apkmirror.com:443,www.apkmirror.com:443 --host-rules="MAP www.matrix.org 104.20.76.252,MAP matrix.org 104.20.76.252,MAP matrix-client.matrix.org 104.20.76.252,MAP www.croxy.network 143.244.204.138,MAP libgen.rs 193.218.118.42,MAP zh.singlelogin.re 176.123.7.105,MAP singlelogin.re 176.123.7.105,MAP github.com 20.205.243.166" --ignore-certificate-errors
 ```
 
+或者到这里（）下载
 
 ### 寻找书籍知识
 
@@ -264,11 +267,11 @@
 
 ## 后记：需高考的学生怎么办
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzM3NzQ3OTEsMjAxMTA2NjQ3NywtNT
-IyNjU5NTE0LC02MjM4ODc5NDIsMjA2NzA4NTk0LDE0MTcxNTc1
-LDkzNTQ3NzA0NiwxMDc4MzYwMjIyLDIwODEwNjA1NDQsLTE2Mj
-c5MjcwNTQsLTIwMzM3NjQ0NjgsLTEwMzU3ODgxMCwxMTI4NzQ4
-MjYxLC0xMDY3NDM0ODgxLC02MzM4MDU0NzMsLTE4MDg2NDAzMT
-gsMTAyMDI1MzU4NCwtMTAyNzQzNDMxNCwzNzQyNTQ4NDgsLTEy
-MjU4MjQzMzJdfQ==
+eyJoaXN0b3J5IjpbMTM0ODE5NTA2MSwyMDExMDY2NDc3LC01Mj
+I2NTk1MTQsLTYyMzg4Nzk0MiwyMDY3MDg1OTQsMTQxNzE1NzUs
+OTM1NDc3MDQ2LDEwNzgzNjAyMjIsMjA4MTA2MDU0NCwtMTYyNz
+kyNzA1NCwtMjAzMzc2NDQ2OCwtMTAzNTc4ODEwLDExMjg3NDgy
+NjEsLTEwNjc0MzQ4ODEsLTYzMzgwNTQ3MywtMTgwODY0MDMxOC
+wxMDIwMjUzNTg0LC0xMDI3NDM0MzE0LDM3NDI1NDg0OCwtMTIy
+NTgyNDMzMl19
 -->

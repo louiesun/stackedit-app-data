@@ -431,7 +431,9 @@ chrome://version/
 
 我这里介绍matrix大群，Telegram大群自行看燎原月刊（https://liaoyuan.store 找）
 
-首先，你需要一个Matrix客户端（这些2024年都没被墙），比方说：
+##### 客户端
+
+首先，你需要一个Matrix客户端（这些2024年都没被墙，实在不行我后续看看能不能本地布设一个自带过墙的），比方说：
 + https://app.element.io
 + https://app.cinny.in
 + https://matrix.org/ecosystem/clients/ 中所有支持web的客户端。
@@ -440,7 +442,9 @@ chrome://version/
 
 服务器直接用默认（matrix.org不用改，大群的github号是推荐oblak，但是oblak好像现在不开放注册了，而且上海很卡，根本加载不出，所以我们域前置用matrix）。(matrix虽然用了默认不支持域前置的cloudflare，但是被域前置被matrix故意打开了，所以这是个长久可用的策略。同时，全球$30 \%$的流量走cloudflare cdn，GFW不敢贸然封IP，甚至特色香港政府官网也用了Cloudfalre）。
 
+##### 注册
 
+注册是需要翻墙的，因为你要过人机验证。于是这里有了两条路。但是，首先你需要一个邮箱。这里推荐outlook或者yandex，zhuyib
 
 ### 大学生怎么办
 
@@ -448,11 +452,11 @@ chrome://version/
 
 ## 后记：需高考的学生怎么办
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDY2ODk2MTcsMTAzNDQ0NjI0NSwyMD
-ExMDY2NDc3LC01MjI2NTk1MTQsLTYyMzg4Nzk0MiwyMDY3MDg1
-OTQsMTQxNzE1NzUsOTM1NDc3MDQ2LDEwNzgzNjAyMjIsMjA4MT
-A2MDU0NCwtMTYyNzkyNzA1NCwtMjAzMzc2NDQ2OCwtMTAzNTc4
-ODEwLDExMjg3NDgyNjEsLTEwNjc0MzQ4ODEsLTYzMzgwNTQ3My
-wtMTgwODY0MDMxOCwxMDIwMjUzNTg0LC0xMDI3NDM0MzE0LDM3
-NDI1NDg0OF19
+eyJoaXN0b3J5IjpbODEyNDgxMzM0LDEwMzQ0NDYyNDUsMjAxMT
+A2NjQ3NywtNTIyNjU5NTE0LC02MjM4ODc5NDIsMjA2NzA4NTk0
+LDE0MTcxNTc1LDkzNTQ3NzA0NiwxMDc4MzYwMjIyLDIwODEwNj
+A1NDQsLTE2Mjc5MjcwNTQsLTIwMzM3NjQ0NjgsLTEwMzU3ODgx
+MCwxMTI4NzQ4MjYxLC0xMDY3NDM0ODgxLC02MzM4MDU0NzMsLT
+E4MDg2NDAzMTgsMTAyMDI1MzU4NCwtMTAyNzQzNDMxNCwzNzQy
+NTQ4NDhdfQ==
 -->

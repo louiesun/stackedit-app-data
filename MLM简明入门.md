@@ -442,11 +442,13 @@ chrome://version/
 
 服务器直接用默认（matrix.org不用改，大群的github号是推荐oblak，但是oblak好像现在不开放注册了，而且上海很卡，根本加载不出，所以我们域前置用matrix）。(matrix虽然用了默认不支持域前置的cloudflare，但是被域前置被matrix故意打开了，所以这是个长久可用的策略。同时，全球$30 \%$的流量走cloudflare cdn，GFW不敢贸然封IP，甚至特色香港政府官网也用了Cloudfalre）。
 
-##### 注册
+##### 注册与登录
 
-注册是需要翻墙的，因为你要过人机验证。于是这里有了两条路。但是，首先你需要一个邮箱。这里推荐outlook或者yandex，注意别绑手机号。
+注册是需要梯子的，因为你要过人机验证（或者你借道github避开人机）。于是这里有了两条路。但是，首先你需要一个邮箱。这里推荐outlook或者yandex，注意别绑手机号。
 + outlook官网：https://outlook.live.com 注册参考教程（其实你会英文跟着步骤就行）：https://blog.csdn.net/Pencil2038/article/details/129128205
 + yandex官网：https://mail.yandex.com 注册参考教程：https://baijiahao.baidu.com/s?id=1761619264333047948
+
+登录是不需要梯子的，域前置过墙。
 
 ###### 邮箱路线
 
@@ -482,7 +484,11 @@ chrome://version/
 
 登录的时候点login，然后点github图标，然后走流程，提供Security Key。
 
+##### Veryu
 
+##### 加群
+
+这里推荐TG大群的matrix群：
 
 ### 大学生怎么办
 
@@ -490,11 +496,11 @@ chrome://version/
 
 ## 后记：需高考的学生怎么办
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA1MjQwMTQsMTAzNDQ0NjI0NSwyMDExMD
-Y2NDc3LC01MjI2NTk1MTQsLTYyMzg4Nzk0MiwyMDY3MDg1OTQs
-MTQxNzE1NzUsOTM1NDc3MDQ2LDEwNzgzNjAyMjIsMjA4MTA2MD
-U0NCwtMTYyNzkyNzA1NCwtMjAzMzc2NDQ2OCwtMTAzNTc4ODEw
-LDExMjg3NDgyNjEsLTEwNjc0MzQ4ODEsLTYzMzgwNTQ3MywtMT
-gwODY0MDMxOCwxMDIwMjUzNTg0LC0xMDI3NDM0MzE0LDM3NDI1
-NDg0OF19
+eyJoaXN0b3J5IjpbMzA1ODM2OTI0LDEwMzQ0NDYyNDUsMjAxMT
+A2NjQ3NywtNTIyNjU5NTE0LC02MjM4ODc5NDIsMjA2NzA4NTk0
+LDE0MTcxNTc1LDkzNTQ3NzA0NiwxMDc4MzYwMjIyLDIwODEwNj
+A1NDQsLTE2Mjc5MjcwNTQsLTIwMzM3NjQ0NjgsLTEwMzU3ODgx
+MCwxMTI4NzQ4MjYxLC0xMDY3NDM0ODgxLC02MzM4MDU0NzMsLT
+E4MDg2NDAzMTgsMTAyMDI1MzU4NCwtMTAyNzQzNDMxNCwzNzQy
+NTQ4NDhdfQ==
 -->

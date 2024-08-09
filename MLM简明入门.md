@@ -234,7 +234,7 @@
 > 2. 互联网经过几十年的发展，大部分流量都是加密的。GFW在数据包能获取的明文只有数据包收发的公网IP和访问的域名（比如说：`longlivemarxleninmaoism.online`）（当然，他可以事后人工主动探测）。
 > 3. 作为新兴帝国主义国家，中帝国无法与外界脱钩。因此GFW必须避免误伤正常流量。
 
-有两个便于利用的漏洞：QUIC和域前置。
+有两个便于利用的漏洞：QUIC和域前置。（当然还有梯子，可以去看燎原月刊 https:）
 
 #### Windows端
 
@@ -425,7 +425,11 @@ chrome://version/
 #### 布站
 直接打`https://longlivemarxleninmaoism.online`。
 
-或者没翻进`https://liaoyuan.store`找，但是注意由于大群技术yuan
+或者没翻进`https://liaoyuan.store`找，但是注意由于大群技术员同志们的疏忽，他的图床的图片需要复制链接后把`bu2021.xyz`改成`liaoyuan1949.site`等你的网址才能看。
+
+#### 大群
+
+我这里介绍matrix大群
 
 ### 大学生怎么办
 
@@ -433,11 +437,11 @@ chrome://version/
 
 ## 后记：需高考的学生怎么办
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDg5NzU2NSwxMDM0NDQ2MjQ1LDIwMT
-EwNjY0NzcsLTUyMjY1OTUxNCwtNjIzODg3OTQyLDIwNjcwODU5
-NCwxNDE3MTU3NSw5MzU0NzcwNDYsMTA3ODM2MDIyMiwyMDgxMD
-YwNTQ0LC0xNjI3OTI3MDU0LC0yMDMzNzY0NDY4LC0xMDM1Nzg4
-MTAsMTEyODc0ODI2MSwtMTA2NzQzNDg4MSwtNjMzODA1NDczLC
-0xODA4NjQwMzE4LDEwMjAyNTM1ODQsLTEwMjc0MzQzMTQsMzc0
-MjU0ODQ4XX0=
+eyJoaXN0b3J5IjpbNTY1MDkwNDU3LDEwMzQ0NDYyNDUsMjAxMT
+A2NjQ3NywtNTIyNjU5NTE0LC02MjM4ODc5NDIsMjA2NzA4NTk0
+LDE0MTcxNTc1LDkzNTQ3NzA0NiwxMDc4MzYwMjIyLDIwODEwNj
+A1NDQsLTE2Mjc5MjcwNTQsLTIwMzM3NjQ0NjgsLTEwMzU3ODgx
+MCwxMTI4NzQ4MjYxLC0xMDY3NDM0ODgxLC02MzM4MDU0NzMsLT
+E4MDg2NDAzMTgsMTAyMDI1MzU4NCwtMTAyNzQzNDMxNCwzNzQy
+NTQ4NDhdfQ==
 -->

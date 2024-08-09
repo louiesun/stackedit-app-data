@@ -226,7 +226,7 @@
 
 事实是，如果你不想自己说的每句话都被特色的军警看着，想要稍微更自由的说话，那越过GFW是很必要的。
 
-首先要纠正一点，如果你把GFW想象成一堵密不透风的墙，把国内围起来，那就错了。事实上，墙上**有大量的漏洞，上面还挂满了梯子**。（）
+首先要纠正一点，如果你把GFW想象成一堵密不透风的墙，把国内围起来，那就错了。事实上，墙上**有大量的漏洞，上面还挂满了梯子**。（GFW的实质是一个审查机器，审查每个数据包是否通过）
 
 先讲两个便于利用的漏洞：QUIC和域前置怎么利用。
 
@@ -249,7 +249,7 @@
 
 ## 后记：需高考的学生怎么办
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTI2NzczNjQsMjAxMTA2NjQ3NywtNT
+eyJoaXN0b3J5IjpbLTE0ODU3MTAzOTUsMjAxMTA2NjQ3NywtNT
 IyNjU5NTE0LC02MjM4ODc5NDIsMjA2NzA4NTk0LDE0MTcxNTc1
 LDkzNTQ3NzA0NiwxMDc4MzYwMjIyLDIwODEwNjA1NDQsLTE2Mj
 c5MjcwNTQsLTIwMzM3NjQ0NjgsLTEwMzU3ODgxMCwxMTI4NzQ4

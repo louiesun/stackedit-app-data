@@ -1,7 +1,5 @@
 # MlM简明入门
 
-[toc]
-
 ## 自序——到处是笑话
 
 我打算开始写这本册子，心理自然和大部分朋友一样，心理都是有怨气的。什么怨气呢？——笑话（将要）发生在自己身上了。
@@ -429,7 +427,7 @@ chrome://version/
 
 ## 后记：需高考的学生怎么办
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwNTExNTk0NSwyMDExMDY2NDc3LC01Mj
+eyJoaXN0b3J5IjpbMTAzNDQ0NjI0NSwyMDExMDY2NDc3LC01Mj
 I2NTk1MTQsLTYyMzg4Nzk0MiwyMDY3MDg1OTQsMTQxNzE1NzUs
 OTM1NDc3MDQ2LDEwNzgzNjAyMjIsMjA4MTA2MDU0NCwtMTYyNz
 kyNzA1NCwtMjAzMzc2NDQ2OCwtMTAzNTc4ODEwLDExMjg3NDgy

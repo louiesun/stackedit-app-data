@@ -21,8 +21,12 @@
 
 ###### 借道Github
 
-首先你需要注册一个Github号，
+首先你需要注册一个Github号，参考教程：https://www.bilibili.com/video/BV1784y1d7df/
+
+然后你进 https://app.element.io 客户端，Create Account，然后找到Github图标，单击，走流程。
+
+同样，你需要保存Securit
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4Nzk0MjU2Miw4MDg0NTc0OTcsMzQ4MD
+eyJoaXN0b3J5IjpbMTMxMDExOTkyMSw4MDg0NTc0OTcsMzQ4MD
 kwNzk4XX0=
 -->

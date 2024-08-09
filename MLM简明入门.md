@@ -492,7 +492,11 @@ chrome://version/
 
 ##### 加群
 
-这里推荐TG大群的matrix群：
+这里推荐TG大群的matrix群：#jinggangshan:matrix.org
+
+##### 忽略片哥和挖矿哥
+
+右键头像，有一个Ignore
 
 ### 大学生怎么办
 
@@ -500,7 +504,7 @@ chrome://version/
 
 ## 后记：需高考的学生怎么办
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg2MTIzNTMwLDEwMzQ0NDYyNDUsMjAxMT
+eyJoaXN0b3J5IjpbLTQzNTI5NTA1LDEwMzQ0NDYyNDUsMjAxMT
 A2NjQ3NywtNTIyNjU5NTE0LC02MjM4ODc5NDIsMjA2NzA4NTk0
 LDE0MTcxNTc1LDkzNTQ3NzA0NiwxMDc4MzYwMjIyLDIwODEwNj
 A1NDQsLTE2Mjc5MjcwNTQsLTIwMzM3NjQ0NjgsLTEwMzU3ODgx

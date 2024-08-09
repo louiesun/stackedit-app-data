@@ -438,7 +438,8 @@ chrome://version/
 
 直接进去，可能要等一会儿。
 
-服务器直接用默认（matrix.org不用改，大群的github号是推荐oblak，但是oblak好像现在不开放注册了，而且上海很卡，根本加载不出，所以我们域前置用matrix）。(matrix虽然用了默认不支持的cloudfa)
+服务器直接用默认（matrix.org不用改，大群的github号是推荐oblak，但是oblak好像现在不开放注册了，而且上海很卡，根本加载不出，所以我们域前置用matrix）。(matrix虽然用了默认不支持域前置的cloudflare，但是被域前置被matrix故意打开了，所以这是个长久可用的策略。同时，全球$30 \%$的流量走cloudflare cdn，GFW不敢贸然封IP，甚至特色香港政府官网也用了Cloudfalre）。
+
 
 
 ### 大学生怎么办
@@ -447,11 +448,11 @@ chrome://version/
 
 ## 后记：需高考的学生怎么办
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxNjE2MDk4MiwxMDM0NDQ2MjQ1LDIwMT
-EwNjY0NzcsLTUyMjY1OTUxNCwtNjIzODg3OTQyLDIwNjcwODU5
-NCwxNDE3MTU3NSw5MzU0NzcwNDYsMTA3ODM2MDIyMiwyMDgxMD
-YwNTQ0LC0xNjI3OTI3MDU0LC0yMDMzNzY0NDY4LC0xMDM1Nzg4
-MTAsMTEyODc0ODI2MSwtMTA2NzQzNDg4MSwtNjMzODA1NDczLC
-0xODA4NjQwMzE4LDEwMjAyNTM1ODQsLTEwMjc0MzQzMTQsMzc0
-MjU0ODQ4XX0=
+eyJoaXN0b3J5IjpbLTEyMDY2ODk2MTcsMTAzNDQ0NjI0NSwyMD
+ExMDY2NDc3LC01MjI2NTk1MTQsLTYyMzg4Nzk0MiwyMDY3MDg1
+OTQsMTQxNzE1NzUsOTM1NDc3MDQ2LDEwNzgzNjAyMjIsMjA4MT
+A2MDU0NCwtMTYyNzkyNzA1NCwtMjAzMzc2NDQ2OCwtMTAzNTc4
+ODEwLDExMjg3NDgyNjEsLTEwNjc0MzQ4ODEsLTYzMzgwNTQ3My
+wtMTgwODY0MDMxOCwxMDIwMjUzNTg0LC0xMDI3NDM0MzE0LDM3
+NDI1NDg0OF19
 -->

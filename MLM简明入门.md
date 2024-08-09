@@ -431,7 +431,7 @@ chrome://version/
 
 我这里介绍matrix大群，Telegram大群自行看燎原月刊（https://liaoyuan.store 找）。
 
-但是matrix群发的东西，TG群是看不到的。（TG的东西matrix看得道）
+但是matrix群发的东西，TG群是看不到的。（TG的东西matrix看得到）。（大群为了防止敌人和各路牛魔破坏，没做matrix到tg的桥接）。
 
 ##### 客户端
 
@@ -502,13 +502,19 @@ chrome://version/
 
 右键头像，有一个红色Ignore，会忽略这个号在这个群的一切信息。
 
+##### 为什么进大群
+
+大群是我所知道唯一一个：
++ 真心革命（造反）。
++ 有严密组织的（真心要发展）
+
 ### 大学生怎么办
 
 ### 工人怎么办
 
 ## 后记：需高考的学生怎么办
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3Mzc5ODc2NiwxMDM0NDQ2MjQ1LDIwMT
+eyJoaXN0b3J5IjpbMjAyMjE0MjQ3MywxMDM0NDQ2MjQ1LDIwMT
 EwNjY0NzcsLTUyMjY1OTUxNCwtNjIzODg3OTQyLDIwNjcwODU5
 NCwxNDE3MTU3NSw5MzU0NzcwNDYsMTA3ODM2MDIyMiwyMDgxMD
 YwNTQ0LC0xNjI3OTI3MDU0LC0yMDMzNzY0NDY4LC0xMDM1Nzg4

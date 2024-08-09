@@ -228,8 +228,9 @@
 
 首先要纠正一点，如果你把GFW想象成一堵密不透风的墙，把国内围起来，那就错了。事实上，墙上**有大量的漏洞，上面还挂满了梯子**。
 
-GFW的实质是一个审查机器，审查每个跨境的数据包是否通过（包括）。他面临如下挑战：
-1. 中国和国外互相数据流量是巨大的，每秒是TB级的
+GFW的实质是一个审查机器，审查每个跨境的数据包是否通过（包括所谓翻墙的流量，其实也经过了审查）。他面临如下挑战：
+1. 中国和国外互相数据流量是巨大的，每秒是TB级的，GFW对于每个包差不多只有0.1s时间检测是否合法。（如果深度检测过多的包，那么GFW会卡死。）
+2. 互联网经过几十年的发展，大部分流量都是加密的。GFWneng
 
 
 先讲两个便于利用的漏洞：QUIC和域前置怎么利用。
@@ -253,7 +254,7 @@ GFW的实质是一个审查机器，审查每个跨境的数据包是否通过�
 
 ## 后记：需高考的学生怎么办
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTk2ODI1ODIsMjAxMTA2NjQ3NywtNT
+eyJoaXN0b3J5IjpbLTExODE2MzQwNDMsMjAxMTA2NjQ3NywtNT
 IyNjU5NTE0LC02MjM4ODc5NDIsMjA2NzA4NTk0LDE0MTcxNTc1
 LDkzNTQ3NzA0NiwxMDc4MzYwMjIyLDIwODEwNjA1NDQsLTE2Mj
 c5MjcwNTQsLTIwMzM3NjQ0NjgsLTEwMzU3ODgxMCwxMTI4NzQ4

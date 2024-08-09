@@ -454,7 +454,7 @@ chrome://version/
 
 首先你需要使用一个网页代理（我默认用 https://www.croxy.network/ 因为网页代理容易被墙，而我帮你在这个网站上过了墙）。
 
-打开之后下面很明显有个文本框（Enter a URL or a search query to access），键入 https://app.element.io/ （其他也行，但是我以这个matrix官方的为例）。接下来会挑战
+打开之后下面很明显有个文本框（Enter a URL or a search query to access），键入 https://app.element.io/ （其他也行，但是我以这个matrix官方的为例）。接下来会跳转代理，尽可能刷一个51开头的，快。（如果不是，可以回退重新进，刷一个快的。）
 
 
 
@@ -464,11 +464,11 @@ chrome://version/
 
 ## 后记：需高考的学生怎么办
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyMzUyODI0NiwxMDM0NDQ2MjQ1LDIwMT
-EwNjY0NzcsLTUyMjY1OTUxNCwtNjIzODg3OTQyLDIwNjcwODU5
-NCwxNDE3MTU3NSw5MzU0NzcwNDYsMTA3ODM2MDIyMiwyMDgxMD
-YwNTQ0LC0xNjI3OTI3MDU0LC0yMDMzNzY0NDY4LC0xMDM1Nzg4
-MTAsMTEyODc0ODI2MSwtMTA2NzQzNDg4MSwtNjMzODA1NDczLC
-0xODA4NjQwMzE4LDEwMjAyNTM1ODQsLTEwMjc0MzQzMTQsMzc0
-MjU0ODQ4XX0=
+eyJoaXN0b3J5IjpbLTEzMzM5NDA2MDMsMTAzNDQ0NjI0NSwyMD
+ExMDY2NDc3LC01MjI2NTk1MTQsLTYyMzg4Nzk0MiwyMDY3MDg1
+OTQsMTQxNzE1NzUsOTM1NDc3MDQ2LDEwNzgzNjAyMjIsMjA4MT
+A2MDU0NCwtMTYyNzkyNzA1NCwtMjAzMzc2NDQ2OCwtMTAzNTc4
+ODEwLDExMjg3NDgyNjEsLTEwNjc0MzQ4ODEsLTYzMzgwNTQ3My
+wtMTgwODY0MDMxOCwxMDIwMjUzNTg0LC0xMDI3NDM0MzE0LDM3
+NDI1NDg0OF19
 -->

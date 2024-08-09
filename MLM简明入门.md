@@ -273,19 +273,26 @@ Android系统要比Windows麻烦一点，需要适用ADB，我这里提供一个
 
 （`.apk`），提供的是两个链接，不保证可以下载。
 
-+ [Termux](https://www.downkuai.com/android/140917.html)（知道F-droid的，推荐从Fdroid下载；如果你用电脑进行ADB，则不需要）
-+ [KiWiBrowser](https://www.onlinedown.net/soft/10107048.htm)（建议用链接里的版本，切记不要`安全下载`！否则后果自负）（其他基于Chromium的浏览器也可，比如Chromium, Chrome, UngoogledChromium, Bromite，我之所以推荐kiwi是因为他支持扩展，这也是我自用的浏览器之一，且是最常用的浏览器）
++ Termux（https://www.downkuai.com/android/140917.html ）（知道F-droid的，推荐从Fdroid下载；如果你用电脑进行ADB，则不需要）
++ KiWiBrowser（https://www.onlinedown.net/soft/10107048.htm ）（建议用链接里的版本，切记不要`安全下载`！否则后果自负）（其他基于Chromium的浏览器也可，比如Chromium, Chrome, UngoogledChromium, Bromite，我之所以推荐kiwi是因为他支持扩展，这也是我自用的浏览器之一，且是最常用的浏览器）
 
+###### 一句命令
 
-### 第二部分：开启ADB
+```bash
+echo "_ --host-resolver-rules=\"MAP longlivemarxleninmaoism.online 104.19.112.155:443,MAP annas-archive.se 104.19.112.155:443,MAP zh.annas-archive.se 104.19.112.155:443,MAP www.recaptcha.net 114.250.70.34:443,MAP odysee.com 104.19.112.156:443,MAP api.na-backend.odysee.com 104.19.112.156:443,MAP api.odysee.com 104.19.112.156:443,MAP z-library.rs 104.19.113.157:443,MAP zh.z-library.rs 104.19.113.157:443,MAP reader.z-library.rs 104.19.113.157:443,MAP dlz1.fcdn.sk 104.19.113.157:443,MAP cdn.croxy.network 104.19.113.157:443,MAP apkmirror.com 104.19.113.157:443,MAP www.apkmirror.com 104.19.113.157:443\" -origin-to-force-quic-on=longlivemarxleninmaoism.online:443,annas-archive.se:443,zh.annas-archive.se:443,odysee.com:443,api.na-backend.odysee.com:443,api.odysee.com:443,z-library.rs:443,zh.z-library.rs:443,reader.z-library.rs:443,dlz1.fcdn.sk:443,cdn.croxy.network:443,apkmirror.com:443,www.apkmirror.com:443 --host-rules=\"MAP www.matrix.org 104.20.76.252,MAP matrix.org 104.20.76.252,MAP matrix-client.matrix.org 104.20.76.252,MAP www.croxy.network 143.244.204.138,MAP libgen.rs 193.218.118.42,MAP zh.singlelogin.re 176.123.7.105,MAP singlelogin.re 176.123.7.105,MAP github.com 20.205.243.166\" --ignore-certificate-errors" > chrome-command-line
+```
+
+你也可以去上面介绍的网站生成
+
+##### 第二部分：开启ADB
 
 这里提供一个MIUI下利用Termux作为终端的例子。
 
-#### 安装Termux并作准备
+###### 安装Termux并作准备
 
 进入Termux后，是一个命令行界面。
 
-你可以考虑换清华源，见[镜像站官方帮助文档](https://mirrors.tuna.tsinghua.edu.cn/help/termux/)
+你可以考虑换清华源，见镜像站官方帮助文档（(https://mirrors.tuna.tsinghua.edu.cn/help/termux/）
 
 依次执行以下命令：（如果遇到提问，直接`Enter`走默认）
 
@@ -420,11 +427,11 @@ chrome://version/
 
 ## 后记：需高考的学生怎么办
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjI4NzY0NDQsMjAxMTA2NjQ3NywtNT
-IyNjU5NTE0LC02MjM4ODc5NDIsMjA2NzA4NTk0LDE0MTcxNTc1
-LDkzNTQ3NzA0NiwxMDc4MzYwMjIyLDIwODEwNjA1NDQsLTE2Mj
-c5MjcwNTQsLTIwMzM3NjQ0NjgsLTEwMzU3ODgxMCwxMTI4NzQ4
-MjYxLC0xMDY3NDM0ODgxLC02MzM4MDU0NzMsLTE4MDg2NDAzMT
-gsMTAyMDI1MzU4NCwtMTAyNzQzNDMxNCwzNzQyNTQ4NDgsLTEy
-MjU4MjQzMzJdfQ==
+eyJoaXN0b3J5IjpbLTkzNzk3MzgzNiwyMDExMDY2NDc3LC01Mj
+I2NTk1MTQsLTYyMzg4Nzk0MiwyMDY3MDg1OTQsMTQxNzE1NzUs
+OTM1NDc3MDQ2LDEwNzgzNjAyMjIsMjA4MTA2MDU0NCwtMTYyNz
+kyNzA1NCwtMjAzMzc2NDQ2OCwtMTAzNTc4ODEwLDExMjg3NDgy
+NjEsLTEwNjc0MzQ4ODEsLTYzMzgwNTQ3MywtMTgwODY0MDMxOC
+wxMDIwMjUzNTg0LC0xMDI3NDM0MzE0LDM3NDI1NDg0OCwtMTIy
+NTgyNDMzMl19
 -->

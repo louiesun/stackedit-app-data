@@ -429,7 +429,9 @@ chrome://version/
 
 #### 大群
 
-我这里介绍matrix大群，Telegram大群自行看燎原月刊（https://liaoyuan.store 找）
+我这里介绍matrix大群，Telegram大群自行看燎原月刊（https://liaoyuan.store 找）。
+
+但是matrix群发的东西，TG群是看不到的。（TG的东西matrix看得道）
 
 ##### 客户端
 
@@ -492,11 +494,13 @@ chrome://version/
 
 ##### 加群
 
-这里推荐TG大群的matrix群：#jinggangshan:matrix.org
+点Search，然后点Public Rooms，然后输入群地址。
+
+这里推荐TG大群的matrix群：地址是 #jinggangshan:matrix.org
 
 ##### 忽略片哥和挖矿哥
 
-右键头像，有一个Ignore
+右键头像，有一个红色Ignore，会忽略这个号在这个群的一切信息。
 
 ### 大学生怎么办
 
@@ -504,11 +508,11 @@ chrome://version/
 
 ## 后记：需高考的学生怎么办
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzNTI5NTA1LDEwMzQ0NDYyNDUsMjAxMT
-A2NjQ3NywtNTIyNjU5NTE0LC02MjM4ODc5NDIsMjA2NzA4NTk0
-LDE0MTcxNTc1LDkzNTQ3NzA0NiwxMDc4MzYwMjIyLDIwODEwNj
-A1NDQsLTE2Mjc5MjcwNTQsLTIwMzM3NjQ0NjgsLTEwMzU3ODgx
-MCwxMTI4NzQ4MjYxLC0xMDY3NDM0ODgxLC02MzM4MDU0NzMsLT
-E4MDg2NDAzMTgsMTAyMDI1MzU4NCwtMTAyNzQzNDMxNCwzNzQy
-NTQ4NDhdfQ==
+eyJoaXN0b3J5IjpbLTk3Mzc5ODc2NiwxMDM0NDQ2MjQ1LDIwMT
+EwNjY0NzcsLTUyMjY1OTUxNCwtNjIzODg3OTQyLDIwNjcwODU5
+NCwxNDE3MTU3NSw5MzU0NzcwNDYsMTA3ODM2MDIyMiwyMDgxMD
+YwNTQ0LC0xNjI3OTI3MDU0LC0yMDMzNzY0NDY4LC0xMDM1Nzg4
+MTAsMTEyODc0ODI2MSwtMTA2NzQzNDg4MSwtNjMzODA1NDczLC
+0xODA4NjQwMzE4LDEwMjAyNTM1ODQsLTEwMjc0MzQzMTQsMzc0
+MjU0ODQ4XX0=
 -->

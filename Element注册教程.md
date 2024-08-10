@@ -1,4 +1,4 @@
-#  Element注册教程（小王吧版）
+# Matrix注册教程（小王吧版）
 
 
 特色很清楚国民党当年是怎么死的，所以，墙内自然没什么没有后门的平台。
@@ -273,6 +273,6 @@ chrome://version/
 
 **切记，墙内墙外避免用相同用户名，相同邮箱！**。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3MTEzODI0OSw3NDU1NTI5ODIsLTE2Mj
-czNTA2NjMsLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbMTg0NDg0OTk2NiwxMTcxMTM4MjQ5LDc0NT
+U1Mjk4MiwtMTYyNzM1MDY2MywtMjA4ODc0NjYxMl19
 -->

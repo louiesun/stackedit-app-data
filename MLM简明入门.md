@@ -274,7 +274,7 @@ Android系统要比Windows麻烦一点，需要适用ADB，我这里提供一个
 （`.apk`），提供的是两个链接，不保证可以下载。
 
 + Termux（https://www.downkuai.com/android/140917.html ）（知道F-droid的，推荐从Fdroid下载；如果你用电脑进行ADB，则不需要）
-+ KiWiBrowser（https://www.onlinedown.net/soft/10107048.htm ）（建议用链接里的版本，切记不要`安全下载`！否则后果自负）（其他基于Chromium的浏览器也可，比如Chromium, Chrome, UngoogledChromium, Bromite，我之所以推荐kiwi是因为他支持扩展，这也是我自用的浏览器之一，且是最常用的浏览器）
++ KiWiBrowser（https://www.onlinedown.net/soft/10107048.htm ）（建议用链接里的版本，切记不要`安全下载`！否则后果自负）（其他基于Chromium的浏览器也可，比如Chromium, Chrome, UngoogledChromium, Bromite，我之所以推荐kiwi是因为他支持扩展，这也是我自用的浏览器之一，且是最常用的浏览器）（除此之外，Edge也可以。）
 
 ###### 一句命令
 
@@ -519,11 +519,11 @@ chrome://version/
 
 ## 后记：需高考的学生怎么办
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5MzYzNDEzMCwtMzMzNzE1MDIsMTAzND
-Q0NjI0NSwyMDExMDY2NDc3LC01MjI2NTk1MTQsLTYyMzg4Nzk0
-MiwyMDY3MDg1OTQsMTQxNzE1NzUsOTM1NDc3MDQ2LDEwNzgzNj
-AyMjIsMjA4MTA2MDU0NCwtMTYyNzkyNzA1NCwtMjAzMzc2NDQ2
-OCwtMTAzNTc4ODEwLDExMjg3NDgyNjEsLTEwNjc0MzQ4ODEsLT
-YzMzgwNTQ3MywtMTgwODY0MDMxOCwxMDIwMjUzNTg0LC0xMDI3
-NDM0MzE0XX0=
+eyJoaXN0b3J5IjpbLTgyMDAxNDc3MCwxOTkzNjM0MTMwLC0zMz
+M3MTUwMiwxMDM0NDQ2MjQ1LDIwMTEwNjY0NzcsLTUyMjY1OTUx
+NCwtNjIzODg3OTQyLDIwNjcwODU5NCwxNDE3MTU3NSw5MzU0Nz
+cwNDYsMTA3ODM2MDIyMiwyMDgxMDYwNTQ0LC0xNjI3OTI3MDU0
+LC0yMDMzNzY0NDY4LC0xMDM1Nzg4MTAsMTEyODc0ODI2MSwtMT
+A2NzQzNDg4MSwtNjMzODA1NDczLC0xODA4NjQwMzE4LDEwMjAy
+NTM1ODRdfQ==
 -->

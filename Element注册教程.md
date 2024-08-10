@@ -194,22 +194,22 @@ chrome://version/
 2. 设置command-line。
 3. 退出Kiwi，杀掉所有进程，重启手机。
 
-### 加matrix群聊
+## 加matrix群聊
 
 这个教程基于上面的`越过GFW章节`。
 
-## 客户端
+### 客户端
 
 首先，你需要一个Matrix客户端（这些2024年都没被墙，实在不行我后续看看能不能本地布设一个自带过墙的），比方说：
 + https://app.element.io
 + https://app.cinny.in
 + https://matrix.org/ecosystem/clients/ 中所有支持web的客户端。
 
-直接进去，可能要等一会儿。
+直接用你的浏览器进链接，加载慢可能要等一会儿。
 
 服务器直接用默认（matrix.org不用改，大群的github号是推荐oblak，但是oblak好像现在不开放注册了，而且上海很卡，根本加载不出，所以我们域前置用matrix）。(matrix虽然用了默认不支持域前置的cloudflare，但是被域前置被matrix故意打开了，所以这是个长久可用的策略。同时，全球$30 \%$的流量走cloudflare cdn，GFW不敢贸然封IP，甚至特色香港政府官网也用了Cloudfalre）。
 
-## 注册与登录
+### 注册与登录
 
 注册是需要梯子的，因为你要过人机验证（或者你借道github避开人机）。于是这里有了两条路。但是，首先你需要一个邮箱。这里推荐outlook或者yandex，注意别绑手机号。
 + outlook官网：https://outlook.live.com 注册参考教程（其实你会英文跟着步骤就行）：https://blog.csdn.net/Pencil2038/article/details/129128205
@@ -217,7 +217,7 @@ chrome://version/
 
 登录是不需要梯子的，域前置过墙。
 
-### 邮箱路线
+#### 邮箱路线
 
 推荐在Windows上搞，方便操作。
 
@@ -241,7 +241,7 @@ chrome://version/
 
 务必注意保存好你的Security Key，不然你换个地方可能无法登录，且一定无法看加密消息！
 
-### 借道Github
+#### 借道Github
 
 首先你需要注册一个Github号，参考教程：https://www.bilibili.com/video/BV1784y1d7df/ （注意github被墙间歇性封锁，有的时候可能上不去）
 
@@ -251,17 +251,17 @@ chrome://version/
 
 登录的时候点login，然后点github图标，然后走流程，提供Security Key。
 
-## Verify Session
+### Verify Session
 
 让你Verify Session，一般Verify with Security Key。
 
 另外，如果你用网页代理注册的，推荐把网页代理的session取消注册。
 
-## 加群
+### 加群
 
 点Search，然后点Public Rooms，然后输入群地址。
 
-这里推荐TG大群的matrix群：地址是 #jinggangshan:matrix.org
+这里推荐TG大群的matrix群：地址是 #jinggangshan:matrix.org （这个群可以看TG大群内容，但是发的东西TG大群看不到，但是matrix群互相可以交流）
 
 当然你也可以自建群，建议开启端到端加密。（大群的matrix群没开）。
 
@@ -280,6 +280,6 @@ chrome://version/
 
 当然我眼中大群**也有不少需要改进的地方**，不在这里讲了。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY2MjAwMzY4LDc0NTU1Mjk4MiwtMTYyNz
+eyJoaXN0b3J5IjpbNzI5MDA0ODYyLDc0NTU1Mjk4MiwtMTYyNz
 M1MDY2MywtMjA4ODc0NjYxMl19
 -->

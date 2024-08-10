@@ -1,3 +1,7 @@
+
+ 
+Element注册教程
+Element注册教程
 #  Element注册教程（小王吧版）
 
 
@@ -54,26 +58,26 @@ Android系统要比Windows麻烦一点，需要适用ADB，我这里提供一个
 
 为了省流，我不打算配图片
 
-###### 第一部分：准备文件
+### 第一部分：准备文件
 
-###### 两个安装包
+### 两个安装包
 
 （`.apk`），提供的是两个链接，不保证可以下载。
 
 + Termux（https://www.downkuai.com/android/140917.html ）（知道F-droid的，推荐从Fdroid下载；如果你用电脑进行ADB，则不需要）
 + KiWiBrowser（https://www.onlinedown.net/soft/10107048.htm ）（建议用链接里的版本，切记不要`安全下载`！否则后果自负）（其他基于Chromium的浏览器也可，比如Chromium, Chrome, UngoogledChromium, Bromite，我之所以推荐kiwi是因为他支持扩展，这也是我自用的浏览器之一，且是最常用的浏览器）
 
-###### 一句命令
+### 一句命令
 
 ```bash
 echo "_ --host-resolver-rules=\"MAP bu2021.xyz 104.19.112.155:443,MAP annas-archive.se 104.19.112.155:443,MAP zh.annas-archive.se 104.19.112.155:443,MAP www.recaptcha.net 114.250.70.34:443,MAP odysee.com 104.19.112.156:443,MAP api.na-backend.odysee.com 104.19.112.156:443,MAP api.odysee.com 104.19.112.156:443,MAP z-library.rs 104.19.113.157:443,MAP zh.z-library.rs 104.19.113.157:443,MAP reader.z-library.rs 104.19.113.157:443,MAP dlz1.fcdn.sk 104.19.113.157:443,MAP cdn.croxy.network 104.19.113.157:443,MAP apkmirror.com 104.19.113.157:443,MAP www.apkmirror.com 104.19.113.157:443\" -origin-to-force-quic-on=longlivemarxleninmaoism.online:443,annas-archive.se:443,zh.annas-archive.se:443,odysee.com:443,api.na-backend.odysee.com:443,api.odysee.com:443,z-library.rs:443,zh.z-library.rs:443,reader.z-library.rs:443,dlz1.fcdn.sk:443,cdn.croxy.network:443,apkmirror.com:443,www.apkmirror.com:443 --host-rules=\"MAP www.matrix.org 104.20.76.252,MAP matrix.org 104.20.76.252,MAP matrix-client.matrix.org 104.20.76.252,MAP www.croxy.network 143.244.204.138,MAP libgen.rs 193.218.118.42,MAP zh.singlelogin.re 176.123.7.105,MAP singlelogin.re 176.123.7.105,MAP github.com 20.205.243.166\" --ignore-certificate-errors" > chrome-command-line
 ```
 
-##### 第二部分：开启ADB
+## 第二部分：开启ADB
 
 这里提供一个MIUI下利用Termux作为终端的例子。
 
-###### 安装Termux并作准备
+### 安装Termux并作准备
 
 进入Termux后，是一个命令行界面。
 
@@ -87,7 +91,7 @@ apt upgrade
 pkg install android-tools
 ```
 
-###### 连接ADB
+### 连接ADB
 
 其他系统（UI）请自行搜索或探索办法。
 
@@ -120,7 +124,7 @@ pkg install android-tools
     
     应该返回`Connected Successfully`之类的，然后无线调试窗口的已配对设备会显示已连接，连接完成。`Termux`不要退出。
 
-###### 设置command-line
+### 设置command-line
 
 上一步完成后，继续键入命令并`Enter`（比如说在`Termux`里）。
 
@@ -156,7 +160,7 @@ adb disconnect
 
 关闭无线调试，关闭开发者模式，关闭Termux。
 
-##### 第三部分：打开ChromeFlag
+## 第三部分：打开ChromeFlag
 
 还记得Kiwi吗。
 
@@ -172,7 +176,7 @@ chrome://flags/
 
 退出Kiwi，杀掉所有进程，**重启手机**。
 
-##### 第四部分：确认设置成功
+## 第四部分：确认设置成功
 
 重新打开Kiwi。
 
@@ -184,11 +188,11 @@ chrome://version/
 
 确认命令行栏有`_`打头，如果没有，再次杀掉所有进程，重启，不断重复知道出现`_`。
 
-##### 第五部分：愉快上网
+## 第五部分：愉快上网
 
 使用KiWi浏览器，键入`https://longlivemarxleninmaoism.online`
 
-##### 附：更新指南
+## 附：更新指南
 
 1. 重新连接adb（如果你没有卸载Termux，不用`pair`，直接`connect`即可）。
 2. 设置command-line。
@@ -208,7 +212,7 @@ chrome://version/
 
 但是matrix群发的东西，TG群是看不到的。（TG的东西matrix看得到）。（大群为了防止敌人和各路牛魔破坏，没做matrix到tg的桥接）。
 
-##### 客户端
+## 客户端
 
 首先，你需要一个Matrix客户端（这些2024年都没被墙，实在不行我后续看看能不能本地布设一个自带过墙的），比方说：
 + https://app.element.io
@@ -219,7 +223,7 @@ chrome://version/
 
 服务器直接用默认（matrix.org不用改，大群的github号是推荐oblak，但是oblak好像现在不开放注册了，而且上海很卡，根本加载不出，所以我们域前置用matrix）。(matrix虽然用了默认不支持域前置的cloudflare，但是被域前置被matrix故意打开了，所以这是个长久可用的策略。同时，全球$30 \%$的流量走cloudflare cdn，GFW不敢贸然封IP，甚至特色香港政府官网也用了Cloudfalre）。
 
-##### 注册与登录
+## 注册与登录
 
 注册是需要梯子的，因为你要过人机验证（或者你借道github避开人机）。于是这里有了两条路。但是，首先你需要一个邮箱。这里推荐outlook或者yandex，注意别绑手机号。
 + outlook官网：https://outlook.live.com 注册参考教程（其实你会英文跟着步骤就行）：https://blog.csdn.net/Pencil2038/article/details/129128205
@@ -227,7 +231,7 @@ chrome://version/
 
 登录是不需要梯子的，域前置过墙。
 
-###### 邮箱路线
+### 邮箱路线
 
 推荐在Windows上搞，方便操作。
 
@@ -251,7 +255,7 @@ chrome://version/
 
 务必注意保存好你的Security Key，不然你换个地方可能无法登录，且一定无法看加密消息！
 
-###### 借道Github
+### 借道Github
 
 首先你需要注册一个Github号，参考教程：https://www.bilibili.com/video/BV1784y1d7df/ （注意github被墙间歇性封锁，有的时候可能上不去）
 
@@ -261,23 +265,25 @@ chrome://version/
 
 登录的时候点login，然后点github图标，然后走流程，提供Security Key。
 
-##### Verify Session
+## Verify Session
 
 让你Verify Session，一般Verify with Security Key。
 
 另外，如果你用网页代理注册的，推荐把网页代理的session取消注册。
 
-##### 加群
+## 加群
 
 点Search，然后点Public Rooms，然后输入群地址。
 
 这里推荐TG大群的matrix群：地址是 #jinggangshan:matrix.org
 
-##### 忽略片哥和挖矿哥
+当然你也可以自建群，建议开启端到端加密。（大群的m）
+
+## 忽略片哥和挖矿哥
 
 右键头像，有一个红色Ignore，会忽略这个号在这个群的一切信息。
 
-##### 为什么进大群
+## 为什么进大群
 
 大群是我所知道唯一一个：
 + 马列毛主义的，真心革命的（造反）。
@@ -288,6 +294,6 @@ chrome://version/
 
 当然我眼中大群**也有不少需要改进的地方**，不在这里讲了。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjYyMjEzNTYsNzQ1NTUyOTgyLC0xNj
-I3MzUwNjYzLC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbMTA4ODQ3MTYzLDc0NTU1Mjk4MiwtMTYyNz
+M1MDY2MywtMjA4ODc0NjYxMl19
 -->

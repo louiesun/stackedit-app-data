@@ -273,7 +273,7 @@ Android系统要比Windows麻烦一点，需要适用ADB，我这里提供一个
 
 形如此：
 ```bash
-echo "_ --host-resolver-rules=\"MAP bu2021.xyz 104.19.112.155:443,MAP annas-archive.se 104.19.112.155:443,MAP zh.annas-archive.se 104.19.112.155:443,MAP www.recaptcha.net 114.250.70.34:443,MAP odysee.com 104.19.112.156:443,MAP api.na-backend.odysee.com 104.19.112.156:443,MAP api.odysee.com 104.19.112.156:443,MAP z-library.rs 104.19.113.157:443,MAP zh.z-library.rs 104.19.113.157:443,MAP reader.z-library.rs 104.19.113.157:443,MAP dlz1.fcdn.sk 104.19.113.157:443,MAP cdn.croxy.network 104.19.113.157:443,MAP apkmirror.com 104.19.113.157:443,MAP www.apkmirror.com 104.19.113.157:443\" -origin-to-force-quic-on=longlivemarxleninmaoism.online:443,annas-archive.se:443,zh.annas-archive.se:443,odysee.com:443,api.na-backend.odysee.com:443,api.odysee.com:443,z-library.rs:443,zh.z-library.rs:443,reader.z-library.rs:443,dlz1.fcdn.sk:443,cdn.croxy.network:443,apkmirror.com:443,www.apkmirror.com:443 --host-rules=\"MAP www.matrix.org 104.20.76.252,MAP matrix.org 104.20.76.252,MAP matrix-client.matrix.org 104.20.76.252,MAP www.croxy.network 143.244.204.138,MAP libgen.rs 193.218.118.42,MAP zh.singlelogin.re 176.123.7.105,MAP singlelogin.re 176.123.7.105,MAP github.com 20.205.243.166\" --ignore-certificate-errors" > chrome-command-line
+echo "_ --host-resolver-rules=...... s" > chrome-command-line
 ```
 
 请到你也可以去上面介绍的网站生成。
@@ -368,8 +368,6 @@ adb disconnect
 ##### 第三部分：打开ChromeFlag
 
 还记得Kiwi吗。
-
-进入，一路瞎点。
 
 地址栏输入
 
@@ -513,7 +511,7 @@ chrome://version/
 
 ## 后记：需高考的学生怎么办
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4MzAxNzQ3OSwxOTkzNjM0MTMwLC0zMz
+eyJoaXN0b3J5IjpbMTYwMDExMDI2NiwxOTkzNjM0MTMwLC0zMz
 M3MTUwMiwxMDM0NDQ2MjQ1LDIwMTEwNjY0NzcsLTUyMjY1OTUx
 NCwtNjIzODg3OTQyLDIwNjcwODU5NCwxNDE3MTU3NSw5MzU0Nz
 cwNDYsMTA3ODM2MDIyMiwyMDgxMDYwNTQ0LC0xNjI3OTI3MDU0

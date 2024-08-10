@@ -1,7 +1,3 @@
-
- 
-Element注册教程
-Element注册教程
 #  Element注册教程（小王吧版）
 
 
@@ -13,7 +9,7 @@ Element注册教程
 
 我们适用matrix，下面是教程（时间仓促有不少错别字，烦请包含），我是从自己另外的文章里搬过来的，所以上下文可能有点生硬。
 
-### 越过GFW
+## 越过GFW
 
 如果你在网上看到过什么网站，比方说google, twitter却发现上不去，那这就是GFW的功劳。（安分守己地刷抖音？有些资讯你在能正常访问的网站上是找不到的。）
 
@@ -29,7 +25,7 @@ Element注册教程
 
 有两个便于利用的漏洞：QUIC和域前置。（当然还有梯子，可以去看燎原月刊 https://liaoyuan.store ）
 
-#### Windows端
+### Windows端
 
 如果你想用Edge浏览器，那比较简单，因为Windowns10和Windows11都被捆绑了Edge。
 
@@ -44,11 +40,11 @@ start "" "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --host-r
 
 如果你担心适用Edge的隐私问题，我推荐Ungoogled_Chromium（https://ungoogled-software.github.io/ungoogled-chromium-binaries/ ）。彻底退出然后传入命令行参数即可。（如果你不用Edge，我不提供详细的说明，需要你自己的计算机计基础）。
 
-#### Mac或者GNU/Linux
+### Mac或者GNU/Linux
 
 彻底退出后使用Chromium系浏览器传入对应命令行参数即可。
 
-#### Android
+### Android
 
 Android系统要比Windows麻烦一点，需要适用ADB，我这里提供一个教程。
 
@@ -58,26 +54,26 @@ Android系统要比Windows麻烦一点，需要适用ADB，我这里提供一个
 
 为了省流，我不打算配图片
 
-### 第一部分：准备文件
+#### 第一部分：准备文件
 
-### 两个安装包
+##### 两个安装包
 
 （`.apk`），提供的是两个链接，不保证可以下载。
 
 + Termux（https://www.downkuai.com/android/140917.html ）（知道F-droid的，推荐从Fdroid下载；如果你用电脑进行ADB，则不需要）
 + KiWiBrowser（https://www.onlinedown.net/soft/10107048.htm ）（建议用链接里的版本，切记不要`安全下载`！否则后果自负）（其他基于Chromium的浏览器也可，比如Chromium, Chrome, UngoogledChromium, Bromite，我之所以推荐kiwi是因为他支持扩展，这也是我自用的浏览器之一，且是最常用的浏览器）
 
-### 一句命令
+##### 一句命令
 
 ```bash
 echo "_ --host-resolver-rules=\"MAP bu2021.xyz 104.19.112.155:443,MAP annas-archive.se 104.19.112.155:443,MAP zh.annas-archive.se 104.19.112.155:443,MAP www.recaptcha.net 114.250.70.34:443,MAP odysee.com 104.19.112.156:443,MAP api.na-backend.odysee.com 104.19.112.156:443,MAP api.odysee.com 104.19.112.156:443,MAP z-library.rs 104.19.113.157:443,MAP zh.z-library.rs 104.19.113.157:443,MAP reader.z-library.rs 104.19.113.157:443,MAP dlz1.fcdn.sk 104.19.113.157:443,MAP cdn.croxy.network 104.19.113.157:443,MAP apkmirror.com 104.19.113.157:443,MAP www.apkmirror.com 104.19.113.157:443\" -origin-to-force-quic-on=longlivemarxleninmaoism.online:443,annas-archive.se:443,zh.annas-archive.se:443,odysee.com:443,api.na-backend.odysee.com:443,api.odysee.com:443,z-library.rs:443,zh.z-library.rs:443,reader.z-library.rs:443,dlz1.fcdn.sk:443,cdn.croxy.network:443,apkmirror.com:443,www.apkmirror.com:443 --host-rules=\"MAP www.matrix.org 104.20.76.252,MAP matrix.org 104.20.76.252,MAP matrix-client.matrix.org 104.20.76.252,MAP www.croxy.network 143.244.204.138,MAP libgen.rs 193.218.118.42,MAP zh.singlelogin.re 176.123.7.105,MAP singlelogin.re 176.123.7.105,MAP github.com 20.205.243.166\" --ignore-certificate-errors" > chrome-command-line
 ```
 
-## 第二部分：开启ADB
+#### 第二部分：开启ADB
 
 这里提供一个MIUI下利用Termux作为终端的例子。
 
-### 安装Termux并作准备
+##### 安装Termux并作准备
 
 进入Termux后，是一个命令行界面。
 
@@ -91,7 +87,7 @@ apt upgrade
 pkg install android-tools
 ```
 
-### 连接ADB
+##### 连接ADB
 
 其他系统（UI）请自行搜索或探索办法。
 
@@ -124,7 +120,7 @@ pkg install android-tools
     
     应该返回`Connected Successfully`之类的，然后无线调试窗口的已配对设备会显示已连接，连接完成。`Termux`不要退出。
 
-### 设置command-line
+##### 设置command-line
 
 上一步完成后，继续键入命令并`Enter`（比如说在`Termux`里）。
 
@@ -160,7 +156,7 @@ adb disconnect
 
 关闭无线调试，关闭开发者模式，关闭Termux。
 
-## 第三部分：打开ChromeFlag
+#### 第三部分：打开ChromeFlag
 
 还记得Kiwi吗。
 
@@ -176,7 +172,7 @@ chrome://flags/
 
 退出Kiwi，杀掉所有进程，**重启手机**。
 
-## 第四部分：确认设置成功
+#### 第四部分：确认设置成功
 
 重新打开Kiwi。
 
@@ -188,29 +184,19 @@ chrome://version/
 
 确认命令行栏有`_`打头，如果没有，再次杀掉所有进程，重启，不断重复知道出现`_`。
 
-## 第五部分：愉快上网
+#### 第五部分：愉快上网
 
 使用KiWi浏览器，键入`https://longlivemarxleninmaoism.online`
 
-## 附：更新指南
+#### 附：更新指南
 
 1. 重新连接adb（如果你没有卸载Termux，不用`pair`，直接`connect`即可）。
 2. 设置command-line。
 3. 退出Kiwi，杀掉所有进程，重启手机。
 
-### 布站与大群及为什么
+### 加matrix群聊
 
 这个教程基于上面的`越过GFW章节`。
-#### 布站
-直接打`https://longlivemarxleninmaoism.online`。
-
-或者没翻进`https://liaoyuan.store`找，但是注意由于大群技术员同志们的疏忽，他的图床的图片需要复制链接后把`bu2021.xyz`改成`liaoyuan1949.site`等你的网址才能看。
-
-#### 大群
-
-我这里介绍matrix大群，Telegram大群自行看燎原月刊（https://liaoyuan.store 找）。
-
-但是matrix群发的东西，TG群是看不到的。（TG的东西matrix看得到）。（大群为了防止敌人和各路牛魔破坏，没做matrix到tg的桥接）。
 
 ## 客户端
 
@@ -277,7 +263,7 @@ chrome://version/
 
 这里推荐TG大群的matrix群：地址是 #jinggangshan:matrix.org
 
-当然你也可以自建群，建议开启端到端加密。（大群的m）
+当然你也可以自建群，建议开启端到端加密。（大群的matrix群没开）。
 
 ## 忽略片哥和挖矿哥
 
@@ -294,6 +280,6 @@ chrome://version/
 
 当然我眼中大群**也有不少需要改进的地方**，不在这里讲了。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4ODQ3MTYzLDc0NTU1Mjk4MiwtMTYyNz
+eyJoaXN0b3J5IjpbODY2MjAwMzY4LDc0NTU1Mjk4MiwtMTYyNz
 M1MDY2MywtMjA4ODc0NjYxMl19
 -->

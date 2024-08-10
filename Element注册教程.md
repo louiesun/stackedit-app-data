@@ -265,21 +265,14 @@ chrome://version/
 
 当然你也可以自建群，建议开启端到端加密。（大群的matrix群没开）。
 
-## 忽略片哥和挖矿哥
+### 忽略片哥和挖矿哥
 
 右键头像，有一个红色Ignore，会忽略这个号在这个群的一切信息。
 
-## 为什么进大群
+### 提防晶哥
 
-大群是我所知道唯一一个：
-+ 马列毛主义的，真心革命的（造反）。
-+ 有严密组织的（真心要发展成先锋队的），地下的。
-+ 有同志开始以政治灌输为目的的有组织融工的。
-
-的组织，同时也是最成熟的（比较下）组织。
-
-当然我眼中大群**也有不少需要改进的地方**，不在这里讲了。
+**切记，墙内墙外避免用相同用户名，相同邮箱！**。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI5MDA0ODYyLDc0NTU1Mjk4MiwtMTYyNz
-M1MDY2MywtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbMTE3MTEzODI0OSw3NDU1NTI5ODIsLTE2Mj
+czNTA2NjMsLTIwODg3NDY2MTJdfQ==
 -->

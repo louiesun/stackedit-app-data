@@ -1,5 +1,7 @@
 # MlM简明入门
 
+[toc]
+
 ## 自序——到处是笑话
 
 我打算开始写这本册子，心理自然和大部分朋友一样，心理都是有怨气的。什么怨气呢？——笑话（将要）发生在自己身上了。
@@ -501,21 +503,17 @@ chrome://version/
 + 有严密组织的（真心要发展成先锋队的），地下的。
 + 有同志开始以政治灌输为目的的有组织融工的。
 
-的组织，同时也是最成熟的（比较下）组织。
-
+的组织，同时也是最成熟的（比较~~下）组织。
 当然我眼中大群**也有不少需要改进的地方**，不在这里讲了。
-
 ### 大学生怎么办
-
 ### 工人怎么办
-
-## 后记：需高考的学生怎么办
+## 后记：需高考的学生怎么办~~
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwMDExMDI2NiwxOTkzNjM0MTMwLC0zMz
-M3MTUwMiwxMDM0NDQ2MjQ1LDIwMTEwNjY0NzcsLTUyMjY1OTUx
-NCwtNjIzODg3OTQyLDIwNjcwODU5NCwxNDE3MTU3NSw5MzU0Nz
-cwNDYsMTA3ODM2MDIyMiwyMDgxMDYwNTQ0LC0xNjI3OTI3MDU0
-LC0yMDMzNzY0NDY4LC0xMDM1Nzg4MTAsMTEyODc0ODI2MSwtMT
-A2NzQzNDg4MSwtNjMzODA1NDczLC0xODA4NjQwMzE4LDEwMjAy
-NTM1ODRdfQ==
+eyJoaXN0b3J5IjpbLTUyOTA1MTg3OCwxNjAwMTEwMjY2LDE5OT
+M2MzQxMzAsLTMzMzcxNTAyLDEwMzQ0NDYyNDUsMjAxMTA2NjQ3
+NywtNTIyNjU5NTE0LC02MjM4ODc5NDIsMjA2NzA4NTk0LDE0MT
+cxNTc1LDkzNTQ3NzA0NiwxMDc4MzYwMjIyLDIwODEwNjA1NDQs
+LTE2Mjc5MjcwNTQsLTIwMzM3NjQ0NjgsLTEwMzU3ODgxMCwxMT
+I4NzQ4MjYxLC0xMDY3NDM0ODgxLC02MzM4MDU0NzMsLTE4MDg2
+NDAzMThdfQ==
 -->

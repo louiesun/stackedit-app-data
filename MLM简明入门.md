@@ -408,11 +408,11 @@ chrome://version/
 
 ### 时代背景综述
 
-### 布站与大群及为什么
+### 一些马列毛主义网站介绍
 
 这个教程基于上面的`越过GFW章节`。
 #### 布站
-直接打`https://longlivemarxleninmaoism.online`。
+直接打`bu2021.xyz`。
 
 或者没翻进`https://liaoyuan.store`找，但是注意由于大群技术员同志们的疏忽，他的图床的图片需要复制链接后把`bu2021.xyz`改成`liaoyuan1949.site`等你的网址才能看。
 
@@ -504,7 +504,7 @@ chrome://version/
 ### 工人怎么办
 ## 后记：需高考的学生怎么办~~
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyNjEzNzkwNCwtNTI5MDUxODc4LDE2MD
+eyJoaXN0b3J5IjpbMTQ4MzQwNzYyMSwtNTI5MDUxODc4LDE2MD
 AxMTAyNjYsMTk5MzYzNDEzMCwtMzMzNzE1MDIsMTAzNDQ0NjI0
 NSwyMDExMDY2NDc3LC01MjI2NTk1MTQsLTYyMzg4Nzk0MiwyMD
 Y3MDg1OTQsMTQxNzE1NzUsOTM1NDc3MDQ2LDEwNzgzNjAyMjIs

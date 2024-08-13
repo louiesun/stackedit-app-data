@@ -31,15 +31,6 @@
 
 ## 资本，国家与法治
 
-### Country, State, Homeland
-
-如果您还记得小时候政治课上讲的以马克思列宁主义为指导思想，那么您或许需要知道这句：
-> 国家是**阶级矛盾不可调和**的产物，是一个阶级压迫另一个阶级的**暴力机器**。——列宁《国家与革命》
-
-### 为谁服务
-
-### 所谓法治
-
 ## 政治经济学入门
 
 ### 工厂模型：劳动的价值
@@ -506,11 +497,11 @@ chrome://version/
 ### 工人怎么办
 ## 后记：需高考的学生怎么办
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY4ODUxNzM4LC01MjkwNTE4NzgsMTYwMD
-ExMDI2NiwxOTkzNjM0MTMwLC0zMzM3MTUwMiwxMDM0NDQ2MjQ1
-LDIwMTEwNjY0NzcsLTUyMjY1OTUxNCwtNjIzODg3OTQyLDIwNj
-cwODU5NCwxNDE3MTU3NSw5MzU0NzcwNDYsMTA3ODM2MDIyMiwy
-MDgxMDYwNTQ0LC0xNjI3OTI3MDU0LC0yMDMzNzY0NDY4LC0xMD
-M1Nzg4MTAsMTEyODc0ODI2MSwtMTA2NzQzNDg4MSwtNjMzODA1
-NDczXX0=
+eyJoaXN0b3J5IjpbNTg2OTQwMzkyLDk2ODg1MTczOCwtNTI5MD
+UxODc4LDE2MDAxMTAyNjYsMTk5MzYzNDEzMCwtMzMzNzE1MDIs
+MTAzNDQ0NjI0NSwyMDExMDY2NDc3LC01MjI2NTk1MTQsLTYyMz
+g4Nzk0MiwyMDY3MDg1OTQsMTQxNzE1NzUsOTM1NDc3MDQ2LDEw
+NzgzNjAyMjIsMjA4MTA2MDU0NCwtMTYyNzkyNzA1NCwtMjAzMz
+c2NDQ2OCwtMTAzNTc4ODEwLDExMjg3NDgyNjEsLTEwNjc0MzQ4
+ODFdfQ==
 -->

@@ -150,6 +150,7 @@
 5. 革命者不成熟
    当然走资派捣乱也是利用群众的未受教育（没错，又是教育，后面会提）。群众被人利用，轻的跳跳唐氏忠字舞，严重的就可能把知识分子或者其他之类的迫害致死。
    这里其实也有**中央文革有点软弱**的问题，然后毛泽东则是半截身子进土里了。
+   ***从某种意义上来说，这一点是本质问题。但是同时文革的目的就是解决这个问题。***
 6. 还有其他原因
  美国当时越战也波及了柬埔寨。
  再比如说大跃进，确实是有天灾的因素（当然主要是人祸）。
@@ -503,7 +504,7 @@ chrome://version/
 ### 工人怎么办
 ## 后记：需高考的学生怎么办~~
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5Njg5MTQ5NywtNTI5MDUxODc4LDE2MD
+eyJoaXN0b3J5IjpbMTYyNjEzNzkwNCwtNTI5MDUxODc4LDE2MD
 AxMTAyNjYsMTk5MzYzNDEzMCwtMzMzNzE1MDIsMTAzNDQ0NjI0
 NSwyMDExMDY2NDc3LC01MjI2NTk1MTQsLTYyMzg4Nzk0MiwyMD
 Y3MDg1OTQsMTQxNzE1NzUsOTM1NDc3MDQ2LDEwNzgzNjAyMjIs

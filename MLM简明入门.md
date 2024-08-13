@@ -4,7 +4,28 @@
 
 ## 自序
 
+自从我一年前以一个准初三生的身份入门马列毛主义的时候，我已经记不得我看了多少的书了。包括但不限于
 
+-   燎原月刊
+-   各色时评
+-   文革与改开
+-   马列毛主义基本教程
+-   共产党宣言
+-   共和国的历程
+-   一堆东西
+
+其中我也遇到过不少疑问，就比如说继续革命（马列毛主义的毛）到底具体是什么等等。很多我都是要自己去想。
+
+然后我后来在matrix群里旁窥大群的过程中，我发现他们一群已经有永久发言权的同志仍然能在继续革命上辩论许久。
+
+所以我觉得我们应该找几个理论水平高的同志编写一本类似与教科书的册子，这本册子最好满足以下几点：
+
+- 面向已经打算认同马列毛主义这个名词，但是理论几乎没有的同志。
+- 内容尽可能全面。
+- 篇幅尽可能短。因为学生工人都很累，读的书越少越好，避免走弯路。（这方面我的建议是尽可能减少史料的铺述）。
+-   语言尽可能通俗。
+-   格式尽可能简单（我的建议是Markdown语法），可以考虑以后印刷的事情。不用太顾虑排版。
+-   贴合特色实际，提供一些针对中帝国国情的分析。
 
 ## 资本，国家与法治
 
@@ -482,11 +503,11 @@ chrome://version/
 ### 工人怎么办
 ## 后记：需高考的学生怎么办~~
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODc0OTIwMDcsLTUyOTA1MTg3OCwxNj
-AwMTEwMjY2LDE5OTM2MzQxMzAsLTMzMzcxNTAyLDEwMzQ0NDYy
-NDUsMjAxMTA2NjQ3NywtNTIyNjU5NTE0LC02MjM4ODc5NDIsMj
-A2NzA4NTk0LDE0MTcxNTc1LDkzNTQ3NzA0NiwxMDc4MzYwMjIy
-LDIwODEwNjA1NDQsLTE2Mjc5MjcwNTQsLTIwMzM3NjQ0NjgsLT
-EwMzU3ODgxMCwxMTI4NzQ4MjYxLC0xMDY3NDM0ODgxLC02MzM4
-MDU0NzNdfQ==
+eyJoaXN0b3J5IjpbNDQ3OTc5MTM0LC01MjkwNTE4NzgsMTYwMD
+ExMDI2NiwxOTkzNjM0MTMwLC0zMzM3MTUwMiwxMDM0NDQ2MjQ1
+LDIwMTEwNjY0NzcsLTUyMjY1OTUxNCwtNjIzODg3OTQyLDIwNj
+cwODU5NCwxNDE3MTU3NSw5MzU0NzcwNDYsMTA3ODM2MDIyMiwy
+MDgxMDYwNTQ0LC0xNjI3OTI3MDU0LC0yMDMzNzY0NDY4LC0xMD
+M1Nzg4MTAsMTEyODc0ODI2MSwtMTA2NzQzNDg4MSwtNjMzODA1
+NDczXX0=
 -->

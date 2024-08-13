@@ -2,36 +2,9 @@
 
 [toc]
 
-## 自序——到处是笑话
+## 自序
 
-我打算开始写这本册子，心理自然和大部分朋友一样，心理都是有怨气的。什么怨气呢？——笑话（将要）发生在自己身上了。
-作为一个中学生，笑话无非就是应试教育下的笑话。
-+ 为了**保护小草**，学校不允许踩踏草坪，但老师和国际部的小朋友可以随便踩。我们去踩了草坪中间的水泥板都能受到警告。不知道是不是同学们不满太多了，装修后学校干脆把草坪填成了塑胶。
-+ 为了**避免影响宿友**，宿舍不允许食用泡面。所以当有同学食用时，宿舍同学都**帮他打掩护**。
 
-如果上面还是些无关痛痒的小笑话，我们自然还有大笑话。
-+ 八小时工作制？我们的学生都是以后新时代的劳动者（注意与“建设者”辨析，后面会提），高中起先早上七点上学晚上九点半放学。
-+ 双减？不说了，我们同学暑假都有报了四门课的。
-
-当然，其实这本册子本身**也是个笑话**。
-+ 学生，工人朋友都很忙，很累。往往仅剩的剩余时间能用来娱乐就差不多了，压根没空看这种破书。所以写来也许没啥用。所以我只能把册子写得**尽可能简短**， 但这样就必须抛弃很多详细论证，也许有些人就要说我污蔑了。我也只能**一笑了之**。
-+ > 多一个公式，少一半读者。
-+ 而我在后文中写了一个公式（你找到了吗？），读者因此在上一条的基础上又少了一半，哈哈。
-
-我不打算让我的一些尝试就这样报废，所以也就只能尝试把这本册子写成一个或多个笑话，**博得各位笑笑罢**。
-
-好了，该收回之前的引子了：
-> 之前中华总工会有一篇文章讲我们的“社会主义”“建设者”和“社会主义”劳动者之间的矛盾是内部矛盾，也就是**建设者不劳动，劳动者不建设**。
-
-您笑出来了吗？如果笑出来了，那或许我有了竞争对手：
-+ **中国政府**百名军警特警进入山区苗寨**抢骨灰**，不敌苗民**被缴械灰溜溜回到县城**。（https://liaoyuan1949.site/t/topic/25822）
-+ **中国租借**缅甸皎漂特区深水港**99年**。（https://liaoyuan1949.site/t/topic/25597）
-+ ……
-
-最后，我要多一句。如果你觉得这本册子有些内容不对，无需在意，您仔细思辨各方文字，得到的结论往往才正确。
-> 真理是越辩越明的。
-
-可惜我并无本领和您隔空对话，您烦请脑中自辩吧。
 
 ## 资本，国家与法治
 
@@ -509,11 +482,11 @@ chrome://version/
 ### 工人怎么办
 ## 后记：需高考的学生怎么办~~
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyOTA1MTg3OCwxNjAwMTEwMjY2LDE5OT
-M2MzQxMzAsLTMzMzcxNTAyLDEwMzQ0NDYyNDUsMjAxMTA2NjQ3
-NywtNTIyNjU5NTE0LC02MjM4ODc5NDIsMjA2NzA4NTk0LDE0MT
-cxNTc1LDkzNTQ3NzA0NiwxMDc4MzYwMjIyLDIwODEwNjA1NDQs
-LTE2Mjc5MjcwNTQsLTIwMzM3NjQ0NjgsLTEwMzU3ODgxMCwxMT
-I4NzQ4MjYxLC0xMDY3NDM0ODgxLC02MzM4MDU0NzMsLTE4MDg2
-NDAzMThdfQ==
+eyJoaXN0b3J5IjpbLTExODc0OTIwMDcsLTUyOTA1MTg3OCwxNj
+AwMTEwMjY2LDE5OTM2MzQxMzAsLTMzMzcxNTAyLDEwMzQ0NDYy
+NDUsMjAxMTA2NjQ3NywtNTIyNjU5NTE0LC02MjM4ODc5NDIsMj
+A2NzA4NTk0LDE0MTcxNTc1LDkzNTQ3NzA0NiwxMDc4MzYwMjIy
+LDIwODEwNjA1NDQsLTE2Mjc5MjcwNTQsLTIwMzM3NjQ0NjgsLT
+EwMzU3ODgxMCwxMTI4NzQ4MjYxLC0xMDY3NDM0ODgxLC02MzM4
+MDU0NzNdfQ==
 -->

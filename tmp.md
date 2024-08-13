@@ -85,10 +85,12 @@
 
 ### 暴力机器——所谓法治
 
-暴力机器，并不是说他的手段只有暴力，而是说他维护自己运作的手段是暴力。事实上，国家这个暴力机器包含了：军队，警察，媒体，法官
+暴力机器，并不是说他的手段只有暴力，而是说他维护自己运作的手段是暴力。事实上，国家这个暴力机器包含了：军队，警察，媒体，法律等等。但是他们的目的只有一个，维持统治阶级的专政。
+
+于是，国家有合法性吗？依法治国可行吗？这些问题迎刃而解。你就fangfu
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxODUwMzg5OSwtMTU5NDk0NjUxOSwtMT
-gyNjUzMTA4OCw5NzY5NDA3MjUsLTMzODg1MzIwMCwxNDU1ODMy
-MjgsNDk3ODE4ODEwLDgwODQ1NzQ5NywzNDgwOTA3OThdfQ==
+eyJoaXN0b3J5IjpbODY0NjE2MzAwLC0xNTk0OTQ2NTE5LC0xOD
+I2NTMxMDg4LDk3Njk0MDcyNSwtMzM4ODUzMjAwLDE0NTU4MzIy
+OCw0OTc4MTg4MTAsODA4NDU3NDk3LDM0ODA5MDc5OF19
 -->

@@ -79,13 +79,14 @@
 
 此时，再结合虚伪的劳动法，舆论的审查制度等等，一目了然。中国政权的所有者根本就不是劳动人民（到底是谁我后面再写）。
 
+**可笑而可恨**的“爱国主义”问题就在这里，特色党（就是自称的中国共产党的那个）试图让我们为了根本不属于我们的东西挺起胸膛！
 
-**可笑而可恨**的“爱国主义”问题就在这里，特色党（就是自称的中国共产党的那个）试图让我们爱
+### 不可调和导致的暴力机器
 
 ### 所谓法治
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwMzU3MDgzNCwtMTgyNjUzMTA4OCw5Nz
-Y5NDA3MjUsLTMzODg1MzIwMCwxNDU1ODMyMjgsNDk3ODE4ODEw
-LDgwODQ1NzQ5NywzNDgwOTA3OThdfQ==
+eyJoaXN0b3J5IjpbLTE1OTQ5NDY1MTksLTE4MjY1MzEwODgsOT
+c2OTQwNzI1LC0zMzg4NTMyMDAsMTQ1NTgzMjI4LDQ5NzgxODgx
+MCw4MDg0NTc0OTcsMzQ4MDkwNzk4XX0=
 -->

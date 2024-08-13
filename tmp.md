@@ -74,15 +74,17 @@
 | 程学源 | 男   | 全国人大常委会委员，全国人大华侨委员会委员，中国侨联党组成员、副主席                                                                         | 中共       |
 | 谢坚钢 | 男   | 上海市人大常委会党组成员、秘书长，机关党组书记                                                                                               | 中共       |
 | 樊  芸 | 女   | 上海市商标品牌协会会长、市房地产估价师协会会长，中国房地产估价师与经纪人学会副会长，上海富申评估咨询集团董事长                               |            |
+> 来源：上海发布（他们小编竟然敢发这种东西，要知道其他省都是不发的）
 
-来源：上海发布（他们小编竟然敢发这种东西，要知道其他省都是不发的）
+此时，再结合虚伪的劳动法，舆论的审查制度等等，一目了然。中国政权的所有者就是这些人
+
 
 **可笑而可恨**的“爱国主义”问题就在这里，特色党（就是自称的中国共产党的那个）试图让我们爱
 
 ### 所谓法治
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4Mzg3NTIxMSwtMTgyNjUzMTA4OCw5Nz
-Y5NDA3MjUsLTMzODg1MzIwMCwxNDU1ODMyMjgsNDk3ODE4ODEw
-LDgwODQ1NzQ5NywzNDgwOTA3OThdfQ==
+eyJoaXN0b3J5IjpbMzY1MjE0NDU3LC0xODI2NTMxMDg4LDk3Nj
+k0MDcyNSwtMzM4ODUzMjAwLDE0NTU4MzIyOCw0OTc4MTg4MTAs
+ODA4NDU3NDk3LDM0ODA5MDc5OF19
 -->

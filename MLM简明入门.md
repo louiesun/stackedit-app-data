@@ -6,13 +6,14 @@
 
 自从我一年前以一个准初三生的身份入门马列毛主义的时候，我已经记不得我看了多少的书了。包括但不限于
 
--   燎原月刊
--   各色时评
--   文革与改开
--   马列毛主义基本教程
--   共产党宣言
--   共和国的历程
--   一堆东西
+- 燎原月刊
+- 各色时评
+- 文革与改开
+- 马列毛主义基本教程
+- 共产党宣言
+- 共和国的历程
+- 阳和平说事
+- 一堆东西
 
 其中我也遇到过不少疑问，就比如说继续革命（马列毛主义的毛）到底具体是什么等等。很多我都是要自己去想。
 
@@ -497,11 +498,11 @@ chrome://version/
 ### 工人怎么办
 ## 后记：需高考的学生怎么办
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg2OTQwMzkyLDk2ODg1MTczOCwtNTI5MD
-UxODc4LDE2MDAxMTAyNjYsMTk5MzYzNDEzMCwtMzMzNzE1MDIs
-MTAzNDQ0NjI0NSwyMDExMDY2NDc3LC01MjI2NTk1MTQsLTYyMz
-g4Nzk0MiwyMDY3MDg1OTQsMTQxNzE1NzUsOTM1NDc3MDQ2LDEw
-NzgzNjAyMjIsMjA4MTA2MDU0NCwtMTYyNzkyNzA1NCwtMjAzMz
-c2NDQ2OCwtMTAzNTc4ODEwLDExMjg3NDgyNjEsLTEwNjc0MzQ4
-ODFdfQ==
+eyJoaXN0b3J5IjpbMTA5NzQwNzY4MCw5Njg4NTE3MzgsLTUyOT
+A1MTg3OCwxNjAwMTEwMjY2LDE5OTM2MzQxMzAsLTMzMzcxNTAy
+LDEwMzQ0NDYyNDUsMjAxMTA2NjQ3NywtNTIyNjU5NTE0LC02Mj
+M4ODc5NDIsMjA2NzA4NTk0LDE0MTcxNTc1LDkzNTQ3NzA0Niwx
+MDc4MzYwMjIyLDIwODEwNjA1NDQsLTE2Mjc5MjcwNTQsLTIwMz
+M3NjQ0NjgsLTEwMzU3ODgxMCwxMTI4NzQ4MjYxLC0xMDY3NDM0
+ODgxXX0=
 -->

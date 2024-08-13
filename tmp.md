@@ -13,14 +13,14 @@
 
 综上，这个所谓的财富和工业，是属于英国资产阶级的，在私有制下和东伦敦的工人无关，工人只有为他们做牛做马的份。因此，这个贫困的爱国者所为是-**可笑而可悲**的。
 
-我们把问题带回到中国这片国土上发生的事情
+我们把问题带回到中国这片国土上发生的事情，是谁月薪三千？又是谁家财万贯，权势滔天？我可以提供一份上海的十四届全国人大代表名单的职位表，我们一般称其
 
 **可笑而可恨**的“爱国主义”问题就在这里，特色党（就是自称的中国共产党的那个）试图让我们爱
 
 ### 所谓法治
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjYzMTEzMjgsLTE4MjY1MzEwODgsOT
-c2OTQwNzI1LC0zMzg4NTMyMDAsMTQ1NTgzMjI4LDQ5NzgxODgx
-MCw4MDg0NTc0OTcsMzQ4MDkwNzk4XX0=
+eyJoaXN0b3J5IjpbMTk0MDk0NjczNiwtMTgyNjUzMTA4OCw5Nz
+Y5NDA3MjUsLTMzODg1MzIwMCwxNDU1ODMyMjgsNDk3ODE4ODEw
+LDgwODQ1NzQ5NywzNDgwOTA3OThdfQ==
 -->

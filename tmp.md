@@ -81,12 +81,14 @@
 
 **可笑而可恨**的“爱国主义”问题就在这里，特色党（就是自称的中国共产党的那个）试图让我们为了根本不属于我们的东西挺起胸膛！
 
-### 不可调和导致的暴力机器
+### 不可调和
 
-### 所谓法治
+### 暴力机器——所谓法治
+
+这个暴力机器的组成是复杂的，shenzhih
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTQ5NDY1MTksLTE4MjY1MzEwODgsOT
-c2OTQwNzI1LC0zMzg4NTMyMDAsMTQ1NTgzMjI4LDQ5NzgxODgx
-MCw4MDg0NTc0OTcsMzQ4MDkwNzk4XX0=
+eyJoaXN0b3J5IjpbNDEzMzAzNTAwLC0xNTk0OTQ2NTE5LC0xOD
+I2NTMxMDg4LDk3Njk0MDcyNSwtMzM4ODUzMjAwLDE0NTU4MzIy
+OCw0OTc4MTg4MTAsODA4NDU3NDk3LDM0ODA5MDc5OF19
 -->

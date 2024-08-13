@@ -9,16 +9,16 @@
 这里，我想引用这句。
 > 伦敦东区最贫困的爱国者，只要一想起英国的工业和财富，也会不由自主地挺起胸膛。
 
-这句话其实就说明了问题。
-+ 国土就是一块地，他不能拥有什么财富。
-+ 国民是一群人，
+这句话其实就说明了问题。国土就是一块地，他不能拥有什么财富。所以这个所谓的财富和工业，是属于英国资产阶级的，在私有制下和东伦敦的工人无关。
+
+所以我们可笑的“爱国主义”问题就在zheli
 
 ### 为谁服务
 
 ### 所谓法治
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzNDQyNjA5MiwtMTgyNjUzMTA4OCw5Nz
+eyJoaXN0b3J5IjpbMjAxOTY3MTY5MywtMTgyNjUzMTA4OCw5Nz
 Y5NDA3MjUsLTMzODg1MzIwMCwxNDU1ODMyMjgsNDk3ODE4ODEw
 LDgwODQ1NzQ5NywzNDgwOTA3OThdfQ==
 -->

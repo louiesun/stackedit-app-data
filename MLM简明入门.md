@@ -20,7 +20,7 @@
 
 所以我觉得我们应该找几个理论水平高的同志编写一本类似与教科书的册子，这本册子最好满足以下几点：
 
-- 面向已经打算认同马列（毛）主义这个名词，但是理论几乎没有的同志。（这个毛打括号与马列毛主义）
+- 面向已经打算认同马列毛主义这个名词，但是理论几乎没有的同志。
 - 内容尽可能全面。
 - 篇幅尽可能短。
 -   语言尽可能通俗。
@@ -503,7 +503,7 @@ chrome://version/
 ### 工人怎么办
 ## 后记：需高考的学生怎么办~~
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyODE3ODA1NSwtNTI5MDUxODc4LDE2MD
+eyJoaXN0b3J5IjpbMTU5Njg5MTQ5NywtNTI5MDUxODc4LDE2MD
 AxMTAyNjYsMTk5MzYzNDEzMCwtMzMzNzE1MDIsMTAzNDQ0NjI0
 NSwyMDExMDY2NDc3LC01MjI2NTk1MTQsLTYyMzg4Nzk0MiwyMD
 Y3MDg1OTQsMTQxNzE1NzUsOTM1NDc3MDQ2LDEwNzgzNjAyMjIs

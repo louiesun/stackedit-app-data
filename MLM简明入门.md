@@ -27,6 +27,8 @@
 -   格式尽可能简单。
 -   贴合特色国情。
 
+最后，如果能写成，本文成书仓促，不免有大量错别字。
+
 ## 资本，国家与法治
 
 ### Country, State, Homeland
@@ -502,13 +504,13 @@ chrome://version/
 当然我眼中大群**也有不少需要改进的地方**，不在这里讲了。
 ### 大学生怎么办
 ### 工人怎么办
-## 后记：需高考的学生怎么办~~
+## 后记：需高考的学生怎么办
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4MzQwNzYyMSwtNTI5MDUxODc4LDE2MD
-AxMTAyNjYsMTk5MzYzNDEzMCwtMzMzNzE1MDIsMTAzNDQ0NjI0
-NSwyMDExMDY2NDc3LC01MjI2NTk1MTQsLTYyMzg4Nzk0MiwyMD
-Y3MDg1OTQsMTQxNzE1NzUsOTM1NDc3MDQ2LDEwNzgzNjAyMjIs
-MjA4MTA2MDU0NCwtMTYyNzkyNzA1NCwtMjAzMzc2NDQ2OCwtMT
-AzNTc4ODEwLDExMjg3NDgyNjEsLTEwNjc0MzQ4ODEsLTYzMzgw
-NTQ3M119
+eyJoaXN0b3J5IjpbOTY4ODUxNzM4LC01MjkwNTE4NzgsMTYwMD
+ExMDI2NiwxOTkzNjM0MTMwLC0zMzM3MTUwMiwxMDM0NDQ2MjQ1
+LDIwMTEwNjY0NzcsLTUyMjY1OTUxNCwtNjIzODg3OTQyLDIwNj
+cwODU5NCwxNDE3MTU3NSw5MzU0NzcwNDYsMTA3ODM2MDIyMiwy
+MDgxMDYwNTQ0LC0xNjI3OTI3MDU0LC0yMDMzNzY0NDY4LC0xMD
+M1Nzg4MTAsMTEyODc0ODI2MSwtMTA2NzQzNDg4MSwtNjMzODA1
+NDczXX0=
 -->

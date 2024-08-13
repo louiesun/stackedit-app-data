@@ -9,7 +9,7 @@
 这里，我想引用这句。
 > 伦敦东区最贫困的爱国者，只要一想起英国的工业和财富，也会不由自主地挺起胸膛。
 
-这句话其实就说明了问题。国土就是一块地，他不能拥有什么财富。所以这个英国只能指英国政权，那么这个政权属于谁呢？这一点恐怕一目了然，就以这个zhng
+这句话其实就说明了问题。国土就是一块地，他不能拥有什么财富。所以这个英国只能指英国政权，那么这个政权属于谁呢？这一点恐怕一目了然，就以这个政权维护的私有财产不可侵犯来说吧，我们的贫困者早就没什么私有财产了，那么谁的私有财产最多呢？当然是英国的资产阶级了
 
 综上，这个所谓的财富和工业，是属于英国资产阶级的，在私有制下和东伦敦的工人无关，工人只有为他们做牛做马的份。因此，这个贫困的爱国者所为是-**可笑而可悲**的。
 
@@ -18,7 +18,7 @@
 ### 所谓法治
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk2NjE5NzUwLC0xODI2NTMxMDg4LDk3Nj
-k0MDcyNSwtMzM4ODUzMjAwLDE0NTU4MzIyOCw0OTc4MTg4MTAs
-ODA4NDU3NDk3LDM0ODA5MDc5OF19
+eyJoaXN0b3J5IjpbLTEyOTUyMzgzMTMsLTE4MjY1MzEwODgsOT
+c2OTQwNzI1LC0zMzg4NTMyMDAsMTQ1NTgzMjI4LDQ5NzgxODgx
+MCw4MDg0NTc0OTcsMzQ4MDkwNzk4XX0=
 -->

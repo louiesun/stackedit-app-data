@@ -20,12 +20,12 @@
 
 所以我觉得我们应该找几个理论水平高的同志编写一本类似与教科书的册子，这本册子最好满足以下几点：
 
-- 面向已经打算认同马列毛主义这个名词，但是理论几乎没有的同志。
+- 面向已经打算认同马列（毛）主义这个名词，但是理论几乎没有的同志。（这个毛打括号与马列毛主义）
 - 内容尽可能全面。
-- 篇幅尽可能短。因为学生工人都很累，读的书越少越好，避免走弯路。（这方面我的建议是尽可能减少史料的铺述）。
+- 篇幅尽可能短。
 -   语言尽可能通俗。
--   格式尽可能简单（我的建议是Markdown语法），可以考虑以后印刷的事情。不用太顾虑排版。
--   贴合特色实际，提供一些针对中帝国国情的分析。
+-   格式尽可能简单。
+-   贴合特色国情。
 
 ## 资本，国家与法治
 
@@ -503,11 +503,11 @@ chrome://version/
 ### 工人怎么办
 ## 后记：需高考的学生怎么办~~
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ3OTc5MTM0LC01MjkwNTE4NzgsMTYwMD
-ExMDI2NiwxOTkzNjM0MTMwLC0zMzM3MTUwMiwxMDM0NDQ2MjQ1
-LDIwMTEwNjY0NzcsLTUyMjY1OTUxNCwtNjIzODg3OTQyLDIwNj
-cwODU5NCwxNDE3MTU3NSw5MzU0NzcwNDYsMTA3ODM2MDIyMiwy
-MDgxMDYwNTQ0LC0xNjI3OTI3MDU0LC0yMDMzNzY0NDY4LC0xMD
-M1Nzg4MTAsMTEyODc0ODI2MSwtMTA2NzQzNDg4MSwtNjMzODA1
-NDczXX0=
+eyJoaXN0b3J5IjpbMjEyODE3ODA1NSwtNTI5MDUxODc4LDE2MD
+AxMTAyNjYsMTk5MzYzNDEzMCwtMzMzNzE1MDIsMTAzNDQ0NjI0
+NSwyMDExMDY2NDc3LC01MjI2NTk1MTQsLTYyMzg4Nzk0MiwyMD
+Y3MDg1OTQsMTQxNzE1NzUsOTM1NDc3MDQ2LDEwNzgzNjAyMjIs
+MjA4MTA2MDU0NCwtMTYyNzkyNzA1NCwtMjAzMzc2NDQ2OCwtMT
+AzNTc4ODEwLDExMjg3NDgyNjEsLTEwNjc0MzQ4ODEsLTYzMzgw
+NTQ3M119
 -->

@@ -90,8 +90,10 @@
 于是，国家有合法性吗？依法治国可行吗？这些问题迎刃而解。这就好像说手管理身体一样荒谬。
 
 下一段内容中，我们就来看看，私有财产不可侵犯，也就是私有制这一条法律，是怎么专政无产阶级的。
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyMzI4NDI3OCwtMTU5NDk0NjUxOSwtMT
-gyNjUzMTA4OCw5NzY5NDA3MjUsLTMzODg1MzIwMCwxNDU1ODMy
-MjgsNDk3ODE4ODEwLDgwODQ1NzQ5NywzNDgwOTA3OThdfQ==
+eyJoaXN0b3J5IjpbLTgyMTEyNzcwOCwxOTIzMjg0Mjc4LC0xNT
+k0OTQ2NTE5LC0xODI2NTMxMDg4LDk3Njk0MDcyNSwtMzM4ODUz
+MjAwLDE0NTU4MzIyOCw0OTc4MTg4MTAsODA4NDU3NDk3LDM0OD
+A5MDc5OF19
 -->

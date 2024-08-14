@@ -83,7 +83,7 @@
 
 ### 不可调和
 
-### 暴力机器——所谓法治
+### 暴力机器——驳法治论
 
 暴力机器，并不是说他的手段只有暴力，而是说他维护自己运作的手段是暴力。事实上，国家这个暴力机器包含了：军队，警察，媒体，法律等等。但是他们的目的只有一个，维持统治阶级的专政。
 
@@ -92,8 +92,8 @@
 下一段内容中，我们就来看看，私有财产不可侵犯，也就是私有制这一条法律，是怎么专政无产阶级的。
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyMTEyNzcwOCwxOTIzMjg0Mjc4LC0xNT
-k0OTQ2NTE5LC0xODI2NTMxMDg4LDk3Njk0MDcyNSwtMzM4ODUz
-MjAwLDE0NTU4MzIyOCw0OTc4MTg4MTAsODA4NDU3NDk3LDM0OD
-A5MDc5OF19
+eyJoaXN0b3J5IjpbLTQwOTkwMzY1MiwtODIxMTI3NzA4LDE5Mj
+MyODQyNzgsLTE1OTQ5NDY1MTksLTE4MjY1MzEwODgsOTc2OTQw
+NzI1LC0zMzg4NTMyMDAsMTQ1NTgzMjI4LDQ5NzgxODgxMCw4MD
+g0NTc0OTcsMzQ4MDkwNzk4XX0=
 -->

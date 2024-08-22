@@ -1,3 +1,5 @@
+[toc]
+
 # 政府保护了我们？
 
 1.说明政府的阶级本质  
@@ -842,9 +844,9 @@
 
 **经济危机充分暴露了资本主义制度的历史过渡性。经济危机表明，资本主义的生产关系和生产力之间存在着对抗性的矛盾。对于庞大的社会化的生产力来说，资本主义生产关系实在是太狭隘了！！！它严重地束缚着生产力的发展。在危机期间，必须在生产力大大破坏，生产猛烈缩减以后，生产和消费的矛盾才能得到暂时的、强制的解决。但在同时， 导向一次新的危机的因素又在逐步积累起来。在资本主义经济的发展过程中，经济危机有愈益严重化的倾向，表明资本主义生产系已经腐朽了，它必然要被另一种能适应生产力发展要求的新的生产关系即社会主义生产关系所代替！**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTIxMzQzMDIsNTY5NDcwMjM2LDQ5Nz
-gxODgxMCwtNDA5OTAzNjUyLC04MjExMjc3MDgsMTkyMzI4NDI3
-OCwtMTU5NDk0NjUxOSwtMTgyNjUzMTA4OCw5NzY5NDA3MjUsLT
-MzODg1MzIwMCwxNDU1ODMyMjgsNDk3ODE4ODEwLDgwODQ1NzQ5
-NywzNDgwOTA3OThdfQ==
+eyJoaXN0b3J5IjpbLTczNjkzODgyMiw1Njk0NzAyMzYsNDk3OD
+E4ODEwLC00MDk5MDM2NTIsLTgyMTEyNzcwOCwxOTIzMjg0Mjc4
+LC0xNTk0OTQ2NTE5LC0xODI2NTMxMDg4LDk3Njk0MDcyNSwtMz
+M4ODUzMjAwLDE0NTU4MzIyOCw0OTc4MTg4MTAsODA4NDU3NDk3
+LDM0ODA5MDc5OF19
 -->

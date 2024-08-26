@@ -38,7 +38,7 @@
 
 以上这些案件，中国劳工通讯均已去信工厂相关的品牌方，要求对工人的超时加班、体面工资、工人的结社和谈判权等作出调查。
 
-抖音图片：乔丰工人集体拦住大货车
+***抖音图片：乔丰工人集体拦住大货车***
 
 ## 基建、住宅项目欠薪问题未解 建筑工人讨薪多时
 
@@ -759,9 +759,9 @@
 同志们，列宁的《帝国主义论》从发表到今天，时代没有变，国际形势却发生了很大的变化。只有对当代各种基本矛盾的激化和国际阶级力量的变化进行马列毛主义的分析，才能作出正确的阶级估量，分清敌我友，制定正确的斗争策略，在国际范围内组织反帝、反殖、反霸的统一战线，最大限度地孤立和打击最凶恶的敌人，推动世界革命形势的发展，更好地完成无产阶级的历史使命。
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3MzM2NjgzMCwxMzE1ODgyNTk2LC03Mz
-Y5Mzg4MjIsNTY5NDcwMjM2LDQ5NzgxODgxMCwtNDA5OTAzNjUy
-LC04MjExMjc3MDgsMTkyMzI4NDI3OCwtMTU5NDk0NjUxOSwtMT
-gyNjUzMTA4OCw5NzY5NDA3MjUsLTMzODg1MzIwMCwxNDU1ODMy
-MjgsNDk3ODE4ODEwLDgwODQ1NzQ5NywzNDgwOTA3OThdfQ==
+eyJoaXN0b3J5IjpbODQwNjAzNTU2LDEzMTU4ODI1OTYsLTczNj
+kzODgyMiw1Njk0NzAyMzYsNDk3ODE4ODEwLC00MDk5MDM2NTIs
+LTgyMTEyNzcwOCwxOTIzMjg0Mjc4LC0xNTk0OTQ2NTE5LC0xOD
+I2NTMxMDg4LDk3Njk0MDcyNSwtMzM4ODUzMjAwLDE0NTU4MzIy
+OCw0OTc4MTg4MTAsODA4NDU3NDk3LDM0ODA5MDc5OF19
 -->

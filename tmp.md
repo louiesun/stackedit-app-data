@@ -498,8 +498,10 @@
 <center><font color="red">全世界无产者和被压迫人民，联合起来！<br/>
 英特那雄耐尔一定要实现！</font></center>
 
-## 《帝国主义论》是反帝反修的强大思想武器
+# 《帝国主义论》是反帝反修的强大思想武器
 ***由于本文初始时刊发与微信公众号，自然没有关于中帝国的论述。***
+
+## 综述
 
 ### 帝国主义的本质
 
@@ -1011,9 +1013,9 @@
 同志们，列宁的《帝国主义论》从发表到今天，时代没有变，国际形势却发生了很大的变化。只有对当代各种基本矛盾的激化和国际阶级力量的变化进行马列毛主义的分析，才能作出正确的阶级估量，分清敌我友，制定正确的斗争策略，在国际范围内组织反帝、反殖、反霸的统一战线，最大限度地孤立和打击最凶恶的敌人，推动世界革命形势的发展，更好地完成无产阶级的历史使命。
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDEzOTg5MDIsMTMxNTg4MjU5NiwtNz
-M2OTM4ODIyLDU2OTQ3MDIzNiw0OTc4MTg4MTAsLTQwOTkwMzY1
-MiwtODIxMTI3NzA4LDE5MjMyODQyNzgsLTE1OTQ5NDY1MTksLT
-E4MjY1MzEwODgsOTc2OTQwNzI1LC0zMzg4NTMyMDAsMTQ1NTgz
-MjI4LDQ5NzgxODgxMCw4MDg0NTc0OTcsMzQ4MDkwNzk4XX0=
+eyJoaXN0b3J5IjpbMTQ3MTA0MzU4MywxMzE1ODgyNTk2LC03Mz
+Y5Mzg4MjIsNTY5NDcwMjM2LDQ5NzgxODgxMCwtNDA5OTAzNjUy
+LC04MjExMjc3MDgsMTkyMzI4NDI3OCwtMTU5NDk0NjUxOSwtMT
+gyNjUzMTA4OCw5NzY5NDA3MjUsLTMzODg1MzIwMCwxNDU1ODMy
+MjgsNDk3ODE4ODEwLDgwODQ1NzQ5NywzNDgwOTA3OThdfQ==
 -->

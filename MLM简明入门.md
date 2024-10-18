@@ -114,7 +114,6 @@
 **可笑而可恨**的“爱国主义”问题就在这里，特色党（就是自称的中国共产党的那个）试图让我们为了根本不属于我们的东西挺起胸膛！
 
 
-
 ### 暴力机器——驳法治论
 
 暴力机器，并不是说他的手段只有暴力，而是说他维护自己运作的手段是暴力。事实上，国家这个暴力机器包含了：军队，警察，媒体，法律等等。但是他们的目的只有一个，维持统治阶级的专政。
@@ -592,11 +591,11 @@ chrome://version/
 ### 工人怎么办
 ## 后记：需高考的学生怎么办
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ4Njc1MDkyLDEyNjkzMjM3NTYsMTA5Nz
-QwNzY4MCw5Njg4NTE3MzgsLTUyOTA1MTg3OCwxNjAwMTEwMjY2
-LDE5OTM2MzQxMzAsLTMzMzcxNTAyLDEwMzQ0NDYyNDUsMjAxMT
-A2NjQ3NywtNTIyNjU5NTE0LC02MjM4ODc5NDIsMjA2NzA4NTk0
-LDE0MTcxNTc1LDkzNTQ3NzA0NiwxMDc4MzYwMjIyLDIwODEwNj
-A1NDQsLTE2Mjc5MjcwNTQsLTIwMzM3NjQ0NjgsLTEwMzU3ODgx
-MF19
+eyJoaXN0b3J5IjpbMTA0MzAyNjQwNiw4NDg2NzUwOTIsMTI2OT
+MyMzc1NiwxMDk3NDA3NjgwLDk2ODg1MTczOCwtNTI5MDUxODc4
+LDE2MDAxMTAyNjYsMTk5MzYzNDEzMCwtMzMzNzE1MDIsMTAzND
+Q0NjI0NSwyMDExMDY2NDc3LC01MjI2NTk1MTQsLTYyMzg4Nzk0
+MiwyMDY3MDg1OTQsMTQxNzE1NzUsOTM1NDc3MDQ2LDEwNzgzNj
+AyMjIsMjA4MTA2MDU0NCwtMTYyNzkyNzA1NCwtMjAzMzc2NDQ2
+OF19
 -->

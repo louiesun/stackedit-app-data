@@ -10,9 +10,13 @@
 后来革社和大群论战，搞的迷茫。
 中间把自己写的免费翻墙项目转给大群。
 10月八国联军和大群论战，因为意识到大群在mediafire和github上传刊很慢，延迟好几天，意识到这是个草台班子，遂逃离。
-现在就在xmpp和matrix上活动。几年来除了翻墙技术
+现在就在xmpp和matrix上活动。几年来除了翻墙技术进步了（更多的无需第三方转发的翻墙方式），也每干成啥，就是迷茫。
+目前认为的正确路线：
+先把线上的革命知识分子尽可能联合起来
+再进厂发展足够工人
+在小城市，大工业区起义。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQyNDQ1NzM2LDM0OTUwNzEyOSwtMzI1Nz
+eyJoaXN0b3J5IjpbMTYyNDQwOTcyLDM0OTUwNzEyOSwtMzI1Nz
 cxNDkwLDE1MDA5OTgxNDUsMjQ1MDAzMDM1LC0yMDg4NzQ2NjEy
 LDEzMTU4ODI1OTYsLTczNjkzODgyMiw1Njk0NzAyMzYsNDk3OD
 E4ODEwLC00MDk5MDM2NTIsLTgyMTEyNzcwOCwxOTIzMjg0Mjc4

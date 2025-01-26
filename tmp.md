@@ -4,14 +4,16 @@
 自我介绍
 我左转是3年前的事情，很多东西记不清疫情前是粉红。现在高一。
 我大概是在疫情吧，中国人口吧跳小王吧，接触马列毛，看了一些书，接触了燎原月刊。（你和我聊历史，政经，我是能接上来不少的）。
-出生是小资，上海本地（郊区），混的不错。不细说，防
+出生是小资，上海本地（郊区），混的不错。不细说，比较铭感。
+没有tg号，主要在matrix活动
+一开始想加入大群（23年），
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4OTAxMjg1MCwzNDk1MDcxMjksLTMyNT
-c3MTQ5MCwxNTAwOTk4MTQ1LDI0NTAwMzAzNSwtMjA4ODc0NjYx
-MiwxMzE1ODgyNTk2LC03MzY5Mzg4MjIsNTY5NDcwMjM2LDQ5Nz
-gxODgxMCwtNDA5OTAzNjUyLC04MjExMjc3MDgsMTkyMzI4NDI3
-OCwtMTU5NDk0NjUxOSwtMTgyNjUzMTA4OCw5NzY5NDA3MjUsLT
-MzODg1MzIwMCwxNDU1ODMyMjgsNDk3ODE4ODEwLDgwODQ1NzQ5
-N119
+eyJoaXN0b3J5IjpbODY1MTk4MDQxLDM0OTUwNzEyOSwtMzI1Nz
+cxNDkwLDE1MDA5OTgxNDUsMjQ1MDAzMDM1LC0yMDg4NzQ2NjEy
+LDEzMTU4ODI1OTYsLTczNjkzODgyMiw1Njk0NzAyMzYsNDk3OD
+E4ODEwLC00MDk5MDM2NTIsLTgyMTEyNzcwOCwxOTIzMjg0Mjc4
+LC0xNTk0OTQ2NTE5LC0xODI2NTMxMDg4LDk3Njk0MDcyNSwtMz
+M4ODUzMjAwLDE0NTU4MzIyOCw0OTc4MTg4MTAsODA4NDU3NDk3
+XX0=
 -->

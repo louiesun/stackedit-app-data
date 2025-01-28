@@ -18,7 +18,10 @@
 
 总而言之，我希望利用春节这个档口期，尽可能实现各组织的合并。
 我现在主要在xmpp继续革命社和哲学历史社活动。
+关于之前lonelivemaoism同志的事情，我感到抱歉。他确实急了，在哲学历史社的讨论中，他也暴露出了一些缺点，不知道是性格上的，还是别的原因。
+我看了lsep论坛的许多文章，写的还是很有水平的，烽火同志的中未革写的也很好。
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM0NTU3NTc3LC0xMjI0Mzk5NDc5XX0=
+eyJoaXN0b3J5IjpbLTEwOTIxMzM1ODAsLTEyMjQzOTk0NzldfQ
+==
 -->

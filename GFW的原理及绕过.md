@@ -276,19 +276,22 @@ Android机所谓建立虚拟连接就永是此类，又称全局VPN。
 ```mermaid
 graph LR
 应用客户端 --> 代理a客户端
+代理a客户端 --> 代理b客户端
 代理b客户端 --> 代理c客户端
 代理c客户端 --> 公网
 公网 --> 代理c服务端
-代理c服务端
+代理c服务端 --> 代理b服务端
+代理b服务端 --> 代理a服务端
+代理a服务端 --> 应用服务端
 ```
 
-好你往板里放东西，先进的放在床下，最后拿出来。
+好像你往筒里放东西，先进的放在底下，最后拿出来。
 
-☰网络☰☰身份
+## 网络身份与网络安全
 
-#☰邮箱
+### 邮箱
 
-大部分服务注册需要一个邮箱。推荐proton，Tata。Gmail，Ou tlok也可。
+大部分服务注册需要一个邮箱。推荐proton，Tata。Gmail，Outlook也可。
 
 注意☰大部分邮箱有一个字保邮箱机制。☰如果邮箱A空污点了，向隔B发确的信息，
 
@@ -373,6 +376,6 @@ graph LR
 
 井网络问题快速诊断
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTMyMTc2NjQ4LDQ2OTQwNDk3LDEwMTY1Mz
-MxMDUsLTE4ODgzNTE5MTAsLTYzMjk1MjI1M119
+eyJoaXN0b3J5IjpbMTA3NjIxNjc4MCw0Njk0MDQ5NywxMDE2NT
+MzMTA1LC0xODg4MzUxOTEwLC02MzI5NTIyNTNdfQ==
 -->

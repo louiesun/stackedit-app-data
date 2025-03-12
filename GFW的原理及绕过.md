@@ -37,7 +37,9 @@ GFW，估计是目田起的，全称GreatFireWall，指的是中国的国际联�
 
 常见的协议有ipv4协议和ipv6协议。ipv6是因为ipv4地址不够用而提出的。你可以认为ip是一个家庭，共用一个编号（收件地址），如中南海习家。
 
-显然，ip是被泄露了的。因此，审查机器可以阻止向特定的收件人送信。这种封锁手段就叫**ip黑洞**
+显然，ip是被泄露了的。因此，审查机器可以阻止向特定的收件人送信。
+
+这种封锁手段就叫**ip封锁**
 
 ## 翻墙
 ### 根本原理：流量转发
@@ -243,6 +245,6 @@ Ton也就是洋葱网络,也是唯一的暗网。(其他都是诈骗或营销号
 一种叫浏览器拉纹的元数据被利用。
 井网络问题快速诊断
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ0NzYxMjI0LC0xODg4MzUxOTEwLC02Mz
+eyJoaXN0b3J5IjpbMTkxOTc1ODI1LC0xODg4MzUxOTEwLC02Mz
 I5NTIyNTNdfQ==
 -->

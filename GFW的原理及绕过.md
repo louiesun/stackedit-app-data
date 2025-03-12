@@ -141,12 +141,16 @@ ECH为sni加密技术，其他同直连，目前只有CloudflareCDN免费版支�
 
 ### Tor Browser
 
-Ton也就是洋葱网络，也是唯一的暗网。(其他都是诈骗或营销号瞎讲)
+Tor也就是洋葱网络，也是唯一的暗网。(其他都是诈骗或营销号瞎讲）。Tor Browser是一个Tor官方的自由浏览器，默认使用Tor网络。
 
-叫洋葱的原因很形象。访问一个正常网站需要3个万r节点，过程是
-
-客户端→节点A→节点B→节点C→服务端
-
+叫洋葱的原因很形象。访问一个正常网站需要3个Tor节点，过程是
+```mermaid
+graph LR
+客户端 --> 节点A
+节点A --> 节点B
+节点B --> 节点C
+节点C →服务端
+```
 魂户
 
 访问时，客户端先进行服务端的加加密，再用C的公钥加密，两B两A发送时各级解家后
@@ -394,6 +398,6 @@ Android机所谓建立虚拟连接永是此类，又称全局VPN
 
 井网络问题快速诊断
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2NDUxMDk3MCwtMTg4ODM1MTkxMCwtNj
-MyOTUyMjUzXX0=
+eyJoaXN0b3J5IjpbMTIwOTEzMDEsLTE4ODgzNTE5MTAsLTYzMj
+k1MjI1M119
 -->

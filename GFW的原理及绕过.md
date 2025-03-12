@@ -257,15 +257,11 @@ Android机所谓建立虚拟连接就永是此类，又称全局VPN。
 
 一般只能有一个虚拟网卡。
 
-好的代理软件应当允许放置☰置理，即配置流量发向哪里，也应当提供
+好的全局VPN软件应当允许前置代理，即配置流量发向哪里，也应当提供端口作为别人的前置代理，但此类应用不多。
 
-气局
+一般全局代理应用允许选择特定应用代理（如代理XMPP不代理微信）
 
-端☰作前置代理，但比类应用不多。
-
-☰☰允许选择应用代理(的代现XMPP不代理收信)
-
-##3行式办法
+### 强行链式办法
 
 如果我们去培的宣传，为了不果善环，同时中修平可能要制境外观，可能想同时
 
@@ -370,6 +366,6 @@ Android机所谓建立虚拟连接就永是此类，又称全局VPN。
 
 井网络问题快速诊断
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5NjMwMTkxLDQ2OTQwNDk3LDEwMTY1Mz
-MxMDUsLTE4ODgzNTE5MTAsLTYzMjk1MjI1M119
+eyJoaXN0b3J5IjpbLTcyNTk0NDI0NCw0Njk0MDQ5NywxMDE2NT
+MzMTA1LC0xODg4MzUxOTEwLC02MzI5NTIyNTNdfQ==
 -->

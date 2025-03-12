@@ -235,11 +235,11 @@ WebRTC被用于音视频同伙等，一般不经过代理，因此会导致IP泄
 
 ### 本地代理端口
 
-代理服务器未必是用来翻墙的，其只是用于转发流量的。流是也可以发到本地端口。`127.0.0.1`就是回环端口，也即访问计算机自身使用的IP，想象一根水管插回水库。
+代理服务器未必是用来翻墙的，其只是用于转发流量的。流是也可以发到本地端口。`127.0.0.1`就是回环端口，也即访问计算机自身使用的IP，想象一根电线插回自己。
 
-此时代理也需要协议，一般采用简单的HTTSoc☰代理。
+此时代理也需要协议，一般采用简单的HTTP或者Sock5代理。
 
-一些代理软件可以监听☰定端口，将此处收到数据转给远程代理服务器，
+一些代理软件可以监听指定端口，将此处收到数据转给远程代理服务器，
 
 如速雾通监 10d9+TP代理，Pa1 SOCK代理。TLSpngmant 认监所 ☰2500HTH。
 
@@ -372,6 +372,6 @@ Android机所谓建立虚拟连接永是此类，又称全局VPN
 
 井网络问题快速诊断
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjE0ODE5NDQsNDY5NDA0OTcsMTAxNj
-UzMzEwNSwtMTg4ODM1MTkxMCwtNjMyOTUyMjUzXX0=
+eyJoaXN0b3J5IjpbMzAxNzAyODI5LDQ2OTQwNDk3LDEwMTY1Mz
+MxMDUsLTE4ODgzNTE5MTAsLTYzMjk1MjI1M119
 -->

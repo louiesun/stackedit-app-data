@@ -253,9 +253,9 @@ Android机所谓建立虚拟连接就永是此类，又称全局VPN。
 
 相比于代理端口，虚拟网卡好处在于可以强制接收一切流量，而一些应用可能不提供使用代理功能，系统代理应用也可不遵守。
 
-也有坏处，代理端口可以轻易地链式连接。如应用1009(迷雾通)发给2500lTLSFragment
+也有坏处，代理端口可以轻易地链式连接。如应用1009（迷雾通）发给2500（TLSFragment）发给网卡连接互联网，尝试解决迷雾通代理域名的sni封锁（这是比喻，迷雾通没这个问题）。
 
-→网卡→互联网，而一般只能有一个虚拟网卡。
+一般只能有一个虚拟网卡。
 
 好的代理软件应当允许放置☰置理，即配置流量发向哪里，也应当提供
 
@@ -370,6 +370,6 @@ Android机所谓建立虚拟连接就永是此类，又称全局VPN。
 
 井网络问题快速诊断
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzExMDc2MzYyLDQ2OTQwNDk3LDEwMTY1Mz
+eyJoaXN0b3J5IjpbMTU5NjMwMTkxLDQ2OTQwNDk3LDEwMTY1Mz
 MxMDUsLTE4ODgzNTE5MTAsLTYzMjk1MjI1M119
 -->

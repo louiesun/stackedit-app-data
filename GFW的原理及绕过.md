@@ -69,23 +69,19 @@ GFW，估计是目田起的，全称GreatFireWall，指的是中国的国际联�
 
 一些常见的目前可用开源协议为：VMESS，VLESS，Trojan，Stealth（Proton VPN），niaucchi4（迷雾通）
 
-也有一些已被识别的切记如HTTP5，Sock(S)，OpenVPN，wireguard，musqgue等
+也有一些已被识别的切记如HTTP5，Sock(S)，OpenVPN，wireguard，masque等。
 
-井井井困难=：出口IP
+#### 困难二：出口IP
 
-资产服☰又有一项臭名昭著的法权：版权。一部电影即使在一圈购公买，换个地方又要交一笔钱。
+资产阶级又有一项臭名昭著的法权：版权。一部电影即使在一国家内购买，换个地方又要交一笔钱。
 
-那么这种国别识别在网络中如何实现?靠的是IP地址。
+那么这种国别识别在网络中如何实现？靠的是IP地址。
 
-以不少小资产阶级喜欢看的NCtFX为例，其只向特定地区提供服务，实际上就是特定
+以不少小资产阶级喜欢看的NetFlix为例，其只向特定地区提供服务，实际上就只有特定范围的IP能使用服务。
 
-范围的ZP。
+既然流量是由代理转发的，那么自然服务器获得的IP也是代理的，一般判断的国别也是代理的。
 
-既然流量是由代理转发的，那么自然服务器获得的工P也是代理的，一般判断的国
-
-别也是代理的。
-
->为什么说是一般呢?因而有的网站势止代理，而有的代理用多了I会被标记为代理。
+> 为什么说是一般呢?因而有的网站代理，而有的代理用多了I会被标记为代理。
 
 对于无产阶级革命家，出口☰带来的问题主要在注册一些私有平台，如Gogle，
 
@@ -427,6 +423,6 @@ Ton也就是洋葱网络，也是唯一的暗网。(其他都是诈骗或营销�
 
 井网络问题快速诊断
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3Mjc1NzY5OSwtMTg4ODM1MTkxMCwtNj
-MyOTUyMjUzXX0=
+eyJoaXN0b3J5IjpbLTEwNTEyMDY1NDUsLTE4ODgzNTE5MTAsLT
+YzMjk1MjI1M119
 -->

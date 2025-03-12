@@ -263,9 +263,9 @@ Android机所谓建立虚拟连接就永是此类，又称全局VPN。
 
 ### 强行链式办法
 
-如果我们去培的宣传，为了不果善环，同时中修平可能要制境外观，可能想同时
+如果我们去墙内的宣传，为了不暴露ip，同时中修平台可能限制境外访问。
 
-使用海外华人宜国PN和protonWPNl，但两者均不好。
+我们可能会考虑同时使用海外华人回国VPN和protonVPN，但两者均zhi'chi。
 
 这时一个思路是在☰机收中以使用革命机开热点革命机开Pt。
 
@@ -366,6 +366,6 @@ Android机所谓建立虚拟连接就永是此类，又称全局VPN。
 
 井网络问题快速诊断
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyNTk0NDI0NCw0Njk0MDQ5NywxMDE2NT
-MzMTA1LC0xODg4MzUxOTEwLC02MzI5NTIyNTNdfQ==
+eyJoaXN0b3J5IjpbLTE2ODAzMzI3NTQsNDY5NDA0OTcsMTAxNj
+UzMzEwNSwtMTg4ODM1MTkxMCwtNjMyOTUyMjUzXX0=
 -->

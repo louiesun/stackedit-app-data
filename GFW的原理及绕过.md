@@ -338,8 +338,14 @@ graph LR
 
 ### 网络卡
 
-可能一级一级转发太多了。
+可能一级一级转发太多了。当然不排除gfw干扰。对于Tor，一般不是gfw干扰，因为gfw一般只会直接封锁tor，而不是使其半死不活（具体手段是随机丢弃一些数据导致一次一次重传）。
+
+当然，其他一些服务，比如github，有被恶意丢包。
+
+### 确定dns
+
+可以前往nslookup.io
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjU4NjkwNjcsNDY5NDA0OTcsMTAxNj
+eyJoaXN0b3J5IjpbLTEzNzM5NTMwMTIsNDY5NDA0OTcsMTAxNj
 UzMzEwNSwtMTg4ODM1MTkxMCwtNjMyOTUyMjUzXX0=
 -->

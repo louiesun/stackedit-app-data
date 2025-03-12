@@ -63,15 +63,13 @@ GFW，估计是目田起的，全称GreatFireWall，指的是中国的国际联�
 > 有的朋友可能说：“既然TLS可以加密内容何不加密信件内容呢?”但要注意，往往转发的内容也是TLS加密的。这叫“TLS in TLS”。
 > 这里介绍一点，TLS握手包的大小是明显的，而加密基本不改变包大小，因此，“TLSinTLS”的前几个包大小规律明显，已被GFW识别。
 
-为了防止流量识别，就需要设计协议。这里的协议就同之前各层的协议一样，规定了客户端与代理服务器如何交流。
+为了防止流量识别，就需要设计协议。这里的协议就同之前各层的协议一样，规定了交流方式。
 
-一般翻磅协议建立在TCP上，初兴规定了
+一般翻墙协议建立在TCP上，协议规定了客户端与代理服务器如何交流。
 
-一些常见的目前可用开沥协为：VMESsS VLESS，Toojam， Stenlth Cproton Vioy作用的，Gegh
+一些常见的目前可用开源协议为：VMESS，VLESS，Trojan，Stealth（Proton VPN），niaucchi4（迷雾通）
 
-(雾通所使用的协议等
-
-也有一些已被识别的切记如HTTP5，Sock(S)，OpenUPN☰，wieguard，musqgue等
+也有一些已被识别的切记如HTTP5，Sock(S)，OpenVPN，wireguard，musqgue等
 
 井井井困难=：出口IP
 
@@ -429,6 +427,6 @@ Ton也就是洋葱网络，也是唯一的暗网。(其他都是诈骗或营销�
 
 井网络问题快速诊断
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY4Mjg3OTA1LC0xODg4MzUxOTEwLC02Mz
-I5NTIyNTNdfQ==
+eyJoaXN0b3J5IjpbMTM3Mjc1NzY5OSwtMTg4ODM1MTkxMCwtNj
+MyOTUyMjUzXX0=
 -->

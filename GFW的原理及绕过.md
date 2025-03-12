@@ -115,7 +115,7 @@ GFW的计算机一般认为主要是并联[^5]。但IP封锁之类（非黑洞�
 
 ### 井GFW策略
 
-很有意思，被识别的翻墙有的时候不被立即封锁，而是秋后1喝茶。
+很有意思，被识别的翻墙有的时候不被立即封锁，而是秋后喝茶。
 
 一般中修敏感时期，如两会，六四，国庆封锁变严。但显然对未识别协议无影响。
 
@@ -392,6 +392,6 @@ Android机所谓建立虚拟连接永是此类，又称全局VPN
 
 井网络问题快速诊断
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTk4MDQ4MDIsMTAxNjUzMzEwNSwtMT
-g4ODM1MTkxMCwtNjMyOTUyMjUzXX0=
+eyJoaXN0b3J5IjpbLTU1Mjg2ODA1OSwxMDE2NTMzMTA1LC0xOD
+g4MzUxOTEwLC02MzI5NTIyNTNdfQ==
 -->

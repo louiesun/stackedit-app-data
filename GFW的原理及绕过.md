@@ -111,7 +111,7 @@ GFW有省墙和出口墙，有各自的封锁策略和任务，一般认为电�
 ### GFW的连接方式
 
 GFW的计算机一般认为主要是并联[^5]。但IP封锁之类（非黑洞，主要是恶意丢包）似乎只能用串联解释。
-[^5]
+[^5]: 初中物理知识，或可见青年自学丛书。你可以想象串联是在水管上直接建立大坝检查，并联是只有一部分水接受检查，其他直接流出。因为
 
 井GFW☰策略
 
@@ -396,6 +396,6 @@ Android机所谓建立虚拟连接永是此类，又称全局VPN
 
 井网络问题快速诊断
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0Mzc4Mjc2MiwxMDE2NTMzMTA1LC0xOD
+eyJoaXN0b3J5IjpbMTYzOTk1NzcyNSwxMDE2NTMzMTA1LC0xOD
 g4MzUxOTEwLC02MzI5NTIyNTNdfQ==
 -->

@@ -127,17 +127,15 @@ GFW，估计是目田起的，全称GreatFireWall，指的是中国的国际联�
 
 > GFW有一些漏洞，比方说，想想你写收件人不是一行写完，而是一行一个字。因为GFW很忙就无法识别并TCP重置了。
 
-工具都开源，TLsFrogment为我编写。
+工具都开源，TLsFragment为我编写。
 
-TISFragment泄露的**信息同直连**，但可以辅助任意基于TCP+TLS的工具。
+TlsFragment泄露的**信息同直连**，但可以辅助任意基于TCP+TLS的工具。
 
-Accesserr所利用的E前置不泄S，其他同直连☰相比T2s fran几手支持全部网站，
+Accesserr所利用的域前置不泄露sni，其他同直连，相比TlsFragment几乎支持全部网站，Accesser对CloudFlare 等CDN免费版的网站不支持。
 
-cloudFlare CN☰免物和AmmueonCDN莫片与不支持。
+ECH为sni加密技术，其他同直连，目前只有CloudflareCDN免费版支持。
 
-EClt为sni加定技术，其他同直连，目前只有ClandflaveDN免费版支持。
-
-本人不建议直☰连，但此类工具或许能帮你下到VPN软件…
+本人不建议直连，但此类工具或许能帮你下到VPN软件…
 
 很遗憾，目前TLs frogment和Alcaoger没有图形界面(T2SFrogment有个WindowsHi)，
 
@@ -398,6 +396,6 @@ Android机所谓建立虚拟连接永是此类，又称全局VPN
 
 井网络问题快速诊断
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5NDc3NDA4NSwtMTg4ODM1MTkxMCwtNj
-MyOTUyMjUzXX0=
+eyJoaXN0b3J5IjpbNzgzMDE4OTg1LC0xODg4MzUxOTEwLC02Mz
+I5NTIyNTNdfQ==
 -->

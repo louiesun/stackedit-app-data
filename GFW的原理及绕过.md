@@ -309,15 +309,9 @@ graph LR
 
 两者均采用TLS加密，因此中间人无法知道内容。但Matrix，XMPP若直连同网站相同信息。更进一步，NMPP大部方服务器端口并不是访问网页常见的443端口，有一定特征。当然，使用代理就没有这个问题。
 
-由于Matrix与服务器交流默认基于HTTP，而XMPP不是，因此XMPP并非天然就有网页客户端，不过也提出了折层的协议以支技网页端
+由于Matrix与服务器交流默认基于HTTP，而XMPP不是，因此XMPP并非天然就有网页客户端（前文讲过，浏览器js只能操作应用层），不过也提出了扩展的协议以支持网页端。
 
-二者为了防止服务器进行中间人攻击☰加容时服份等拿到了
-
-反信息)，均提出了端可端加密功能，☰具体来说使只有互相
-
-借任的客户端之间才能通信，更换客户端需要对方信任折客户端
-
-才能加密通讯。
+二者为了防止服务器进行中间人攻击（服务器拿到了交流的明文信息)，均提出了端到端加密功能，具体来说使只有互相信任的客户端之间才能通信，更换客户端需要对方信任新客户端才能加密通讯，使得服务器无法获取o。
 
 实名认证
 
@@ -351,6 +345,6 @@ graph LR
 
 井网络问题快速诊断
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjE2NTI0NjMsNDY5NDA0OTcsMTAxNj
+eyJoaXN0b3J5IjpbLTE2MzMwMzM0NjUsNDY5NDA0OTcsMTAxNj
 UzMzEwNSwtMTg4ODM1MTkxMCwtNjMyOTUyMjUzXX0=
 -->

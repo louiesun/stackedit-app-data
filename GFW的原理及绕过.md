@@ -344,8 +344,20 @@ graph LR
 
 ### 确定dns
 
-可以前往nslookup.io
+可以前往[nslookup](nslookup.io)查找正确dns，前往[chromium内置页面](chrome://net-internals/#dns)查看gfw提供的dns。
+
+### 确定ip是否被封锁或者恶意丢包
+
+python工具tcping，若没有用ping。
+
+安装
+```bash
+pip ins
+```
+
+```bash
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzM5NTMwMTIsNDY5NDA0OTcsMTAxNj
-UzMzEwNSwtMTg4ODM1MTkxMCwtNjMyOTUyMjUzXX0=
+eyJoaXN0b3J5IjpbMjA4NjQ5OTk0Miw0Njk0MDQ5NywxMDE2NT
+MzMTA1LC0xODg4MzUxOTEwLC02MzI5NTIyNTNdfQ==
 -->

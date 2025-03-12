@@ -158,7 +158,7 @@ graph LR
 
 这个过程中，A知道你的IP，C知道你作问的sn，服务器知道你访问的内容。但没
 
-人同时知道你的2D和你访的了什么。只有同时控制ABC才能破解。但这不可能。
+人同时知道你的IP和你访了什么。只有同时控制ABC才能破解。但这不大可能。（Tor大概有700个用爱发电的节点，）
 
 当然，这并不意味着你完全安全。如果服分端有问题，如是钓鱼网站，你电脑安全没做好，
 
@@ -397,6 +397,6 @@ Android机所谓建立虚拟连接永是此类，又称全局VPN
 
 井网络问题快速诊断
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxNjUzMzEwNSwtMTg4ODM1MTkxMCwtNj
-MyOTUyMjUzXX0=
+eyJoaXN0b3J5IjpbMTEzODIxOTg1NCwxMDE2NTMzMTA1LC0xOD
+g4MzUxOTEwLC02MzI5NTIyNTNdfQ==
 -->

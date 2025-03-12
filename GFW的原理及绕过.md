@@ -170,15 +170,15 @@ graph LR
 
 由于tor的网桥一定意义上也是公开的，所以也会被针对封锁。
 
-个人认为Tor并无必要，且多次转发，解容速度极慢，原本网页加载可延长至30s.
+个人认为Tor并无必要，且多次转发、解密速度极慢，原本1s的网页加载可能延长至30s.
 
-WebRTC泄露IP问题
+### WebRTC泄露IP问题
 
-DebRTC被用于音视频通访等，一般不经过代理，因此会导致IP泄漏。
+WebRTC被用于音视频同伙等，一般不经过代理，因此会导致IP泄漏。
 
-若害怕还一点，请发代理(不铺开)或禁用WebRTC。(浏宾管有插件等)
+若担心这一点，请设置代理(不铺开)或禁用WebRTC。(浏览器有插件等)
 
-井☰中修的GFW
+## 中修的GFW
 
 家☰名认为GFW是一个纯技术的东西。这一章我们讲讲GPW的位置，和中修其他机
 
@@ -395,6 +395,6 @@ Android机所谓建立虚拟连接永是此类，又称全局VPN
 
 井网络问题快速诊断
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5ODUwMjI2NCwxMDE2NTMzMTA1LC0xOD
+eyJoaXN0b3J5IjpbLTY5OTQ3MzA1NywxMDE2NTMzMTA1LC0xOD
 g4MzUxOTEwLC02MzI5NTIyNTNdfQ==
 -->

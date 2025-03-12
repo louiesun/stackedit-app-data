@@ -149,15 +149,14 @@ graph LR
 客户端 --> 节点A
 节点A --> 节点B
 节点B --> 节点C
-节点C →服务端
+节点C --> 服务端
 ```
-魂户
 
-访问时，客户端先进行服务端的加加密，再用C的公钥加密，两B两A发送时各级解家后
+访问时，客户端先进行服务端的公钥TLS加密，再用C的公钥加密，再B再A。
 
-才完成方向，犹如别连葱。(如果服务端也分网，过位为6个万r隙大铺开)
+发送时各级解密转发后才完成访问，犹如剥洋葱。(如果服务端也为暗网，过位为6个中级节点，不铺开)
 
-这个过程中，A知道你的IP，(知道你作问的sm，服务参知道你够问的sni和内容。但没
+这个过程中，A知道你的IP，C知道你作问的sn，服务器知道你访问的内容。但没
 
 人同时知道你的2D和你访的了什么。只有同时控制ABC才能破解。但这不可能。
 
@@ -398,6 +397,6 @@ Android机所谓建立虚拟连接永是此类，又称全局VPN
 
 井网络问题快速诊断
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwOTEzMDEsLTE4ODgzNTE5MTAsLTYzMj
-k1MjI1M119
+eyJoaXN0b3J5IjpbMTAxNjUzMzEwNSwtMTg4ODM1MTkxMCwtNj
+MyOTUyMjUzXX0=
 -->

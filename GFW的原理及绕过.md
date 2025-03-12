@@ -352,12 +352,23 @@ python工具tcping，若没有用ping。
 
 安装
 ```bash
-pip ins
+pip install tcping
 ```
 
 ```bash
+tcping 你查到的ip
 ```
+
+如果一直不通，就是被封锁了。10个丢超过1个，就是被恶意丢包了
+
+### 确定域名有没有被封锁
+比如你的网站是`example.com`
+```bash
+curl https://example.com --resolve example.com:443:你查到的ip
+```
+
+如果显示连接已重置，域名sni被fe
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4NjQ5OTk0Miw0Njk0MDQ5NywxMDE2NT
+eyJoaXN0b3J5IjpbLTU1OTU5NTMyNSw0Njk0MDQ5NywxMDE2NT
 MzMTA1LC0xODg4MzUxOTEwLC02MzI5NTIyNTNdfQ==
 -->

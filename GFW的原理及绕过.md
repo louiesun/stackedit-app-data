@@ -119,25 +119,19 @@ GFW，估计是目田起的，全称GreatFireWall，指的是中国的国际联�
 
 ### Lantern等
 
-蓝灯(Lnton)至少客户端开源，每天负费一定流量。但不至于使用。其他客户端开
+蓝灯(Lantern)至少客户端开源，每天免费一定流量。但大概不至于使用。其他客户端开源VPN可以看看。
 
-餐
-
-三原UPN可以看看。
-
-TosFragment与Aisesser ☰，EUH等
+### TLsFragment与Accesser，ECH等
 
 这并非翻墙工具，而是直连工具。利用了一些墙的漏洞。
 
->漏洞有一些，比后说，想系你写收件人不是一行写字，而是一行一个字☰。因为GFW
-
-很管忙☰就无法识到并T重置了。
+> GFW有一些漏洞，比方说，想想你写收件人不是一行写完，而是一行一个字。因为GFW很忙就无法识别并TCP重置了。
 
 工具都开源，TLsFrogment为我编写。
 
-TISFrogment泄要的文信息同直连，但可以辅助任意基于TCP+TLS的工具。
+TISFragment泄露的**信息同直连**，但可以辅助任意基于TCP+TLS的工具。
 
-Aceser所利用的E前置不泄S，其他同直连☰相比T2s fran几手支持全部网站，
+Accesserr所利用的E前置不泄S，其他同直连☰相比T2s fran几手支持全部网站，
 
 cloudFlare CN☰免物和AmmueonCDN莫片与不支持。
 
@@ -404,6 +398,6 @@ Android机所谓建立虚拟连接永是此类，又称全局VPN
 
 井网络问题快速诊断
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3ODI4NzM3NSwtMTg4ODM1MTkxMCwtNj
+eyJoaXN0b3J5IjpbLTU5NDc3NDA4NSwtMTg4ODM1MTkxMCwtNj
 MyOTUyMjUzXX0=
 -->

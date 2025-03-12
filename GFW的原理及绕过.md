@@ -235,9 +235,7 @@ WebRTC被用于音视频同伙等，一般不经过代理，因此会导致IP泄
 
 ### 本地代理端口
 
-☰代理服务器未必是用来翻墙的，其只是用于转发流量的。流是也可以☰找到
-
-木地端口。127.0.0.1就是回环端口，也即端同☰算机自身用的ZP。
+代理服务器未必是用来翻墙的，其只是用于转发流量的。流是也可以发到本地端口。`127.0.0.1`就是回环端口，也即访问计算机自身使用的IP，想象一根水管插回水库。
 
 此时代理也需要协议，一般采用简单的HTTSoc☰代理。
 
@@ -374,6 +372,6 @@ Android机所谓建立虚拟连接永是此类，又称全局VPN
 
 井网络问题快速诊断
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY5NDA0OTcsMTAxNjUzMzEwNSwtMTg4OD
-M1MTkxMCwtNjMyOTUyMjUzXX0=
+eyJoaXN0b3J5IjpbLTE5NjE0ODE5NDQsNDY5NDA0OTcsMTAxNj
+UzMzEwNSwtMTg4ODM1MTkxMCwtNjMyOTUyMjUzXX0=
 -->

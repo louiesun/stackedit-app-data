@@ -367,8 +367,8 @@ tcping 你查到的ip
 curl https://example.com --resolve example.com:443:你查到的ip
 ```
 
-如果显示连接已重置，域名sni被fe
+如果显示连接已重置，域名sni被封锁。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1OTU5NTMyNSw0Njk0MDQ5NywxMDE2NT
+eyJoaXN0b3J5IjpbLTYwOTY2NDgxNiw0Njk0MDQ5NywxMDE2NT
 MzMTA1LC0xODg4MzUxOTEwLC02MzI5NTIyNTNdfQ==
 -->

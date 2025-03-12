@@ -333,10 +333,13 @@ graph LR
 
 ## 网络问题快速诊断
 
-这里讲讲如何快速判断网站访问遇到了什么问题。这一部分并不是非常重要，可以
+这里讲讲如何快速判断网站访问遇到了什么问题。这一部分并不是非常重要，可以略去。
+**假设你有一个浏览器，并且有一个类似GNU/linux的环境。Windows可用Cmder，Android可用Termux**
 
-假设
+### 网络卡
+
+可能一级一级转发太多了。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4MTYyMDc5OCw0Njk0MDQ5NywxMDE2NT
-MzMTA1LC0xODg4MzUxOTEwLC02MzI5NTIyNTNdfQ==
+eyJoaXN0b3J5IjpbLTE4MjU4NjkwNjcsNDY5NDA0OTcsMTAxNj
+UzMzEwNSwtMTg4ODM1MTkxMCwtNjMyOTUyMjUzXX0=
 -->

@@ -329,10 +329,14 @@ graph LR
 
 元数据未必直接泄露什么，但可用来判定信息是否来自同一个设备。
 
-有一些软件可清除元数据，浏览器也有对应插件防止一种叫浏览器拉纹的元数据被利用。
+有一些软件可清除元数据，浏览器也有对应插件防止一种叫浏览器指纹的元数据被利用。
 
-井网络问题快速诊断
+## 网络问题快速诊断
+
+这里讲讲如何快速判断网站访问遇到了什么问题。这一部分并不是非常重要，可以
+
+假设
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDg0MTM4MzYsNDY5NDA0OTcsMTAxNj
-UzMzEwNSwtMTg4ODM1MTkxMCwtNjMyOTUyMjUzXX0=
+eyJoaXN0b3J5IjpbMTc4MTYyMDc5OCw0Njk0MDQ5NywxMDE2NT
+MzMTA1LC0xODg4MzUxOTEwLC02MzI5NTIyNTNdfQ==
 -->

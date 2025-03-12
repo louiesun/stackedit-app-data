@@ -137,11 +137,9 @@ ECH为sni加密技术，其他同直连，目前只有CloudflareCDN免费版支�
 
 本人不建议直连，但此类工具或许能帮你下到VPN软件…
 
-很遗憾，目前TLs frogment和Alcaoger没有图形界面(T2SFrogment有个WindowsHi)，
+很遗憾，目前TlsFragment和Accesser没有图形界面（TlsFragment有个Windows版本），有一定使用门槛。
 
-有一定使用门槛。
-
-Tor Browser
+### Tor Browser
 
 Ton也就是洋葱网络，也是唯一的暗网。(其他都是诈骗或营销号瞎讲)
 
@@ -396,6 +394,6 @@ Android机所谓建立虚拟连接永是此类，又称全局VPN
 
 井网络问题快速诊断
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzgzMDE4OTg1LC0xODg4MzUxOTEwLC02Mz
-I5NTIyNTNdfQ==
+eyJoaXN0b3J5IjpbMTM2NDUxMDk3MCwtMTg4ODM1MTkxMCwtNj
+MyOTUyMjUzXX0=
 -->

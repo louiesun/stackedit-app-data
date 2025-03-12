@@ -121,15 +121,13 @@ GFW的计算机一般认为主要是并联[^5]。但IP封锁之类（非黑洞�
 
 似乎一个IP流量大了（如共用节点）会被重点关注，可能会被人工复查决定是否封锁。
 
-封锁发生在天，大概，动参
+封锁大多发生在白天，大概有流氓无产者，反动军警参与识别。
 
-北，哈工大学生被认为是GFN☰☰力军，(也只是一小部分)
+小部分北航，哈工大学生被认为是GFW建设主力军。
 
-井井☰反动军警抓八手段
+### 反动军警抓人手段
 
-技术
-
-一般认为只是缺钱了抓几个翻堵的凑世绩搞钱。少数突出者可能被人令
+一般认为晶格只是缺钱了，抓几个翻强的凑业绩搞钱。少数突出者可能被人令
 
 特别关照。
 
@@ -394,6 +392,6 @@ Android机所谓建立虚拟连接永是此类，又称全局VPN
 
 井网络问题快速诊断
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Mjc2MjU5NjEsMTAxNjUzMzEwNSwtMT
+eyJoaXN0b3J5IjpbLTEyMTk4MDQ4MDIsMTAxNjUzMzEwNSwtMT
 g4ODM1MTkxMCwtNjMyOTUyMjUzXX0=
 -->

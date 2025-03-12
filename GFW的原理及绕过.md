@@ -239,9 +239,9 @@ WebRTC被用于音视频同伙等，一般不经过代理，因此会导致IP泄
 
 此时代理也需要协议，一般采用简单的HTTP或者Sock5代理。
 
-一些代理软件可以监听指定端口，将此处收到数据转给远程代理服务器，
+一些代理软件可以监听指定端口，将此处收到数据进行一些操作，如转给远程代理服务器。
 
-如速雾通监 10d9+TP代理，Pa1 SOCK代理。TLSpngmant 认监所 ☰2500HTH。
+如速雾通监听1009端口HTTP代理，1010端口SOCK5协议代理。TlsFragment认监所 2500HTH。
 
 在调览容中，有责似于fuitchPronyOngn这类代理☰件，分统一的也有此项设置
 
@@ -372,6 +372,6 @@ Android机所谓建立虚拟连接永是此类，又称全局VPN
 
 井网络问题快速诊断
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzAxNzAyODI5LDQ2OTQwNDk3LDEwMTY1Mz
-MxMDUsLTE4ODgzNTE5MTAsLTYzMjk1MjI1M119
+eyJoaXN0b3J5IjpbLTY1MTAwNTI4MCw0Njk0MDQ5NywxMDE2NT
+MzMTA1LC0xODg4MzUxOTEwLC02MzI5NTIyNTNdfQ==
 -->

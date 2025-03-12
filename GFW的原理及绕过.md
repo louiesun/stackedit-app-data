@@ -88,7 +88,7 @@ GFW，估计是目田起的，全称GreatFireWall，指的是中国的国际联�
 当然，自由平台不大会做这类限制。
 
 ## 常见翻墙软件介绍。
-(具体界面操作此处略去)
+具体界面操作此处略去
 
 Vr2ray， ☰Singbox.
 
@@ -418,6 +418,6 @@ Ton也就是洋葱网络，也是唯一的暗网。(其他都是诈骗或营销�
 
 井网络问题快速诊断
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDk5NTA4MDUsLTE4ODgzNTE5MTAsLT
-YzMjk1MjI1M119
+eyJoaXN0b3J5IjpbMTA3MDk4MDY2NCwtMTg4ODM1MTkxMCwtNj
+MyOTUyMjUzXX0=
 -->

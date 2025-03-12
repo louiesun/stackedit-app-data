@@ -180,11 +180,11 @@ WebRTC被用于音视频同伙等，一般不经过代理，因此会导致IP泄
 
 ## 中修的GFW
 
-家☰名认为GFW是一个纯技术的东西。这一章我们讲讲GPW的位置，和中修其他机
+目田多认为GFW是一个纯技术的东西。这一章我们讲讲GPW的位置，和中修其他机
 
-答关于翻墙一事的行为。要要注意，我们无人参与了GN建设，一切只是根据现条理性推测。
+答关于翻墙一事的行为。但要注意，我们无人参与了GFW建设，一切只是根据现象理性推测。
 
-☰GFW的位置
+### GFW的位置
 
 GFW有省墙和出口墙，有各自的封锁策略和任务，根认为电信，移动联通，教育风相对独出
 
@@ -395,6 +395,6 @@ Android机所谓建立虚拟连接永是此类，又称全局VPN
 
 井网络问题快速诊断
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5OTQ3MzA1NywxMDE2NTMzMTA1LC0xOD
-g4MzUxOTEwLC02MzI5NTIyNTNdfQ==
+eyJoaXN0b3J5IjpbLTExMTc3NDQzMjUsMTAxNjUzMzEwNSwtMT
+g4ODM1MTkxMCwtNjMyOTUyMjUzXX0=
 -->

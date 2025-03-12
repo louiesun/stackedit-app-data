@@ -271,9 +271,16 @@ Android机所谓建立虚拟连接就永是此类，又称全局VPN。
 
 流量路径就变成：“请Proton VPN转发：请回国VPN转发：请QQ发消息”。
 
-这里说意☰☰☰☰☰☰☰
+**这里注意**
 
-空带代理a安各站b沪C公网服→b服a服月份
+```mermaid
+graph LR
+应用客户端 --> 代理a客户端
+代理b客户端 --> 代理c客户端
+代理c客户端 --> 公网
+公网 --> 代理c服务端
+代理c服务端
+```
 
 好你往板里放东西，先进的放在床下，最后拿出来。
 
@@ -366,6 +373,6 @@ Android机所谓建立虚拟连接就永是此类，又称全局VPN。
 
 井网络问题快速诊断
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTQ0MzM4MSw0Njk0MDQ5NywxMDE2NT
-MzMTA1LC0xODg4MzUxOTEwLC02MzI5NTIyNTNdfQ==
+eyJoaXN0b3J5IjpbNTMyMTc2NjQ4LDQ2OTQwNDk3LDEwMTY1Mz
+MxMDUsLTE4ODgzNTE5MTAsLTYzMjk1MjI1M119
 -->

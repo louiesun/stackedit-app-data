@@ -265,11 +265,11 @@ Android机所谓建立虚拟连接就永是此类，又称全局VPN。
 
 如果我们去墙内的宣传，为了不暴露ip，同时中修平台可能限制境外访问。
 
-我们可能会考虑同时使用海外华人回国VPN和protonVPN，但两者均zhi'chi。
+我们可能会考虑同时使用海外华人回国VPN和protonVPN，但两者均只支持全局模式。
 
-这时一个思路是在☰机收中以使用革命机开热点革命机开Pt。
+这时一个思路是在生活机使用QQ并使用回国VPN，连接革命机热点，革命机开proton。
 
-洗晨就变成：“请grotmVPN轻说：请回回VPN转发：请QQ☰发消泉”
+流量路径就变成：“请Proton VPN转发：请回国VPN转发：请QQ发消息”。
 
 这里说意☰☰☰☰☰☰☰
 
@@ -366,6 +366,6 @@ Android机所谓建立虚拟连接就永是此类，又称全局VPN。
 
 井网络问题快速诊断
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODAzMzI3NTQsNDY5NDA0OTcsMTAxNj
-UzMzEwNSwtMTg4ODM1MTkxMCwtNjMyOTUyMjUzXX0=
+eyJoaXN0b3J5IjpbLTE4NTQ0MzM4MSw0Njk0MDQ5NywxMDE2NT
+MzMTA1LC0xODg4MzUxOTEwLC02MzI5NTIyNTNdfQ==
 -->

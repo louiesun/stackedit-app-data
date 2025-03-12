@@ -241,21 +241,19 @@ WebRTC被用于音视频同伙等，一般不经过代理，因此会导致IP泄
 
 一些代理软件可以监听指定端口，将此处收到数据进行一些操作，如转给远程代理服务器。
 
-如速雾通监听1009端口HTTP代理，1010端口SOCK5协议代理。TlsFragment认监所 2500HTH。
+如速雾通监听1009端口HTTP代理，1010端口SOCK5协议代理。TlsFragment认监所 2500端口HTTP。
 
-在调览容中，有责似于fuitchPronyOngn这类代理☰件，分统一的也有此项设置
+在浏览器中，有类似于Switch Proxy Omega这类代理☰件，大部分系统的也有此项设置
 
-虚拟网卡
+### 虚拟网卡
 
-Android机所谓建立虚拟连接永是此类，又称全局VPN
+Android机所谓建立虚拟连接就永是此类，又称全局VPN。
 
 虚拟网卡模式将网卡收到流量全部先给代理应用。
 
-相比于代理端口，虚拟网卡好处在于可以强制接收一切流是，而系统代理应用可不
+相比于代理端口，虚拟网卡好处在于可以强制接收一切流量，而一些应用可能不提供使用代理功能，系统代理应用也可不遵守。
 
-遵守。
-
-也有坏处，代理端上可以链式连接。如应用100g9(进运)2500lTLSFagmant)
+也有坏处，代理端口可以轻易地链式连接。如应用1009(迷雾通)发给2500lTLSFragment
 
 →网卡→互联网，而一般只能有一个虚拟网卡。
 
@@ -372,6 +370,6 @@ Android机所谓建立虚拟连接永是此类，又称全局VPN
 
 井网络问题快速诊断
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1MTAwNTI4MCw0Njk0MDQ5NywxMDE2NT
-MzMTA1LC0xODg4MzUxOTEwLC02MzI5NTIyNTNdfQ==
+eyJoaXN0b3J5IjpbMzExMDc2MzYyLDQ2OTQwNDk3LDEwMTY1Mz
+MxMDUsLTE4ODgzNTE5MTAsLTYzMjk1MjI1M119
 -->

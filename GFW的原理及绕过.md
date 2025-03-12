@@ -158,17 +158,15 @@ graph LR
 
 这个过程中，A知道你的IP，C知道你作问的sn，服务器知道你访问的内容。但没
 
-人同时知道你的IP和你访了什么。只有同时控制ABC才能破解。但这不大可能。（Tor大概有700个用爱发电的节点，）
+人同时知道你的IP和你访了什么。只有同时控制ABC才能破解。但这不大可能。（Tor大概有700个用爱发电的节点，要控制100多个）
 
-当然，这并不意味着你完全安全。如果服分端有问题，如是钓鱼网站，你电脑安全没做好，
+当然，这并不意味着你完全安全。如果服务端有问题，如是钓鱼网站，你电脑安全没做好，也有风险。
 
-也有风险。(FBI曾用钩鱼网站逮捕了一犯罪头子)
+> FBI曾用钩鱼网站逮捕了一犯罪头子
 
-。M时
+然而，Tor的节点是公开的，已全部被GFW封锁。因此，Tor推出的网桥，用来连接A的代理。
 
-然而，For的节点是公开的，已被W封锁。因此，Tor推出的网桥连接A的代理。
-
-同样地代理使有协，议之分。如ofs4，me水k已可被制，而wes tan无☰被识制记录。
+同样的，代理有协议之分。如obfs4，meek，snowflake均已被识别，而Webtunnel无被识别记录。
 
 网桥获取可前往字网发中件，也可用VN当网桥。
 
@@ -397,6 +395,6 @@ Android机所谓建立虚拟连接永是此类，又称全局VPN
 
 井网络问题快速诊断
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzODIxOTg1NCwxMDE2NTMzMTA1LC0xOD
-g4MzUxOTEwLC02MzI5NTIyNTNdfQ==
+eyJoaXN0b3J5IjpbLTM5NTI4Mjk0LDEwMTY1MzMxMDUsLTE4OD
+gzNTE5MTAsLTYzMjk1MjI1M119
 -->

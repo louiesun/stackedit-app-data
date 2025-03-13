@@ -119,11 +119,9 @@ GFW根据明文的sni进行封锁。封锁具体方法利用了TCP协议中的�
 > 再后来，网站越来越多，公网IP就那么及个，不够了，便提出了虚拟生机，也就是HTTP中的Host字段。（当时还没有TLS）给服务器用于决定将流量交个给哪个网站的处理
 > 域名越来越多，量变引起质变，一个IP可以在上万个网站，域名也早不是小明了了，相反，将IP比作楼，域名作为住户可能更合适。每个住户相互独立。
 > TLS出现后，既然域名像住户，相互独立，证书也相互独立。但是，TLS未建立，无HTTP包，自然无Host字段，于是TLS第一个握手包仅有了明友的sni字段。
->这个Sn，也即GFW阻断HTTPS连接依靠的，有趣的是当HTTPS普及刚开始一段时间，GFW手足不措，但
+>这个Sni，也即GFW阻断HTTPS连接依靠的，有趣的是当HTTPS普及刚开始一段时间，GFW手足无措，但自从Mozilla发表了对sni泄露隐私的论文后不久，GFW便开始用sni识别连接。
 
-自从Mozila发表了ni池器隐私☰的收文后不久，GFW便开始用sni识到连接。
-
-正因为一开始服务HatB分的，Sni用于B分Tls证书，因此可以不发ni2P连接也
+正因为一开始服务器使用Host区分域名，snijin分Tls证书，因此可以不发ni2P连接也
 
 可以发假的Sni)，反这是一个服务器，也能正常运信。此即前置。所以☰服分天然支投城前置，
 
@@ -457,7 +455,7 @@ curl https://example.com --resolve example.com:443:你查到的ip
 
 如果显示连接已重置，域名sni被封锁。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODgwOTQ0MzksLTE0ODcwNTgwODksMT
+eyJoaXN0b3J5IjpbLTEzMzM1MDk2ODMsLTE0ODcwNTgwODksMT
 A1NzU3NTQ5LDQ2OTQwNDk3LDEwMTY1MzMxMDUsLTE4ODgzNTE5
 MTAsLTYzMjk1MjI1M119
 -->

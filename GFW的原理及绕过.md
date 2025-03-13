@@ -22,9 +22,9 @@ GFW，估计是目田起的，全称GreatFireWall，指的是中国的国际联�
 ### 数据链路层
 这一层底下就是物理信号。该层搭建了一个局部的网络。
 
-该层常见协议为以太网协议，这个网络中机器的编号叫mac号。
+该层常见协议为以太网协议，Wi-Fi协议（无线网络），这个网络中机器的编号叫mac号。
 
-在这个网络中，所有机器互相连接。类比邮件递送过程，这就像地方邮局，记录下了附近邮局和住户的实际地址，比如说某某路多少弄几号。每个数据包[^1]有一个源mac和目标mac。
+在这个网络中，所有机器互相连接。类比邮件递送过程，这就像地方邮局，记录下了附近邮局和住户的实际地址，比如说某某路多少弄几号。每个数据包[^1]有一个源mac和目标mac，比方说源mac是住户，目标mac是地方邮局。
 
 [^1]: 可以理解成每个快递包裹，但是我们没有全球地图，只能和几个附近直接相连的个体对话。
 
@@ -399,7 +399,7 @@ curl https://example.com --resolve example.com:443:你查到的ip
 
 如果显示连接已重置，域名sni被封锁。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjAwMjc5NTEsLTE0ODcwNTgwODksMT
-A1NzU3NTQ5LDQ2OTQwNDk3LDEwMTY1MzMxMDUsLTE4ODgzNTE5
-MTAsLTYzMjk1MjI1M119
+eyJoaXN0b3J5IjpbMzk2NzE5NDQ0LC0xNDg3MDU4MDg5LDEwNT
+c1NzU0OSw0Njk0MDQ5NywxMDE2NTMzMTA1LC0xODg4MzUxOTEw
+LC02MzI5NTIyNTNdfQ==
 -->

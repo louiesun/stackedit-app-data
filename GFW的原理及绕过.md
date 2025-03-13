@@ -50,11 +50,13 @@ GFW，估计是目田起的，全称GreatFireWall，指的是中国的国际联�
 
 具体如何规划，基本上是由BGP协议完成的。BGP协议用于在自治系统[^4]之间交换IP信息，搭建地图，帮助导航。
 
+这一层基本由操作系统控制。
+
 [^4]: 由一个或多个网络运营商管理的一组网络，这些网络在内部使用相同的路由策略，对外表现为一个统一的整体。每个自治系统都有一个唯一的编号，称为自治系统号（ASN）。
 
 通过BGP协议，恶意地将IP访问路线导航到错误的地址，就好像把车子导航到荒郊野岭一样。通过这种方式完成的**IP封锁**，称作为**IP黑洞**。
 
-为了防止
+为了防止路由错误导致的数据包无限循环，引入了一个叫TTL（Time To ）的东西。
 
 
 ### 传输层
@@ -389,7 +391,7 @@ curl https://example.com --resolve example.com:443:你查到的ip
 
 如果显示连接已重置，域名sni被封锁。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODQzODQ1NTYsLTE0ODcwNTgwODksMT
+eyJoaXN0b3J5IjpbLTE4ODcyMTA3MDMsLTE0ODcwNTgwODksMT
 A1NzU3NTQ5LDQ2OTQwNDk3LDEwMTY1MzMxMDUsLTE4ODgzNTE5
 MTAsLTYzMjk1MjI1M119
 -->

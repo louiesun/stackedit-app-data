@@ -24,7 +24,7 @@ GFW，估计是目田起的，全称GreatFireWall，指的是中国的国际联�
 
 该层常见协议为以太网协议，这个网络中机器的编号叫mac号。
 
-在这个网络中，所有机器可谓互相连接。类比邮件递送过程，这就像地方邮局，记录下了附近邮局和住户的实际地址，比如说某某路多少弄几号。每个数据包[^1]有一个源mac和目标mac。
+在这个网络中，所有机器互相连接。类比邮件递送过程，这就像地方邮局，记录下了附近邮局和住户的实际地址，比如说某某路多少弄几号。每个数据包[^1]有一个源mac和目标mac。
 
 [^1]: 可以理解成每个快递包裹，但是我们没有全球地图，只能和几个附近直接相连的个体对话。
 
@@ -53,6 +53,8 @@ GFW，估计是目田起的，全称GreatFireWall，指的是中国的国际联�
 [^4]: 由一个或多个网络运营商管理的一组网络，这些网络在内部使用相同的路由策略，对外表现为一个统一的整体。每个自治系统都有一个唯一的编号，称为自治系统号（ASN）。
 
 通过BGP协议，恶意地将IP访问路线导航到错误的地址，就好像把车子导航到荒郊野岭一样。通过这种方式完成的**IP封锁**，称作为**IP黑洞**。
+
+为了防止
 
 
 ### 传输层
@@ -387,7 +389,7 @@ curl https://example.com --resolve example.com:443:你查到的ip
 
 如果显示连接已重置，域名sni被封锁。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyMjk1MTk4NCwtMTQ4NzA1ODA4OSwxMD
-U3NTc1NDksNDY5NDA0OTcsMTAxNjUzMzEwNSwtMTg4ODM1MTkx
-MCwtNjMyOTUyMjUzXX0=
+eyJoaXN0b3J5IjpbLTE0ODQzODQ1NTYsLTE0ODcwNTgwODksMT
+A1NzU3NTQ5LDQ2OTQwNDk3LDEwMTY1MzMxMDUsLTE4ODgzNTE5
+MTAsLTYzMjk1MjI1M119
 -->

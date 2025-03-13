@@ -66,7 +66,7 @@ GFW，估计是目田起的，全称GreatFireWall，指的是中国的国际联�
 
 如果只是加上端口，那么就是UDP协议。另外一个常见协议是TCP协议。
 
-具体来说，在古早的网络环境中，数据包很容易因为各种原因（）
+具体来说，在古早的网络环境中，数据包很容易因为各种原因（早期网络不大稳定）丢失。那么，如何确保数据包完整，按序送达呢？于是就提出了TCP协议
 
 
 ## 翻墙
@@ -396,7 +396,7 @@ curl https://example.com --resolve example.com:443:你查到的ip
 
 如果显示连接已重置，域名sni被封锁。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzczNjk5NzIsLTE0ODcwNTgwODksMT
-A1NzU3NTQ5LDQ2OTQwNDk3LDEwMTY1MzMxMDUsLTE4ODgzNTE5
-MTAsLTYzMjk1MjI1M119
+eyJoaXN0b3J5IjpbMTU2MTQ0NDM3NSwtMTQ4NzA1ODA4OSwxMD
+U3NTc1NDksNDY5NDA0OTcsMTAxNjUzMzEwNSwtMTg4ODM1MTkx
+MCwtNjMyOTUyMjUzXX0=
 -->

@@ -70,7 +70,7 @@ GFW，估计是目田起的，全称GreatFireWall，指的是中国的国际联�
 
 **传输层由操作系统控制**。但是**端口可由应用控制**。
 
-
+> TCP这里产生了一个概念，叫做连接。以太网，IP协议，UDP是无连接的。
 
 ## 翻墙
 
@@ -399,7 +399,7 @@ curl https://example.com --resolve example.com:443:你查到的ip
 
 如果显示连接已重置，域名sni被封锁。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ1OTc5MjcxLC0xNDg3MDU4MDg5LDEwNT
-c1NzU0OSw0Njk0MDQ5NywxMDE2NTMzMTA1LC0xODg4MzUxOTEw
-LC02MzI5NTIyNTNdfQ==
+eyJoaXN0b3J5IjpbLTEwNjAwMjc5NTEsLTE0ODcwNTgwODksMT
+A1NzU3NTQ5LDQ2OTQwNDk3LDEwMTY1MzMxMDUsLTE4ODgzNTE5
+MTAsLTYzMjk1MjI1M119
 -->

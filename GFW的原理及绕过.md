@@ -72,7 +72,8 @@ GFW，估计是目田起的，全称GreatFireWall，指的是中国的国际联�
 
 > TCP这里产生了一个概念，叫做连接。以太网，IP协议，UDP是无连接的。
 > TCP在通信前需要先建立连接，确保数据可靠、有序地传输。TCP连接前有握手有3步，早期TLS协议（下一部分）有4步，通讯前握手大大加大了延迟。
-> 为了解决这个问题，Google提出了quic协议，相当于把TCP
+> 为了解决这个问题，Google提出了quic协议，相当于把TCP，TLS组合起来优化。然而，由于资本主义下生产的无序性，大部分路由器只支持TCP和UDP协议，难以重新定义传输层协议，所以其使用UDP作为传输层，自己再来维护连接。
+> 
 
 ## 翻墙
 
@@ -401,7 +402,7 @@ curl https://example.com --resolve example.com:443:你查到的ip
 
 如果显示连接已重置，域名sni被封锁。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjQ5OTczMDAsLTE0ODcwNTgwODksMT
-A1NzU3NTQ5LDQ2OTQwNDk3LDEwMTY1MzMxMDUsLTE4ODgzNTE5
-MTAsLTYzMjk1MjI1M119
+eyJoaXN0b3J5IjpbMTczODgyNjM4MCwtMTQ4NzA1ODA4OSwxMD
+U3NTc1NDksNDY5NDA0OTcsMTAxNjUzMzEwNSwtMTg4ODM1MTkx
+MCwtNjMyOTUyMjUzXX0=
 -->

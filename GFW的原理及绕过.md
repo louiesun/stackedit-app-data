@@ -58,7 +58,7 @@ GFW，估计是目田起的，全称GreatFireWall，指的是中国的国际联�
 
 为了防止路由错误导致的数据包无限循环，引入了一个叫TTL（Time To Live）的东西。每台机器收到数据包后，就把TTL减去1，转发给下一台。如果TTL为0，就直接丢弃这个数据包。TTL可用于计算数据包经过了多少个服务器。
 
-**TTL可由应用控制。**
+**TTL，目标IP可由应用控制。**
 
 ### 传输层
 
@@ -66,7 +66,10 @@ GFW，估计是目田起的，全称GreatFireWall，指的是中国的国际联�
 
 如果只是加上端口，那么就是UDP协议。另外一个常见协议是TCP协议。
 
-具体来说，在古早的网络环境中，数据包很容易因为各种原因（早期网络不大稳定）丢失。那么，如何确保数据包完整，按序送达呢？于是就提出了TCP协议
+具体来说，在古早的网络环境中，数据包很容易因为各种原因（早期网络不大稳定）丢失。那么，如何确保数据包完整，按序送达呢？于是就提出了TCP协议。
+
+**传输层由操作系统控制**。但是**端口可由应用控制**。
+
 
 
 ## 翻墙
@@ -396,7 +399,7 @@ curl https://example.com --resolve example.com:443:你查到的ip
 
 如果显示连接已重置，域名sni被封锁。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2MTQ0NDM3NSwtMTQ4NzA1ODA4OSwxMD
-U3NTc1NDksNDY5NDA0OTcsMTAxNjUzMzEwNSwtMTg4ODM1MTkx
-MCwtNjMyOTUyMjUzXX0=
+eyJoaXN0b3J5IjpbNjQ1OTc5MjcxLC0xNDg3MDU4MDg5LDEwNT
+c1NzU0OSw0Njk0MDQ5NywxMDE2NTMzMTA1LC0xODg4MzUxOTEw
+LC02MzI5NTIyNTNdfQ==
 -->

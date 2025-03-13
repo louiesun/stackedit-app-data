@@ -121,9 +121,7 @@ GFW根据明文的sni进行封锁。封锁具体方法利用了TCP协议中的�
 > TLS出现后，既然域名像住户，相互独立，证书也相互独立。但是，TLS未建立，无HTTP包，自然无Host字段，于是TLS第一个握手包仅有了明友的sni字段。
 >这个Sni，也即GFW阻断HTTPS连接依靠的，有趣的是当HTTPS普及刚开始一段时间，GFW手足无措，但自从Mozilla发表了对sni泄露隐私的论文后不久，GFW便开始用sni识别连接。
 
-正因为一开始服务器使用Host区分域名，snijin分Tls证书，因此可以不发ni2P连接也
-
-可以发假的Sni)，反这是一个服务器，也能正常运信。此即前置。所以☰服分天然支投城前置，
+正因为一开始服务器使用Host区分域名，sni仅用于决策发哪一张TLS证书，因此不发sni连接（也可以发假的Sni，反正是一个服务器，不导致中间人窃听或者篡改），也能正常t。此即前置。所以☰服分天然支投城前置，
 
 反有部分UDN出于安全考虑式迫于压力人多限制了域商置。
 
@@ -455,7 +453,7 @@ curl https://example.com --resolve example.com:443:你查到的ip
 
 如果显示连接已重置，域名sni被封锁。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzM1MDk2ODMsLTE0ODcwNTgwODksMT
+eyJoaXN0b3J5IjpbLTE4MTAzNjg2NzksLTE0ODcwNTgwODksMT
 A1NzU3NTQ5LDQ2OTQwNDk3LDEwMTY1MzMxMDUsLTE4ODgzNTE5
 MTAsLTYzMjk1MjI1M119
 -->

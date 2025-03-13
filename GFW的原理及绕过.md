@@ -46,7 +46,7 @@ GFW，估计是目田起的，全称GreatFireWall，指的是中国的国际联�
 
 这种封锁手段就叫**ip封锁**
 
-
+我们知道数据链路层负责在直接相连的设备间发送数据包，从一个节点到下一个节点。**为数据包选择一条从源到目的地的路径**这一任务是由网络层完成的。
 
 ### 传输层
 
@@ -380,7 +380,7 @@ curl https://example.com --resolve example.com:443:你查到的ip
 
 如果显示连接已重置，域名sni被封锁。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODcwNTgwODksMTA1NzU3NTQ5LDQ2OT
-QwNDk3LDEwMTY1MzMxMDUsLTE4ODgzNTE5MTAsLTYzMjk1MjI1
-M119
+eyJoaXN0b3J5IjpbNjUyNDU3NDgwLC0xNDg3MDU4MDg5LDEwNT
+c1NzU0OSw0Njk0MDQ5NywxMDE2NTMzMTA1LC0xODg4MzUxOTEw
+LC02MzI5NTIyNTNdfQ==
 -->

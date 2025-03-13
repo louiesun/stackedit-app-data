@@ -118,10 +118,7 @@ GFW根据明文的sni进行封锁。封锁具体方法利用了TCP协议中的�
 > 为了解决比问题，域名作为的别名出现了。此时也只是IP的小名而已。
 > 再后来，网站越来越多，公网IP就那么及个，不够了，便提出了虚拟生机，也就是HTTP中的Host字段。（当时还没有TLS）给服务器用于决定将流量交个给哪个网站的处理
 > 域名越来越多，量变引起质变，一个IP可以在上万个网站，域名也早不是小明了了，相反，将IP比作楼，域名作为住户可能更合适。每个住户相互独立。
-
-☰，TLS出现后，既然你个人，推互独去，正书也推互独立。但是，TLS未建立，无HTP包，
-
-负天Host字段，于是TLs第一个推手包仅有了明友的sni字段。
+> TLS出现后，既然域名像住户，相互独立，证书也相互独立。但是，TLS未建立，无HTTP包，自然无Host字段，于是TLs第一个推手包仅有了明友的sni字段。
 
 >这个Sn，也即GFW阻断HTTPS连接低靠的，有趣的是当ATPS刚始，6DW手是不措，但
 
@@ -461,7 +458,7 @@ curl https://example.com --resolve example.com:443:你查到的ip
 
 如果显示连接已重置，域名sni被封锁。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxOTIwMzIyNSwtMTQ4NzA1ODA4OSwxMD
-U3NTc1NDksNDY5NDA0OTcsMTAxNjUzMzEwNSwtMTg4ODM1MTkx
-MCwtNjMyOTUyMjUzXX0=
+eyJoaXN0b3J5IjpbMjMxMDcxNjYyLC0xNDg3MDU4MDg5LDEwNT
+c1NzU0OSw0Njk0MDQ5NywxMDE2NTMzMTA1LC0xODg4MzUxOTEw
+LC02MzI5NTIyNTNdfQ==
 -->

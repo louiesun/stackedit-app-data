@@ -46,9 +46,11 @@ GFW，估计是目田起的，全称GreatFireWall，指的是中国的国际联�
 
 这种封锁手段就叫**ip封锁**
 
+
+
 ### 传输层
 
-传输层首先定义了一个源端口和目标端口，可以想象成一个端口是一个事件编号，
+传输层首先定义了一个源端口和目标端口，可以想象成一个端口是一个任务编号，因为计算机同时要处理很多事情收发很多东西，所以需要端口区分。
 
 
 ## 翻墙
@@ -378,7 +380,7 @@ curl https://example.com --resolve example.com:443:你查到的ip
 
 如果显示连接已重置，域名sni被封锁。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDQ2MDA0MjEsMTA1NzU3NTQ5LDQ2OT
+eyJoaXN0b3J5IjpbLTE0ODcwNTgwODksMTA1NzU3NTQ5LDQ2OT
 QwNDk3LDEwMTY1MzMxMDUsLTE4ODgzNTE5MTAsLTYzMjk1MjI1
 M119
 -->

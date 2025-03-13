@@ -90,7 +90,9 @@ GFW根据明文的sni进行封锁。封锁具体方法利用了TCP协议中的�
 
 应用层，就是具体的信息内容了。为了区分同一服务器上的不同网站，一般有一个Host字段，记录了你访问的网站。
 
+常见的协议有HTTP（网站访问），WebSocket（SOCK），FTP（文件共享）等等。
 
+为了强调使用了TLS加密，后面加个S，如HTTPS，SOCKS等。
 
 
 ## 翻墙
@@ -420,7 +422,7 @@ curl https://example.com --resolve example.com:443:你查到的ip
 
 如果显示连接已重置，域名sni被封锁。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzODE5NzQ0MywtMTQ4NzA1ODA4OSwxMD
+eyJoaXN0b3J5IjpbLTYyNjIxNjc4NywtMTQ4NzA1ODA4OSwxMD
 U3NTc1NDksNDY5NDA0OTcsMTAxNjUzMzEwNSwtMTg4ODM1MTkx
 MCwtNjMyOTUyMjUzXX0=
 -->

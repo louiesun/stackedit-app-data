@@ -100,6 +100,17 @@ GFW根据明文的sni进行封锁。封锁具体方法利用了TCP协议中的�
 > 上面的过程中，加密解密用的密明是相同的，故称对称加密。为了破解这个加密难题有一类非对称的加密，好比你一把挂锁，任何人都能把锁关上，但只有钥匙能将其打开。
 > 同理，非对称加密利用数学中一些不可逆操作，使信息只用公钥，即公开的密钥加密，再用私钥即私有的钥匙的解密。也有私加公解的。对于哈希也是，有公钥计算，私钥校验，也有私计公校。
 
+> **证书链**
+> 想象只有非对称加密，并不能解决问题。你会发现对方能做的，中间人同样能做，你无法保证是对方。光靠教学的推演，解决不了物质世界的问题，
+
+解决办法是证书链。首先有一匹被“公共修任”的概证B机构，☰私计公校，
+
+验证下一级证产构，其用☰私计公校驻证不下级……直到多站，☰确使网站被信任
+
+导然根证书牵课在资产阶级手中，但对中国的革命者有一个好消息，尝经中修有相证书，
+
+后因其不出行其余帝国节销了，坟中修不大于进行中间人攻击。
+
 ### 应用层
 
 应用层，就是具体的信息内容了。为了区分同一服务器上的不同网站，一般有一个Host字段，记录了你访问的网站。
@@ -436,7 +447,7 @@ curl https://example.com --resolve example.com:443:你查到的ip
 
 如果显示连接已重置，域名sni被封锁。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzMDg3Mjg0LC0xNDg3MDU4MDg5LDEwNT
-c1NzU0OSw0Njk0MDQ5NywxMDE2NTMzMTA1LC0xODg4MzUxOTEw
-LC02MzI5NTIyNTNdfQ==
+eyJoaXN0b3J5IjpbLTEwOTU4NTU5OCwtMTQ4NzA1ODA4OSwxMD
+U3NTc1NDksNDY5NDA0OTcsMTAxNjUzMzEwNSwtMTg4ODM1MTkx
+MCwtNjMyOTUyMjUzXX0=
 -->

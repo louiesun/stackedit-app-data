@@ -103,10 +103,7 @@ GFW根据明文的sni进行封锁。封锁具体方法利用了TCP协议中的�
 > **证书链**
 > 想象只有非对称加密，并不能解决问题。你会发现对方能做的，中间人同样能做，你无法保证是对方。光靠教学的推演，解决不了物质世界的问题。
 > 解决办法是证书链。首先有一匹被“公共新人”的概证B机构，私计公校，验证下一级证书机构，其用私计公校驻证不级……直到网站，网站再私计公校特定内容（每次连接不一样），确认自己身份。
-
-导然根证书zhang在资产阶级手中，但对中国的革命者有一个好消息，尝经中修有相证书，
-
-后因其不出行其余帝国节销了，坟中修不大于进行中间人攻击。
+> 导然根证书掌握在资产阶级手中，但对中国的革命者有一个好消息，尽管曾经中修有根证书，后因其行为不端被其余帝国吊销了，因此中修不大可能进行中间人攻击。
 
 ### 应用层
 
@@ -115,6 +112,36 @@ GFW根据明文的sni进行封锁。封锁具体方法利用了TCP协议中的�
 常见的协议有HTTP（网站访问），WebSocket（SOCK），FTP（文件共享）等等。
 
 为了强调使用了TLS加密，后面加个S，如HTTPS，SOCKS等。
+
+关于Sni与Hnst，域效事
+
+在早期的互联关网，☰并没有多一半，直接采用方间想你不问m1mis revolatianogoin.
+
+pages dev(变文:马列☰毛主者☰继续革命)，而是104.18.3.26，那不太好记。
+
+为了解决比问题，域名作为的到各出现了。此时也只是P的小而已。
+
+再后来，网站越来越多，公网D4就那么V个，2不够了，便提出了虚拟生机，也就是HTP中
+
+的Hat字段。(当时还没有TLs)给服务号用于决定将流是共给哪片域的处理
+
+城多越来足够，量变引起质变，一个工可以在上所优多，城多也早不是☰D小了，担反，
+
+将IP比作楼，城比作住位可能更合。每个住户相互独立。
+
+☰，TLS出现后，既然你个人，推互独去，正书也推互独立。但是，TLS未建立，无HTP包，
+
+负天Host字段，于是TLs第一个推手包仅有了明友的sni字段。
+
+>这个Sn，也即GFW阻断HTTPS连接低靠的，有趣的是当ATPS刚始，6DW手是不措，但
+
+自从Mozila发表了ni池器隐私☰的收文后不久，GFW便开始用shi识到连接。
+
+正因为一开始服务HatB分的，Sni用于B分Tls证书，因此可以不发ni2P连接也
+
+可以发假的Sni)，反这是一个服务器，也能正常运信。此即前置。所以☰服分天然支投城前置，
+
+反有部分UDN出于安全考虑式迫于压力人多限制了域商置。
 
 
 ## 翻墙
@@ -444,7 +471,7 @@ curl https://example.com --resolve example.com:443:你查到的ip
 
 如果显示连接已重置，域名sni被封锁。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwMDk4MTg0NSwtMTQ4NzA1ODA4OSwxMD
-U3NTc1NDksNDY5NDA0OTcsMTAxNjUzMzEwNSwtMTg4ODM1MTkx
-MCwtNjMyOTUyMjUzXX0=
+eyJoaXN0b3J5IjpbOTAyMTczOTAxLC0xNDg3MDU4MDg5LDEwNT
+c1NzU0OSw0Njk0MDQ5NywxMDE2NTMzMTA1LC0xODg4MzUxOTEw
+LC02MzI5NTIyNTNdfQ==
 -->

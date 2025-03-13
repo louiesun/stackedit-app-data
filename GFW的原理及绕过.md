@@ -96,11 +96,8 @@ GFW根据明文的sni进行封锁。封锁具体方法利用了TCP协议中的�
 > 假如AB之间要加密通信，必然有一个密钥密钥加密，然后B用密钥解密，反之亦然。
 > 比方说A给B发一个数，为确保安全，A会将致加上密钥，B收到后减去密钥，就完成了加密通信。
 > 但怎么安全传递此密钥呢?
-> 上面的过程中，加密解密用的密明是相同的，故称对称加密。为了破解这个加密难预有
-
-一☰类非对称的加密，好你一把锁，任何人都能把锁关上，但只有钥匙能将其打开。
-
-同理，丰段对称加密利用数学中一些不可边操作，使信息只用公钥，即公开的密明加密，
+> 上面的过程中，加密解密用的密明是相同的，故称对称加密。为了破解这个加密难题有一类非对称的加密，好比你一把挂锁，任何人都能把锁关上，但只有钥匙能将其打开。
+> 同理，非对称加密利用数学中一些不可逆操作，使信息只用公钥，即公开的密钥加密，
 
 再用私钥(私有的钥匙)解密。也有私加公解的。对于哈哈也是，有公钥计算，私的校验，
 
@@ -444,7 +441,7 @@ curl https://example.com --resolve example.com:443:你查到的ip
 
 如果显示连接已重置，域名sni被封锁。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjYxMTU1OTksLTE0ODcwNTgwODksMT
-A1NzU3NTQ5LDQ2OTQwNDk3LDEwMTY1MzMxMDUsLTE4ODgzNTE5
-MTAsLTYzMjk1MjI1M119
+eyJoaXN0b3J5IjpbMzczOTcxMjkwLC0xNDg3MDU4MDg5LDEwNT
+c1NzU0OSw0Njk0MDQ5NywxMDE2NTMzMTA1LC0xODg4MzUxOTEw
+LC02MzI5NTIyNTNdfQ==
 -->

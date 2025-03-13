@@ -56,7 +56,7 @@ GFW，估计是目田起的，全称GreatFireWall，指的是中国的国际联�
 
 通过BGP协议，恶意地将IP访问路线导航到错误的地址，就好像把车子导航到荒郊野岭一样。通过这种方式完成的**IP封锁**，称作为**IP黑洞**。
 
-为了防止路由错误导致的数据包无限循环，引入了一个叫TTL（Time To ）的东西。
+为了防止路由错误导致的数据包无限循环，引入了一个叫TTL（Time To Live）的东西。每台机器收到数据包后，就把TTL减去1，转发给下一台。如果TTL为0，就直接丢弃这个数据包。TTL也可用于控制
 
 
 ### 传输层
@@ -391,7 +391,7 @@ curl https://example.com --resolve example.com:443:你查到的ip
 
 如果显示连接已重置，域名sni被封锁。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODcyMTA3MDMsLTE0ODcwNTgwODksMT
+eyJoaXN0b3J5IjpbLTE0MjA3NzIzMzIsLTE0ODcwNTgwODksMT
 A1NzU3NTQ5LDQ2OTQwNDk3LDEwMTY1MzMxMDUsLTE4ODgzNTE5
 MTAsLTYzMjk1MjI1M119
 -->

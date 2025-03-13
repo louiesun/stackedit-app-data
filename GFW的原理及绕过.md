@@ -84,6 +84,9 @@ GFW，估计是目田起的，全称GreatFireWall，指的是中国的国际联�
 
 GFW根据明文的sni进行封锁。封锁具体方法利用了TCP协议中的一个特定规则，可以发送一种叫RST的包立即中断连接。由于TCP协议没有被加密，故GFW可以轻易伪造RST包。这种封锁方式称之为sni阻断或者TCP重置。
 
+### 应用层
+
+应用层，就是具体的信息内容了。
 
 
 ## 翻墙
@@ -413,7 +416,7 @@ curl https://example.com --resolve example.com:443:你查到的ip
 
 如果显示连接已重置，域名sni被封锁。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxNDkzMjQyNSwtMTQ4NzA1ODA4OSwxMD
-U3NTc1NDksNDY5NDA0OTcsMTAxNjUzMzEwNSwtMTg4ODM1MTkx
-MCwtNjMyOTUyMjUzXX0=
+eyJoaXN0b3J5IjpbLTEyNjQ5ODIxMjgsLTE0ODcwNTgwODksMT
+A1NzU3NTQ5LDQ2OTQwNDk3LDEwMTY1MzMxMDUsLTE4ODgzNTE5
+MTAsLTYzMjk1MjI1M119
 -->

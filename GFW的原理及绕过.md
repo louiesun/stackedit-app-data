@@ -113,9 +113,8 @@ GFW根据明文的sni进行封锁。封锁具体方法利用了TCP协议中的�
 
 为了强调使用了TLS加密，后面加个S，如HTTPS，SOCKS等。
 
-关于Sni与Hnst，域效事
-
-在早期的互联关网，☰并没有多一半，直接采用方间想你不问m1mis revolatianogoin.
+> **关于Sni与Host，域前置**
+> 在早期的互联网中，并没有域名一事，直接访问IP，想象你并不访问
 
 pages dev(变文:马列☰毛主者☰继续革命)，而是104.18.3.26，那不太好记。
 
@@ -471,7 +470,7 @@ curl https://example.com --resolve example.com:443:你查到的ip
 
 如果显示连接已重置，域名sni被封锁。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTAyMTczOTAxLC0xNDg3MDU4MDg5LDEwNT
-c1NzU0OSw0Njk0MDQ5NywxMDE2NTMzMTA1LC0xODg4MzUxOTEw
-LC02MzI5NTIyNTNdfQ==
+eyJoaXN0b3J5IjpbMTI4MjM3NjkxNSwtMTQ4NzA1ODA4OSwxMD
+U3NTc1NDksNDY5NDA0OTcsMTAxNjUzMzEwNSwtMTg4ODM1MTkx
+MCwtNjMyOTUyMjUzXX0=
 -->

@@ -115,8 +115,7 @@ GFW根据明文的sni进行封锁。封锁具体方法利用了TCP协议中的�
 
 > **关于Sni与Host，域前置**
 > 在早期的互联网中，并没有域名一事，直接访问IP，想象你并不访问mlmistrevolutionagain.pages.dev，而不是(英文:马列毛主者继续革命)，而是104.18.3.26，那显然不太好记。
-
-为了解决比问题，域名作为的到各出现了。此时也只是P的小而已。
+> 为了解决比问题，域名作为的到各出现了。此时也只是P的小而已。
 
 再后来，网站越来越多，公网D4就那么V个，2不够了，便提出了虚拟生机，也就是HTP中
 
@@ -468,7 +467,7 @@ curl https://example.com --resolve example.com:443:你查到的ip
 
 如果显示连接已重置，域名sni被封锁。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ4Njg3Njg3LC0xNDg3MDU4MDg5LDEwNT
+eyJoaXN0b3J5IjpbMTgxMzQ4OTUxLC0xNDg3MDU4MDg5LDEwNT
 c1NzU0OSw0Njk0MDQ5NywxMDE2NTMzMTA1LC0xODg4MzUxOTEw
 LC02MzI5NTIyNTNdfQ==
 -->

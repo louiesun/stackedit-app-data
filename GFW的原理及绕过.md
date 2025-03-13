@@ -71,6 +71,8 @@ GFW，估计是目田起的，全称GreatFireWall，指的是中国的国际联�
 **传输层由操作系统控制**。但是**端口可由应用控制**。
 
 > TCP这里产生了一个概念，叫做连接。以太网，IP协议，UDP是无连接的。
+> TCP在通信前需要先建立连接，确保数据可靠、有序地传输。TCP连接前有握手有3步，早期TLS协议（下一部分）有4步，通讯前握手大大加大了延迟。
+> 为了解决这个问题，Google提出了quic协议，相当于把TCP
 
 ## 翻墙
 
@@ -399,7 +401,7 @@ curl https://example.com --resolve example.com:443:你查到的ip
 
 如果显示连接已重置，域名sni被封锁。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk2NzE5NDQ0LC0xNDg3MDU4MDg5LDEwNT
-c1NzU0OSw0Njk0MDQ5NywxMDE2NTMzMTA1LC0xODg4MzUxOTEw
-LC02MzI5NTIyNTNdfQ==
+eyJoaXN0b3J5IjpbLTE2NjQ5OTczMDAsLTE0ODcwNTgwODksMT
+A1NzU3NTQ5LDQ2OTQwNDk3LDEwMTY1MzMxMDUsLTE4ODgzNTE5
+MTAsLTYzMjk1MjI1M119
 -->

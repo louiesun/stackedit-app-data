@@ -36,7 +36,7 @@ GFW，估计是目田起的，全称GreatFireWall，指的是中国的国际联�
 
 每台机器的mac号由网卡决定，每个网卡的默认mac号表示了厂商名，批次名和编号。每台设备默认mac号不一致，所以会被用来标识设备。当然，网卡提供操作修改自己mac号。
 
-### ip层
+### 网络层
 
 这一层定义了一个互联的网络最大的ip网络就是全球互联网（公网），因为网络中参与者太多，很多时候这些人在一个小ip网络（局域网）中，共用一个上一级ip网络身份，甚至局域网也可以嵌套。
 
@@ -45,6 +45,10 @@ GFW，估计是目田起的，全称GreatFireWall，指的是中国的国际联�
 显然，ip是被泄露了的。因此，审查机器可以阻止向特定的收件人送信。
 
 这种封锁手段就叫**ip封锁**
+
+### 传输层
+
+传输层首先定义了一个源端口和目标端口，可以想象成一个端口是一个事件编号，
 
 
 ## 翻墙
@@ -374,6 +378,7 @@ curl https://example.com --resolve example.com:443:你查到的ip
 
 如果显示连接已重置，域名sni被封锁。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1NzU3NTQ5LDQ2OTQwNDk3LDEwMTY1Mz
-MxMDUsLTE4ODgzNTE5MTAsLTYzMjk1MjI1M119
+eyJoaXN0b3J5IjpbLTE4MDQ2MDA0MjEsMTA1NzU3NTQ5LDQ2OT
+QwNDk3LDEwMTY1MzMxMDUsLTE4ODgzNTE5MTAsLTYzMjk1MjI1
+M119
 -->

@@ -88,18 +88,10 @@ GFW根据明文的sni进行封锁。封锁具体方法利用了TCP协议中的�
 
 > 加密与哈希
 > 为了确保信息的私密或完整传递，人们提出了一些算法，
-> 加密分为两大类，加密与哈希。加密的目的是防止信息被第三方，哈常则是班上
-
-被算改。加密较好理解，不面讲讲哈希。
-
-如果我们想判断两个人是否是一个，但见不到实整的人，怎么办?比较常见的方法有指级，
-
-每个人指纹都不相同。如果人少，甚至可以用生日判断。通常认为，若哈希后信息有n种中，则大概
-
-能容纳后☰种原传息以☰防止的者有相同哈爷值。
+> 加密分为两大类，加密与哈希。加密的目的是防止信息被第三方偷窥获取，哈希则是防止信息被篡改，或者确认发件人。加密较好理解，下面讲讲哈希。
+> 如果我们想判断两个人是否是一个，但见不到完整的人，怎么办？比较常见的方法有指纹，每个人指纹都不相同。如果人少，甚至可以用生日判断。通常认为，若哈希后信息有$n$种中，则大概能容纳后$\sqrt n$种原信息以保证没有两者有相同哈希值。
 
 这被称为生日悖论，即23个人中有很大概率生日相同。
-
 
 ### 应用层
 
@@ -437,7 +429,7 @@ curl https://example.com --resolve example.com:443:你查到的ip
 
 如果显示连接已重置，域名sni被封锁。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTMwMjE3NTIzLC0xNDg3MDU4MDg5LDEwNT
-c1NzU0OSw0Njk0MDQ5NywxMDE2NTMzMTA1LC0xODg4MzUxOTEw
-LC02MzI5NTIyNTNdfQ==
+eyJoaXN0b3J5IjpbMTQ0MzY2MjA4MywtMTQ4NzA1ODA4OSwxMD
+U3NTc1NDksNDY5NDA0OTcsMTAxNjUzMzEwNSwtMTg4ODM1MTkx
+MCwtNjMyOTUyMjUzXX0=
 -->

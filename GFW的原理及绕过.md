@@ -43,8 +43,9 @@
 之后
 1. 点create an accout（创建账户）
 2. Get a new encrypted email accout（获取proton账户）你也可以用你自己的邮箱，但没有专业知识不推荐，中国人用的大部分邮箱并不安全，而且proton mail一定意义上其实是后续必要的。
-3. 填写username
-4. 
+3. 填写username，domain为proton.me
+4. 设置密码，上下输入一样的，确认没有打错
+5. 
 
 # 网络安全进阶
 > maoist2009
@@ -520,9 +521,9 @@ curl https://example.com --resolve example.com:443:你查到的ip
 
 如果显示连接已重置，域名sni被封锁。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzAyOTIzNjEzLDQzMzQ4MTg1MiwtNzk1NT
-gzMDgxLC0xOTQzMjM4Njk0LC05NjMwMjc5NDMsLTEzNjA1MjY4
-NzgsNjIyMDA3OTYyLDE1NTI4MTI5MSwtMTQ4NzA1ODA4OSwxMD
-U3NTc1NDksNDY5NDA0OTcsMTAxNjUzMzEwNSwtMTg4ODM1MTkx
-MCwtNjMyOTUyMjUzXX0=
+eyJoaXN0b3J5IjpbLTE3NDIxNjY3MDMsNDMzNDgxODUyLC03OT
+U1ODMwODEsLTE5NDMyMzg2OTQsLTk2MzAyNzk0MywtMTM2MDUy
+Njg3OCw2MjIwMDc5NjIsMTU1MjgxMjkxLC0xNDg3MDU4MDg5LD
+EwNTc1NzU0OSw0Njk0MDQ5NywxMDE2NTMzMTA1LC0xODg4MzUx
+OTEwLC02MzI5NTIyNTNdfQ==
 -->

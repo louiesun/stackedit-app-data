@@ -379,11 +379,14 @@ graph LR
 
 对于一条代理链，往往有一个代理占主要地位，这是可能不说相对于哪个代理，默认是相对于这个主要代理。比如说迷雾通作tor网桥时，迷雾通是前置。
 
-网上还有一个概念就正向反向代理。容易和前后置搞混。
+> 网上还有一个概念就正向反向代理。容易和前后置搞混。
+> > 这其实是因为Forward可以翻译为正向或者前置。Forward Proxy正确应该翻译为正向代理。因为与之相对的Reverse Proxy只能翻译为反向。
 
-> 这其实是因为Forward可以翻译为正向或者前置。Forward Proxy正确应该翻译为正向代理。因为与之相对的Reverse Proxy只能翻译为反向。
+我们发现上面一切的代理，我们都知道服务器在哪里，排开GFW甚至可以直连，代理是代我们访问服务器，这是正向代理。
 
-我们发现上面一切的代理，我们都知道服务器在哪里，k
+反向代理是代服务器和我们交流，正如我们使用正代隐藏我们的IP，反代隐藏服务器的IP。
+
+大部分同志接触不到反代
 
 ## 网络身份与网络安全
 
@@ -469,7 +472,7 @@ curl https://example.com --resolve example.com:443:你查到的ip
 
 如果显示连接已重置，域名sni被封锁。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzkwMDUwMDYsLTEzNjA1MjY4NzgsNj
+eyJoaXN0b3J5IjpbLTE5Mjc5MzUyMjEsLTEzNjA1MjY4NzgsNj
 IyMDA3OTYyLDE1NTI4MTI5MSwtMTQ4NzA1ODA4OSwxMDU3NTc1
 NDksNDY5NDA0OTcsMTAxNjUzMzEwNSwtMTg4ODM1MTkxMCwtNj
 MyOTUyMjUzXX0=

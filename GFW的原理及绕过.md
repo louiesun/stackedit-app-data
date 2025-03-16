@@ -9,7 +9,9 @@
 
 以下链接一个一个尝试下载：
 
-注意！！迷雾通似乎和一些xmpp服务器不兼容
+
+
+注意！！迷雾通和一些xmpp服务器不兼容！若使用迷雾通翻墙，注册时建议使用`conversations.im`服务器注册。
 
 
 ### proton VPN
@@ -496,7 +498,7 @@ curl https://example.com --resolve example.com:443:你查到的ip
 
 如果显示连接已重置，域名sni被封锁。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3NjgxODk2NiwtMTk0MzIzODY5NCwtOT
+eyJoaXN0b3J5IjpbLTc5NTU4MzA4MSwtMTk0MzIzODY5NCwtOT
 YzMDI3OTQzLC0xMzYwNTI2ODc4LDYyMjAwNzk2MiwxNTUyODEy
 OTEsLTE0ODcwNTgwODksMTA1NzU3NTQ5LDQ2OTQwNDk3LDEwMT
 Y1MzMxMDUsLTE4ODgzNTE5MTAsLTYzMjk1MjI1M119

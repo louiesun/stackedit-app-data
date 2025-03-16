@@ -375,6 +375,10 @@ graph LR
 
 好像你往筒里放东西，先进的放在底下，最后拿出来。
 
+这里出现了一个概念，前置代理和后置代理。这是一个相对的概念，前后置概念看服务端顺序。比如说对于代理b，c是他的前置代理，b是后置。
+
+对于
+
 ## 网络身份与网络安全
 
 ### 邮箱
@@ -459,7 +463,8 @@ curl https://example.com --resolve example.com:443:你查到的ip
 
 如果显示连接已重置，域名sni被封锁。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjA1MjY4NzgsNjIyMDA3OTYyLDE1NT
-I4MTI5MSwtMTQ4NzA1ODA4OSwxMDU3NTc1NDksNDY5NDA0OTcs
-MTAxNjUzMzEwNSwtMTg4ODM1MTkxMCwtNjMyOTUyMjUzXX0=
+eyJoaXN0b3J5IjpbNTQyNTMwMzYwLC0xMzYwNTI2ODc4LDYyMj
+AwNzk2MiwxNTUyODEyOTEsLTE0ODcwNTgwODksMTA1NzU3NTQ5
+LDQ2OTQwNDk3LDEwMTY1MzMxMDUsLTE4ODgzNTE5MTAsLTYzMj
+k1MjI1M119
 -->

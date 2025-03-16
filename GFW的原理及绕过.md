@@ -20,7 +20,9 @@
 
 ## 祸从口出
 
-为了避免你
+我们知道墙内是实名的，你说啥警察都知道你是谁住在哪里。因此不要和墙内身份关联。
+
+首先，username（用户名）不要和墙内有任何管理，随便挑一个正面的英文单词，或者中文词组转拼音。如Advance，
 
 接下来我们就需要搞一个代理了。
 
@@ -534,7 +536,7 @@ curl https://example.com --resolve example.com:443:你查到的ip
 
 如果显示连接已重置，域名sni被封锁。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDU4NzQ0NTksNDMzNDgxODUyLC03OT
+eyJoaXN0b3J5IjpbLTEwNjY3ODQzMzcsNDMzNDgxODUyLC03OT
 U1ODMwODEsLTE5NDMyMzg2OTQsLTk2MzAyNzk0MywtMTM2MDUy
 Njg3OCw2MjIwMDc5NjIsMTU1MjgxMjkxLC0xNDg3MDU4MDg5LD
 EwNTc1NzU0OSw0Njk0MDQ5NywxMDE2NTMzMTA1LC0xODg4MzUx

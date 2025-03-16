@@ -42,7 +42,7 @@
 
 注意！！迷雾通和一些xmpp服务器不兼容！若使用迷雾通翻墙，注册时建议使用`conversations.im`服务器注册。
 
-
+中文
 
 
 ### proton VPN
@@ -542,7 +542,7 @@ curl https://example.com --resolve example.com:443:你查到的ip
 
 如果显示连接已重置，域名sni被封锁。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxMjk5MTgyMiw0MzM0ODE4NTIsLTc5NT
+eyJoaXN0b3J5IjpbLTcwMjUyODc2MCw0MzM0ODE4NTIsLTc5NT
 U4MzA4MSwtMTk0MzIzODY5NCwtOTYzMDI3OTQzLC0xMzYwNTI2
 ODc4LDYyMjAwNzk2MiwxNTUyODEyOTEsLTE0ODcwNTgwODksMT
 A1NzU3NTQ5LDQ2OTQwNDk3LDEwMTY1MzMxMDUsLTE4ODgzNTE5

@@ -3,6 +3,12 @@
 
 > 事实上，本手册并不是《网络安全进阶》的铺垫，相反，本文是于其之后写的。
 
+## 简论
+
+互联网访问就像送信。送信有三者参与：你（客户端），对面（服务端），邮差（中间人）。信封是无法被处理
+
+中修的国家机器控制了邮差。
+
 ## 适用于Android的推荐代理软件
 
 ### 迷雾通
@@ -498,8 +504,9 @@ curl https://example.com --resolve example.com:443:你查到的ip
 
 如果显示连接已重置，域名sni被封锁。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5NTU4MzA4MSwtMTk0MzIzODY5NCwtOT
-YzMDI3OTQzLC0xMzYwNTI2ODc4LDYyMjAwNzk2MiwxNTUyODEy
-OTEsLTE0ODcwNTgwODksMTA1NzU3NTQ5LDQ2OTQwNDk3LDEwMT
-Y1MzMxMDUsLTE4ODgzNTE5MTAsLTYzMjk1MjI1M119
+eyJoaXN0b3J5IjpbLTEwMjY4NTU5MDYsLTc5NTU4MzA4MSwtMT
+k0MzIzODY5NCwtOTYzMDI3OTQzLC0xMzYwNTI2ODc4LDYyMjAw
+Nzk2MiwxNTUyODEyOTEsLTE0ODcwNTgwODksMTA1NzU3NTQ5LD
+Q2OTQwNDk3LDEwMTY1MzMxMDUsLTE4ODgzNTE5MTAsLTYzMjk1
+MjI1M119
 -->

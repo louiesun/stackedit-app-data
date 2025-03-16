@@ -47,7 +47,7 @@
 + https://github.boki.moe/https://github.com/maoist2009/AndroifFrag/releases/download/0.-1/geph-android.apk
 + https://gh.ddlc.top/https://github.com/maoist2009/AndroifFrag/releases/download/0.-1/geph-android.apk
 
-下载慢zh
+下载慢正常，等就行
 
 注意！！迷雾通和一些xmpp服务器不兼容！若使用迷雾通翻墙，注册时建议使用`conversations.im`服务器注册。
 
@@ -55,7 +55,7 @@
 
 注册新账户，人机验证码先要点注册才会显示。
 
-注册成功之后登陆，就可以连接了。。
+注册成功之后登陆，就可以连接了。
 
 ### proton VPN
 
@@ -554,9 +554,9 @@ curl https://example.com --resolve example.com:443:你查到的ip
 
 如果显示连接已重置，域名sni被封锁。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDkyMTI2NDksLTM0NDI0MTkxNiw0Mz
-M0ODE4NTIsLTc5NTU4MzA4MSwtMTk0MzIzODY5NCwtOTYzMDI3
-OTQzLC0xMzYwNTI2ODc4LDYyMjAwNzk2MiwxNTUyODEyOTEsLT
-E0ODcwNTgwODksMTA1NzU3NTQ5LDQ2OTQwNDk3LDEwMTY1MzMx
-MDUsLTE4ODgzNTE5MTAsLTYzMjk1MjI1M119
+eyJoaXN0b3J5IjpbNjUwMTcxOTEwLC0zNDQyNDE5MTYsNDMzND
+gxODUyLC03OTU1ODMwODEsLTE5NDMyMzg2OTQsLTk2MzAyNzk0
+MywtMTM2MDUyNjg3OCw2MjIwMDc5NjIsMTU1MjgxMjkxLC0xND
+g3MDU4MDg5LDEwNTc1NzU0OSw0Njk0MDQ5NywxMDE2NTMzMTA1
+LC0xODg4MzUxOTEwLC02MzI5NTIyNTNdfQ==
 -->

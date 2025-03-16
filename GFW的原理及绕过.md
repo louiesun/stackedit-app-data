@@ -383,6 +383,8 @@ graph LR
 
 注意大部分邮箱有一个**密保邮箱机制**。如果邮箱A密码忘了了，向B发确的信息，使你能重置密码。
 
+> Proton邮箱不设置密保邮箱无法接收各类网站注册的验证码。
+
 > 为何不能知道之前密码？因为一般现代服务器储存哈希，而不储存原密码，哈希计算在客户端进行。
 
 ### 手机号
@@ -457,7 +459,7 @@ curl https://example.com --resolve example.com:443:你查到的ip
 
 如果显示连接已重置，域名sni被封锁。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjIyMDA3OTYyLDE1NTI4MTI5MSwtMTQ4Nz
-A1ODA4OSwxMDU3NTc1NDksNDY5NDA0OTcsMTAxNjUzMzEwNSwt
-MTg4ODM1MTkxMCwtNjMyOTUyMjUzXX0=
+eyJoaXN0b3J5IjpbMTY0Njc0MTYwMyw2MjIwMDc5NjIsMTU1Mj
+gxMjkxLC0xNDg3MDU4MDg5LDEwNTc1NzU0OSw0Njk0MDQ5Nywx
+MDE2NTMzMTA1LC0xODg4MzUxOTEwLC02MzI5NTIyNTNdfQ==
 -->

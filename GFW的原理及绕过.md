@@ -40,6 +40,10 @@
 + https://ghproxy.net/https://github.com/ProtonVPN/android-app/releases/download/5.9.59.0/ProtonVPN-5.9.59.0.605095900.-production-vanilla-direct-release.apk
 + https://github.com/ProtonVPN/android-app/releases/download/5.9.59.0/ProtonVPN-5.9.59.0.605095900.-production-vanilla-direct-release.apk
 
+之后
+1. 点create an accout（创建账户）
+2. Get a new encrypted email accout（获取proton账户）你也可以
+3. 
 
 # 网络安全进阶
 > maoist2009
@@ -515,9 +519,9 @@ curl https://example.com --resolve example.com:443:你查到的ip
 
 如果显示连接已重置，域名sni被封锁。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxMjk2ODkxOCw0MzM0ODE4NTIsLTc5NT
-U4MzA4MSwtMTk0MzIzODY5NCwtOTYzMDI3OTQzLC0xMzYwNTI2
-ODc4LDYyMjAwNzk2MiwxNTUyODEyOTEsLTE0ODcwNTgwODksMT
-A1NzU3NTQ5LDQ2OTQwNDk3LDEwMTY1MzMxMDUsLTE4ODgzNTE5
-MTAsLTYzMjk1MjI1M119
+eyJoaXN0b3J5IjpbODU0MjUxNjU5LDQzMzQ4MTg1MiwtNzk1NT
+gzMDgxLC0xOTQzMjM4Njk0LC05NjMwMjc5NDMsLTEzNjA1MjY4
+NzgsNjIyMDA3OTYyLDE1NTI4MTI5MSwtMTQ4NzA1ODA4OSwxMD
+U3NTc1NDksNDY5NDA0OTcsMTAxNjUzMzEwNSwtMTg4ODM1MTkx
+MCwtNjMyOTUyMjUzXX0=
 -->

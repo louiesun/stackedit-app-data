@@ -16,6 +16,10 @@
 > 代理服务器知道你访问的网站和你的ip。
 > 网站知道你访问的内容，发的信息，但不知道你的ip。
 
+还有一些技术手段减少泄漏的信息，但是这里不多讲。
+
+那么我们就需要搞一个代理了。
+
 ## 适用于Android的推荐代理软件
 
 ### 迷雾通
@@ -511,9 +515,9 @@ curl https://example.com --resolve example.com:443:你查到的ip
 
 如果显示连接已重置，域名sni被封锁。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjMyOTA3MDAsNDMzNDgxODUyLC03OT
-U1ODMwODEsLTE5NDMyMzg2OTQsLTk2MzAyNzk0MywtMTM2MDUy
-Njg3OCw2MjIwMDc5NjIsMTU1MjgxMjkxLC0xNDg3MDU4MDg5LD
-EwNTc1NzU0OSw0Njk0MDQ5NywxMDE2NTMzMTA1LC0xODg4MzUx
-OTEwLC02MzI5NTIyNTNdfQ==
+eyJoaXN0b3J5IjpbMjAxMjk2ODkxOCw0MzM0ODE4NTIsLTc5NT
+U4MzA4MSwtMTk0MzIzODY5NCwtOTYzMDI3OTQzLC0xMzYwNTI2
+ODc4LDYyMjAwNzk2MiwxNTUyODEyOTEsLTE0ODcwNTgwODksMT
+A1NzU3NTQ5LDQ2OTQwNDk3LDEwMTY1MzMxMDUsLTE4ODgzNTE5
+MTAsLTYzMjk1MjI1M119
 -->

@@ -1,5 +1,5 @@
 # 网络安全入门
-本文适用于急需网络安全保护自己的同志。
+本文适用于急需网络安全保护自己的同志。力求简介快速，对原因原理的解释难以详尽。
 
 > 事实上，本手册并不是《网络安全进阶》的铺垫，相反，本文是于其之后写的。
 
@@ -478,8 +478,8 @@ curl https://example.com --resolve example.com:443:你查到的ip
 
 如果显示连接已重置，域名sni被封锁。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTYxNjAyNDc4LC05NjMwMjc5NDMsLTEzNj
-A1MjY4NzgsNjIyMDA3OTYyLDE1NTI4MTI5MSwtMTQ4NzA1ODA4
-OSwxMDU3NTc1NDksNDY5NDA0OTcsMTAxNjUzMzEwNSwtMTg4OD
-M1MTkxMCwtNjMyOTUyMjUzXX0=
+eyJoaXN0b3J5IjpbLTE5NDMyMzg2OTQsLTk2MzAyNzk0MywtMT
+M2MDUyNjg3OCw2MjIwMDc5NjIsMTU1MjgxMjkxLC0xNDg3MDU4
+MDg5LDEwNTc1NzU0OSw0Njk0MDQ5NywxMDE2NTMzMTA1LC0xOD
+g4MzUxOTEwLC02MzI5NTIyNTNdfQ==
 -->

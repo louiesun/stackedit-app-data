@@ -7,7 +7,12 @@
 
 互联网访问就像送信。送信有三者参与：你（客户端），对面（服务端），邮差（中间人）。信封是无法被除了对面以外的人打开的。但是信封上写了发件人地址（你的IP地址），收件人地址（对面的IP地址），收件人名称（网站名）等。
 
-中修的国家机器控制了邮差。所以邮差会根据收件人地址和收件人名称丢弃信件，实现封锁。为了解决这一问题。我们把一封信连着信封塞到另一封信里，发给dai
+中修的国家机器控制了邮差。所以邮差会根据收件人地址和收件人名称丢弃信件，实现封锁。为了解决这一问题。我们把一封信连着信封塞到另一封信里，发给代理（代理服务器）。
+
+> 单纯把
+
+最终结果是：
+> 中修
 
 ## 适用于Android的推荐代理软件
 
@@ -504,9 +509,9 @@ curl https://example.com --resolve example.com:443:你查到的ip
 
 如果显示连接已重置，域名sni被封锁。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDY1NjA0OTgsLTc5NTU4MzA4MSwtMT
-k0MzIzODY5NCwtOTYzMDI3OTQzLC0xMzYwNTI2ODc4LDYyMjAw
-Nzk2MiwxNTUyODEyOTEsLTE0ODcwNTgwODksMTA1NzU3NTQ5LD
-Q2OTQwNDk3LDEwMTY1MzMxMDUsLTE4ODgzNTE5MTAsLTYzMjk1
-MjI1M119
+eyJoaXN0b3J5IjpbNDMzNDgxODUyLC03OTU1ODMwODEsLTE5ND
+MyMzg2OTQsLTk2MzAyNzk0MywtMTM2MDUyNjg3OCw2MjIwMDc5
+NjIsMTU1MjgxMjkxLC0xNDg3MDU4MDg5LDEwNTc1NzU0OSw0Nj
+k0MDQ5NywxMDE2NTMzMTA1LC0xODg4MzUxOTEwLC02MzI5NTIy
+NTNdfQ==
 -->

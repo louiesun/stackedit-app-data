@@ -2,7 +2,19 @@
 本文适用于急需网络安全保护自己的同志。力求简介快速，对原因原理的解释难以详尽。
 
 > 事实上，本手册并不是《网络安全进阶》的铺垫，相反，本文是于其之后写的。
-#
+
+## 适用于Android的推荐代理软件
+
+### 迷雾通
+
+### proton VPN
+
+以下链接一个一个尝试下载：
++ https://gh.ddlc.top/https://github.com/ProtonVPN/android-app/releases/download/5.9.59.0/ProtonVPN-5.9.59.0.605095900.-production-vanilla-direct-release.apk
++ https://ghproxy.1888866.xyz/https://github.com/ProtonVPN/android-app/releases/download/5.9.59.0/ProtonVPN-5.9.59.0.605095900.-production-vanilla-direct-release.apk
++ https://github.moeyy.xyz/https://github.com/ProtonVPN/android-app/releases/download/5.9.59.0/ProtonVPN-5.9.59.0.605095900.-production-vanilla-direct-release.apk
++ https://ghproxy.net/https://github.com/ProtonVPN/android-app/releases/download/5.9.59.0/ProtonVPN-5.9.59.0.605095900.-production-vanilla-direct-release.apk
++ 
 
 
 # 网络安全进阶
@@ -479,8 +491,8 @@ curl https://example.com --resolve example.com:443:你查到的ip
 
 如果显示连接已重置，域名sni被封锁。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxMTMwODIzMSwtMTk0MzIzODY5NCwtOT
-YzMDI3OTQzLC0xMzYwNTI2ODc4LDYyMjAwNzk2MiwxNTUyODEy
-OTEsLTE0ODcwNTgwODksMTA1NzU3NTQ5LDQ2OTQwNDk3LDEwMT
-Y1MzMxMDUsLTE4ODgzNTE5MTAsLTYzMjk1MjI1M119
+eyJoaXN0b3J5IjpbLTEwMTgyNzIxMzMsLTE5NDMyMzg2OTQsLT
+k2MzAyNzk0MywtMTM2MDUyNjg3OCw2MjIwMDc5NjIsMTU1Mjgx
+MjkxLC0xNDg3MDU4MDg5LDEwNTc1NzU0OSw0Njk0MDQ5NywxMD
+E2NTMzMTA1LC0xODg4MzUxOTEwLC02MzI5NTIyNTNdfQ==
 -->

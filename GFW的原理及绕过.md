@@ -22,7 +22,9 @@
 
 我们知道墙内是实名的，你说啥警察都知道你是谁住在哪里。因此不要和墙内身份关联。
 
-首先，username（用户名）不要和墙内有任何管理，随便挑一个正面的英文单词，或者中文词组转拼音。如Advance，
+首先，username（用户名）不要和墙内有任何管理，随便挑一个正面的英文单词，或者中文词组转拼音。如Advance，或者jinhou。个人建议避免中文用户名。
+
+然后，不要讲自己的墙内身份。如果有人问你哪来的，最多告诉他平台，如qq来的，b站来的。对同志的信任
 
 接下来我们就需要搞一个代理了。
 
@@ -536,9 +538,9 @@ curl https://example.com --resolve example.com:443:你查到的ip
 
 如果显示连接已重置，域名sni被封锁。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjY3ODQzMzcsNDMzNDgxODUyLC03OT
-U1ODMwODEsLTE5NDMyMzg2OTQsLTk2MzAyNzk0MywtMTM2MDUy
-Njg3OCw2MjIwMDc5NjIsMTU1MjgxMjkxLC0xNDg3MDU4MDg5LD
-EwNTc1NzU0OSw0Njk0MDQ5NywxMDE2NTMzMTA1LC0xODg4MzUx
-OTEwLC02MzI5NTIyNTNdfQ==
+eyJoaXN0b3J5IjpbNzY2MTAyNDMxLDQzMzQ4MTg1MiwtNzk1NT
+gzMDgxLC0xOTQzMjM4Njk0LC05NjMwMjc5NDMsLTEzNjA1MjY4
+NzgsNjIyMDA3OTYyLDE1NTI4MTI5MSwtMTQ4NzA1ODA4OSwxMD
+U3NTc1NDksNDY5NDA0OTcsMTAxNjUzMzEwNSwtMTg4ODM1MTkx
+MCwtNjMyOTUyMjUzXX0=
 -->

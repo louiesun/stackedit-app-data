@@ -28,7 +28,7 @@
 
 还有，不要截取墙内平台的图片，或者转发墙内平台的言论。
 
-最后，密码不要太弱，比如123456。至少
+最后，密码不要太弱，比如123456。至少大小写字母加数字。如GEPH1893xjp
 
 嘴巴关严实了，信写得没漏洞了，我们来确保网络不泄漏，送信安全。
 
@@ -48,7 +48,7 @@
 
 注册新账户，人机验证码先要点注册才会显示。
 
-注册成功之后登陆。
+注册成功之后登陆，就可以连接了。。
 
 ### proton VPN
 
@@ -547,9 +547,9 @@ curl https://example.com --resolve example.com:443:你查到的ip
 
 如果显示连接已重置，域名sni被封锁。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDk5NjQyNTMsNDMzNDgxODUyLC03OT
-U1ODMwODEsLTE5NDMyMzg2OTQsLTk2MzAyNzk0MywtMTM2MDUy
-Njg3OCw2MjIwMDc5NjIsMTU1MjgxMjkxLC0xNDg3MDU4MDg5LD
-EwNTc1NzU0OSw0Njk0MDQ5NywxMDE2NTMzMTA1LC0xODg4MzUx
-OTEwLC02MzI5NTIyNTNdfQ==
+eyJoaXN0b3J5IjpbLTM0NDI0MTkxNiw0MzM0ODE4NTIsLTc5NT
+U4MzA4MSwtMTk0MzIzODY5NCwtOTYzMDI3OTQzLC0xMzYwNTI2
+ODc4LDYyMjAwNzk2MiwxNTUyODEyOTEsLTE0ODcwNTgwODksMT
+A1NzU3NTQ5LDQ2OTQwNDk3LDEwMTY1MzMxMDUsLTE4ODgzNTE5
+MTAsLTYzMjk1MjI1M119
 -->

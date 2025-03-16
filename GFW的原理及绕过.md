@@ -1,5 +1,6 @@
 # 网络安全入门
-
+本文适用于急需网络安全保护自己的同志。
+> 
 
 # 网络安全进阶
 > maoist2009
@@ -475,8 +476,8 @@ curl https://example.com --resolve example.com:443:你查到的ip
 
 如果显示连接已重置，域名sni被封锁。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2MzAyNzk0MywtMTM2MDUyNjg3OCw2Mj
-IwMDc5NjIsMTU1MjgxMjkxLC0xNDg3MDU4MDg5LDEwNTc1NzU0
-OSw0Njk0MDQ5NywxMDE2NTMzMTA1LC0xODg4MzUxOTEwLC02Mz
-I5NTIyNTNdfQ==
+eyJoaXN0b3J5IjpbLTEzMTU4MTE2NjgsLTk2MzAyNzk0MywtMT
+M2MDUyNjg3OCw2MjIwMDc5NjIsMTU1MjgxMjkxLC0xNDg3MDU4
+MDg5LDEwNTc1NzU0OSw0Njk0MDQ5NywxMDE2NTMzMTA1LC0xOD
+g4MzUxOTEwLC02MzI5NTIyNTNdfQ==
 -->

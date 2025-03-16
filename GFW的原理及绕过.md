@@ -40,7 +40,14 @@
 
 以下链接一个一个尝试下载：
 
++ https://github.yongyong.online/https://github.com/maoist2009/AndroifFrag/releases/download/0.-1/geph-android.apk
++ https://ghfast.top/https://github.com/maoist2009/AndroifFrag/releases/download/0.-1/geph-android.apk
++ https://gh-proxy.net/https://github.com/maoist2009/AndroifFrag/releases/download/0.-1/geph-android.apk
++ https://wget.la/https://github.com/maoist2009/AndroifFrag/releases/download/0.-1/geph-android.apk
++ https://github.boki.moe/https://github.com/maoist2009/AndroifFrag/releases/download/0.-1/geph-android.apk
++ https://gh.ddlc.top/https://github.com/maoist2009/AndroifFrag/releases/download/0.-1/geph-android.apk
 
+下载慢zh
 
 注意！！迷雾通和一些xmpp服务器不兼容！若使用迷雾通翻墙，注册时建议使用`conversations.im`服务器注册。
 
@@ -547,9 +554,9 @@ curl https://example.com --resolve example.com:443:你查到的ip
 
 如果显示连接已重置，域名sni被封锁。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0NDI0MTkxNiw0MzM0ODE4NTIsLTc5NT
-U4MzA4MSwtMTk0MzIzODY5NCwtOTYzMDI3OTQzLC0xMzYwNTI2
-ODc4LDYyMjAwNzk2MiwxNTUyODEyOTEsLTE0ODcwNTgwODksMT
-A1NzU3NTQ5LDQ2OTQwNDk3LDEwMTY1MzMxMDUsLTE4ODgzNTE5
-MTAsLTYzMjk1MjI1M119
+eyJoaXN0b3J5IjpbLTE1NDkyMTI2NDksLTM0NDI0MTkxNiw0Mz
+M0ODE4NTIsLTc5NTU4MzA4MSwtMTk0MzIzODY5NCwtOTYzMDI3
+OTQzLC0xMzYwNTI2ODc4LDYyMjAwNzk2MiwxNTUyODEyOTEsLT
+E0ODcwNTgwODksMTA1NzU3NTQ5LDQ2OTQwNDk3LDEwMTY1MzMx
+MDUsLTE4ODgzNTE5MTAsLTYzMjk1MjI1M119
 -->

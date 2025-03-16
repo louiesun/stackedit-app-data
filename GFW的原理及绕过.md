@@ -9,10 +9,12 @@
 
 中修的国家机器控制了邮差。所以邮差会根据收件人地址和收件人名称丢弃信件，实现封锁。为了解决这一问题。我们把一封信连着信封塞到另一封信里，发给代理（代理服务器）。
 
-> 单纯把
+单纯把一封信塞到另一封里特征过于明显，可能被中修发现并封锁。所以有一些技术手段来避免中修发现
 
 最终结果是：
-> 中修
+> 中修啥也不知道。
+> 代理服务器知道你访问的网站和你的ip。
+> 网站知道你访问的内容，发的信息，但不知道你的ip。
 
 ## 适用于Android的推荐代理软件
 
@@ -509,9 +511,9 @@ curl https://example.com --resolve example.com:443:你查到的ip
 
 如果显示连接已重置，域名sni被封锁。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDMzNDgxODUyLC03OTU1ODMwODEsLTE5ND
-MyMzg2OTQsLTk2MzAyNzk0MywtMTM2MDUyNjg3OCw2MjIwMDc5
-NjIsMTU1MjgxMjkxLC0xNDg3MDU4MDg5LDEwNTc1NzU0OSw0Nj
-k0MDQ5NywxMDE2NTMzMTA1LC0xODg4MzUxOTEwLC02MzI5NTIy
-NTNdfQ==
+eyJoaXN0b3J5IjpbLTEwNjMyOTA3MDAsNDMzNDgxODUyLC03OT
+U1ODMwODEsLTE5NDMyMzg2OTQsLTk2MzAyNzk0MywtMTM2MDUy
+Njg3OCw2MjIwMDc5NjIsMTU1MjgxMjkxLC0xNDg3MDU4MDg5LD
+EwNTc1NzU0OSw0Njk0MDQ5NywxMDE2NTMzMTA1LC0xODg4MzUx
+OTEwLC02MzI5NTIyNTNdfQ==
 -->

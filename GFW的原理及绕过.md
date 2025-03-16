@@ -47,7 +47,7 @@
 4. 设置密码，上下输入一样的，确认没有打错
 5. 让你输入recovery method（重置办法）,点skip
 6. human verifaction（人机验证），直接完成拼图即可。
-7. 后面应该很简单了。
+7. 等一会儿
 
 # 网络安全进阶
 > maoist2009
@@ -523,7 +523,7 @@ curl https://example.com --resolve example.com:443:你查到的ip
 
 如果显示连接已重置，域名sni被封锁。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxMjg4NDMxOCw0MzM0ODE4NTIsLTc5NT
+eyJoaXN0b3J5IjpbLTM1OTEyMDc1Miw0MzM0ODE4NTIsLTc5NT
 U4MzA4MSwtMTk0MzIzODY5NCwtOTYzMDI3OTQzLC0xMzYwNTI2
 ODc4LDYyMjAwNzk2MiwxNTUyODEyOTEsLTE0ODcwNTgwODksMT
 A1NzU3NTQ5LDQ2OTQwNDk3LDEwMTY1MzMxMDUsLTE4ODgzNTE5

@@ -359,7 +359,7 @@ Android机所谓建立虚拟连接就永是此类，又称全局VPN。
 
 流量路径就变成：“请Proton VPN转发：请回国VPN转发：请QQ发消息”。
 
-**这里注意**
+**链式代理的理解比较麻烦**
 
 ```mermaid
 graph LR
@@ -459,7 +459,7 @@ curl https://example.com --resolve example.com:443:你查到的ip
 
 如果显示连接已重置，域名sni被封锁。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0Njc0MTYwMyw2MjIwMDc5NjIsMTU1Mj
-gxMjkxLC0xNDg3MDU4MDg5LDEwNTc1NzU0OSw0Njk0MDQ5Nywx
-MDE2NTMzMTA1LC0xODg4MzUxOTEwLC02MzI5NTIyNTNdfQ==
+eyJoaXN0b3J5IjpbLTEzNjA1MjY4NzgsNjIyMDA3OTYyLDE1NT
+I4MTI5MSwtMTQ4NzA1ODA4OSwxMDU3NTc1NDksNDY5NDA0OTcs
+MTAxNjUzMzEwNSwtMTg4ODM1MTkxMCwtNjMyOTUyMjUzXX0=
 -->

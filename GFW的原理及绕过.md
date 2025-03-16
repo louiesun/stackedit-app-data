@@ -349,7 +349,7 @@ Android机所谓建立虚拟连接就永是此类，又称全局VPN。
 
 一般全局代理应用允许选择特定应用代理（如代理XMPP不代理微信）
 
-### 强行链式办法
+### 代理链与强行链式办法
 
 如果我们去墙内的宣传，为了不暴露ip，同时中修平台可能限制境外访问。
 
@@ -377,7 +377,13 @@ graph LR
 
 这里出现了一个概念，前置代理和后置代理。这是一个相对的概念，前后置概念看服务端顺序。比如说对于代理b，c是他的前置代理，b是后置。
 
-对于
+对于一条代理链，往往有一个代理占主要地位，这是可能不说相对于哪个代理，默认是相对于这个主要代理。比如说迷雾通作tor网桥时，迷雾通是前置。
+
+网上还有一个概念就正向反向代理。容易和前后置搞混。
+
+> 这其实是因为Forward可以翻译为正向或者前置。Forward Proxy正确应该翻译为正向代理。因为与之相对的Reverse Proxy只能翻译为反向。
+
+我们发现上面一切的代理，我们都知道服务器在哪里，k
 
 ## 网络身份与网络安全
 
@@ -463,8 +469,8 @@ curl https://example.com --resolve example.com:443:你查到的ip
 
 如果显示连接已重置，域名sni被封锁。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQyNTMwMzYwLC0xMzYwNTI2ODc4LDYyMj
-AwNzk2MiwxNTUyODEyOTEsLTE0ODcwNTgwODksMTA1NzU3NTQ5
-LDQ2OTQwNDk3LDEwMTY1MzMxMDUsLTE4ODgzNTE5MTAsLTYzMj
-k1MjI1M119
+eyJoaXN0b3J5IjpbLTE1NzkwMDUwMDYsLTEzNjA1MjY4NzgsNj
+IyMDA3OTYyLDE1NTI4MTI5MSwtMTQ4NzA1ODA4OSwxMDU3NTc1
+NDksNDY5NDA0OTcsMTAxNjUzMzEwNSwtMTg4ODM1MTkxMCwtNj
+MyOTUyMjUzXX0=
 -->

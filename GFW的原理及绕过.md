@@ -18,7 +18,11 @@
 
 还有一些技术手段减少泄漏的信息，但是这里不多讲。
 
-那么我们就需要搞一个代理了。
+## 祸从口出
+
+为了避免你
+
+接下来我们就需要搞一个代理了。
 
 ## 适用于Android的推荐代理软件
 
@@ -29,6 +33,8 @@
 
 
 注意！！迷雾通和一些xmpp服务器不兼容！若使用迷雾通翻墙，注册时建议使用`conversations.im`服务器注册。
+
+
 
 
 ### proton VPN
@@ -50,7 +56,9 @@
 7. 等一会儿
 8. Get started（开始）
 9. Not now（现在不购买plus）
-10.然后底下操作栏settings，protocol选
+10. 然后底下操作栏settings，protocol选Stealth.
+11. 回到主界面connect即可连接
+
 
 # 网络安全进阶
 > maoist2009
@@ -526,9 +534,9 @@ curl https://example.com --resolve example.com:443:你查到的ip
 
 如果显示连接已重置，域名sni被封锁。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyMTQyMzQ5Myw0MzM0ODE4NTIsLTc5NT
-U4MzA4MSwtMTk0MzIzODY5NCwtOTYzMDI3OTQzLC0xMzYwNTI2
-ODc4LDYyMjAwNzk2MiwxNTUyODEyOTEsLTE0ODcwNTgwODksMT
-A1NzU3NTQ5LDQ2OTQwNDk3LDEwMTY1MzMxMDUsLTE4ODgzNTE5
-MTAsLTYzMjk1MjI1M119
+eyJoaXN0b3J5IjpbLTE5MDU4NzQ0NTksNDMzNDgxODUyLC03OT
+U1ODMwODEsLTE5NDMyMzg2OTQsLTk2MzAyNzk0MywtMTM2MDUy
+Njg3OCw2MjIwMDc5NjIsMTU1MjgxMjkxLC0xNDg3MDU4MDg5LD
+EwNTc1NzU0OSw0Njk0MDQ5NywxMDE2NTMzMTA1LC0xODg4MzUx
+OTEwLC02MzI5NTIyNTNdfQ==
 -->

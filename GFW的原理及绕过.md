@@ -126,7 +126,7 @@ GFW，估计是目田起的，全称GreatFireWall，指的是中国的国际联�
 
 每台机器的mac号由网卡决定，每个网卡的默认mac号表示了厂商名，批次名和编号。每台设备默认mac号不一致，所以会被用来标识设备。当然，网卡提供操作修改自己mac号。
 
-> 网速由什么决定
+> **网速由什么决定**
 > 在没有中间人恶意操作时，网速一般由如下因素决定。
 > 1. 数据包经过的机器数量，因为数据包处理转发需要时间。
 > 2. 拥堵程度。数据包就像车子，光缆就像路，就那么几根车道，堵了只能排队等
@@ -218,8 +218,9 @@ GFW根据明文的sni进行封锁。封锁具体方法利用了TCP协议中的�
 > TLS出现后，既然域名像住户，相互独立，证书也相互独立。但是，TLS未建立，无HTTP包，自然无Host字段，于是TLS第一个握手包仅有了明友的sni字段。
 >这个Sni，也即GFW阻断HTTPS连接依靠的，有趣的是当HTTPS普及刚开始一段时间，GFW手足无措，但自从Mozilla发表了对sni泄露隐私的论文后不久，GFW便开始用sni识别连接。
 > 正因为一开始服务器使用Host区分域名，sni仅用于决策发哪一张TLS证书，因此不发sni连接（也可以发假的Sni，反正是一个服务器，不导致中间人窃听或者篡改），也能正常通信。此即域前置。所以服务器天然支持域前置，不过有部分CDN出于安全考虑或者迫于压力限制了域前置。
+> 
 
-> 关于DNS
+> **关于DNS**
 > 把域名转换为ip的工作就是DNS
 > 默认dns是通过53端口udp明文查询的，给了中间人（通常是gfw）劫持dns的机会。后来提出了DoT（Dns over TLS）和DoH（Dns over HTTPS）。这叫**DNS劫持**。
 > > 鬼故事，向任何境外ip发起udp dns查询被禁网站，都会得到回复。无论该ip是否提供dns服务。这就是gfw干的。
@@ -575,7 +576,7 @@ curl https://example.com --resolve example.com:443:你查到的ip
 
 如果显示连接已重置，域名sni被封锁。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxOTI1NjI2NiwxNjE0MTM4MTEyLDY3Nj
+eyJoaXN0b3J5IjpbLTk0NDgxNDgyNiwxNjE0MTM4MTEyLDY3Nj
 Q2NTM2OCw2NTAxNzE5MTAsLTM0NDI0MTkxNiw0MzM0ODE4NTIs
 LTc5NTU4MzA4MSwtMTk0MzIzODY5NCwtOTYzMDI3OTQzLC0xMz
 YwNTI2ODc4LDYyMjAwNzk2MiwxNTUyODEyOTEsLTE0ODcwNTgw

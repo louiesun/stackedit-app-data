@@ -202,6 +202,8 @@ GFW根据明文的sni进行封锁。封锁具体方法利用了TCP协议中的�
 > 解决办法是证书链。首先有一匹被“公共新人”的概证B机构，私计公校，验证下一级证书机构，其用私计公校驻证不级……直到网站，网站再私计公校特定内容（每次连接不一样），确认自己身份。
 > 导然根证书掌握在资产阶级手中，但对中国的革命者有一个好消息，尽管曾经中修有根证书，后因其行为不端被其余帝国吊销了，因此中修不大可能进行中间人攻击。
 
+这一层由应用控制。
+
 ### 应用层
 
 应用层，就是具体的信息内容了。为了区分同一服务器上的不同网站，一般有一个Host字段，记录了你访问的网站。
@@ -227,7 +229,7 @@ GFW根据明文的sni进行封锁。封锁具体方法利用了TCP协议中的�
 > 然而，一个很可怕的事情是dns一般为了迅速，往往就近，也就是由运营商提供默认dns，显然运营商不会提供被禁网站的正确ip，这叫**DNS污染**。
 > 这个默认DNS显然也会泄露你访问的网站域名。
 
-浏览器js可以控制域名和目标端口，IP直接访问视为特殊域名。浏览器js无法控制域名解析的ip，只能ip直连。
+浏览器js[^可以控制域名和目标端口，IP直接访问视为特殊的域名。浏览器js无法控制域名解析的ip，只能ip直连。
 
 ### 应用层之上
 
@@ -577,10 +579,10 @@ curl https://example.com --resolve example.com:443:你查到的ip
 
 如果显示连接已重置，域名sni被封锁。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjQ0ODcyNzQsMTYxNDEzODExMiw2Nz
-Y0NjUzNjgsNjUwMTcxOTEwLC0zNDQyNDE5MTYsNDMzNDgxODUy
-LC03OTU1ODMwODEsLTE5NDMyMzg2OTQsLTk2MzAyNzk0MywtMT
-M2MDUyNjg3OCw2MjIwMDc5NjIsMTU1MjgxMjkxLC0xNDg3MDU4
-MDg5LDEwNTc1NzU0OSw0Njk0MDQ5NywxMDE2NTMzMTA1LC0xOD
-g4MzUxOTEwLC02MzI5NTIyNTNdfQ==
+eyJoaXN0b3J5IjpbODQ1NTc1Mjg4LDE2MTQxMzgxMTIsNjc2ND
+Y1MzY4LDY1MDE3MTkxMCwtMzQ0MjQxOTE2LDQzMzQ4MTg1Miwt
+Nzk1NTgzMDgxLC0xOTQzMjM4Njk0LC05NjMwMjc5NDMsLTEzNj
+A1MjY4NzgsNjIyMDA3OTYyLDE1NTI4MTI5MSwtMTQ4NzA1ODA4
+OSwxMDU3NTc1NDksNDY5NDA0OTcsMTAxNjUzMzEwNSwtMTg4OD
+M1MTkxMCwtNjMyOTUyMjUzXX0=
 -->

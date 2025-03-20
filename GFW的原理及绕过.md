@@ -438,7 +438,7 @@ WebRTC被用于音视频同伙等，一般不经过代理，因此会导致IP泄
 
 一些代理软件可以监听指定端口，将此处收到数据进行一些操作，如转给远程代理服务器。
 
-如速雾通监听1009端口HTTP代理，1010端口SOCK5协议代理。TlsFragment认监所 2500端口HTTP。
+如迷雾通监听1009端口HTTP代理，1010端口SOCK5协议代理。TlsFragment默认监所2500端口HTTP。
 
 在浏览器中，有类似于Switch Proxy Omega这类代理☰件，大部分系统的也有此项设置
 
@@ -579,11 +579,11 @@ curl https://example.com --resolve example.com:443:你查到的ip
 
 如果显示连接已重置，域名sni被封锁。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1MTI4NTA4OSwtMTIxOTI2NzgxMiwtNT
-U3Njk3MTY4LDE2MTQxMzgxMTIsNjc2NDY1MzY4LDY1MDE3MTkx
-MCwtMzQ0MjQxOTE2LDQzMzQ4MTg1MiwtNzk1NTgzMDgxLC0xOT
-QzMjM4Njk0LC05NjMwMjc5NDMsLTEzNjA1MjY4NzgsNjIyMDA3
-OTYyLDE1NTI4MTI5MSwtMTQ4NzA1ODA4OSwxMDU3NTc1NDksND
-Y5NDA0OTcsMTAxNjUzMzEwNSwtMTg4ODM1MTkxMCwtNjMyOTUy
-MjUzXX0=
+eyJoaXN0b3J5IjpbLTEyNTUwNzU3NjksLTEyMTkyNjc4MTIsLT
+U1NzY5NzE2OCwxNjE0MTM4MTEyLDY3NjQ2NTM2OCw2NTAxNzE5
+MTAsLTM0NDI0MTkxNiw0MzM0ODE4NTIsLTc5NTU4MzA4MSwtMT
+k0MzIzODY5NCwtOTYzMDI3OTQzLC0xMzYwNTI2ODc4LDYyMjAw
+Nzk2MiwxNTUyODEyOTEsLTE0ODcwNTgwODksMTA1NzU3NTQ5LD
+Q2OTQwNDk3LDEwMTY1MzMxMDUsLTE4ODgzNTE5MTAsLTYzMjk1
+MjI1M119
 -->

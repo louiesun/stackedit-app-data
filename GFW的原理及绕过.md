@@ -227,9 +227,9 @@ GFW根据明文的sni进行封锁。封锁具体方法利用了TCP协议中的�
 > 然而，一个很可怕的事情是dns一般为了迅速，往往就近，也就是由运营商提供默认dns，显然运营商不会提供被禁网站的正确ip，这叫**DNS污染**。
 > 这个默认DNS显然也会泄露你访问的网站域名。
 
-浏览器js[^8]可以控制域名和目标端口，IP直接访问视为特殊的域名。浏览器js无法控制域名解析的ip，只能ip直连。
+浏览器js[^5]可以控制域名和目标端口，IP直接访问视为特殊的域名。浏览器js无法控制域名解析的ip，只能ip直连。
 
-[8]: 访问网站时运行的代码，用于控制网页的行为。为了安全，可以进行的操作有限，比应用能进行的操作还少。特别注意，浏览器扩展（包括借由扩展实现的油猴脚本）有更多权限，一般认为和应用同级。
+[^5]: 访问网站时运行的代码，用于控制网页的行为。为了安全，可以进行的操作有限，比应用能进行的操作还少。特别注意，浏览器扩展（包括借由扩展实现的油猴脚本）有更多权限，一般认为和应用同级。
 
 ### 应用层之上
 
@@ -579,11 +579,11 @@ curl https://example.com --resolve example.com:443:你查到的ip
 
 如果显示连接已重置，域名sni被封锁。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Mzg4ODY1MzIsLTEyMTkyNjc4MTIsLT
-U1NzY5NzE2OCwxNjE0MTM4MTEyLDY3NjQ2NTM2OCw2NTAxNzE5
-MTAsLTM0NDI0MTkxNiw0MzM0ODE4NTIsLTc5NTU4MzA4MSwtMT
-k0MzIzODY5NCwtOTYzMDI3OTQzLC0xMzYwNTI2ODc4LDYyMjAw
-Nzk2MiwxNTUyODEyOTEsLTE0ODcwNTgwODksMTA1NzU3NTQ5LD
-Q2OTQwNDk3LDEwMTY1MzMxMDUsLTE4ODgzNTE5MTAsLTYzMjk1
-MjI1M119
+eyJoaXN0b3J5IjpbODM1NjY5MjAsLTEyMTkyNjc4MTIsLTU1Nz
+Y5NzE2OCwxNjE0MTM4MTEyLDY3NjQ2NTM2OCw2NTAxNzE5MTAs
+LTM0NDI0MTkxNiw0MzM0ODE4NTIsLTc5NTU4MzA4MSwtMTk0Mz
+IzODY5NCwtOTYzMDI3OTQzLC0xMzYwNTI2ODc4LDYyMjAwNzk2
+MiwxNTUyODEyOTEsLTE0ODcwNTgwODksMTA1NzU3NTQ5LDQ2OT
+QwNDk3LDEwMTY1MzMxMDUsLTE4ODgzNTE5MTAsLTYzMjk1MjI1
+M119
 -->

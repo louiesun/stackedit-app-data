@@ -208,7 +208,7 @@ GFW根据明文的sni进行封锁。封锁具体方法利用了TCP协议中的�
 
 > 关于DNS
 > 把域名转换为ip的工作就是DNS
-> 默认dns是通过6
+> 默认dns是通过53端口udp明文查询的，给了中间人（通常是gfw）劫持dns的机会。后来提出了DoT（Dns Over TLS）和
 
 ### 应用层之上
 
@@ -558,7 +558,7 @@ curl https://example.com --resolve example.com:443:你查到的ip
 
 如果显示连接已重置，域名sni被封锁。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM2OTI3NzU0LDY1MDE3MTkxMCwtMzQ0Mj
+eyJoaXN0b3J5IjpbNzk1ODQyNjgzLDY1MDE3MTkxMCwtMzQ0Mj
 QxOTE2LDQzMzQ4MTg1MiwtNzk1NTgzMDgxLC0xOTQzMjM4Njk0
 LC05NjMwMjc5NDMsLTEzNjA1MjY4NzgsNjIyMDA3OTYyLDE1NT
 I4MTI5MSwtMTQ4NzA1ODA4OSwxMDU3NTc1NDksNDY5NDA0OTcs

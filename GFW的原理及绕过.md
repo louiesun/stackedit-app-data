@@ -216,6 +216,7 @@ GFW根据明文的sni进行封锁。封锁具体方法利用了TCP协议中的�
 > 关于DNS
 > 把域名转换为ip的工作就是DNS
 > 默认dns是通过53端口udp明文查询的，给了中间人（通常是gfw）劫持dns的机会。后来提出了DoT（Dns over TLS）和DoH（Dns over HTTPS）。
+> 
 > 然而，一个很可怕的事情是dns一般
 
 ### 应用层之上
@@ -566,10 +567,10 @@ curl https://example.com --resolve example.com:443:你查到的ip
 
 如果显示连接已重置，域名sni被封锁。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxNDEzODExMiw2NzY0NjUzNjgsNjUwMT
-cxOTEwLC0zNDQyNDE5MTYsNDMzNDgxODUyLC03OTU1ODMwODEs
-LTE5NDMyMzg2OTQsLTk2MzAyNzk0MywtMTM2MDUyNjg3OCw2Mj
-IwMDc5NjIsMTU1MjgxMjkxLC0xNDg3MDU4MDg5LDEwNTc1NzU0
-OSw0Njk0MDQ5NywxMDE2NTMzMTA1LC0xODg4MzUxOTEwLC02Mz
-I5NTIyNTNdfQ==
+eyJoaXN0b3J5IjpbLTk0MzY4NjcwOCwxNjE0MTM4MTEyLDY3Nj
+Q2NTM2OCw2NTAxNzE5MTAsLTM0NDI0MTkxNiw0MzM0ODE4NTIs
+LTc5NTU4MzA4MSwtMTk0MzIzODY5NCwtOTYzMDI3OTQzLC0xMz
+YwNTI2ODc4LDYyMjAwNzk2MiwxNTUyODEyOTEsLTE0ODcwNTgw
+ODksMTA1NzU3NTQ5LDQ2OTQwNDk3LDEwMTY1MzMxMDUsLTE4OD
+gzNTE5MTAsLTYzMjk1MjI1M119
 -->

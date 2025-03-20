@@ -375,9 +375,9 @@ GFW的计算机一般认为主要是并联[^7]。但IP封锁之类（非黑洞�
 
 > GFW有一些漏洞，比方说，想想你写收件人不是一行写完，而是一行一个字。因为GFW很忙就无法识别并TCP重置了。
 
-工具都开源，TLsFragment为我编写。
+工具都开源，TlsFragment为我编写。
 
-TlsFragment泄露的**信息同直连**，但可以辅助任意基于TCP+TLS的工具。
+[TlsFragment](https://github.com/maoist2009/TlsFragment)泄露的**信息同直连**，但可以辅助任意基于TCP+TLS的工具。
 
 Accesserr所利用的域前置不泄露sni，其他同直连，相比TlsFragment几乎支持全部网站，Accesser对CloudFlare 等CDN免费版的网站不支持。
 
@@ -579,11 +579,11 @@ curl https://example.com --resolve example.com:443:你查到的ip
 
 如果显示连接已重置，域名sni被封锁。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM1NjY5MjAsLTEyMTkyNjc4MTIsLTU1Nz
-Y5NzE2OCwxNjE0MTM4MTEyLDY3NjQ2NTM2OCw2NTAxNzE5MTAs
-LTM0NDI0MTkxNiw0MzM0ODE4NTIsLTc5NTU4MzA4MSwtMTk0Mz
-IzODY5NCwtOTYzMDI3OTQzLC0xMzYwNTI2ODc4LDYyMjAwNzk2
-MiwxNTUyODEyOTEsLTE0ODcwNTgwODksMTA1NzU3NTQ5LDQ2OT
-QwNDk3LDEwMTY1MzMxMDUsLTE4ODgzNTE5MTAsLTYzMjk1MjI1
-M119
+eyJoaXN0b3J5IjpbLTE5NDYzNzMzMzEsLTEyMTkyNjc4MTIsLT
+U1NzY5NzE2OCwxNjE0MTM4MTEyLDY3NjQ2NTM2OCw2NTAxNzE5
+MTAsLTM0NDI0MTkxNiw0MzM0ODE4NTIsLTc5NTU4MzA4MSwtMT
+k0MzIzODY5NCwtOTYzMDI3OTQzLC0xMzYwNTI2ODc4LDYyMjAw
+Nzk2MiwxNTUyODEyOTEsLTE0ODcwNTgwODksMTA1NzU3NTQ5LD
+Q2OTQwNDk3LDEwMTY1MzMxMDUsLTE4ODgzNTE5MTAsLTYzMjk1
+MjI1M119
 -->

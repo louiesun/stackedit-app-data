@@ -170,9 +170,7 @@ GFW，估计是目田起的，全称GreatFireWall，指的是中国的国际联�
 > TCP在通信前需要先建立连接，确保数据可靠、有序地传输。TCP连接前有握手有3步，早期TLS协议（下一部分）有4步，通讯前握手大大加大了延迟。
 > 为了解决这个问题，Google提出了quic协议，相当于把TCP，TLS组合起来优化。然而，由于资本主义下生产的无序性，大部分路由器只支持TCP和UDP协议，难以重新定义传输层协议，所以其使用UDP作为传输层，自己再来维护连接。
 
-> 由于UDP比TCP灵活，运营商（ISP，如电信移动联通）不好控制，数据包高峰期往往优先丢弃UD包或者只给所有UDP $10 \%$带宽[^5]。
-
-[]: 类比车道数量
+> 由于UDP比TCP灵活，运营商（ISP，如电信移动联通）不好控制，数据包高峰期往往优先丢弃UD包或者只给所有UDP $10 \%$带宽（类比车道数量）。
 
 ### 加密层
 
@@ -581,10 +579,10 @@ curl https://example.com --resolve example.com:443:你查到的ip
 
 如果显示连接已重置，域名sni被封锁。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxMzI0NTg1OCwtNTU3Njk3MTY4LDE2MT
-QxMzgxMTIsNjc2NDY1MzY4LDY1MDE3MTkxMCwtMzQ0MjQxOTE2
-LDQzMzQ4MTg1MiwtNzk1NTgzMDgxLC0xOTQzMjM4Njk0LC05Nj
-MwMjc5NDMsLTEzNjA1MjY4NzgsNjIyMDA3OTYyLDE1NTI4MTI5
-MSwtMTQ4NzA1ODA4OSwxMDU3NTc1NDksNDY5NDA0OTcsMTAxNj
-UzMzEwNSwtMTg4ODM1MTkxMCwtNjMyOTUyMjUzXX0=
+eyJoaXN0b3J5IjpbLTEyMTkyNjc4MTIsLTU1NzY5NzE2OCwxNj
+E0MTM4MTEyLDY3NjQ2NTM2OCw2NTAxNzE5MTAsLTM0NDI0MTkx
+Niw0MzM0ODE4NTIsLTc5NTU4MzA4MSwtMTk0MzIzODY5NCwtOT
+YzMDI3OTQzLC0xMzYwNTI2ODc4LDYyMjAwNzk2MiwxNTUyODEy
+OTEsLTE0ODcwNTgwODksMTA1NzU3NTQ5LDQ2OTQwNDk3LDEwMT
+Y1MzMxMDUsLTE4ODgzNTE5MTAsLTYzMjk1MjI1M119
 -->

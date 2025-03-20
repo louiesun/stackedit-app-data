@@ -199,6 +199,7 @@ GFW根据明文的sni进行封锁。封锁具体方法利用了TCP协议中的�
 > 想象只有非对称加密，并不能解决问题。你会发现对方能做的，中间人同样能做，你无法保证是对方。光靠教学的推演，解决不了物质世界的问题。
 > 解决办法是证书链。首先有一匹被“公共新人”的概证B机构，私计公校，验证下一级证书机构，其用私计公校驻证不级……直到网站，网站再私计公校特定内容（每次连接不一样），确认自己身份。
 > 导然根证书掌握在资产阶级手中，但对中国的革命者有一个好消息，尽管曾经中修有根证书，后因其行为不端被其余帝国吊销了，因此中修不大可能进行中间人攻击。
+> 最好使用TLS1.3（高版本应用都是T了，因为低版本TLS证书是明文传输的，可以被识别。
 
 这一层由应用控制。
 
@@ -258,7 +259,7 @@ GFW根据明文的sni进行封锁。封锁具体方法利用了TCP协议中的�
 特征并不局限于内容，甚至每个包的大小也是特征。
 
 > 有的朋友可能说：“既然TLS可以加密内容何不加密信件内容呢?”但要注意，往往转发的内容也是TLS加密的。这叫“TLS in TLS”。
-> 这里介绍一点，TLS握手包的大小是明显的，而加密基本不改变包大小，因此，“TLSinTLS”的前几个包大小规律明显，已被GFW识别。
+> 这里介绍一点，TLS握手包的大小是明显的，而加密基本不改变包大小，因此，“TLS in TLS”的前几个包大小规律明显，已被GFW识别。
 
 为了防止流量识别，就需要设计协议。这里的协议就同之前各层的协议一样，规定了交流方式。
 
@@ -440,7 +441,7 @@ WebRTC被用于音视频同伙等，一般不经过代理，因此会导致IP泄
 
 如迷雾通监听9009端口HTTP代理，9010端口SOCK5协议代理。TlsFragment默认监所2500端口HTTP。
 
-在浏览器中，有类似于Switch Proxy Omega这类代理☰件，大部分系统的也有此项设置。（如果使用基于webview浏览器，请确保系统webview版本够高以默认使用TLS1.3，因为低版本T
+在浏览器中，有类似于Switch Proxy Omega这类代理☰件，大部分系统的也有此项设置。（如果使用基于webview浏览器，请确保系统webview版本够高以默认使用TLS1.3）
 
 ### 虚拟网卡
 
@@ -579,11 +580,11 @@ curl https://example.com --resolve example.com:443:你查到的ip
 
 如果显示连接已重置，域名sni被封锁。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDYxNDM5NTE1LC0xMjE5MjY3ODEyLC01NT
-c2OTcxNjgsMTYxNDEzODExMiw2NzY0NjUzNjgsNjUwMTcxOTEw
-LC0zNDQyNDE5MTYsNDMzNDgxODUyLC03OTU1ODMwODEsLTE5ND
-MyMzg2OTQsLTk2MzAyNzk0MywtMTM2MDUyNjg3OCw2MjIwMDc5
-NjIsMTU1MjgxMjkxLC0xNDg3MDU4MDg5LDEwNTc1NzU0OSw0Nj
-k0MDQ5NywxMDE2NTMzMTA1LC0xODg4MzUxOTEwLC02MzI5NTIy
-NTNdfQ==
+eyJoaXN0b3J5IjpbLTE4NzkwODQxNzgsLTEyMTkyNjc4MTIsLT
+U1NzY5NzE2OCwxNjE0MTM4MTEyLDY3NjQ2NTM2OCw2NTAxNzE5
+MTAsLTM0NDI0MTkxNiw0MzM0ODE4NTIsLTc5NTU4MzA4MSwtMT
+k0MzIzODY5NCwtOTYzMDI3OTQzLC0xMzYwNTI2ODc4LDYyMjAw
+Nzk2MiwxNTUyODEyOTEsLTE0ODcwNTgwODksMTA1NzU3NTQ5LD
+Q2OTQwNDk3LDEwMTY1MzMxMDUsLTE4ODgzNTE5MTAsLTYzMjk1
+MjI1M119
 -->

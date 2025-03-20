@@ -390,7 +390,7 @@ ECH为sni加密技术，其他同直连，目前只有Cloudflare CDN免费版支
 
 ### Tor Browser
 
-Tor也就是洋葱网络，也是唯一的暗网。(其他都是诈骗或营销号瞎讲）。Tor Browser是一个Tor官方的自由浏览器，默认使用Tor网络。
+Tor也就是洋葱网络，也是唯一的暗网。(其他都是诈骗或营销号瞎讲）。[Tor Browser](https://www.torproject.org/)是一个Tor官方的自由浏览器，默认使用Tor网络。
 
 叫洋葱的原因很形象。访问一个正常网站需要3个Tor节点，过程是
 ```mermaid
@@ -415,7 +415,7 @@ graph LR
 
 同样的，代理有协议之分。如obfs4，meek，snowflake均已被识别，而Webtunnel无被识别记录。
 
-网桥获取可前往官网，或者发邮件件，也可用VPN达到和网桥同样的目的。
+网桥获取可前往[官网]，或者发邮件，也可用VPN达到和网桥同样的目的。
 
 由于tor的网桥一定意义上也是公开的，所以也会被针对封锁。
 
@@ -580,7 +580,7 @@ curl https://example.com --resolve example.com:443:你查到的ip
 
 如果显示连接已重置，域名sni被封锁。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjI3NjgwNjksLTEyMTkyNjc4MTIsLT
+eyJoaXN0b3J5IjpbLTE3MjkwMDE3MzEsLTEyMTkyNjc4MTIsLT
 U1NzY5NzE2OCwxNjE0MTM4MTEyLDY3NjQ2NTM2OCw2NTAxNzE5
 MTAsLTM0NDI0MTkxNiw0MzM0ODE4NTIsLTc5NTU4MzA4MSwtMT
 k0MzIzODY5NCwtOTYzMDI3OTQzLC0xMzYwNTI2ODc4LDYyMjAw

@@ -121,7 +121,9 @@ GFW，估计是目田起的，全称GreatFireWall，指的是中国的国际联�
 每台机器的mac号由网卡决定，每个网卡的默认mac号表示了厂商名，批次名和编号。每台设备默认mac号不一致，所以会被用来标识设备。当然，网卡提供操作修改自己mac号。
 
 > 网速由什么决定
-> 在没有中间人恶意操作
+> 在没有中间人恶意操作时，网速一般由两个因素决定。
+> 1. 数据包经过的机器数量，因为数据包处理转发需要时间。
+> 2. 拥堵程度。数据包就像
 
 ### 网络层
 
@@ -562,7 +564,7 @@ curl https://example.com --resolve example.com:443:你查到的ip
 
 如果显示连接已重置，域名sni被封锁。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzNjM2NjE3MCw2NTAxNzE5MTAsLTM0ND
+eyJoaXN0b3J5IjpbLTE4NTU5ODI4Niw2NTAxNzE5MTAsLTM0ND
 I0MTkxNiw0MzM0ODE4NTIsLTc5NTU4MzA4MSwtMTk0MzIzODY5
 NCwtOTYzMDI3OTQzLC0xMzYwNTI2ODc4LDYyMjAwNzk2MiwxNT
 UyODEyOTEsLTE0ODcwNTgwODksMTA1NzU3NTQ5LDQ2OTQwNDk3

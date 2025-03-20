@@ -87,7 +87,7 @@
 # 网络安全进阶
 
 
-本文适用于对网络安全感兴趣的同志
+本文适用于对网络安全感兴趣的同志。只求做一个导引。不实践中是学不好知识的。。
 
 ## 序言：审查机器
 GFW，估计是目田起的，全称GreatFireWall，指的是中国的国际联网审查机器，但也成约定俗成的名字了。
@@ -584,11 +584,11 @@ curl https://example.com --resolve example.com:443:你查到的ip
 
 如果显示连接已重置，域名sni被封锁。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2MzMyODc3NiwtMjcwMTg5OTE5LC0xMj
-E5MjY3ODEyLC01NTc2OTcxNjgsMTYxNDEzODExMiw2NzY0NjUz
-NjgsNjUwMTcxOTEwLC0zNDQyNDE5MTYsNDMzNDgxODUyLC03OT
-U1ODMwODEsLTE5NDMyMzg2OTQsLTk2MzAyNzk0MywtMTM2MDUy
-Njg3OCw2MjIwMDc5NjIsMTU1MjgxMjkxLC0xNDg3MDU4MDg5LD
-EwNTc1NzU0OSw0Njk0MDQ5NywxMDE2NTMzMTA1LC0xODg4MzUx
-OTEwXX0=
+eyJoaXN0b3J5IjpbODc0NjcyNzAwLDE3NjMzMjg3NzYsLTI3MD
+E4OTkxOSwtMTIxOTI2NzgxMiwtNTU3Njk3MTY4LDE2MTQxMzgx
+MTIsNjc2NDY1MzY4LDY1MDE3MTkxMCwtMzQ0MjQxOTE2LDQzMz
+Q4MTg1MiwtNzk1NTgzMDgxLC0xOTQzMjM4Njk0LC05NjMwMjc5
+NDMsLTEzNjA1MjY4NzgsNjIyMDA3OTYyLDE1NTI4MTI5MSwtMT
+Q4NzA1ODA4OSwxMDU3NTc1NDksNDY5NDA0OTcsMTAxNjUzMzEw
+NV19
 -->

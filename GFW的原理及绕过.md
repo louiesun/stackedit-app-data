@@ -453,7 +453,7 @@ Android机所谓建立虚拟连接就永是此类，又称全局VPN。
 
 相比于代理端口，虚拟网卡好处在于可以强制接收一切流量，而一些应用可能不提供使用代理功能，系统代理应用也可不遵守。
 
-也有坏处，代理端口可以轻易地链式连接。如端口9009（迷雾通）发给2500（TLSFragment）发给网卡连接互联网，尝试解决迷雾通代理域名的sni封锁（这是比喻，迷雾通没这个问题）。
+也有坏处，代理端口可以轻易地链式连接。如端口9009应用（迷雾通）发给2500（TLSFragment）发给网卡连接互联网，尝试解决迷雾通代理域名的sni封锁（这是比喻，迷雾通没这个问题）。
 
 一般只能有一个虚拟网卡。
 
@@ -496,7 +496,7 @@ graph LR
 > 
 > 我们发现上面一切的代理，我们都知道服务器在哪里，排开GFW甚至可以直连，代理是代我们访问服务器，这是正向代理。
 > 反向代理是代服务器和我们交流，正如我们使用正代隐藏我们的IP，反代隐藏服务器的IP。
-> **大部分同志接触不到反代**
+> **大部分同志接触不到反代**，不铺开
 
 ## 网络身份与网络安全
 
@@ -508,7 +508,7 @@ graph LR
 
 > Proton邮箱不设置密保邮箱无法接收各类网站注册的验证码。
 
-> 为何不能知道之前密码？因为一般现代服务器储存哈希，而不储存原密码，哈希计算在客户端进行。
+> 为何不能知道之前密码？因为一般现代服务器储存哈希，而不储存原密码，哈希计算在客户端进行。CDN属于一类反代。
 
 ### 手机号
 
@@ -582,7 +582,7 @@ curl https://example.com --resolve example.com:443:你查到的ip
 
 如果显示连接已重置，域名sni被封锁。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5MjUxODc5MiwtMTIxOTI2NzgxMiwtNT
+eyJoaXN0b3J5IjpbLTI3MDE4OTkxOSwtMTIxOTI2NzgxMiwtNT
 U3Njk3MTY4LDE2MTQxMzgxMTIsNjc2NDY1MzY4LDY1MDE3MTkx
 MCwtMzQ0MjQxOTE2LDQzMzQ4MTg1MiwtNzk1NTgzMDgxLC0xOT
 QzMjM4Njk0LC05NjMwMjc5NDMsLTEzNjA1MjY4NzgsNjIyMDA3

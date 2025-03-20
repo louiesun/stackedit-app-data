@@ -165,6 +165,7 @@ GFW，估计是目田起的，全称GreatFireWall，指的是中国的国际联�
 > 为了解决这个问题，Google提出了quic协议，相当于把TCP，TLS组合起来优化。然而，由于资本主义下生产的无序性，大部分路由器只支持TCP和UDP协议，难以重新定义传输层协议，所以其使用UDP作为传输层，自己再来维护连接。
 
 > 由于UDP比TCP灵活，运营商（ISP，如电信移动联通）不好控制，数据包高峰期往往优先丢弃UD包或者只给所有UDP $10 \%$带宽[^4]。
+
 [4]: 类比车道数量
 
 ### 加密层
@@ -181,8 +182,7 @@ GFW根据明文的sni进行封锁。封锁具体方法利用了TCP协议中的�
 > 为了确保信息的私密或完整传递，人们提出了一些算法，
 > 加密分为两大类，加密与哈希。加密的目的是防止信息被第三方偷窥获取，哈希则是防止信息被篡改，或者确认发件人。加密较好理解，下面讲讲哈希。
 > 如果我们想判断两个人是否是一个，但见不到完整的人，怎么办？比较常见的方法有指纹，每个人指纹都不相同。如果人少，甚至可以用生日判断。通常认为，若哈希后信息有$n$种中，则大概能容纳后$\sqrt n$种原信息以保证没有两者有相同哈希值。
-
-这被称为生日悖论，即23个人中有很大概率生日相同。
+> 这被称为生日悖论，即23个人中有很大概率生日相同。
 
 > **对称与非对称**
 > 假如AB之间要加密通信，必然有一个密钥密钥加密，然后B用密钥解密，反之亦然。
@@ -566,7 +566,7 @@ curl https://example.com --resolve example.com:443:你查到的ip
 
 如果显示连接已重置，域名sni被封锁。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0NjcwNTkyMiw2NzY0NjUzNjgsNjUwMT
+eyJoaXN0b3J5IjpbMTYxNDEzODExMiw2NzY0NjUzNjgsNjUwMT
 cxOTEwLC0zNDQyNDE5MTYsNDMzNDgxODUyLC03OTU1ODMwODEs
 LTE5NDMyMzg2OTQsLTk2MzAyNzk0MywtMTM2MDUyNjg3OCw2Mj
 IwMDc5NjIsMTU1MjgxMjkxLC0xNDg3MDU4MDg5LDEwNTc1NzU0

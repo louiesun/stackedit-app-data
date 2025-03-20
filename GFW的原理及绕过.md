@@ -407,9 +407,9 @@ graph LR
 
 访问时，客户端先进行服务端的公钥TLS加密，再用C的公钥加密，再B再A。
 
-发送时各级解密转发后才完成访问，犹如剥洋葱。(如果服务端也为暗网，过位为6个中级节点，不铺开)
+发送时各级解密转发后才完成访问，犹如剥洋葱。(如果服务端也为暗网，过位为6个中继节点，不铺开)
 
-这个过程中，A知道你的IP，C知道你访问的sni，服务器知道你访问的内容。但没人同时知道你的IP和访问了什么。只有同时控制ABC才能破解。但这不大可能。（Tor大概有700个用爱发电的节点，要控制100多个）
+这个过程中，A知道你的IP，C知道你访问的sni，服务器知道你访问的内容。但没人同时知道你的IP和访问了什么。只有同时控制ABC才能破解。但这不大可能。（Tor大概有700个用爱发电的节点，要控制$\frac{1}{3}才能大概率完全解密信息）
 
 当然，这并不意味着你完全安全。如果服务端有问题，如是钓鱼网站，你电脑安全没做好，也有风险。
 
@@ -584,11 +584,11 @@ curl https://example.com --resolve example.com:443:你查到的ip
 
 如果显示连接已重置，域名sni被封锁。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU0MzMwMjM2LC0yNzAxODk5MTksLTEyMT
-kyNjc4MTIsLTU1NzY5NzE2OCwxNjE0MTM4MTEyLDY3NjQ2NTM2
-OCw2NTAxNzE5MTAsLTM0NDI0MTkxNiw0MzM0ODE4NTIsLTc5NT
-U4MzA4MSwtMTk0MzIzODY5NCwtOTYzMDI3OTQzLC0xMzYwNTI2
-ODc4LDYyMjAwNzk2MiwxNTUyODEyOTEsLTE0ODcwNTgwODksMT
-A1NzU3NTQ5LDQ2OTQwNDk3LDEwMTY1MzMxMDUsLTE4ODgzNTE5
-MTBdfQ==
+eyJoaXN0b3J5IjpbLTE1NjgxNjEzOTgsLTI3MDE4OTkxOSwtMT
+IxOTI2NzgxMiwtNTU3Njk3MTY4LDE2MTQxMzgxMTIsNjc2NDY1
+MzY4LDY1MDE3MTkxMCwtMzQ0MjQxOTE2LDQzMzQ4MTg1MiwtNz
+k1NTgzMDgxLC0xOTQzMjM4Njk0LC05NjMwMjc5NDMsLTEzNjA1
+MjY4NzgsNjIyMDA3OTYyLDE1NTI4MTI5MSwtMTQ4NzA1ODA4OS
+wxMDU3NTc1NDksNDY5NDA0OTcsMTAxNjUzMzEwNSwtMTg4ODM1
+MTkxMF19
 -->

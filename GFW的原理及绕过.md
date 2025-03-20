@@ -1,3 +1,7 @@
+> maoist2009
+
+[toc]
+
 # 网络安全入门
 本文适用于急需网络安全保护自己的同志。力求简介快速，对原因原理的解释难以详尽。
 
@@ -81,11 +85,9 @@
 
 
 # 网络安全进阶
-> maoist2009
+
 
 本文适用于对网络安全感兴趣的同志
-
-[toc]
 
 ## 序言：审查机器
 GFW，估计是目田起的，全称GreatFireWall，指的是中国的国际联网审查机器，但也成约定俗成的名字了。
@@ -239,7 +241,7 @@ GFW根据明文的sni进行封锁。封锁具体方法利用了TCP协议中的�
 请转发给B
 原内容
 ```
-#### 困难一：流量识别.
+#### 困难一：流量识别
 
 显然，反动政府会想尽一切办法阻止我们绕过审查。然而，其不敢破坏正常流量的通行，因此，其会尝试寻找翻墙流量的特征。
 
@@ -300,7 +302,7 @@ GFW有省墙和出口墙，有各自的封锁策略和任务，一般认为电�
 GFW的计算机一般认为主要是并联[^5]。但IP封锁之类（非黑洞，主要是恶意丢包）似乎只能用串联解释。
 [^5]: 初中物理知识，或可见青年自学丛书。你可以想象串联是在水管上直接建立大坝检查，并联是只有一部分水接受检查，其他直接流出。注意我们检查的是有没有水（对应计算机中0和1），所以并联仍然可以得到完整数据。
 
-### 井GFW策略
+### GFW策略
 
 很有意思，被识别的翻墙有的时候不被立即封锁，而是秋后喝茶。
 
@@ -569,10 +571,10 @@ curl https://example.com --resolve example.com:443:你查到的ip
 
 如果显示连接已重置，域名sni被封锁。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0NTYyNDAzMywxNjE0MTM4MTEyLDY3Nj
-Q2NTM2OCw2NTAxNzE5MTAsLTM0NDI0MTkxNiw0MzM0ODE4NTIs
-LTc5NTU4MzA4MSwtMTk0MzIzODY5NCwtOTYzMDI3OTQzLC0xMz
-YwNTI2ODc4LDYyMjAwNzk2MiwxNTUyODEyOTEsLTE0ODcwNTgw
-ODksMTA1NzU3NTQ5LDQ2OTQwNDk3LDEwMTY1MzMxMDUsLTE4OD
-gzNTE5MTAsLTYzMjk1MjI1M119
+eyJoaXN0b3J5IjpbLTE1MDQyODUwMzgsMTYxNDEzODExMiw2Nz
+Y0NjUzNjgsNjUwMTcxOTEwLC0zNDQyNDE5MTYsNDMzNDgxODUy
+LC03OTU1ODMwODEsLTE5NDMyMzg2OTQsLTk2MzAyNzk0MywtMT
+M2MDUyNjg3OCw2MjIwMDc5NjIsMTU1MjgxMjkxLC0xNDg3MDU4
+MDg5LDEwNTc1NzU0OSw0Njk0MDQ5NywxMDE2NTMzMTA1LC0xOD
+g4MzUxOTEwLC02MzI5NTIyNTNdfQ==
 -->

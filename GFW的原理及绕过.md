@@ -384,7 +384,9 @@ GFW的计算机一般认为主要是并联[^7]。但IP封锁之类（非黑洞�
 
 [Accesserr](https://github.com/URenko/Accesser)所利用的域前置不泄露sni，其他同直连，相比TlsFragment几乎支持全部网站，Accesser对CloudFlare等CDN免费版的网站不支持。
 
-ECH为sni加密技术，其他同直连，目前只有Cloudflare CDN免费版支持。
+ECH为sni加密技术，其他同直连，目前只有Cloudflare CDN[^6]免费版支持。
+
+[^6]: 內容分发网络（英语：Content Delivery Network或Content Distribution Network，缩写：CDN）是指一种透过互联网互相连接的电脑网络系统，利用最靠近每位用户的服务器，更快、更可靠地将音乐、图片、影片、应用程序及其他文件发送给用户，来提供高性能、可扩展性及低成本的网络内容传递给用户。
 
 本人不建议直连，但此类工具或许能帮你下到VPN软件…
 
@@ -582,11 +584,11 @@ curl https://example.com --resolve example.com:443:你查到的ip
 
 如果显示连接已重置，域名sni被封锁。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3MDE4OTkxOSwtMTIxOTI2NzgxMiwtNT
-U3Njk3MTY4LDE2MTQxMzgxMTIsNjc2NDY1MzY4LDY1MDE3MTkx
-MCwtMzQ0MjQxOTE2LDQzMzQ4MTg1MiwtNzk1NTgzMDgxLC0xOT
-QzMjM4Njk0LC05NjMwMjc5NDMsLTEzNjA1MjY4NzgsNjIyMDA3
-OTYyLDE1NTI4MTI5MSwtMTQ4NzA1ODA4OSwxMDU3NTc1NDksND
-Y5NDA0OTcsMTAxNjUzMzEwNSwtMTg4ODM1MTkxMCwtNjMyOTUy
-MjUzXX0=
+eyJoaXN0b3J5IjpbMTgyNDQxNDUwMSwtMjcwMTg5OTE5LC0xMj
+E5MjY3ODEyLC01NTc2OTcxNjgsMTYxNDEzODExMiw2NzY0NjUz
+NjgsNjUwMTcxOTEwLC0zNDQyNDE5MTYsNDMzNDgxODUyLC03OT
+U1ODMwODEsLTE5NDMyMzg2OTQsLTk2MzAyNzk0MywtMTM2MDUy
+Njg3OCw2MjIwMDc5NjIsMTU1MjgxMjkxLC0xNDg3MDU4MDg5LD
+EwNTc1NzU0OSw0Njk0MDQ5NywxMDE2NTMzMTA1LC0xODg4MzUx
+OTEwXX0=
 -->

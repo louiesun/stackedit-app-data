@@ -337,7 +337,9 @@ GFW的计算机一般认为主要是并联[^7]。但IP封锁之类（非黑洞�
 
 ## 常见翻墙软件介绍。
 
-具体界面操作此处略去
+具体界面操作此处略去。
+
+我给的官网都要翻墙。。。入门篇有写如何先翻出去。
 
 ### V2Ray， Singbox.
 
@@ -415,7 +417,7 @@ graph LR
 
 同样的，代理有协议之分。如obfs4，meek，snowflake均已被识别，而Webtunnel无被识别记录。
 
-网桥获取可前往[官网]，或者发邮件，也可用VPN达到和网桥同样的目的。
+网桥获取可前往[官网](https://bridges.torproject.org/)，或者发邮件，也可用VPN达到和网桥同样的目的。
 
 由于tor的网桥一定意义上也是公开的，所以也会被针对封锁。
 
@@ -451,7 +453,7 @@ Android机所谓建立虚拟连接就永是此类，又称全局VPN。
 
 相比于代理端口，虚拟网卡好处在于可以强制接收一切流量，而一些应用可能不提供使用代理功能，系统代理应用也可不遵守。
 
-也有坏处，代理端口可以轻易地链式连接。如应用1009（迷雾通）发给2500（TLSFragment）发给网卡连接互联网，尝试解决迷雾通代理域名的sni封锁（这是比喻，迷雾通没这个问题）。
+也有坏处，代理端口可以轻易地链式连接。如端口9009（迷雾通）发给2500（TLSFragment）发给网卡连接互联网，尝试解决迷雾通代理域名的sni封锁（这是比喻，迷雾通没这个问题）。
 
 一般只能有一个虚拟网卡。
 
@@ -580,11 +582,11 @@ curl https://example.com --resolve example.com:443:你查到的ip
 
 如果显示连接已重置，域名sni被封锁。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjkwMDE3MzEsLTEyMTkyNjc4MTIsLT
-U1NzY5NzE2OCwxNjE0MTM4MTEyLDY3NjQ2NTM2OCw2NTAxNzE5
-MTAsLTM0NDI0MTkxNiw0MzM0ODE4NTIsLTc5NTU4MzA4MSwtMT
-k0MzIzODY5NCwtOTYzMDI3OTQzLC0xMzYwNTI2ODc4LDYyMjAw
-Nzk2MiwxNTUyODEyOTEsLTE0ODcwNTgwODksMTA1NzU3NTQ5LD
-Q2OTQwNDk3LDEwMTY1MzMxMDUsLTE4ODgzNTE5MTAsLTYzMjk1
-MjI1M119
+eyJoaXN0b3J5IjpbMTM5MjUxODc5MiwtMTIxOTI2NzgxMiwtNT
+U3Njk3MTY4LDE2MTQxMzgxMTIsNjc2NDY1MzY4LDY1MDE3MTkx
+MCwtMzQ0MjQxOTE2LDQzMzQ4MTg1MiwtNzk1NTgzMDgxLC0xOT
+QzMjM4Njk0LC05NjMwMjc5NDMsLTEzNjA1MjY4NzgsNjIyMDA3
+OTYyLDE1NTI4MTI5MSwtMTQ4NzA1ODA4OSwxMDU3NTc1NDksND
+Y5NDA0OTcsMTAxNjUzMzEwNSwtMTg4ODM1MTkxMCwtNjMyOTUy
+MjUzXX0=
 -->

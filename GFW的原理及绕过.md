@@ -165,7 +165,7 @@ GFW，估计是目田起的，全称GreatFireWall，指的是中国的国际联�
 > 为了解决这个问题，Google提出了quic协议，相当于把TCP，TLS组合起来优化。然而，由于资本主义下生产的无序性，大部分路由器只支持TCP和UDP协议，难以重新定义传输层协议，所以其使用UDP作为传输层，自己再来维护连接。
 
 > 由于UDP比TCP灵活，运营商（ISP，如电信移动联通）不好控制，数据包高峰期往往优先丢弃UD包或者只给所有UDP $10 \%$带宽[^4]。
-[4
+[4]: 类比车道数量
 
 ### 加密层
 
@@ -566,10 +566,10 @@ curl https://example.com --resolve example.com:443:你查到的ip
 
 如果显示连接已重置，域名sni被封锁。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc4NjI5NDgyLDY3NjQ2NTM2OCw2NTAxNz
-E5MTAsLTM0NDI0MTkxNiw0MzM0ODE4NTIsLTc5NTU4MzA4MSwt
-MTk0MzIzODY5NCwtOTYzMDI3OTQzLC0xMzYwNTI2ODc4LDYyMj
-AwNzk2MiwxNTUyODEyOTEsLTE0ODcwNTgwODksMTA1NzU3NTQ5
-LDQ2OTQwNDk3LDEwMTY1MzMxMDUsLTE4ODgzNTE5MTAsLTYzMj
-k1MjI1M119
+eyJoaXN0b3J5IjpbMTc0NjcwNTkyMiw2NzY0NjUzNjgsNjUwMT
+cxOTEwLC0zNDQyNDE5MTYsNDMzNDgxODUyLC03OTU1ODMwODEs
+LTE5NDMyMzg2OTQsLTk2MzAyNzk0MywtMTM2MDUyNjg3OCw2Mj
+IwMDc5NjIsMTU1MjgxMjkxLC0xNDg3MDU4MDg5LDEwNTc1NzU0
+OSw0Njk0MDQ5NywxMDE2NTMzMTA1LC0xODg4MzUxOTEwLC02Mz
+I5NTIyNTNdfQ==
 -->

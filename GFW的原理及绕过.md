@@ -120,6 +120,9 @@ GFW，估计是目田起的，全称GreatFireWall，指的是中国的国际联�
 
 每台机器的mac号由网卡决定，每个网卡的默认mac号表示了厂商名，批次名和编号。每台设备默认mac号不一致，所以会被用来标识设备。当然，网卡提供操作修改自己mac号。
 
+> 网速由什么决定
+> 在没有中间人恶意操作
+
 ### 网络层
 
 这一层定义了一个互联的网络最大的ip网络就是全球互联网（公网），因为网络中参与者太多，很多时候这些人在一个小ip网络（局域网）中，共用一个上一级ip网络身份，甚至局域网也可以嵌套。
@@ -208,7 +211,8 @@ GFW根据明文的sni进行封锁。封锁具体方法利用了TCP协议中的�
 
 > 关于DNS
 > 把域名转换为ip的工作就是DNS
-> 默认dns是通过53端口udp明文查询的，给了中间人（通常是gfw）劫持dns的机会。后来提出了DoT（Dns Over TLS）和
+> 默认dns是通过53端口udp明文查询的，给了中间人（通常是gfw）劫持dns的机会。后来提出了DoT（Dns over TLS）和DoH（Dns over HTTPS）。
+> 然而，一个很可怕的事情是dns一般
 
 ### 应用层之上
 
@@ -558,9 +562,9 @@ curl https://example.com --resolve example.com:443:你查到的ip
 
 如果显示连接已重置，域名sni被封锁。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk1ODQyNjgzLDY1MDE3MTkxMCwtMzQ0Mj
-QxOTE2LDQzMzQ4MTg1MiwtNzk1NTgzMDgxLC0xOTQzMjM4Njk0
-LC05NjMwMjc5NDMsLTEzNjA1MjY4NzgsNjIyMDA3OTYyLDE1NT
-I4MTI5MSwtMTQ4NzA1ODA4OSwxMDU3NTc1NDksNDY5NDA0OTcs
-MTAxNjUzMzEwNSwtMTg4ODM1MTkxMCwtNjMyOTUyMjUzXX0=
+eyJoaXN0b3J5IjpbMTgzNjM2NjE3MCw2NTAxNzE5MTAsLTM0ND
+I0MTkxNiw0MzM0ODE4NTIsLTc5NTU4MzA4MSwtMTk0MzIzODY5
+NCwtOTYzMDI3OTQzLC0xMzYwNTI2ODc4LDYyMjAwNzk2MiwxNT
+UyODEyOTEsLTE0ODcwNTgwODksMTA1NzU3NTQ5LDQ2OTQwNDk3
+LDEwMTY1MzMxMDUsLTE4ODgzNTE5MTAsLTYzMjk1MjI1M119
 -->

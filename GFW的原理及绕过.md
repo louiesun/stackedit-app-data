@@ -218,7 +218,6 @@ GFW根据明文的sni进行封锁。封锁具体方法利用了TCP协议中的�
 > TLS出现后，既然域名像住户，相互独立，证书也相互独立。但是，TLS未建立，无HTTP包，自然无Host字段，于是TLS第一个握手包仅有了明友的sni字段。
 >这个Sni，也即GFW阻断HTTPS连接依靠的，有趣的是当HTTPS普及刚开始一段时间，GFW手足无措，但自从Mozilla发表了对sni泄露隐私的论文后不久，GFW便开始用sni识别连接。
 > 正因为一开始服务器使用Host区分域名，sni仅用于决策发哪一张TLS证书，因此不发sni连接（也可以发假的Sni，反正是一个服务器，不导致中间人窃听或者篡改），也能正常通信。此即域前置。所以服务器天然支持域前置，不过有部分CDN出于安全考虑或者迫于压力限制了域前置。
-> 
 
 > **关于DNS**
 > 把域名转换为ip的工作就是DNS
@@ -227,6 +226,8 @@ GFW根据明文的sni进行封锁。封锁具体方法利用了TCP协议中的�
 > 
 > 然而，一个很可怕的事情是dns一般为了迅速，往往就近，也就是由运营商提供默认dns，显然运营商不会提供被禁网站的正确ip，这叫**DNS污染**。
 > 这个默认DNS显然也会泄露你访问的网站域名。
+
+浏览器js可以控制域名和目标端口，IP直接访问视为特殊域名。浏览器js无法控制
 
 ### 应用层之上
 
@@ -576,7 +577,7 @@ curl https://example.com --resolve example.com:443:你查到的ip
 
 如果显示连接已重置，域名sni被封锁。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0NDgxNDgyNiwxNjE0MTM4MTEyLDY3Nj
+eyJoaXN0b3J5IjpbLTk5NzI2NzMxNCwxNjE0MTM4MTEyLDY3Nj
 Q2NTM2OCw2NTAxNzE5MTAsLTM0NDI0MTkxNiw0MzM0ODE4NTIs
 LTc5NTU4MzA4MSwtMTk0MzIzODY5NCwtOTYzMDI3OTQzLC0xMz
 YwNTI2ODc4LDYyMjAwNzk2MiwxNTUyODEyOTEsLTE0ODcwNTgw

@@ -199,7 +199,7 @@ GFW根据明文的sni进行封锁。封锁具体方法利用了TCP协议中的�
 > 想象只有非对称加密，并不能解决问题。你会发现对方能做的，中间人同样能做，你无法保证是对方。光靠教学的推演，解决不了物质世界的问题。
 > 解决办法是证书链。首先有一匹被“公共新人”的概证B机构，私计公校，验证下一级证书机构，其用私计公校驻证不级……直到网站，网站再私计公校特定内容（每次连接不一样），确认自己身份。
 > 导然根证书掌握在资产阶级手中，但对中国的革命者有一个好消息，尽管曾经中修有根证书，后因其行为不端被其余帝国吊销了，因此中修不大可能进行中间人攻击。
-> 最好使用TLS1.3（高版本应用都是T了，因为低版本TLS证书是明文传输的，可以被识别。
+> 最好使用TLS1.3（大部分应用都是TLS1.3，但是老版本不是），因为低版本TLS证书是明文传输的，可以被识别。（Google证书被gfw针对过）
 
 这一层由应用控制。
 
@@ -580,7 +580,7 @@ curl https://example.com --resolve example.com:443:你查到的ip
 
 如果显示连接已重置，域名sni被封锁。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzkwODQxNzgsLTEyMTkyNjc4MTIsLT
+eyJoaXN0b3J5IjpbLTIwNjI3NjgwNjksLTEyMTkyNjc4MTIsLT
 U1NzY5NzE2OCwxNjE0MTM4MTEyLDY3NjQ2NTM2OCw2NTAxNzE5
 MTAsLTM0NDI0MTkxNiw0MzM0ODE4NTIsLTc5NTU4MzA4MSwtMT
 k0MzIzODY5NCwtOTYzMDI3OTQzLC0xMzYwNTI2ODc4LDYyMjAw

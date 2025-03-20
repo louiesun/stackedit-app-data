@@ -206,6 +206,10 @@ GFW根据明文的sni进行封锁。封锁具体方法利用了TCP协议中的�
 >这个Sni，也即GFW阻断HTTPS连接依靠的，有趣的是当HTTPS普及刚开始一段时间，GFW手足无措，但自从Mozilla发表了对sni泄露隐私的论文后不久，GFW便开始用sni识别连接。
 > 正因为一开始服务器使用Host区分域名，sni仅用于决策发哪一张TLS证书，因此不发sni连接（也可以发假的Sni，反正是一个服务器，不导致中间人窃听或者篡改），也能正常通信。此即域前置。所以服务器天然支持域前置，不过有部分CDN出于安全考虑或者迫于压力限制了域前置。
 
+> 关于DNS
+> 把域名转换为ip的工作就是DNS
+> 默认dns是通过6
+
 ### 应用层之上
 
 应用层之上，基本和网络没什么事情了。再就是具体网站的行为了。
@@ -554,9 +558,9 @@ curl https://example.com --resolve example.com:443:你查到的ip
 
 如果显示连接已重置，域名sni被封锁。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjUwMTcxOTEwLC0zNDQyNDE5MTYsNDMzND
-gxODUyLC03OTU1ODMwODEsLTE5NDMyMzg2OTQsLTk2MzAyNzk0
-MywtMTM2MDUyNjg3OCw2MjIwMDc5NjIsMTU1MjgxMjkxLC0xND
-g3MDU4MDg5LDEwNTc1NzU0OSw0Njk0MDQ5NywxMDE2NTMzMTA1
-LC0xODg4MzUxOTEwLC02MzI5NTIyNTNdfQ==
+eyJoaXN0b3J5IjpbODM2OTI3NzU0LDY1MDE3MTkxMCwtMzQ0Mj
+QxOTE2LDQzMzQ4MTg1MiwtNzk1NTgzMDgxLC0xOTQzMjM4Njk0
+LC05NjMwMjc5NDMsLTEzNjA1MjY4NzgsNjIyMDA3OTYyLDE1NT
+I4MTI5MSwtMTQ4NzA1ODA4OSwxMDU3NTc1NDksNDY5NDA0OTcs
+MTAxNjUzMzEwNSwtMTg4ODM1MTkxMCwtNjMyOTUyMjUzXX0=
 -->

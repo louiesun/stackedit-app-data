@@ -230,7 +230,8 @@ GFW根据明文的sni进行封锁。封锁具体方法利用了TCP协议中的�
 > 这个默认DNS显然也会泄露你访问的网站域名。
 
 浏览器js[^5]可以控制域名和目标端口，IP直接访问视为特殊的域名。浏览器js无法控制域名解析的ip，只能ip直连。
-[5]: 访问网站时运行的代码，用于控制网页的行为。为了安全，可以进行的操作有限，比应用能进行的操作还少。特别注意，浏览器扩展（包括
+
+[5]: 访问网站时运行的代码，用于控制网页的行为。为了安全，可以进行的操作有限，比应用能进行的操作还少。特别注意，浏览器扩展（包括借由扩展实现的油猴脚本）有更多权限，一般认为和应用同级。
 
 ### 应用层之上
 
@@ -580,7 +581,7 @@ curl https://example.com --resolve example.com:443:你查到的ip
 
 如果显示连接已重置，域名sni被封锁。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1MzYzODkyMCwtNTU3Njk3MTY4LDE2MT
+eyJoaXN0b3J5IjpbLTgwNjAzNjI5OSwtNTU3Njk3MTY4LDE2MT
 QxMzgxMTIsNjc2NDY1MzY4LDY1MDE3MTkxMCwtMzQ0MjQxOTE2
 LDQzMzQ4MTg1MiwtNzk1NTgzMDgxLC0xOTQzMjM4Njk0LC05Nj
 MwMjc5NDMsLTEzNjA1MjY4NzgsNjIyMDA3OTYyLDE1NTI4MTI5

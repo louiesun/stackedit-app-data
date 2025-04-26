@@ -1,9 +1,9 @@
 中平平，中平中仄平平平。平平平，中平中仄，仄仄平平。
 仄平平仄平平平，中平中仄平平平。平平平，中平中仄，仄仄平平。
 
-白菊花，染红落盖邋遢
+白菊花，染红落盖邋遢渣。邋遢渣，
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDgyNDkyODM5LC0yMDg4NzQ2NjEyLDE2NT
+eyJoaXN0b3J5IjpbOTUwOTgzMTEyLC0yMDg4NzQ2NjEyLDE2NT
 A5NDEwOTUsLTU2NjMzMzY5OSwxODU2OTI3MDIwLDE5Nzg4MzEx
 NjksLTc3MjgxNDYsLTIwODg3NDY2MTIsLTE2OTk4OTc4MTAsLT
 IwODg3NDY2MTIsLTMyNTc3MTQ5MCwtMjIzOTU2NDQ5LDM0OTUw

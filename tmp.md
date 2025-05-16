@@ -17,7 +17,7 @@
 > 文革斗争社强调的所谓“思想斗争”融工路线实际上就是一种“推迟”与“取消”融工与社会主义革命的惯用说辞，强调要先进行虚无缥缈的“思想斗争”理论学习，再进行“思想斗争”融工，而后进行“政治灌输”的融工活动，本质就是在回避融工问题，完全忽视阶级斗争和路线斗争对思想的改造作用，完全忽视了群众能自发产生政治意识，完全忽视了通过人民战争武装夺取政权的中心任务。
 
 这完全是虚空创造的观点，下文中还有许多。
-我们的主张是支持并要求有条件的革命派到工人
+我们的主张是支持并要求加强理论学习：有条件的革命派到工人中去，没有。我们也从来是要求政治斗争的，
 
 无产阶级革命离不开深入的群众工作。毛主席教导：“要相信群众，依靠群众，一切为了群众，从群众中来，到群众中去。”而文革斗争社的群众路线实质上是对人民群众斗争的背叛。他们提出所谓的“个人融工”和“组织融工”口号，将革命群众视为改造对象而非主体，只要求青年“接受教育”、“提高理论水平”，却不组织群众进行阶级斗争或实际斗争。他们一方面假装团结群众，另一方面却制造分裂：先把倾向革命的群众打成右派、机会主义分子，然后以此为借口进行清洗，极力避免与群众的真正联合。这样的路线完全背离了革命群众工作的原则。正如恩格斯曾提醒我们的，革命政党的力量在于它与群众的联系。**列宁强调：无产阶级政党的力量来自紧密的群众基础，任何脱离群众的路线都是危险的机会主义。**我们必须粉碎这种把群众斗争窒息于改造“理论”的谬论，坚决依靠群众，培养革命的先进分子，弘扬群众运动的革命精神。在“思想斗争"背后隐藏着的，就是这样的脱离群众的本质与实际，毛主席形象地说明了党与群众的关系，指出了依靠群众的必要性，”不要脱离群众，我们跟群众的关系，就像鱼跟水的关系，游泳者跟水的关系一样。”，而文革斗争社却将其抛弃，以"思想斗争”之口号，掩饰其脱离群众的实质。
 
@@ -65,11 +65,11 @@
 
 无产阶级革命派联络中心核心小组在此向XMPP全体无产阶级革命派号召:团结在马列毛主义的伟大红旗下，揭批“两社”反革命修正主义小团体的右倾机会主义路线，粉碎资产阶级反动路线新反扑，把反击反革命逆流的斗争进行到底！
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzMDQ1MjMzMCwtMTczMDc3MjkzNCwtMj
-A4ODc0NjYxMiw2Nzk0NDAzNTIsNTI0NjA1MzUxLC0yMDg4NzQ2
-NjEyLDE2NTA5NDEwOTUsLTU2NjMzMzY5OSwxODU2OTI3MDIwLD
-E5Nzg4MzExNjksLTc3MjgxNDYsLTIwODg3NDY2MTIsLTE2OTk4
-OTc4MTAsLTIwODg3NDY2MTIsLTMyNTc3MTQ5MCwtMjIzOTU2ND
-Q5LDM0OTUwNzEyOSwtMzI1NzcxNDkwLDE1MDA5OTgxNDUsMjQ1
-MDAzMDM1XX0=
+eyJoaXN0b3J5IjpbLTEyNTE0MjQyMTMsLTE3MzA3NzI5MzQsLT
+IwODg3NDY2MTIsNjc5NDQwMzUyLDUyNDYwNTM1MSwtMjA4ODc0
+NjYxMiwxNjUwOTQxMDk1LC01NjYzMzM2OTksMTg1NjkyNzAyMC
+wxOTc4ODMxMTY5LC03NzI4MTQ2LC0yMDg4NzQ2NjEyLC0xNjk5
+ODk3ODEwLC0yMDg4NzQ2NjEyLC0zMjU3NzE0OTAsLTIyMzk1Nj
+Q0OSwzNDk1MDcxMjksLTMyNTc3MTQ5MCwxNTAwOTk4MTQ1LDI0
+NTAwMzAzNV19
 -->

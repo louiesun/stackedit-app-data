@@ -104,7 +104,8 @@ rc的问题是思想斗争还是疯狂打击？
 > 8）少-初
 “国际共运低潮”论的宣扬者，认为机会主义分子能主导革命派的决策；《决裂声明》的炮制者。在反动黑文《国际共运之低潮》中，这个人公然地宣称“在一个国家客观的阶级斗争形势十分激烈之后，作为无产阶级的先锋队的共产党如果没有一个十分正确的路线纲领，而依赖于无产阶级及其他被压迫人民的自发运动，这时候共产党就不能促成革命的到来，只能削弱革命，以至于扼杀革命。”按照马列毛主义的辩证法，一个政党是革命和反革命两条路线的对立统一，只有革命路线占主导地位的时候，它才能被称为革命政党，否则它就会是反革命的政党、修正主义的政党，自然也不会是什么“共产党”。为了否定我们这个论断，这个人还拿王明举例子，说王明路线统治时期中国共产党没有被称为机会主义的政党。但是，哪个路线占主导并不仅仅是看中央，而是要把政党作为一个整体来看，这样才能判断一个政党的性质。这个人还提出“贯彻了错误路线”，这是个什么说法呢？难不成一个共产党可以把反革命路线贯彻到底而保持自己的性质吗？可见这群反革命分子的头脑完全是混乱的，他们的这些谬论仅仅只是为了给反动的群众路线提供理论依据。
 
-现在印共毛等党派的
+现在印共毛等党派的武装斗争形式并没有上世纪中国俄国好，不是相对低潮吗？
+湘江一战中央红军十万锐减到三万，若是没有遵义会议毛主席，那中央红军完全可以因为左倾路线覆灭。这不是拖累革命进程吗？
 
 9)宫雨莲，即莫雪，是继续革命社搞禁欲主义和封建礼教的吹鼓手，自称自己是妇女，所以能代表所有无产阶级女性的利益，实际上搞的是资产阶级女权主义，是填充了封建礼教思想的政治正确。
 和红花烂漫一起的邪教组织成员，跟红花一道通过耍流氓方式抵赖对他们的揭露。
@@ -117,11 +118,11 @@ rc的问题是思想斗争还是疯狂打击？
 
 无产阶级革命派联络中心核心小组在此向XMPP全体无产阶级革命派号召:团结在马列毛主义的伟大红旗下，揭批“两社”反革命修正主义小团体的右倾机会主义路线，粉碎资产阶级反动路线新反扑，把反击反革命逆流的斗争进行到底！
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjI2NTc0MiwtMTczMDc3MjkzNCwtMj
-A4ODc0NjYxMiw2Nzk0NDAzNTIsNTI0NjA1MzUxLC0yMDg4NzQ2
-NjEyLDE2NTA5NDEwOTUsLTU2NjMzMzY5OSwxODU2OTI3MDIwLD
-E5Nzg4MzExNjksLTc3MjgxNDYsLTIwODg3NDY2MTIsLTE2OTk4
-OTc4MTAsLTIwODg3NDY2MTIsLTMyNTc3MTQ5MCwtMjIzOTU2ND
-Q5LDM0OTUwNzEyOSwtMzI1NzcxNDkwLDE1MDA5OTgxNDUsMjQ1
-MDAzMDM1XX0=
+eyJoaXN0b3J5IjpbLTEyMTQ0NTA4NTIsLTE3MzA3NzI5MzQsLT
+IwODg3NDY2MTIsNjc5NDQwMzUyLDUyNDYwNTM1MSwtMjA4ODc0
+NjYxMiwxNjUwOTQxMDk1LC01NjYzMzM2OTksMTg1NjkyNzAyMC
+wxOTc4ODMxMTY5LC03NzI4MTQ2LC0yMDg4NzQ2NjEyLC0xNjk5
+ODk3ODEwLC0yMDg4NzQ2NjEyLC0zMjU3NzE0OTAsLTIyMzk1Nj
+Q0OSwzNDk1MDcxMjksLTMyNTc3MTQ5MCwxNTAwOTk4MTQ1LDI0
+NTAwMzAzNV19
 -->

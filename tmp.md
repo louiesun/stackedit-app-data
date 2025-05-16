@@ -1,6 +1,11 @@
-两社，即文革斗争社和继续革命社。
-  他们那套是用马克思主义词句包装的封建礼教，把阶级斗争的科学分析学说矮化成了一套道德评价与行为规范，所以根本就不是马克思主义
-  强调你是属于什么什么人，所以你必须怎么怎么样，否则你就是什么什么，这种思想本质上是封建道德。哪怕是资本主义道德都不这么玩的，资本主义道德尚且还承认统治阶级允许的范围内被统治阶级具有一定人身自由。
+> 两社，即文革斗争社和继续革命社。
+> 他们那套是用马克思主义词句包装的封建礼教，把阶级斗争的科学分析学说矮化成了一套道德评价与行为规范，所以根本就不是马克思主义
+
+对于革命派不应该有行为规范吗？对于群众不应该有
+
+> 强调你是属于什么什么人，所以你必须怎么怎么样，否则你就是什么什么，这种思想本质上是封建道德。哪怕是资本主义道德都不这么玩的，资本主义道德尚且还承认统治阶级允许的范围内被统治阶级具有一定人身自由。
+
+
   阶级分析是科学理论是用来分析和揭露社会现象的，不能直接得出任何道德评价。而且本来对某事的研究和分析，和对某事的价值判断就是两回事，前者的内容是客观的，后者的内容是主观的，具有立场性。
 
 “思想斗争”融工路线是一条彻头彻尾的修正主义和机会主义路线。他们鼓吹先进行“思想斗争”后再进行融工，而“思想斗争”和“融工”的根本目的是“改造思想”和“坚定立场”。这里他们所谓的“思想斗争”和十月烽火-万里无云反革命修正主义集团的“思想斗争”大致一样但也略有不同。“思想斗争”否认思想斗争是政治斗争的反映，从而否认思想领域两条路线斗争的不可调和；同时，“思想斗争”把政治斗争、经济斗争、思想斗争这三大斗争形式割裂开来，虽然他们大讲特讲什么“自觉思想斗争”，但没有结合政治斗争、不是以引导经济斗争向政治斗争发展为目的的所谓“思想斗争”，都只能是服从于群众自发性的“思想斗争”。所谓的“思想斗争”融工路线，实际上是要在脱离阶级斗争和路线斗争的情况下，认为只要不脱离群众、不脱离社会实践就能“改造思想”“坚定立场”，这仍然是经验主义和实用主义的，是完全为他们的“思想斗争”所服务的。
@@ -53,11 +58,11 @@
 
 无产阶级革命派联络中心核心小组在此向XMPP全体无产阶级革命派号召:团结在马列毛主义的伟大红旗下，揭批“两社”反革命修正主义小团体的右倾机会主义路线，粉碎资产阶级反动路线新反扑，把反击反革命逆流的斗争进行到底！
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDQ3NjM3OTYsLTE3MzA3NzI5MzQsLT
-IwODg3NDY2MTIsNjc5NDQwMzUyLDUyNDYwNTM1MSwtMjA4ODc0
-NjYxMiwxNjUwOTQxMDk1LC01NjYzMzM2OTksMTg1NjkyNzAyMC
-wxOTc4ODMxMTY5LC03NzI4MTQ2LC0yMDg4NzQ2NjEyLC0xNjk5
-ODk3ODEwLC0yMDg4NzQ2NjEyLC0zMjU3NzE0OTAsLTIyMzk1Nj
-Q0OSwzNDk1MDcxMjksLTMyNTc3MTQ5MCwxNTAwOTk4MTQ1LDI0
-NTAwMzAzNV19
+eyJoaXN0b3J5IjpbLTQ3NDU3MzYzNiwtMTczMDc3MjkzNCwtMj
+A4ODc0NjYxMiw2Nzk0NDAzNTIsNTI0NjA1MzUxLC0yMDg4NzQ2
+NjEyLDE2NTA5NDEwOTUsLTU2NjMzMzY5OSwxODU2OTI3MDIwLD
+E5Nzg4MzExNjksLTc3MjgxNDYsLTIwODg3NDY2MTIsLTE2OTk4
+OTc4MTAsLTIwODg3NDY2MTIsLTMyNTc3MTQ5MCwtMjIzOTU2ND
+Q5LDM0OTUwNzEyOSwtMzI1NzcxNDkwLDE1MDA5OTgxNDUsMjQ1
+MDAzMDM1XX0=
 -->

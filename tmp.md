@@ -59,7 +59,16 @@ rc的问题是思想斗争还是疯狂打击？
 好
 
 > 3）徐薄古
-> 自称是前布站大群管理。最早混到文革斗争社的反动分子，现为工农解放社工联主义融工路线的拥趸，lkn的“亲密战友”。否认贡萨罗主席的普适性贡献，认为“法西斯主义的经济基础是统合主义”的结论不具有普遍性，只适用于半殖民地半封建社会。认为云深修正主义集团是“革命派”，且宣称文革斗争社里有他们的人。否认群众能自发产生革命的政治意识，认为无产阶级革命派的群众组织建设路线是“孟什维克融工路线”。疑似法西斯纪律《秘密讨论原则》的炮制者。
+
+我们并不认为此人并不是革命派，也开除了其不少管理权。
+> 自称是前布站大群管理。最早混到文革斗争社的反动分子，现为工农解放社工联主义融工路线的拥趸，lkn的“亲密战友”。否认贡萨罗主席的普适性贡献，认为“法西斯主义的经济基础是统合主义”的结论不具有普遍性，只适用于半殖民地半封建社会。认为云深修正主义集团是“革命派”，且宣称文革斗争社里有他们的人。
+
+待讨论
+
+> 否认群众能自发产生革命的政治意识，认为无产阶级革命派的群众组织建设路线是“孟什维克融工路线”。疑似法西斯纪律《秘密讨论原则》的炮制者。
+> 
+
+> 
   他在篡夺工农解放社管理权后，又被工解内部讨论决定撤出管理权限，25年三到五月堂而皇之地在伐修社和工解里，打着客观中立的立场，挑起不同立场的革命派对立，妨碍无产阶级革命派大团结，可谓如邓一般别有用心。
 
 4）lkn
@@ -90,11 +99,11 @@ rc的问题是思想斗争还是疯狂打击？
 
 无产阶级革命派联络中心核心小组在此向XMPP全体无产阶级革命派号召:团结在马列毛主义的伟大红旗下，揭批“两社”反革命修正主义小团体的右倾机会主义路线，粉碎资产阶级反动路线新反扑，把反击反革命逆流的斗争进行到底！
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjIxNjQyMjAsLTE3MzA3NzI5MzQsLT
-IwODg3NDY2MTIsNjc5NDQwMzUyLDUyNDYwNTM1MSwtMjA4ODc0
-NjYxMiwxNjUwOTQxMDk1LC01NjYzMzM2OTksMTg1NjkyNzAyMC
-wxOTc4ODMxMTY5LC03NzI4MTQ2LC0yMDg4NzQ2NjEyLC0xNjk5
-ODk3ODEwLC0yMDg4NzQ2NjEyLC0zMjU3NzE0OTAsLTIyMzk1Nj
-Q0OSwzNDk1MDcxMjksLTMyNTc3MTQ5MCwxNTAwOTk4MTQ1LDI0
-NTAwMzAzNV19
+eyJoaXN0b3J5IjpbODIxODQwNzU0LC0xNzMwNzcyOTM0LC0yMD
+g4NzQ2NjEyLDY3OTQ0MDM1Miw1MjQ2MDUzNTEsLTIwODg3NDY2
+MTIsMTY1MDk0MTA5NSwtNTY2MzMzNjk5LDE4NTY5MjcwMjAsMT
+k3ODgzMTE2OSwtNzcyODE0NiwtMjA4ODc0NjYxMiwtMTY5OTg5
+NzgxMCwtMjA4ODc0NjYxMiwtMzI1NzcxNDkwLC0yMjM5NTY0ND
+ksMzQ5NTA3MTI5LC0zMjU3NzE0OTAsMTUwMDk5ODE0NSwyNDUw
+MDMwMzVdfQ==
 -->

@@ -73,10 +73,14 @@ rc的问题是思想斗争还是疯狂打击？
 
 我不知道法西斯在哪里？像temp19等是有小组织的，我们封他了还是咋了？竹秦集团众人皆知，我们一开始封了吗？难道像birthday那样谎称自己和伐修社有合作借着革命组织名号招摇撞骗不是阴谋诡计吗？是可以容许的吗？
 
-他在篡夺工农解放社管理权后，又被工解内部讨论决定撤出管理权限，25年三到五月堂而皇之地在伐修社和工解里，打着客观中立的立场，挑起不同立场的革命派对立，妨碍无产阶级革命派大团结，可谓如邓一般别有用心。
+> 他在篡夺工农解放社管理权后，又被工解内部讨论决定撤出管理权限，25年三到五月堂而皇之地在伐修社和工解里，打着客观中立的立场，挑起不同立场的革命派对立，妨碍无产阶级革命派大团结，可谓如邓一般别有用心。
 
-4）lkn
+ 也许妨碍了牛鬼蛇神大团结，不过看来他失败了，你们成功进一窝了。
+
+> 4）lkn
 在文革斗争社还叫“哲史革命社”的时期就活跃的逆天人物，被徐薄古誉为“红色专家”。此人抛出“无产阶级革命软件运动”，猖狂地反对革命自由软件运动，认为可以搞“无产阶级专政的私有软件”。由于在资本主义下雇佣劳动产生的大多是作为商品的私有软件，于是lkn便认为，私有软件是“社会化大生产”，而自由软件是“小生产”，据此荒谬地得出私有软件取代自由软件是历史的必然。
+
+社会主义不是共产主义，一些关键技术还是要保留的，以防被反动派利用。不过目前我没
 
 5）向日葵
 疑似是从万里无云修正主义集团分裂出来的云深修正主义集团的主要成员，是最早混到文革斗争社的反动分子。认为“贡派”是“中国革命的中派”，工农解放社是“左派”。他也是“思想斗争”融工路线的提出者，认为要先搞“思想斗争”的个人融工再搞“政治灌输”的组织融工。
@@ -103,11 +107,11 @@ rc的问题是思想斗争还是疯狂打击？
 
 无产阶级革命派联络中心核心小组在此向XMPP全体无产阶级革命派号召:团结在马列毛主义的伟大红旗下，揭批“两社”反革命修正主义小团体的右倾机会主义路线，粉碎资产阶级反动路线新反扑，把反击反革命逆流的斗争进行到底！
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTYyNDI0MjAsLTE3MzA3NzI5MzQsLT
-IwODg3NDY2MTIsNjc5NDQwMzUyLDUyNDYwNTM1MSwtMjA4ODc0
-NjYxMiwxNjUwOTQxMDk1LC01NjYzMzM2OTksMTg1NjkyNzAyMC
-wxOTc4ODMxMTY5LC03NzI4MTQ2LC0yMDg4NzQ2NjEyLC0xNjk5
-ODk3ODEwLC0yMDg4NzQ2NjEyLC0zMjU3NzE0OTAsLTIyMzk1Nj
-Q0OSwzNDk1MDcxMjksLTMyNTc3MTQ5MCwxNTAwOTk4MTQ1LDI0
-NTAwMzAzNV19
+eyJoaXN0b3J5IjpbOTA5NDk1NjY1LC0xNzMwNzcyOTM0LC0yMD
+g4NzQ2NjEyLDY3OTQ0MDM1Miw1MjQ2MDUzNTEsLTIwODg3NDY2
+MTIsMTY1MDk0MTA5NSwtNTY2MzMzNjk5LDE4NTY5MjcwMjAsMT
+k3ODgzMTE2OSwtNzcyODE0NiwtMjA4ODc0NjYxMiwtMTY5OTg5
+NzgxMCwtMjA4ODc0NjYxMiwtMzI1NzcxNDkwLC0yMjM5NTY0ND
+ksMzQ5NTA3MTI5LC0zMjU3NzE0OTAsMTUwMDk5ODE0NSwyNDUw
+MDMwMzVdfQ==
 -->

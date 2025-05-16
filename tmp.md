@@ -47,10 +47,16 @@ rc的问题是思想斗争还是疯狂打击？
 
 > 2）山村新人
 文革斗争社的政治经济学“讲师”，是文革斗争社和继续革命社的二号“理论权威”。“帝国主义国家不能搞游击战”这一新奇说法的提出者。
-认为帝国主义国家法西斯主义的经济基础是帝国主义，而帝国主义就是官僚垄断资本主义。
-他公然违背马克思主义辩证法和矛盾观，忽视主次矛盾是可以互相转化的，兜售形而上学的错误论调。
 
 我们认为，山村同志原文为帝国主义国家不只有游击战，不知为何成了不能有。
+
+> 认为帝国主义国家法西斯主义的经济基础是帝国主义，而帝国主义就是官僚垄断资本主义。
+
+我对原文是否为此意怀疑。前者的经济基础是后者的经济基础加上一些别的特殊性，
+
+他公然违背马克思主义辩证法和矛盾观，忽视主次矛盾是可以互相转化的，兜售形而上学的错误论调。
+
+。
 
 
 3）徐薄古
@@ -85,11 +91,11 @@ rc的问题是思想斗争还是疯狂打击？
 
 无产阶级革命派联络中心核心小组在此向XMPP全体无产阶级革命派号召:团结在马列毛主义的伟大红旗下，揭批“两社”反革命修正主义小团体的右倾机会主义路线，粉碎资产阶级反动路线新反扑，把反击反革命逆流的斗争进行到底！
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDE4NzgxODYsLTE3MzA3NzI5MzQsLT
-IwODg3NDY2MTIsNjc5NDQwMzUyLDUyNDYwNTM1MSwtMjA4ODc0
-NjYxMiwxNjUwOTQxMDk1LC01NjYzMzM2OTksMTg1NjkyNzAyMC
-wxOTc4ODMxMTY5LC03NzI4MTQ2LC0yMDg4NzQ2NjEyLC0xNjk5
-ODk3ODEwLC0yMDg4NzQ2NjEyLC0zMjU3NzE0OTAsLTIyMzk1Nj
-Q0OSwzNDk1MDcxMjksLTMyNTc3MTQ5MCwxNTAwOTk4MTQ1LDI0
-NTAwMzAzNV19
+eyJoaXN0b3J5IjpbMzc3MzA4NTQzLC0xNzMwNzcyOTM0LC0yMD
+g4NzQ2NjEyLDY3OTQ0MDM1Miw1MjQ2MDUzNTEsLTIwODg3NDY2
+MTIsMTY1MDk0MTA5NSwtNTY2MzMzNjk5LDE4NTY5MjcwMjAsMT
+k3ODgzMTE2OSwtNzcyODE0NiwtMjA4ODc0NjYxMiwtMTY5OTg5
+NzgxMCwtMjA4ODc0NjYxMiwtMzI1NzcxNDkwLC0yMjM5NTY0ND
+ksMzQ5NTA3MTI5LC0zMjU3NzE0OTAsMTUwMDk5ODE0NSwyNDUw
+MDMwMzVdfQ==
 -->

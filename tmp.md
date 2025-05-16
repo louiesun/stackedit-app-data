@@ -65,9 +65,13 @@ rc的问题是思想斗争还是疯狂打击？
 
 待讨论
 
-> 否认群众能自发产生革命的政治意识，认为无产阶级革命派的群众组织建设路线是“孟什维克融工路线”。疑似法西斯纪律《秘密讨论原则》的炮制者。
+> 否认群众能自发产生革命的政治意识，认为无产阶级革命派的群众组织建设路线是“孟什维克融工路线”。疑似 （法西斯纪律《秘密讨论原则》的炮制者）。
 
-没有马克思主义的灌输，在资产阶级舆论机器的宣传下，安托西修有的是！在座各位就有。和自由主义，托洛茨基主义分子去融工，不是调和路线，资产阶级路线吗！
+断句是我加的，应该这么理解
+
+没有马克思主义的灌输，在资产阶级舆论机器的宣传下，安托西修有的是！在座各位就有。和自由主义，托洛茨基主义分子去融工，不是调和路线，资产阶级路线吗！这么干可是大大防止了第一句话的发生，毕竟群众接受了安托西修分子的融工宣传，更没有革命的政治意识了。
+
+我不知道法西斯在哪里？像temp19等是
 
   他在篡夺工农解放社管理权后，又被工解内部讨论决定撤出管理权限，25年三到五月堂而皇之地在伐修社和工解里，打着客观中立的立场，挑起不同立场的革命派对立，妨碍无产阶级革命派大团结，可谓如邓一般别有用心。
 
@@ -99,11 +103,11 @@ rc的问题是思想斗争还是疯狂打击？
 
 无产阶级革命派联络中心核心小组在此向XMPP全体无产阶级革命派号召:团结在马列毛主义的伟大红旗下，揭批“两社”反革命修正主义小团体的右倾机会主义路线，粉碎资产阶级反动路线新反扑，把反击反革命逆流的斗争进行到底！
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3OTU1NzI4LC0xNzMwNzcyOTM0LC0yMD
-g4NzQ2NjEyLDY3OTQ0MDM1Miw1MjQ2MDUzNTEsLTIwODg3NDY2
-MTIsMTY1MDk0MTA5NSwtNTY2MzMzNjk5LDE4NTY5MjcwMjAsMT
-k3ODgzMTE2OSwtNzcyODE0NiwtMjA4ODc0NjYxMiwtMTY5OTg5
-NzgxMCwtMjA4ODc0NjYxMiwtMzI1NzcxNDkwLC0yMjM5NTY0ND
-ksMzQ5NTA3MTI5LC0zMjU3NzE0OTAsMTUwMDk5ODE0NSwyNDUw
-MDMwMzVdfQ==
+eyJoaXN0b3J5IjpbLTY3NTM4MDkyNSwtMTczMDc3MjkzNCwtMj
+A4ODc0NjYxMiw2Nzk0NDAzNTIsNTI0NjA1MzUxLC0yMDg4NzQ2
+NjEyLDE2NTA5NDEwOTUsLTU2NjMzMzY5OSwxODU2OTI3MDIwLD
+E5Nzg4MzExNjksLTc3MjgxNDYsLTIwODg3NDY2MTIsLTE2OTk4
+OTc4MTAsLTIwODg3NDY2MTIsLTMyNTc3MTQ5MCwtMjIzOTU2ND
+Q5LDM0OTUwNzEyOSwtMzI1NzcxNDkwLDE1MDA5OTgxNDUsMjQ1
+MDAzMDM1XX0=
 -->

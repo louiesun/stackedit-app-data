@@ -71,9 +71,9 @@ rc的问题是思想斗争还是疯狂打击？
 
 没有马克思主义的灌输，在资产阶级舆论机器的宣传下，安托西修有的是！在座各位就有。和自由主义，托洛茨基主义分子去融工，不是调和路线，资产阶级路线吗！这么干可是大大防止了第一句话的发生，毕竟群众接受了安托西修分子的融工宣传，更没有革命的政治意识了。
 
-我不知道法西斯在哪里？像temp19等是
+我不知道法西斯在哪里？像temp19等是有小组织的，我们封他了还是咋了？竹秦集团众人皆知，我们一开始封了吗？难道像birthday那样谎称自己和伐修社有合作借着革命组织名号招摇撞骗不是阴谋诡计吗？是可以容许的吗？
 
-  他在篡夺工农解放社管理权后，又被工解内部讨论决定撤出管理权限，25年三到五月堂而皇之地在伐修社和工解里，打着客观中立的立场，挑起不同立场的革命派对立，妨碍无产阶级革命派大团结，可谓如邓一般别有用心。
+他在篡夺工农解放社管理权后，又被工解内部讨论决定撤出管理权限，25年三到五月堂而皇之地在伐修社和工解里，打着客观中立的立场，挑起不同立场的革命派对立，妨碍无产阶级革命派大团结，可谓如邓一般别有用心。
 
 4）lkn
 在文革斗争社还叫“哲史革命社”的时期就活跃的逆天人物，被徐薄古誉为“红色专家”。此人抛出“无产阶级革命软件运动”，猖狂地反对革命自由软件运动，认为可以搞“无产阶级专政的私有软件”。由于在资本主义下雇佣劳动产生的大多是作为商品的私有软件，于是lkn便认为，私有软件是“社会化大生产”，而自由软件是“小生产”，据此荒谬地得出私有软件取代自由软件是历史的必然。
@@ -103,11 +103,11 @@ rc的问题是思想斗争还是疯狂打击？
 
 无产阶级革命派联络中心核心小组在此向XMPP全体无产阶级革命派号召:团结在马列毛主义的伟大红旗下，揭批“两社”反革命修正主义小团体的右倾机会主义路线，粉碎资产阶级反动路线新反扑，把反击反革命逆流的斗争进行到底！
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3NTM4MDkyNSwtMTczMDc3MjkzNCwtMj
-A4ODc0NjYxMiw2Nzk0NDAzNTIsNTI0NjA1MzUxLC0yMDg4NzQ2
-NjEyLDE2NTA5NDEwOTUsLTU2NjMzMzY5OSwxODU2OTI3MDIwLD
-E5Nzg4MzExNjksLTc3MjgxNDYsLTIwODg3NDY2MTIsLTE2OTk4
-OTc4MTAsLTIwODg3NDY2MTIsLTMyNTc3MTQ5MCwtMjIzOTU2ND
-Q5LDM0OTUwNzEyOSwtMzI1NzcxNDkwLDE1MDA5OTgxNDUsMjQ1
-MDAzMDM1XX0=
+eyJoaXN0b3J5IjpbLTE4NTYyNDI0MjAsLTE3MzA3NzI5MzQsLT
+IwODg3NDY2MTIsNjc5NDQwMzUyLDUyNDYwNTM1MSwtMjA4ODc0
+NjYxMiwxNjUwOTQxMDk1LC01NjYzMzM2OTksMTg1NjkyNzAyMC
+wxOTc4ODMxMTY5LC03NzI4MTQ2LC0yMDg4NzQ2NjEyLC0xNjk5
+ODk3ODEwLC0yMDg4NzQ2NjEyLC0zMjU3NzE0OTAsLTIyMzk1Nj
+Q0OSwzNDk1MDcxMjksLTMyNTc3MTQ5MCwxNTAwOTk4MTQ1LDI0
+NTAwMzAzNV19
 -->

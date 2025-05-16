@@ -36,7 +36,7 @@
 > 1）红花
 > 即红花烂漫/红梅蜡花/红色的花，自称是前RC成员，但与RC主流路线存在分歧。右倾机会主义线上小团体“继续革命社”的创建者，右倾机会主义路线总头子，文革斗争社和继续革命社的头号“理论权威”。“个人融工-组织融工”论、“个人思想斗争-组织思想斗争”论的提出者和“思想斗争”理论学习路线的首倡者，机会主义地渲染组织融工的危险性，以此来鼓励左派个人融工，鼓吹个人融工是为了改造自己和工人的思想，淡化甚至否认个人融工当中的政治灌输，淡化由个人发展到组织融工的必然过程及方法，可谓一条右倾机会主义毒路线。他和他的拥趸认为RC是左倾机会主义、“新托洛茨基主义”，借此否认“思想斗争”修正主义的科学定义，为推行“思想斗争”融工路线提供便利。在反击反革命逆流的斗争中，他大搞诡辩、谩骂和强加罪名的反革命伎俩，无耻地污蔑革命派为“十月烽火的走狗”(其拥趸一唱一和，重新拾起了“山河派”的罪名)；他向万里无云修正主义集团学习，污蔑革命派的揭露文章是“党八股”；他还污蔑革命派的大联合是“和十月烽火合流”，真是反动透顶！
 
-开始难道不是个人融工吗？你和线上同志是相见钟情相约工厂吗？
+理论批判另立
 有些人的昵称是真的像啊。
 rc的问题是思想斗争还是疯狂打击？
 竹秦可以自己评判一下你们队友的文章。
@@ -45,9 +45,12 @@ rc的问题是思想斗争还是疯狂打击？
 
 见红花同志对于此刘少奇言论批判
 
-2）山村新人
-文革斗争社的政治经济学“讲师”，是文革斗争社和继续革命社的二号“理论权威”。“帝国主义国家不能搞游击战”这一新奇说法的提出者。认为帝国主义国家法西斯主义的经济基础是帝国主义，而帝国主义就是官僚垄断资本主义。
+> 2）山村新人
+文革斗争社的政治经济学“讲师”，是文革斗争社和继续革命社的二号“理论权威”。“帝国主义国家不能搞游击战”这一新奇说法的提出者。
+认为帝国主义国家法西斯主义的经济基础是帝国主义，而帝国主义就是官僚垄断资本主义。
 他公然违背马克思主义辩证法和矛盾观，忽视主次矛盾是可以互相转化的，兜售形而上学的错误论调。
+
+我们认为，山村同志原文为帝国主义国家不只有游击战，不知为何成了不能有。
 
 
 3）徐薄古
@@ -82,11 +85,11 @@ rc的问题是思想斗争还是疯狂打击？
 
 无产阶级革命派联络中心核心小组在此向XMPP全体无产阶级革命派号召:团结在马列毛主义的伟大红旗下，揭批“两社”反革命修正主义小团体的右倾机会主义路线，粉碎资产阶级反动路线新反扑，把反击反革命逆流的斗争进行到底！
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ5ODE0ODY5LC0xNzMwNzcyOTM0LC0yMD
-g4NzQ2NjEyLDY3OTQ0MDM1Miw1MjQ2MDUzNTEsLTIwODg3NDY2
-MTIsMTY1MDk0MTA5NSwtNTY2MzMzNjk5LDE4NTY5MjcwMjAsMT
-k3ODgzMTE2OSwtNzcyODE0NiwtMjA4ODc0NjYxMiwtMTY5OTg5
-NzgxMCwtMjA4ODc0NjYxMiwtMzI1NzcxNDkwLC0yMjM5NTY0ND
-ksMzQ5NTA3MTI5LC0zMjU3NzE0OTAsMTUwMDk5ODE0NSwyNDUw
-MDMwMzVdfQ==
+eyJoaXN0b3J5IjpbLTE1NDE4NzgxODYsLTE3MzA3NzI5MzQsLT
+IwODg3NDY2MTIsNjc5NDQwMzUyLDUyNDYwNTM1MSwtMjA4ODc0
+NjYxMiwxNjUwOTQxMDk1LC01NjYzMzM2OTksMTg1NjkyNzAyMC
+wxOTc4ODMxMTY5LC03NzI4MTQ2LC0yMDg4NzQ2NjEyLC0xNjk5
+ODk3ODEwLC0yMDg4NzQ2NjEyLC0zMjU3NzE0OTAsLTIyMzk1Nj
+Q0OSwzNDk1MDcxMjksLTMyNTc3MTQ5MCwxNTAwOTk4MTQ1LDI0
+NTAwMzAzNV19
 -->

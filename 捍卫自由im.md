@@ -8,9 +8,11 @@
 
 第二负责人为某些左圈的人，同样送上不学无术，肆意遐想，主观主义，不做调查，缺乏阅读理解能力。我认为，有些人不来XMPP我是庆幸的。
 
-## 大前提
+## 本文所成立之大前提
+
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDk5OTkwNjBdfQ==
+eyJoaXN0b3J5IjpbLTU1MzAzOTU5N119
 -->

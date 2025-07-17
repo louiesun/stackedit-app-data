@@ -13,11 +13,14 @@
 我们推荐使用XMPP作为自由安全的即时通讯软件，全因为：
 + 我们的目标是社会主义革命，实现共产主义，而不是键盘政治，图个好玩。
 
-接下来，我将为大家解释原文发生的一切：
+接下来，我将为大家介绍点网安大家，并顺带解释原文发生的一切，以及规避方法：
 
 ## 安装XMPP马上被警察找上们
 
+这件事情的前因是，涉事人加入了一个QQ群，这个QQ群中明文出现了大量XMPP字眼，最终他下载了XMPP。
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0Nzc5NTkyMSwtNTUzMDM5NTk3XX0=
+eyJoaXN0b3J5IjpbLTE0OTM5MjQ0NTUsLTU1MzAzOTU5N119
 -->

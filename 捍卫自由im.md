@@ -19,8 +19,9 @@
 
 这件事情的前因是，涉事人加入了一个QQ群，这个QQ群中明文出现了大量XMPP字眼，最终他下载了XMPP。
 
+**这里出现了第一个知识点**：一切墙内的平台，警察都可以随时监控。通常认为，机器会检测聊天中的关键词（各个平台略有 在这个案例中，已经可以明确，****）
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTM5MjQ0NTUsLTU1MzAzOTU5N119
+eyJoaXN0b3J5IjpbMTQ2ODA0NzIzOCwtNTUzMDM5NTk3XX0=
 -->

@@ -11,7 +11,13 @@
 ## 本文所成立之大前提
 
 我们推荐使用XMPP作为自由安全的即时通讯软件，全因为：
-+ 我们的目标是 
++ 我们的目标是社会主义革命，实现共产主义，而不是键盘政治，图个好玩。
+
+接下来，我将为大家解释原文发生的一切：
+
+## 安装XMPP马上被警察找上们
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjkwNjcyOSwtNTUzMDM5NTk3XX0=
+eyJoaXN0b3J5IjpbMTc0Nzc5NTkyMSwtNTUzMDM5NTk3XX0=
 -->

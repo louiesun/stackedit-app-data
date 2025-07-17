@@ -23,9 +23,9 @@
 
 当然，我承认不止这一种可能。第二个情况是应用检测。
 
-**第二个知识点**。
+**第二个知识点**。在国产安卓系统中，存在监控
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzA5MTcxNzksLTU1MzAzOTU5N119
+eyJoaXN0b3J5IjpbMjA5MzAxNTk3MCwtNTUzMDM5NTk3XX0=
 -->

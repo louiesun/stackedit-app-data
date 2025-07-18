@@ -29,11 +29,15 @@
 
 比如说：
 + 针对第一条问题，我们会使用privatebin这一种阅后即焚链接给你发送XMPP教程，期间不提及任何敏感词。如果你不使用系统或者QQ浏览器查看，一般不会有问题。另外，也不用担心qq主动打开链接，链接需要解密才能查看，否则是乱码。而解密一次，链接就不再可用，你会知道。另外，一般主动探测不加载js，不然我敢用腾讯服务器挖矿。
-+ 针对第二条问题。我们在宣传时可能考虑给你提供修改过包名的安装包。也可能会提供使用工作模式的安装方式等等，规避检测。另外，我们会提供XMPP网页客户端，与绝大多数XMPP服务器一样，都是免翻的。如果你的手机已经升到n'h
++ 针对第二条问题。我们在宣传时可能考虑给你提供修改过包名的安装包。也可能会提供使用工作模式的安装方式等等，规避检测。另外，我们会提供XMPP网页客户端，与绝大多数XMPP服务器一样，都是免翻的。如果你的手机已经升到鸿蒙NEXT这一流氓监控系统，也只能网页端。
+
+> **关于XMPP的各种东西**
+> XMPP是一个去中心化聊天协议。比如电子邮件其实有一个协议。
+> 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjM2MDYyNjgsODA0MjQ3Nzc5LDQxMj
-YzNzg4MiwtNTEzNTUxODQxLC01NjE2NDExMzYsLTU1MzAzOTU5
-N119
+eyJoaXN0b3J5IjpbMTk2MTg0Mjk4LDgwNDI0Nzc3OSw0MTI2Mz
+c4ODIsLTUxMzU1MTg0MSwtNTYxNjQxMTM2LC01NTMwMzk1OTdd
+fQ==
 -->

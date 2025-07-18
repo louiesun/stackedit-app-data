@@ -28,11 +28,12 @@
 **第三个知识点**。**警察的不确定性**。我们很难区分警察是不知道还是在钓鱼。毛主席讲，要在战略上轻视敌人，在战术上重视敌人。因此，战略上，我们要相信，中修不过是一支纸老虎。他的洋相也没有少出。然而，局部上，还是要尽可能做好的。另外，**革命不可能没有牺牲**，我们不能因噎废食，因为一点点风险，而就不敢使用XMPP等等。实际上，使用任何行为而绝对不被发现是不可能的。如果还想要利用互联网建立革命组织与个人线上的联系，必须要使用自由软件。XMPP是一个不错的选择。我们也会为各位提供尽可能安全的方式。
 
 比如说：
-+ 针对第一条问题，我们会使用privatebin这一种阅后即焚li
++ 针对第一条问题，我们会使用privatebin这一种阅后即焚链接给你发送XMPP教程，期间不提及任何敏感词。如果你不使用系统或者QQ浏览器查看，一般不会有问题。另外，也不用担心qq主动打开链接，链接需要解密才能查看，否则是乱码。而解密一次，链接就不再可用，你会知道。另外，一般主动探测不加载js，不然我敢用腾讯服务器挖矿。
++ 针对第二天
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5MzMwNjM4MCw4MDQyNDc3NzksNDEyNj
-M3ODgyLC01MTM1NTE4NDEsLTU2MTY0MTEzNiwtNTUzMDM5NTk3
-XX0=
+eyJoaXN0b3J5IjpbLTE5Nzg3NzIyODQsODA0MjQ3Nzc5LDQxMj
+YzNzg4MiwtNTEzNTUxODQxLC01NjE2NDExMzYsLTU1MzAzOTU5
+N119
 -->

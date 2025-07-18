@@ -36,13 +36,14 @@
 > 一个系统有服务器和客户端。XMPP有许多服务器，比如`conversations.im`，`draugr.de`等等。就好像电子邮件有`qq.com`，`163.com`，`gmail.com`
 > XMPP有许多不同的客户端，比如安卓端`conversations`，`Cheogram`，`Monocles`，IOS`Dino`，桌面端`Gajim`，网页端`Converse.js`，`XMPPweb`等等
 > 一个账户由用户名和服务器组成，和电子邮件地址类似。如XMPP地址`xijinpiing@conversations.im`，电子邮件`winnybear@outlook.com`，非常像对不对。
+> **特别的，我不知道XMPP有出名公开的国内服务器，涉事宣传者完全是在瞎扯。**
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwODY1NDIwNSw4MDQyNDc3NzksNDEyNj
-M3ODgyLC01MTM1NTE4NDEsLTU2MTY0MTEzNiwtNTUzMDM5NTk3
-XX0=
+eyJoaXN0b3J5IjpbLTEyNDg1MzA0MDQsODA0MjQ3Nzc5LDQxMj
+YzNzg4MiwtNTEzNTUxODQxLC01NjE2NDExMzYsLTU1MzAzOTU5
+N119
 -->

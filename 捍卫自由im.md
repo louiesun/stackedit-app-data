@@ -15,7 +15,7 @@
 
 接下来，我将为大家介绍点网安大家，并顺带解释原文发生的一切，以及规避方法：
 
-## 安装XMPP马上被警察找上们
+## 安装XMPP马上被警察找上们问题
 
 这件事情的前因是，涉事人加入了一个QQ群，这个QQ群中明文出现了大量XMPP字眼，最终他下载了XMPP。
 
@@ -42,13 +42,16 @@
 
 **第四个知识点。** **身份隔离**。我们反对在中修眼皮子底下光明正大闹革命，这显然是可笑的。身份隔离是为了让中修即使在xmpp公开群由间谍，也无法轻易地根据名字查到你是谁，并线下突击检查你。QQ的左翼多的是，一个一个查是不大可能的。我们在宣传的时候也不会在QQ平台问你你的xmpp号叫啥（会有安全措施，反正不在中修平台聊）。也不会在XMPP问你你墙内身份。
 
-> 不要小瞧身份隔离。通常认为著名自由派bian'c'su
+> 不要小瞧身份隔离。通常认为著名自由派编程随想被抓原因是一位早年注册了一个同样名字的豆瓣账号没有注销。导致警察因此查到了他的实名身份。
+> （注意这不是说注销有用。中修平台一般注销后不会马上给你删除信息，甚至会永久留档，所以不要指望着QQ号注销了就可以同名XMPP活动了）。
+
+
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2OTY1NjcyNywxNTYyODMxMjYxLC0xMj
-Q4NTMwNDA0LDgwNDI0Nzc3OSw0MTI2Mzc4ODIsLTUxMzU1MTg0
-MSwtNTYxNjQxMTM2LC01NTMwMzk1OTddfQ==
+eyJoaXN0b3J5IjpbMzUzMTAyMjc1LDE1NjI4MzEyNjEsLTEyND
+g1MzA0MDQsODA0MjQ3Nzc5LDQxMjYzNzg4MiwtNTEzNTUxODQx
+LC01NjE2NDExMzYsLTU1MzAzOTU5N119
 -->

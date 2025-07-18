@@ -40,13 +40,13 @@
 > 这个网络也不是由一个人或者一个组织维护。事实上，任何人都可参与。
 
 
-**第四个知识点。** **身份隔离**。
+**第四个知识点。** **身份隔离**。我们反对在中修眼皮子底下光明正大闹革命，这显然是可笑的。身份隔离是为了让中修即使在xmpp公开群由间谍，也无法轻易地根据名字查到你是谁，并线下突击检查你。QQ的左翼多的是，一个一个查是八大
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2MjgzMTI2MSwtMTI0ODUzMDQwNCw4MD
-QyNDc3NzksNDEyNjM3ODgyLC01MTM1NTE4NDEsLTU2MTY0MTEz
-NiwtNTUzMDM5NTk3XX0=
+eyJoaXN0b3J5IjpbNDI2NjI5MzcyLDE1NjI4MzEyNjEsLTEyND
+g1MzA0MDQsODA0MjQ3Nzc5LDQxMjYzNzg4MiwtNTEzNTUxODQx
+LC01NjE2NDExMzYsLTU1MzAzOTU5N119
 -->

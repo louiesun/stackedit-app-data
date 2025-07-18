@@ -53,9 +53,11 @@
 
 这个比喻只是为了解释为啥wireshark能获取内容，不准确。总之，作为现代互联网的基石，**不用质疑TLS协议**。**你的交流内容只有你，对方，服务器知道。**
 
-另外，
+另外，为了让服务器也不知道内容。XMPP还提供了端到端加密。使用OMEMO加密，可以使交流内容只被你和对方知道。
+
+更多细节，你来xmpp，就可以问。上面页证明了这份文件的炮制者也是**主观主义，不学无术**。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwMDk4NTA4LDE1NjI4MzEyNjEsLTEyND
-g1MzA0MDQsODA0MjQ3Nzc5LDQxMjYzNzg4MiwtNTEzNTUxODQx
-LC01NjE2NDExMzYsLTU1MzAzOTU5N119
+eyJoaXN0b3J5IjpbLTE2NDExMDc5MDYsMTU2MjgzMTI2MSwtMT
+I0ODUzMDQwNCw4MDQyNDc3NzksNDEyNjM3ODgyLC01MTM1NTE4
+NDEsLTU2MTY0MTEzNiwtNTUzMDM5NTk3XX0=
 -->

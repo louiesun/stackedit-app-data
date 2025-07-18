@@ -25,10 +25,10 @@
 
 **第二个知识点**。在国产安卓系统，也存在监控。Android与Windows不同。每一个应用都存在一个唯一标识符，叫做包名。比如，XMPP客户端Monocles Chat的包名就是`de.monocles.chat`。任何应用，包括系统，都很容易获取所有包名列表。另外，国产系统自带的安装器会进行检测。
 
-**第三个知识点**。警察的不确定性。我们很难区分警察是不知道还是在钓鱼。毛主席讲，要在战略上轻视敌人，在战术上重视敌人。因此，战略上，我们要相信，中修不过是一支纸老虎。我们也可以从辟谣
+**第三个知识点**。警察的不确定性。我们很难区分警察是不知道还是在钓鱼。毛主席讲，要在战略上轻视敌人，在战术上重视敌人。因此，战略上，我们要相信，中修不过是一支纸老虎。我们也可以从
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM1MDMyNzkxLDQxMjYzNzg4MiwtNTEzNT
-UxODQxLC01NjE2NDExMzYsLTU1MzAzOTU5N119
+eyJoaXN0b3J5IjpbLTk0MzA2MDQ4NSw0MTI2Mzc4ODIsLTUxMz
+U1MTg0MSwtNTYxNjQxMTM2LC01NTMwMzk1OTddfQ==
 -->

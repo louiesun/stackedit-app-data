@@ -55,9 +55,15 @@
 
 另外，为了让服务器也不知道内容。XMPP还提供了端到端加密。使用OMEMO加密，可以使交流内容只被你和对方知道。
 
-更多细节，你来xmpp，就可以问。上面页证明了这份文件的炮制者也是**主观主义，不学无术**。
+更多细节，你来xmpp，就可以问。上面也证明了这份文件的炮制者也是**主观主义，不学无术**。
+
+接下来所谓tor的漏洞：
+
+Tor至今还很活跃，许多黑产也依此进行，如果tor有问题，他们会不知道吗？
+
+接下来，所谓这个漏洞，shi'zh
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDExMDc5MDYsMTU2MjgzMTI2MSwtMT
-I0ODUzMDQwNCw4MDQyNDc3NzksNDEyNjM3ODgyLC01MTM1NTE4
-NDEsLTU2MTY0MTEzNiwtNTUzMDM5NTk3XX0=
+eyJoaXN0b3J5IjpbMzY0NTUyNjIxLDE1NjI4MzEyNjEsLTEyND
+g1MzA0MDQsODA0MjQ3Nzc5LDQxMjYzNzg4MiwtNTEzNTUxODQx
+LC01NjE2NDExMzYsLTU1MzAzOTU5N119
 -->

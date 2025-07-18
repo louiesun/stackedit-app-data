@@ -49,9 +49,9 @@
 
 首先文中说所谓TLS加密不安全，完全是扯淡。所谓HTTPS，就是HTTP+TLS。TLS协议是现代互联网的基石，保证了信息在未被主动提供情况下不会被除了客户端和服务器的第三方知晓。TLS加密可以认为是绝对安全的，在正确配置下不会出现泄漏问题。
 
-但是文中所说wireshark是咋回事呢？其实Wireshark也是担当了中间人角色（你可以理解为邮差）。所谓TLS加密，类似一个信封
+但是文中所说wireshark是咋回事呢？其实Wireshark也是担当了中间人角色（你可以理解为邮差）。TLS加密后的信息，类似一个信封中的信件。如果邮差要尝试获取内容，就必须要拆开信封，但是要正常送达，jiu'bi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDM0MzU1NDEsMTU2MjgzMTI2MSwtMT
+eyJoaXN0b3J5IjpbLTE4ODAyMzgxNDQsMTU2MjgzMTI2MSwtMT
 I0ODUzMDQwNCw4MDQyNDc3NzksNDEyNjM3ODgyLC01MTM1NTE4
 NDEsLTU2MTY0MTEzNiwtNTUzMDM5NTk3XX0=
 -->

@@ -32,12 +32,13 @@
 + 针对第二条问题。我们在宣传时可能考虑给你提供修改过包名的安装包。也可能会提供使用工作模式的安装方式等等，规避检测。另外，我们会提供XMPP网页客户端，与绝大多数XMPP服务器一样，都是免翻的。如果你的手机已经升到鸿蒙NEXT这一流氓监控系统，也只能网页端。
 
 > **关于XMPP的各种东西**
-> XMPP是一个去中心化聊天协议。比如电子邮件其实有一个协议。
-> 一个系统有服务器和客户端。XMPP有许多服务器，比如`conversations.im`，`draugr.de`等等。就好像电子邮件有`qq.com`
+> XMPP是一个去中心化聊天协议。比如电子邮件其实有一个协议。XMPP也可以代指使用这个协议交流的去中心化网络系统。
+> 一个系统有服务器和客户端。XMPP有许多服务器，比如`conversations.im`，`draugr.de`等等。就好像电子邮件有`qq.com`，`163.com`，`gmail.com`
+> XMPP有许多不同的客户端，比如安卓端`conversations`，`Cheogram`，`Monocles`，IOS`Dino`，桌面端`Gajim`，网页端`Conve`
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTUzNDk0NzIxLDgwNDI0Nzc3OSw0MTI2Mz
-c4ODIsLTUxMzU1MTg0MSwtNTYxNjQxMTM2LC01NTMwMzk1OTdd
-fQ==
+eyJoaXN0b3J5IjpbLTk3MjAwMDkwMyw4MDQyNDc3NzksNDEyNj
+M3ODgyLC01MTM1NTE4NDEsLTU2MTY0MTEzNiwtNTUzMDM5NTk3
+XX0=
 -->

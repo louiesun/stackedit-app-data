@@ -25,8 +25,10 @@
 
 **第二个知识点**。在国产安卓系统，也存在监控。Android与Windows不同。每一个应用都存在一个唯一标识符，叫做包名。比如，XMPP客户端Monocles Chat的包名就是`de.monocles.chat`。任何应用，包括系统，都很容易获取所有包名列表。另外，国产系统自带的安装器会进行检测。
 
+**第三个知识点**。
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxMzU1MTg0MSwtNTYxNjQxMTM2LC01NT
-MwMzk1OTddfQ==
+eyJoaXN0b3J5IjpbNDEyNjM3ODgyLC01MTM1NTE4NDEsLTU2MT
+Y0MTEzNiwtNTUzMDM5NTk3XX0=
 -->

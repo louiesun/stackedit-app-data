@@ -63,11 +63,11 @@ Tor至今还很活跃，许多黑产也依此进行，如果tor有问题，他�
 
 首先，你通过tor通信的内容都是TLS加密的，节点也不知道你访问的内容。
 
-接下来，所谓这个漏洞，是指，当攻击者拥有控制tor网络2/3的节点，可以有88%的纪律同时知道你访问的网站和你的IP。**知道了又咋样呢？**而且，tor网络目前有700多台服务器
+接下来，所谓这个漏洞，是指，当攻击者拥有控制tor网络2/3的节点，可以有88%的纪律同时知道你访问的网站和你的IP。**知道了又咋样呢？**而且，tor网络目前有700多台服务器，多由志愿者运行，哪怕FBI唯一的一次所谓公婆
 
-<font color="red">***欢迎来XMPP***</fon
+<center><font color="red" size="5em"><bold>欢迎来XMPP</bold></font></center>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODE4MjQ3NDcsMTU2MjgzMTI2MSwtMT
-I0ODUzMDQwNCw4MDQyNDc3NzksNDEyNjM3ODgyLC01MTM1NTE4
-NDEsLTU2MTY0MTEzNiwtNTUzMDM5NTk3XX0=
+eyJoaXN0b3J5IjpbLTg0MTE2MjQwNywxNTYyODMxMjYxLC0xMj
+Q4NTMwNDA0LDgwNDI0Nzc3OSw0MTI2Mzc4ODIsLTUxMzU1MTg0
+MSwtNTYxNjQxMTM2LC01NTMwMzk1OTddfQ==
 -->

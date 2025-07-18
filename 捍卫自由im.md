@@ -45,13 +45,11 @@
 > 不要小瞧身份隔离。通常认为著名自由派编程随想被抓原因是一位早年注册了一个同样名字的豆瓣账号没有注销。导致警察因此查到了他的实名身份。
 > （注意这不是说注销有用。中修平台一般注销后不会马上给你删除信息，甚至会永久留档，所以不要指望着QQ号注销了就可以同名XMPP活动了）。
 
+## 关于XMPP安全性的扯淡
 
-
-
-
-
+首先文中说所谓TLS加密不安全，完全是扯淡。所谓HTTPS，就是HTTP+TLS。TLS协议是现代互联网的基石，保证了信息在未被主动提供情况下不会被除了客户端和服务器的第三方知晓。TLS加密可以认为是jue'd
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzUzMTAyMjc1LDE1NjI4MzEyNjEsLTEyND
-g1MzA0MDQsODA0MjQ3Nzc5LDQxMjYzNzg4MiwtNTEzNTUxODQx
-LC01NjE2NDExMzYsLTU1MzAzOTU5N119
+eyJoaXN0b3J5IjpbLTEyNjkxODUxOTUsMTU2MjgzMTI2MSwtMT
+I0ODUzMDQwNCw4MDQyNDc3NzksNDEyNjM3ODgyLC01MTM1NTE4
+NDEsLTU2MTY0MTEzNiwtNTUzMDM5NTk3XX0=
 -->

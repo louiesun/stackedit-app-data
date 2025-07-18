@@ -34,11 +34,15 @@
 > **关于XMPP的各种东西**
 > XMPP是一个去中心化聊天协议。比如电子邮件其实有一个协议。XMPP也可以代指使用这个协议交流的去中心化网络系统。
 > 一个系统有服务器和客户端。XMPP有许多服务器，比如`conversations.im`，`draugr.de`等等。就好像电子邮件有`qq.com`，`163.com`，`gmail.com`
-> XMPP有许多不同的客户端，比如安卓端`conversations`，`Cheogram`，`Monocles`，IOS`Dino`，桌面端`Gajim`，网页端`Conve`
+> XMPP有许多不同的客户端，比如安卓端`conversations`，`Cheogram`，`Monocles`，IOS`Dino`，桌面端`Gajim`，网页端`Converse.js`，`XMPPweb`等等
+> 一个账户由用户名和服务器组成，和电子邮件地址类似。如XMPP地址`xijinpiing@conversations.im`，电子邮件`winnybear@outlook.com`，非常像对不对。
+
+
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3MjAwMDkwMyw4MDQyNDc3NzksNDEyNj
+eyJoaXN0b3J5IjpbLTMwODY1NDIwNSw4MDQyNDc3NzksNDEyNj
 M3ODgyLC01MTM1NTE4NDEsLTU2MTY0MTEzNiwtNTUzMDM5NTk3
 XX0=
 -->

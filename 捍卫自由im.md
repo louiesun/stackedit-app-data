@@ -33,11 +33,11 @@
 
 > **关于XMPP的各种东西**
 > XMPP是一个去中心化聊天协议。比如电子邮件其实有一个协议。
-> 
+> 一个系统有服务器和客户端。XMPP有许多服务器，比如`conversations.im`，`draugr.de`等等。就好像电子邮件有`qq.com`
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2MTg0Mjk4LDgwNDI0Nzc3OSw0MTI2Mz
+eyJoaXN0b3J5IjpbNTUzNDk0NzIxLDgwNDI0Nzc3OSw0MTI2Mz
 c4ODIsLTUxMzU1MTg0MSwtNTYxNjQxMTM2LC01NTMwMzk1OTdd
 fQ==
 -->

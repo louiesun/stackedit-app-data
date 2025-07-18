@@ -37,14 +37,16 @@
 > XMPP有许多不同的客户端，比如安卓端`conversations`，`Cheogram`，`Monocles`，IOS`Dino`，桌面端`Gajim`，网页端`Converse.js`，`XMPPweb`等等
 > 一个账户由用户名和服务器组成，和电子邮件地址类似。如XMPP地址`xijinpiing@conversations.im`，电子邮件`winnybear@outlook.com`，非常像对不对。
 > **特别的，我不知道XMPP有出名公开的国内服务器，涉事宣传者完全是在瞎扯。**
-> ton
+> 这个网络也不是由一个人或者一个组织维护。事实上，任何人都可参与。
 
+
+**第四个知识点。** **身份隔离**。
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Mzc1MjgzNzksLTEyNDg1MzA0MDQsOD
-A0MjQ3Nzc5LDQxMjYzNzg4MiwtNTEzNTUxODQxLC01NjE2NDEx
-MzYsLTU1MzAzOTU5N119
+eyJoaXN0b3J5IjpbMTU2MjgzMTI2MSwtMTI0ODUzMDQwNCw4MD
+QyNDc3NzksNDEyNjM3ODgyLC01MTM1NTE4NDEsLTU2MTY0MTEz
+NiwtNTUzMDM5NTk3XX0=
 -->
